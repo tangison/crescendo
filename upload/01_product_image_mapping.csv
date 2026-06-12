@@ -1,0 +1,229 @@
+source_zip,file_path_in_zip,suggested_product_slug_or_category,confidence,action,notes
+boya-...zip,Ibanez ICLS6HT_52_01_A_en_1.png,guitars-ibanez-classical,medium,convert_webp+bg_remove,Ibanez classical guitar - match by SKU code to existing product
+boya-...zip,Ibanez ICLS6NT_52_01_A_en_1.png,guitars-ibanez-classical,medium,convert_webp+bg_remove,Variant finish of above
+boya-...zip,Ibanez_IEGS61_52_01_A_en_1.png,guitars-ibanez-electric,medium,convert_webp+bg_remove,Match by Ibanez SKU prefix
+boya-...zip,Ibanez_IEGS62_52_01_A_en_1.png,guitars-ibanez-electric,medium,convert_webp+bg_remove,Variant of above
+boya-...zip,Ibanez_IEGS6_52_01_A_en_1.png,guitars-ibanez-electric,medium,convert_webp+bg_remove,Base model
+boya-...zip,cort-grs-ga1e-opsb-acoustic-guitar-gal-2.jpg,guitars-cort-acoustic,high,convert_webp+bg_remove,Filename clearly Cort acoustic
+boya-...zip,cort-standard-ad810-ssb-acoustic-guitar-gal-1.jpg,guitars-cort-acoustic,high,convert_webp+bg_remove,Filename clearly Cort acoustic
+boya-...zip,Cort-CM150B-150-Watt-Bass-Guitar-Amplifier.jpg,accessories-amplifiers,high,convert_webp+bg_remove,Bass amp - Accessories/Pro Audio
+boya-...zip,Cort-CM150B-150-Watt-Bass-Guitar-Amplifier-hero-1.jpg,accessories-amplifiers,high,convert_webp+bg_remove,Alt angle of above
+boya-...zip,GCVIOLIN44-1.png,violins-strings,high,convert_webp+bg_remove,Generic 4/4 violin - match to violin product
+boya-...zip,GCVIOLIN44-2.png,violins-strings,high,convert_webp+bg_remove,Alt angle of above
+kawai-...zip,Mason Violin.webp,violins-strings,high,bg_remove_if_needed,Already webp - just verify bg and rename
+kawai-...zip,AL-2044-Violin_.webp,violins-strings,high,bg_remove_if_needed,Already webp violin product image
+kawai-...zip,44-449154_model-artisan-student-violin-outfit-amatis-100-violin.png,violins-strings,medium,convert_webp+bg_remove,Generic stock violin (PNGCDN style) - verify rights before use
+kawai-...zip,311-3117940_acoustic-piano-kawai-grand-piano-gx2.png,keyboards-pianos-kawai-grand,medium,convert_webp+bg_remove,Stock image - verify against actual stocked Kawai model
+kawai-...zip,2019_UICT10_BK_2Y_01.webp,keyboards-pianos,medium,bg_remove_if_needed,Digital piano - model code UICT10, match to product
+kawai-...zip,2022_UICT10_CA_2Y_05.webp,keyboards-pianos,medium,bg_remove_if_needed,Color variant of UICT10
+kawai-...zip,2022_UICT10_MGS_2Y_05.webp,keyboards-pianos,medium,bg_remove_if_needed,Color variant of UICT10
+kawai-...zip,2022_UICT10_MM_2Y_05.webp,keyboards-pianos,medium,bg_remove_if_needed,Color variant of UICT10
+kawai-...zip,Hammer88Pro_Angle-Right_Transparent.png,keyboards-pianos,high,convert_webp,Already transparent bg - just convert format
+boya-...zip,Korg-EK-50-back.png,keyboards-pianos-korg,high,convert_webp+bg_remove,Korg EK-50 keyboard
+boya-...zip,Korg-EK-50-back-close.png,keyboards-pianos-korg,high,convert_webp+bg_remove,Close-up variant
+boya-...zip,Keysation49.png,keyboards-pianos-midi,high,convert_webp+bg_remove,M-Audio Keystation 49 MIDI keyboard
+boya-...zip,Medeli GP510.jpg,keyboards-pianos-medeli,high,convert_webp+bg_remove,Medeli GP510 digital piano
+kawai-...zip,Alesis_Concert_88-Key-Digital-Piano-scaled.jpg,keyboards-pianos-alesis,high,convert_webp+bg_remove,Alesis Concert digital piano
+kawai-...zip,Alesis_Concert_Digital-Piano-with-music-rest-scaled.jpg,keyboards-pianos-alesis,high,convert_webp+bg_remove,With music rest accessory
+ninja-...zip,TD-17KV2KIT-1.png,drums-roland-td17,high,convert_webp+bg_remove,Roland TD-17KV2 electronic drum kit
+kawai-...zip,TD-17KV2KIT-2.png,drums-roland-td17,high,convert_webp+bg_remove,Alt angle of above
+boya-...zip,Vicfirth.png,drums-accessories-sticks,high,convert_webp+bg_remove,Vic Firth drumsticks - accessories
+boya-...zip,Sticks.png,drums-accessories-sticks,medium,convert_webp+bg_remove,Generic sticks - verify brand
+ninja-...zip,Stagg Sticks.jpg,drums-accessories-sticks,high,convert_webp+bg_remove,Stagg drumsticks
+ninja-...zip,Stagg Sticks 2.jpg,drums-accessories-sticks,high,convert_webp+bg_remove,Alt angle
+boya-...zip,Stagg Sticks 1.jpg,drums-accessories-sticks,high,convert_webp+bg_remove,Alt angle
+ninja-...zip,Yamaha Custom Birch Kit.jpg,drums-yamaha-acoustic,high,convert_webp+bg_remove,Yamaha acoustic drum kit
+boya-...zip,Remo Coloured Skins.png,drums-accessories-heads,high,convert_webp+bg_remove,Remo drum heads
+boya-...zip,Remo Green Skins.png,drums-accessories-heads,high,convert_webp+bg_remove,Remo drum heads variant
+ninja-...zip,Sonata-Student-Clarinet-Bb-Clarinet-with-Case.jpg,wind-instruments-clarinet,high,convert_webp+bg_remove,Sonata Bb Clarinet
+ninja-...zip,Sonata-Student-Clarinet-Bb-Clarinet-with-Case-2.jpg,wind-instruments-clarinet,high,convert_webp+bg_remove,Alt angle
+kawai-...zip,458-4588914_yanagisawa-wo-1-e-flat-alto-saxophone.png,wind-instruments-saxophone,medium,convert_webp+bg_remove,Yanagisawa alto sax - verify stock match
+boya-...zip,Sonata Flute Silver.jpg,wind-instruments-flute,high,convert_webp+bg_remove,Sonata silver flute
+ninja-...zip,Tuba 4 valve.jpeg,wind-instruments-tuba,high,convert_webp+bg_remove,4-valve tuba
+kawai-...zip,Alto Saxophone strap.jpg,accessories-wind,high,convert_webp+bg_remove,Sax strap accessory
+boya-...zip,Rode-Lavalier-GO-Professional-grade-Wearable-Microphone.jpg,pro-audio-rode-mics,high,convert_webp+bg_remove,Rode Lavalier GO mic
+boya-...zip,rode-nt1-black-back.jpg,pro-audio-rode-mics,high,convert_webp+bg_remove,Rode NT1 black
+ninja-...zip,rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.jpg,pro-audio-rode-mics,high,convert_webp+bg_remove,Rode NT1 with shock mount
+ninja-...zip,Rode-NT1-02.jpg,pro-audio-rode-mics,high,convert_webp+bg_remove,Alt angle Rode NT1
+ninja-...zip,rode-rode-x-streamer-x-rear.jpg,pro-audio-rode-streamerx,high,convert_webp+bg_remove,Rode Streamer X
+kawai-...zip,67.1-RODELINK-FILMMAKER-KIT-Rode-FILMMAKER-RX-TX-WIRELESS-KIT-LAVALIER-MIC.jpg,pro-audio-rode-wireless,high,convert_webp+bg_remove,Rode Filmmaker Kit
+kawai-...zip,0008587_rode-sm6-shock-mount-with-detachable-pop-filter.jpeg,pro-audio-rode-sm6,high,convert_webp+bg_remove,"This is the SM6 shock mount - the .tmp zip was corrupted, but this exact file exists here intact"
+boya-...zip,boya-by-wm4-pro-k1-digital-wireless-microphone-front_3000x.webp,pro-audio-boya-wm4pro,high,bg_remove_if_needed,Boya WM4 Pro wireless mic kit - already webp
+boya-...zip,irig mic.webp,pro-audio-irig,high,bg_remove_if_needed,iRig Mic - already webp
+boya-...zip,irig mic bundle.webp,pro-audio-irig,high,bg_remove_if_needed,iRig Mic bundle - already webp
+ninja-...zip,Shure Beta-58A_Front.jpg,pro-audio-shure-mics,high,convert_webp+bg_remove,Shure Beta 58A
+ninja-...zip,Shure Beta-87A_Front(4).jpg,pro-audio-shure-mics,high,convert_webp+bg_remove,Shure Beta 87A
+ninja-...zip,Shure KSM8_Nickel Wired_on White_HR(1).jpg,pro-audio-shure-mics,high,convert_webp+bg_remove,Shure KSM8 nickel
+ninja-...zip,Shure PGA27_LR(1).jpg,pro-audio-shure-mics,high,convert_webp+bg_remove,Shure PGA27
+boya-...zip,Shure KSM32_CG_no background.jpg,pro-audio-shure-mics,high,convert_webp,No bg removal needed - already isolated
+boya-...zip,Shure PGA58_HR(1).jpg,pro-audio-shure-mics,high,convert_webp+bg_remove,Shure PGA58
+boya-...zip,Shure SE215BT.jpg,pro-audio-shure-earphones,high,convert_webp+bg_remove,Shure SE215BT earphones
+boya-...zip,Shure SM58_HR copy.jpg,pro-audio-shure-mics,high,convert_webp+bg_remove,Shure SM58 - classic vocal mic
+boya-...zip,Shure SM7B_RK345_Left_Profile__V2.jpg,pro-audio-shure-mics,high,convert_webp+bg_remove,Shure SM7B
+boya-...zip,SE215CLEFS-2.png,pro-audio-shure-earphones,medium,convert_webp+bg_remove,Likely Shure SE215 case/accessory
+ninja-...zip,vasmblink500-b2_b_1.jpg,pro-audio-vasm-wireless,high,convert_webp+bg_remove,VASM Blink 500 wireless mic
+ninja-...zip,vasmblink500-b2_d_1.jpg,pro-audio-vasm-wireless,high,convert_webp+bg_remove,Alt angle
+boya-...zip,vasmblink500-b2_a_1.jpg,pro-audio-vasm-wireless,high,convert_webp+bg_remove,Alt angle
+boya-...zip,vasmblink500-b2_z5_2.jpg,pro-audio-vasm-wireless,high,convert_webp+bg_remove,Alt angle
+ninja-...zip,vasmwitalk-wt6s_a.jpg,pro-audio-vasm-intercom,high,convert_webp+bg_remove,VASM WiTalk WT6S
+ninja-...zip,vasmwitalk-wt6s_b.jpg,pro-audio-vasm-intercom,high,convert_webp+bg_remove,Alt angle
+ninja-...zip,vasmwitalk-wt6s_e.jpg,pro-audio-vasm-intercom,high,convert_webp+bg_remove,Alt angle
+ninja-...zip,vasmwitalk-wt6s_h.jpg,pro-audio-vasm-intercom,high,convert_webp+bg_remove,Alt angle
+ninja-...zip,vasmwitalk-wt6s_i.jpg,pro-audio-vasm-intercom,high,convert_webp+bg_remove,Alt angle
+ninja-...zip,vasmwitalk-wt6s_v.jpg,pro-audio-vasm-intercom,high,convert_webp+bg_remove,Alt angle
+ninja-...zip,vasmwitalk-wt6s_x7.jpg,pro-audio-vasm-intercom,high,convert_webp+bg_remove,Alt angle
+boya-...zip,vasmwitalk-wt6s_d.jpg,pro-audio-vasm-intercom,high,convert_webp+bg_remove,Alt angle
+boya-...zip,vasmwitalk-wt6s_g.jpg,pro-audio-vasm-intercom,high,convert_webp+bg_remove,Alt angle
+boya-...zip,vasmwitalk-wt6s_x3.jpg,pro-audio-vasm-intercom,high,convert_webp+bg_remove,Alt angle
+ninja-...zip,td71.jpg,pro-audio-takstar-headphones,medium,convert_webp+bg_remove,Takstar TD71 headphones (verify code)
+boya-...zip,td72.jpg,pro-audio-takstar-headphones,medium,convert_webp+bg_remove,Takstar TD72
+boya-...zip,td73.jpg,pro-audio-takstar-headphones,medium,convert_webp+bg_remove,Takstar TD73
+boya-...zip,td74.jpg,pro-audio-takstar-headphones,medium,convert_webp+bg_remove,Takstar TD74
+ninja-...zip,ts4-series.jpg,pro-audio-speakers,medium,convert_webp+bg_remove,Speaker series - verify model
+kawai-...zip,TS415-1.png,pro-audio-speakers-ts415,high,convert_webp+bg_remove,Speaker model TS415
+kawai-...zip,TS415-3.png,pro-audio-speakers-ts415,high,convert_webp+bg_remove,Alt angle
+ninja-...zip,TS415.png,pro-audio-speakers-ts415,high,convert_webp+bg_remove,Alt angle
+ninja-...zip,TS415-2.png,pro-audio-speakers-ts415,high,convert_webp+bg_remove,Alt angle
+ninja-...zip,TS18_34_D1-web1.jpg,pro-audio-speakers,medium,convert_webp+bg_remove,Verify speaker model code
+ninja-...zip,TS408-Wedge-WEB.jpg,pro-audio-speakers-wedge,high,convert_webp+bg_remove,Stage monitor wedge speaker
+ninja-...zip,TX310_angle_web.jpg,pro-audio-speakers-tx,medium,convert_webp+bg_remove,Verify model code TX310
+ninja-...zip,TX310_angle_web-440x352.jpg,pro-audio-speakers-tx,low,skip,Lower-res duplicate of above - skip
+ninja-...zip,TX312_angle_web-440x352.jpg,pro-audio-speakers-tx,medium,convert_webp+bg_remove,Verify model code TX312
+ninja-...zip,TX312_back_web.jpg,pro-audio-speakers-tx,medium,convert_webp+bg_remove,Rear angle
+boya-...zip,JBL_Eon700_Versatility_1140x620.jpg,pro-audio-jbl-eon,high,convert_webp+bg_remove,JBL Eon700 speaker
+kawai-...zip,07._JBL_EON715_Rear_Straight_original.png,pro-audio-jbl-eon,high,convert_webp+bg_remove,JBL Eon715 rear
+boya-...zip,Q_0037_QSC_K10.2_front_400x.jpg,pro-audio-qsc-k-series,high,convert_webp+bg_remove,QSC K10.2 speaker front
+ninja-...zip,Q_0038_QSC_K10.2_rear_400x.jpg,pro-audio-qsc-k-series,high,convert_webp+bg_remove,QSC K10.2 speaker rear
+boya-...zip,New QSC.png,pro-audio-qsc-other,medium,convert_webp+bg_remove,Identify exact QSC model
+boya-...zip,MERCURY-P15.2-SUB-BACK-1.jpg,pro-audio-mercury-sub,high,convert_webp+bg_remove,Mercury P15.2 subwoofer
+boya-...zip,Mercury-15.2-W-Stands-System.jpeg,pro-audio-mercury-sub,high,convert_webp+bg_remove,Mercury system with stands
+boya-...zip,wharfedale-line-array.png,pro-audio-wharfedale,high,convert_webp+bg_remove,Wharfedale line array
+kawai-...zip,Allen-_-Heath-ZED-16FX-MIXER.jpg,pro-audio-mixers,high,convert_webp+bg_remove,Allen & Heath ZED-16FX mixer
+kawai-...zip,Alto-LIVE1604-MIXER.jpg,pro-audio-mixers,high,convert_webp+bg_remove,Alto Live 1604 mixer
+boya-...zip,X2004BT-USB-8-Mono-and-2-Stereo-Channel-Mixer-Top.jpg,pro-audio-mixers,high,convert_webp+bg_remove,X2004BT USB mixer
+kawai-...zip,Behringer-WING-48-channel-Digital-Mixer-Black2.webp,pro-audio-behringer-wing,high,bg_remove_if_needed,Behringer Wing digital mixer
+kawai-...zip,Behringer-WING-48-channel-Digital-Mixer-Black3.webp,pro-audio-behringer-wing,high,bg_remove_if_needed,Alt angle
+kawai-...zip,Behringer-WING-48-channel-Digital-Mixer-Black4.webp,pro-audio-behringer-wing,high,bg_remove_if_needed,Alt angle
+kawai-...zip,Behringer-WING-48-channel-Digital-Mixer-Black5.webp,pro-audio-behringer-wing,high,bg_remove_if_needed,Alt angle
+kawai-...zip,BEHDR115DSP-1.png,pro-audio-behringer-dr115,high,convert_webp+bg_remove,Behringer DR115 DSP speaker
+kawai-...zip,BEHDR115DSP-2.png,pro-audio-behringer-dr115,high,convert_webp+bg_remove,Alt angle
+kawai-...zip,BEHDR115DSP-3.png,pro-audio-behringer-dr115,high,convert_webp+bg_remove,Alt angle
+kawai-...zip,BEHDR115DSP-4.png,pro-audio-behringer-dr115,high,convert_webp+bg_remove,Alt angle
+boya-...zip,2i2gen4-2.png,pro-audio-focusrite-scarlett,medium,convert_webp+bg_remove,Likely Focusrite Scarlett 2i2 gen4 - verify
+ninja-...zip,SCARLETTSTUDIOV4-1.png,pro-audio-focusrite-scarlett,high,convert_webp+bg_remove,Focusrite Scarlett Studio V4
+ninja-...zip,SLMAR16C-1.png,pro-audio-interface,medium,convert_webp+bg_remove,Verify model code
+boya-...zip,GCVIOLIN44-1.png,violins-strings,duplicate,skip,Already mapped above - duplicate entry
+ninja-...zip,Power dynamic Mics.jpg,pro-audio-dynamic-mics,medium,convert_webp+bg_remove,Generic dynamic mic group shot
+ninja-...zip,Sig-10-overhead-2_vert_medium.jpg,pro-audio-drum-mics,medium,convert_webp+bg_remove,Drum mic kit (Sig-10 series)
+ninja-...zip,Zhiyun Smooth-Q3 Gimbal Stabilizer ? for Smartphone.jpg,accessories-camera-gimbal,high,convert_webp+bg_remove,Zhiyun Smooth Q3 gimbal - accessories
+ninja-...zip,powerworks-mx2406bt-u.jpg,pro-audio-powerworks-mixer,high,convert_webp+bg_remove,PowerWorks MX2406BT mixer
+ninja-...zip,powerworks-mx3206bt-u.jpg,pro-audio-powerworks-mixer,high,convert_webp+bg_remove,PowerWorks MX3206BT mixer
+ninja-...zip,power-works-artemis-12pm.jpg,pro-audio-powerworks-speaker,high,convert_webp+bg_remove,PowerWorks Artemis 12PM powered speaker
+ninja-...zip,powerworks-pwp2b-15a.jpeg,pro-audio-powerworks-speaker,high,convert_webp+bg_remove,PowerWorks PWP2B-15A
+ninja-...zip,Stagg-Headbanger-MK3-LED-Wash-70w-Moving-Head-light_image1.webp,accessories-stage-lighting,high,bg_remove_if_needed,Stagg LED wash light - already webp
+kawai-...zip,290-2909878_led-fresnel-spot-studio-light-200w-fresnel-lens.png,accessories-studio-lighting,medium,convert_webp+bg_remove,Studio Fresnel light - verify stock
+kawai-...zip,620-6202852_ib500-bi-color-led-studio-light-ikan-ibk2115.png,accessories-studio-lighting,medium,convert_webp+bg_remove,Ikan IB500 bi-color light - verify stock
+kawai-...zip,794-7942889_photo-booth-flash-transparent-background-studio-lights-png.png,accessories-studio-lighting,low,skip,Generic stock illustration - likely not a real stocked item
+boya-...zip,Godox MS300 2 Light Studio Flash Kit.PNG,accessories-studio-lighting,high,convert_webp+bg_remove,Godox MS300 flash kit
+boya-...zip,Vivitek-NovoConnect-NC-X500-big-thumbnail-1100x1100-1.png,accessories-presentation,high,convert_webp+bg_remove,Vivitek NovoConnect display
+boya-...zip,Vivitek-NovoDisplay-DK653-Port-Description.jpg,accessories-presentation,medium,convert_webp+bg_remove,Port diagram - check if useful as product image or spec image
+boya-...zip,Vivitek-NovoDisplay_DK863_Front.jpg,accessories-presentation,high,convert_webp+bg_remove,Vivitek NovoDisplay DK863
+boya-...zip,Vivitek_NovoDisplay-DK-Series_Digital-signage-952x952-1.jpg,accessories-presentation,medium,convert_webp+bg_remove,Series lifestyle image
+ninja-...zip,Vivitek-NovoDisplay_DKxx3_All.jpg,accessories-presentation,medium,convert_webp+bg_remove,Series group shot
+ninja-...zip,Vivitek_NovoDisplay-DK-Series_Business-presentation-952x952-1.jpg,accessories-presentation,low,skip,Lifestyle/marketing image not product shot
+kawai-...zip,639512339-vvk_novo_x500_front-2.jpg,accessories-presentation,medium,convert_webp+bg_remove,Possible duplicate of NovoConnect X500 - dedupe vs NC-X500
+ninja-...zip,XDJ-RX3_prm_angle_210830_pc.png,pro-audio-pioneer-dj,high,convert_webp+bg_remove,Pioneer XDJ-RX3
+ninja-...zip,XDJ-XZ_prm_angle.png,pro-audio-pioneer-dj,high,convert_webp+bg_remove,Pioneer XDJ-XZ
+boya-...zip,xdj-rr-angle.png,pro-audio-pioneer-dj,high,convert_webp+bg_remove,Pioneer XDJ-RR
+boya-...zip,cdj-2000nxs2-angle.png,pro-audio-pioneer-dj,high,convert_webp+bg_remove,Pioneer CDJ-2000NXS2
+boya-...zip,ddj-1000-angle.png,pro-audio-pioneer-dj,high,convert_webp+bg_remove,Pioneer DDJ-1000
+boya-...zip,ddj-1000-front-angle.png,pro-audio-pioneer-dj,high,convert_webp+bg_remove,Alt angle
+boya-...zip,djm-750mk2-angle-nn.jpg,pro-audio-pioneer-dj,high,convert_webp+bg_remove,Pioneer DJM-750MK2
+boya-...zip,djm-900nxs2-angle.png,pro-audio-pioneer-dj,high,convert_webp+bg_remove,Pioneer DJM-900NXS2
+boya-...zip,DDJ-400_CGI_angle_1792x1316.jpg,pro-audio-pioneer-dj,high,convert_webp+bg_remove,Pioneer DDJ-400
+boya-...zip,XDJ-1000MK2_CGI_Angle_Lot6_PC_1792x1316.png,pro-audio-pioneer-dj,high,convert_webp+bg_remove,Pioneer XDJ-1000MK2
+boya-...zip,XDJ-1000MK2_CGI_Angle_Lot6_PC_1792x1316 (1).png,pro-audio-pioneer-dj,duplicate,skip,Exact duplicate of above
+boya-...zip,SX600_004_423b6a368026770b624f5de21acf5f07.png,pro-audio-behringer-eurolive,medium,convert_webp+bg_remove,Behringer SX600 - verify model
+boya-...zip,SX900_001_59a810f1f94116c6fce22ac50c5dee4e.png,pro-audio-behringer-eurolive,medium,convert_webp+bg_remove,Behringer SX900
+boya-...zip,Q802USB_P0ALM_Top_XL.png,pro-audio-alto-mixer,medium,convert_webp+bg_remove,Alto Q802USB mixer - verify
+boya-...zip,IBB541_BE_46_01_A_en_1.png,pro-audio-behringer,medium,convert_webp+bg_remove,Behringer IBB541 - verify model
+boya-...zip,Image_BE_0718-AAO_PROTON_Top_XL.png,pro-audio-behringer-proton,medium,convert_webp+bg_remove,Behringer Proton series
+boya-...zip,BE_0403-AAW_DH80_Front1_XL.png,pro-audio-behringer-dh80,medium,convert_webp+bg_remove,Behringer DH80 headphones
+boya-...zip,NEUTRON_Top_XL.png,pro-audio-neutron,medium,convert_webp+bg_remove,Synth/module - verify brand+model
+boya-...zip,Apollo-15.png,pro-audio-apollo,low,skip,Unclear product - verify before using
+boya-...zip,HOT DEALS! EX20.png,homepage-promo-banner,medium,convert_webp,Promotional banner graphic, not a product image - use for homepage promo section if still relevant
+boya-...zip,e-x20_top_main.jpg,keyboards-roland-e-series,high,convert_webp+bg_remove,Roland E-X20 arranger keyboard
+boya-...zip,ROLAND-E-X20-ARRANGER-KEYBOARD.jpg,keyboards-roland-e-series,high,convert_webp+bg_remove,Alt angle
+boya-...zip,e-x50_top.png,keyboards-roland-e-series,high,convert_webp+bg_remove,Roland E-X50 arranger keyboard
+boya-...zip,fantom_x8_angle_gal.jpg,keyboards-roland-fantom,high,convert_webp+bg_remove,Roland Fantom X8
+boya-...zip,fantom_x8_top_gal.jpg,keyboards-roland-fantom,high,convert_webp+bg_remove,Alt angle
+boya-...zip,fantomx8_rear_gal.jpg,keyboards-roland-fantom,high,convert_webp+bg_remove,Rear angle
+boya-...zip,E-X10-1-1.jpg,keyboards-roland-e-series,high,convert_webp+bg_remove,Roland E-X10
+boya-...zip,HartkeHD15BASS_COMBO_AMPLIFIER_15W_6.jpg,accessories-amplifiers-hartke,high,convert_webp+bg_remove,Hartke HD15 bass combo amp
+boya-...zip,HD25HHARTKEHD25_BASS_COMBO6.jpg,accessories-amplifiers-hartke,high,convert_webp+bg_remove,Hartke HD25 bass combo amp
+boya-...zip,PW-PM-1-Headphone-Amplifier-Top-Rear-Left-.jpg,accessories-headphone-amp,high,convert_webp+bg_remove,PW PM-1 headphone amplifier
+boya-...zip,MAudio SIABP.jpg,accessories-midi-interface,medium,convert_webp+bg_remove,M-Audio interface - verify exact model
+kawai-...zip,2i2gen4-2.png,duplicate,duplicate,skip,Already mapped to Focusrite Scarlett above
+boya-...zip,Microphone Stand.png,accessories-stands,high,convert_webp+bg_remove,Generic mic stand accessory
+boya-...zip,Keyboard Stand.png,accessories-stands,high,convert_webp+bg_remove,Generic keyboard stand accessory
+boya-...zip,Guitar Strap.jpg,accessories-guitar,high,convert_webp+bg_remove,Guitar strap accessory
+boya-...zip,Guitar bag Stagg.jpg,accessories-guitar,high,convert_webp+bg_remove,Stagg guitar gig bag
+boya-...zip,Drums.jpg,drums-accessories,low,skip,Generic/ambiguous - check before use
+boya-...zip,Mic Mute (1).jpg,accessories-mic-mute,high,convert_webp+bg_remove,Mic mute button accessory
+boya-...zip,Mic Mute (2).jpg,accessories-mic-mute,duplicate,skip,Duplicate angle - pick best of the 4
+boya-...zip,Mic Mute (3).jpg,accessories-mic-mute,duplicate,skip,Duplicate angle - pick best of the 4
+boya-...zip,Mic Mute (4).jpg,accessories-mic-mute,duplicate,skip,Duplicate angle - pick best of the 4
+boya-...zip,Projector Screen 2.jpg,accessories-presentation-screens,high,convert_webp+bg_remove,Projector screen
+boya-...zip,Projector Screen 3.jpg,accessories-presentation-screens,duplicate,skip,Alt angle - pick best of set
+boya-...zip,Projector Screen 4.jpg,accessories-presentation-screens,duplicate,skip,Alt angle - pick best of set
+boya-...zip,Canon Handle Unit HDU-4 For CANON XA60B.jpg,accessories-camera,medium,convert_webp+bg_remove,Canon camera handle unit
+boya-...zip,Canon d250.PNG,accessories-camera,medium,convert_webp+bg_remove,Canon D250 - verify model exists
+boya-...zip,Jenova bag CAMERA.jpg,accessories-camera,high,convert_webp+bg_remove,Jenova camera bag
+ninja-...zip,dji-mini-3-pro-standard-controller.jpg,accessories-camera-drone,high,convert_webp+bg_remove,DJI Mini 3 Pro drone
+ninja-...zip,dji-mini-3-pro-standard-controller-1.jpg,accessories-camera-drone,duplicate,skip,Pick best of 4 angles
+ninja-...zip,dji-mini-3-pro-standard-controller-2.jpg,accessories-camera-drone,duplicate,skip,Pick best of 4 angles
+ninja-...zip,dji-mini-3-pro-standard-controller-3.jpg,accessories-camera-drone,duplicate,skip,Pick best of 4 angles
+ninja-...zip,3-36044_photo-camera-png-hd-video-camera-png.png,accessories-camera,low,skip,Generic stock camera illustration - likely not a real stocked item
+ninja-...zip,L8-1.webp,accessories-camera-lights,medium,bg_remove_if_needed,Verify model code L8
+ninja-...zip,L8-2.webp,accessories-camera-lights,duplicate,skip,Alt angle
+ninja-...zip,SAXALH-1.webp,wind-instruments-accessories,medium,bg_remove_if_needed,Saxophone accessory - verify exact item
+ninja-...zip,NEK100.jpg,accessories-other,medium,convert_webp+bg_remove,Verify NEK100 model
+ninja-...zip,NEK100 2.jpg,accessories-other,duplicate,skip,Alt angle
+ninja-...zip,NEK100 3.jpg,accessories-other,duplicate,skip,Alt angle
+ninja-...zip,X2004BT-USB-8-Mono-and-2-Stereo-Channel-Mixer-Top.jpg,duplicate,duplicate,skip,Already mapped above
+ninja-...zip,Vivitek-NovoDisplay-DK653-Port-Description.jpg,duplicate,duplicate,skip,Already mapped above
+boya-...zip,T1804BT-U--600x600.jpg,pro-audio-mixer-takstar,medium,convert_webp+bg_remove,Takstar T1804BT mixer
+boya-...zip,XD80USB.jpg,pro-audio-mixer-takstar,medium,convert_webp+bg_remove,Takstar XD80USB mixer
+boya-...zip,247-2479680_chenda-chenda-musical-instrument.png,world-instruments,low,skip,Niche/possibly unused stock instrument - confirm relevance
+boya-...zip,252-2529105_kendang-kendang-southeast-asian-music-instruments.png,world-instruments,low,skip,Niche/possibly unused stock instrument - confirm relevance
+boya-...zip,952546FI_1-510x510.png,unclear,low,skip,Unidentifiable - manually review
+boya-...zip,963-9634334_all-in-one-hd-av-mixer-with-built.png,unclear,low,skip,Generic stock AV mixer illustration - confirm relevance
+boya-...zip,AliExpress 1.PNG,unclear,low,skip,Likely a sourcing screenshot - exclude from site
+boya-...zip,AKG.jpg,pro-audio-akg,low,skip,Too generic - identify specific AKG product before use
+boya-...zip,ALTO-TX_SERIES-DETAIL_A_web.jpg,pro-audio-alto-tx,medium,convert_webp+bg_remove,Alto TX series detail shot
+ninja-...zip,Power dynamic Mics.jpg,duplicate,duplicate,skip,Already mapped above
+kawai-...zip,42968.jpg,unclear,low,skip,Numeric SKU only - cross-reference against pricelist xlsx for product name
+kawai-...zip,42968-1.jpg,unclear,duplicate,skip,Alt angle of above - resolve SKU first
+kawai-...zip,42968-4.jpg,unclear,duplicate,skip,Alt angle of above
+kawai-...zip,42968-5.jpg,unclear,duplicate,skip,Alt angle of above
+kawai-...zip,952546FI_1-510x510.png,duplicate,duplicate,skip,Already listed above
+kawai-...zip,0251802303_fen_ins_frt_1_rr.jpg,unclear,low,skip,Numeric SKU - cross-reference pricelist
+kawai-...zip,247-2479680_chenda-chenda-musical-instrument.png,duplicate,duplicate,skip,Already listed
+kawai-...zip,252-2529105_kendang-kendang-southeast-asian-music-instruments.png,duplicate,duplicate,skip,Already listed
+boya-...zip,favpng_ffea3e0a064941223096f1bb21a862f9.png,unclear,low,skip,FavPNG watermark source - likely copyrighted stock, do not use
+boya-...zip,tape-it-2inch-black-48x50m-product-image-60-degti4850bg-1.png,accessories-cables-tape,high,convert_webp+bg_remove,Gaffer tape product
+boya-...zip,tape-it-2inch-white-48x50m-product-image-ti4850wg-1.webp,accessories-cables-tape,high,bg_remove_if_needed,White gaffer tape - already webp
+ninja-...zip,PS Midnight.png,unrelated-gaming,no,skip,PlayStation related - not a music store product, exclude
+ninja-...zip,PS5 digital version 10233471.png,unrelated-gaming,no,skip,PlayStation 5 - not a music store product, exclude
+ninja-...zip,pen_STAR_bubinga_2021.png,unclear,low,skip,Bubinga pen - unrelated to instruments unless it's a branded gift item, confirm
+ninja-...zip,NINJA-ULTRA-HERO.jpg,homepage-hero,medium,convert_webp,Possible homepage hero banner - review content before using
+ninja-...zip,Nux NPK20.webp,accessories-cables-nux,high,bg_remove_if_needed,NUX NPK20 patch cable/power kit - already webp
+boya-...zip,Crescendo flyer.png,marketing-flyer,low,skip,Internal marketing flyer - not a product image
+boya-...zip,Fab TV.PNG,unclear,no,skip,Likely unrelated screenshot - exclude
+boya-...zip,Sir Isaacs LAPTOP.PNG,unclear,no,skip,Likely unrelated screenshot/branding - exclude
+boya-...zip,Notation_musicale_crescendo.svg,branding-misc,low,review,SVG asset - check if used in branding/footer alongside signature images
+boya-...zip,crescendo logo.png,branding-logo,high,convert_webp,Crescendo logo - candidate for footer/header alongside signature images
+boya-...zip,Rode Special.png,promo-banner,low,skip,Promo graphic - review relevance
+kawai-...zip,Book an artist hero (1).jpg,book-an-artist-page,high,convert_webp,"NEW PAGE: hero image 1 for new 'Book an Artist' page"
+kawai-...zip,Book an artist hero (2).jpg,book-an-artist-page,high,convert_webp,"NEW PAGE: hero image 2 for new 'Book an Artist' page"
+kawai-...zip,Book an artist hero (3).jpg,book-an-artist-page,high,convert_webp,"NEW PAGE: hero image 3 for new 'Book an Artist' page (use as rotating hero / carousel)"

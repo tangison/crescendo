@@ -1,0 +1,6 @@
+source_zip,file_path_in_zip,destination,action,notes
+Crescendo_signature.zip,1.png,footer,convert_webp,Footer signature/logo image 1 - place in site footer
+Crescendo_signature.zip,2.png,footer,convert_webp,Footer signature/logo image 2 - place in site footer
+311-3117940...zip (kawai),Book an artist hero (1).jpg,new-page:/book-an-artist,convert_webp,"NEW PAGE: 'Book an Artist' - hero slide 1. Page should let users book a musician/teacher for lessons or events via WhatsApp, mirroring the WhatsApp-first commerce model"
+311-3117940...zip (kawai),Book an artist hero (2).jpg,new-page:/book-an-artist,convert_webp,"NEW PAGE: 'Book an Artist' - hero slide 2 (use in hero carousel/Marquee component)"
+311-3117940...zip (kawai),Book an artist hero (3).jpg,new-page:/book-an-artist,convert_webp,"NEW PAGE: 'Book an Artist' - hero slide 3"
