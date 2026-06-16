@@ -45,16 +45,16 @@ export function Footer() {
           ============================ */}
       <div className="border-b border-white/10">
         <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-10">
-          <div className="flex items-center justify-between mb-5">
+          <div className="flex items-start sm:items-center justify-between mb-5 gap-3">
             <div>
               <p className="text-[10px] font-semibold tracking-[0.3em] uppercase text-brand-accent mb-1">
                 Browse by Category
               </p>
-              <h3 className="text-lg sm:text-xl font-bold tracking-tight">Find Your Sound</h3>
+              <h3 className="text-base sm:text-xl font-bold tracking-tight">Find Your Sound</h3>
             </div>
             <Link
               href="/shop"
-              className="text-xs font-medium tracking-wide uppercase text-white/60 hover:text-brand-accent transition-colors"
+              className="shrink-0 text-[10px] sm:text-xs font-medium tracking-wide uppercase text-white/60 hover:text-brand-accent transition-colors"
             >
               View All →
             </Link>
@@ -101,18 +101,18 @@ export function Footer() {
           Desktop: 3-column grid
           ============================ */}
       <div className="border-b border-white/10">
-        <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-10">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 sm:gap-10">
+        <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 py-10 sm:py-12">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-10 md:gap-8">
 
             {/* Brand + Quick Links */}
-            <div className="space-y-4">
+            <div className="space-y-5">
               <Link href="/" className="inline-flex" aria-label="Crescendo home">
                 <BrandLogo variant="light" />
               </Link>
               <p className="text-sm text-white/60 leading-relaxed max-w-xs">
                 Namibia&apos;s premier music store. Instruments, pro audio, accessories, and expert advice for every musician since 2009.
               </p>
-              <nav className="flex flex-wrap gap-x-5 gap-y-2">
+              <nav className="flex flex-wrap gap-x-5 gap-y-2.5">
                 <Link href="/" className="text-xs tracking-wide uppercase text-white/60 hover:text-brand-accent transition-colors">Home</Link>
                 <Link href="/shop" className="text-xs tracking-wide uppercase text-white/60 hover:text-brand-accent transition-colors">Shop</Link>
                 <Link href="/book-an-artist" className="text-xs tracking-wide uppercase text-white/60 hover:text-brand-accent transition-colors">Book an Artist</Link>
@@ -122,11 +122,11 @@ export function Footer() {
             </div>
 
             {/* Contact */}
-            <div className="space-y-4">
+            <div className="space-y-5">
               <p className="text-[10px] font-semibold tracking-[0.3em] uppercase text-brand-accent">
                 Get in Touch
               </p>
-              <div className="space-y-3">
+              <div className="space-y-3.5">
                 <a
                   href={waUrl}
                   target="_blank"
@@ -178,7 +178,7 @@ export function Footer() {
             </div>
 
             {/* Trust Indicators */}
-            <div className="space-y-4">
+            <div className="space-y-5">
               <p className="text-[10px] font-semibold tracking-[0.3em] uppercase text-brand-accent">
                 Why Crescendo
               </p>

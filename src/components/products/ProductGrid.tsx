@@ -26,8 +26,8 @@ const CATEGORY_PILLS = [
 ];
 
 const SORT_OPTIONS: { value: SortOption; label: string }[] = [
-  { value: 'name-asc', label: 'A–Z' },
-  { value: 'name-desc', label: 'Z–A' },
+  { value: 'name-asc', label: 'A-Z' },
+  { value: 'name-desc', label: 'Z-A' },
   { value: 'price-asc', label: 'Price ↑' },
   { value: 'price-desc', label: 'Price ↓' },
 ];

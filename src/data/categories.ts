@@ -11,14 +11,14 @@ export const categories: Category[] = [
   {
     slug: "accessories",
     name: "Accessories",
-    description: "Essential gear and add-ons for every musician — from cables and stands to cases and maintenance tools.",
+    description: "Essential gear and add-ons for every musician - from cables and stands to cases and maintenance tools.",
     productCount: 630,
     image: "/products/accessories/mic-stand.webp",
   },
   {
     slug: "wind",
     name: "Wind and Brass",
-    description: "Brass and woodwind instruments — trumpets, saxophones, clarinets, flutes, and more.",
+    description: "Brass and woodwind instruments - trumpets, saxophones, clarinets, flutes, and more.",
     productCount: 282,
     image: "/products/wind/sonata-flute-silver.webp",
   },

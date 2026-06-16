@@ -1,5 +1,5 @@
 // Auto-generated from crescendo-products-clean.csv
-// Images mapped from available product photography — NO background removal applied
+// Images mapped from available product photography - NO background removal applied
 
 export interface Product {
   id: string;
@@ -1069,7 +1069,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Professional",
     image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
-    shortDescription: "Acoustic guitar with solid construction and balanced tone — perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
+    shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
     id: "CGHD100CEOPN",
@@ -1081,7 +1081,7 @@ export const products: Product[] = [
     qty: 12,
     skillLevel: "Intermediate",
     image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
-    shortDescription: "Acoustic guitar with solid construction and balanced tone — perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "CGHD100OPN",
@@ -1093,7 +1093,7 @@ export const products: Product[] = [
     qty: 11,
     skillLevel: "Intermediate",
     image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
-    shortDescription: "Acoustic guitar with solid construction and balanced tone — perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "CGHD250CEN",
@@ -1117,7 +1117,7 @@ export const products: Product[] = [
     qty: 12,
     skillLevel: "Intermediate",
     image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
-    shortDescription: "Acoustic guitar with solid construction and balanced tone — perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "CGHG100OPN",
@@ -1129,7 +1129,7 @@ export const products: Product[] = [
     qty: 11,
     skillLevel: "Intermediate",
     image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
-    shortDescription: "Acoustic guitar with solid construction and balanced tone — perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "CGNOBLEVTGEDIT",
@@ -1153,7 +1153,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Professional",
     image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
-    shortDescription: "Acoustic guitar with solid construction and balanced tone — perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
+    shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
     id: "CGSTGG22CEPRO",
@@ -1165,7 +1165,7 @@ export const products: Product[] = [
     qty: 13,
     skillLevel: "Professional",
     image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
-    shortDescription: "Acoustic guitar with solid construction and balanced tone — perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
+    shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
     id: "CGSTGG28CEPRO",
@@ -1177,7 +1177,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Professional",
     image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
-    shortDescription: "Acoustic guitar with solid construction and balanced tone — perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
+    shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
     id: "CGTE6MHBR",
@@ -1189,7 +1189,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Professional",
     image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
-    shortDescription: "Acoustic guitar with solid construction and balanced tone — perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
+    shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
     id: "CGTPBST",
@@ -1213,7 +1213,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Professional",
     image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
-    shortDescription: "Acoustic guitar with solid construction and balanced tone — perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
+    shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
     id: "CGVLG28CEPRO",
@@ -1225,7 +1225,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Professional",
     image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
-    shortDescription: "Acoustic guitar with solid construction and balanced tone — perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
+    shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
     id: "CGVLG28CEVSPRO",
@@ -1237,7 +1237,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Professional",
     image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
-    shortDescription: "Acoustic guitar with solid construction and balanced tone — perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
+    shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
     id: "CS263H",
@@ -1309,7 +1309,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "SAGAB116FC",
@@ -1333,7 +1333,7 @@ export const products: Product[] = [
     qty: 3,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "SAGVP6114",
@@ -1345,7 +1345,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "SAGVP6118",
@@ -1357,7 +1357,7 @@ export const products: Product[] = [
     qty: 8,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "SAGVP61C",
@@ -1381,7 +1381,7 @@ export const products: Product[] = [
     qty: 131,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "SAGVP70KS",
@@ -1393,7 +1393,7 @@ export const products: Product[] = [
     qty: 24,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "DM1008",
@@ -1609,7 +1609,7 @@ export const products: Product[] = [
     qty: 26,
     skillLevel: "Beginner",
     image: "/products/drums/dixon-star-bubinga.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Dixon delivers quality you can rely on. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Dixon delivers quality you can rely on. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "PAKE266-HP",
@@ -4261,7 +4261,7 @@ export const products: Product[] = [
     qty: 7,
     skillLevel: "Beginner",
     image: "/products/accessories/stagg-guitar-bag.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "GBEUKESOP",
@@ -4273,7 +4273,7 @@ export const products: Product[] = [
     qty: 9,
     skillLevel: "Beginner",
     image: "/products/accessories/stagg-guitar-bag.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "GBEUKETEN",
@@ -4285,7 +4285,7 @@ export const products: Product[] = [
     qty: 4,
     skillLevel: "Beginner",
     image: "/products/accessories/stagg-guitar-bag.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "GCBASS4PK",
@@ -4597,7 +4597,7 @@ export const products: Product[] = [
     qty: 4,
     skillLevel: "Beginner",
     image: "/products/pro-audio/shure-se215-case.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "GCWLPBROWN",
@@ -4681,7 +4681,7 @@ export const products: Product[] = [
     qty: 14,
     skillLevel: "Beginner",
     image: "/products/pro-audio/rode-nt1-black.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "GCFW-UKEHNGRMPL",
@@ -5473,7 +5473,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "GE414875",
@@ -5485,7 +5485,7 @@ export const products: Product[] = [
     qty: 21,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "GE414876",
@@ -5497,7 +5497,7 @@ export const products: Product[] = [
     qty: 6,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "GE414877",
@@ -5509,7 +5509,7 @@ export const products: Product[] = [
     qty: 26,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "GE464800",
@@ -6145,7 +6145,7 @@ export const products: Product[] = [
     qty: 18,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "BM12VX",
@@ -6157,7 +6157,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "BM1670",
@@ -6169,7 +6169,7 @@ export const products: Product[] = [
     qty: 133,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "BM2984",
@@ -6301,7 +6301,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "BMWVSR01",
@@ -6313,7 +6313,7 @@ export const products: Product[] = [
     qty: 3,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JSCELLOAM",
@@ -6481,7 +6481,7 @@ export const products: Product[] = [
     qty: 3,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT01042",
@@ -6493,7 +6493,7 @@ export const products: Product[] = [
     qty: 58,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT01042B",
@@ -6505,7 +6505,7 @@ export const products: Product[] = [
     qty: 10,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT01042C",
@@ -6517,7 +6517,7 @@ export const products: Product[] = [
     qty: 7,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT0302A",
@@ -6553,7 +6553,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT05C",
@@ -6565,7 +6565,7 @@ export const products: Product[] = [
     qty: 11,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT05D",
@@ -6577,7 +6577,7 @@ export const products: Product[] = [
     qty: 6,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT06",
@@ -6625,7 +6625,7 @@ export const products: Product[] = [
     qty: 12,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT0909B",
@@ -6637,7 +6637,7 @@ export const products: Product[] = [
     qty: 8,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT0909D",
@@ -6649,7 +6649,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT1009",
@@ -6673,7 +6673,7 @@ export const products: Product[] = [
     qty: 27,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT1042FB",
@@ -6685,7 +6685,7 @@ export const products: Product[] = [
     qty: 7,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT1042FC",
@@ -6697,7 +6697,7 @@ export const products: Product[] = [
     qty: 11,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT1042FD",
@@ -6709,7 +6709,7 @@ export const products: Product[] = [
     qty: 11,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT1042FE",
@@ -6721,7 +6721,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT105",
@@ -6913,7 +6913,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT3402/6L",
@@ -6937,7 +6937,7 @@ export const products: Product[] = [
     qty: 6,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "JT380I",
@@ -7705,7 +7705,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Intermediate",
     image: "/products/keyboards/roland-fantom-x8-top.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Lanikai ukuleles deliver authentic Hawaiian tone. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Lanikai ukuleles deliver authentic Hawaiian tone. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "LANMA6T",
@@ -7717,7 +7717,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Intermediate",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Lanikai ukuleles deliver authentic Hawaiian tone. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Lanikai ukuleles deliver authentic Hawaiian tone. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "LANMACEC",
@@ -7729,7 +7729,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Intermediate",
     image: "/products/catalog/alesis-concert-digital-piano-with-music-rest-scaled.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Lanikai ukuleles deliver authentic Hawaiian tone. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Lanikai ukuleles deliver authentic Hawaiian tone. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "LANTKBLT",
@@ -7741,7 +7741,7 @@ export const products: Product[] = [
     qty: 23,
     skillLevel: "Beginner",
     image: "/products/accessories/jenova-camera-bag.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Lanikai ukuleles deliver authentic Hawaiian tone. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Lanikai ukuleles deliver authentic Hawaiian tone. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "LANTNBLT",
@@ -7753,7 +7753,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/accessories/jenova-camera-bag.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Lanikai ukuleles deliver authentic Hawaiian tone. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Lanikai ukuleles deliver authentic Hawaiian tone. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "LS-DM1PD-BRG",
@@ -8665,7 +8665,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/accessories/guitar-strap.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "LS-MX23002",
@@ -8677,7 +8677,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/accessories/guitar-strap.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "LS-MX23004",
@@ -8689,7 +8689,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/accessories/guitar-strap.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "LS-MX23005",
@@ -8701,7 +8701,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/accessories/guitar-strap.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "LS-MX23ALL002",
@@ -9409,7 +9409,7 @@ export const products: Product[] = [
     qty: 22,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-tx-series.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MA1GR",
@@ -9421,7 +9421,7 @@ export const products: Product[] = [
     qty: 42,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-tx-series.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MA1HEBK",
@@ -9433,7 +9433,7 @@ export const products: Product[] = [
     qty: 22,
     skillLevel: "Beginner",
     image: "/products/pro-audio/rode-nt1-black.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MA1MT",
@@ -9445,7 +9445,7 @@ export const products: Product[] = [
     qty: 18,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MA1NJ",
@@ -9457,7 +9457,7 @@ export const products: Product[] = [
     qty: 17,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-tx-series.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MA1RD",
@@ -9469,7 +9469,7 @@ export const products: Product[] = [
     qty: 22,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-tx-series.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MA1SKBK",
@@ -9481,7 +9481,7 @@ export const products: Product[] = [
     qty: 17,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MA1TK",
@@ -9493,7 +9493,7 @@ export const products: Product[] = [
     qty: 35,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-tx-series.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MA1WL",
@@ -9505,7 +9505,7 @@ export const products: Product[] = [
     qty: 11,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-tx-series.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MA1ZE",
@@ -9517,7 +9517,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-tx-series.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MA2KA",
@@ -9529,7 +9529,7 @@ export const products: Product[] = [
     qty: 4,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-tx-series.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MA2PH",
@@ -9553,7 +9553,7 @@ export const products: Product[] = [
     qty: 8,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-tx-series.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MC1SKBK",
@@ -9565,7 +9565,7 @@ export const products: Product[] = [
     qty: 8,
     skillLevel: "Beginner",
     image: "/products/pro-audio/rode-nt1-black.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MC1SKVTBK",
@@ -9577,7 +9577,7 @@ export const products: Product[] = [
     qty: 4,
     skillLevel: "Beginner",
     image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MD1HBBUB",
@@ -9589,7 +9589,7 @@ export const products: Product[] = [
     qty: 32,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MD1HBORB",
@@ -9601,7 +9601,7 @@ export const products: Product[] = [
     qty: 14,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MD1HBPPB",
@@ -9613,7 +9613,7 @@ export const products: Product[] = [
     qty: 33,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MD1HBRDB",
@@ -9625,7 +9625,7 @@ export const products: Product[] = [
     qty: 42,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MH1VNA",
@@ -9637,7 +9637,7 @@ export const products: Product[] = [
     qty: 24,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MH2VNA",
@@ -9649,7 +9649,7 @@ export const products: Product[] = [
     qty: 22,
     skillLevel: "Beginner",
     image: "/products/keyboards/alesis-concert-rest.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MH3CVTVNA",
@@ -9673,7 +9673,7 @@ export const products: Product[] = [
     qty: 10,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MJ1TBR",
@@ -9685,7 +9685,7 @@ export const products: Product[] = [
     qty: 16,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MJ2TBR",
@@ -9697,7 +9697,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/keyboards/alesis-concert-rest.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MJ2VTTBR",
@@ -9709,7 +9709,7 @@ export const products: Product[] = [
     qty: 31,
     skillLevel: "Intermediate",
     image: "/products/catalog/alesis-concert-digital-piano-with-music-rest-scaled.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "TE-MJ33TS",
@@ -9721,7 +9721,7 @@ export const products: Product[] = [
     qty: 32,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MJ3CEVNA",
@@ -9733,7 +9733,7 @@ export const products: Product[] = [
     qty: 10,
     skillLevel: "Intermediate",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "TE-MJ3TBR",
@@ -9745,7 +9745,7 @@ export const products: Product[] = [
     qty: 20,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MJ3VNA",
@@ -9757,7 +9757,7 @@ export const products: Product[] = [
     qty: 17,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MJ3VT3TS",
@@ -9769,7 +9769,7 @@ export const products: Product[] = [
     qty: 11,
     skillLevel: "Intermediate",
     image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "TE-MJ3VTTBR",
@@ -9781,7 +9781,7 @@ export const products: Product[] = [
     qty: 30,
     skillLevel: "Intermediate",
     image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "TE-MJ4TBE",
@@ -9793,7 +9793,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Intermediate",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "TE-MK1BATBK",
@@ -9853,7 +9853,7 @@ export const products: Product[] = [
     qty: 16,
     skillLevel: "Beginner",
     image: "/products/pro-audio/rode-nt1-black.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MK1PTPP",
@@ -9865,7 +9865,7 @@ export const products: Product[] = [
     qty: 26,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MKA17CH",
@@ -9925,7 +9925,7 @@ export const products: Product[] = [
     qty: 10,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-ML1CP",
@@ -9937,7 +9937,7 @@ export const products: Product[] = [
     qty: 11,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-ML1CR",
@@ -9949,7 +9949,7 @@ export const products: Product[] = [
     qty: 14,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-ML1SH",
@@ -9961,7 +9961,7 @@ export const products: Product[] = [
     qty: 6,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-ML2AB",
@@ -9973,7 +9973,7 @@ export const products: Product[] = [
     qty: 15,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-ML2BC",
@@ -10009,7 +10009,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-ML3BC",
@@ -10021,7 +10021,7 @@ export const products: Product[] = [
     qty: 6,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-ML3SD",
@@ -10033,7 +10033,7 @@ export const products: Product[] = [
     qty: 20,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-ML3SH",
@@ -10045,7 +10045,7 @@ export const products: Product[] = [
     qty: 23,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MO3",
@@ -10069,7 +10069,7 @@ export const products: Product[] = [
     qty: 23,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-tx-series.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MP1E",
@@ -10117,7 +10117,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/pro-audio/rode-nt1-black.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MR1BU",
@@ -10129,7 +10129,7 @@ export const products: Product[] = [
     qty: 42,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MR1GN",
@@ -10141,7 +10141,7 @@ export const products: Product[] = [
     qty: 44,
     skillLevel: "Beginner",
     image: "/products/drums/remo-green-heads.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MR1OR",
@@ -10153,7 +10153,7 @@ export const products: Product[] = [
     qty: 47,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MR1PK",
@@ -10165,7 +10165,7 @@ export const products: Product[] = [
     qty: 44,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MR1PP",
@@ -10177,7 +10177,7 @@ export const products: Product[] = [
     qty: 40,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MR1RD",
@@ -10189,7 +10189,7 @@ export const products: Product[] = [
     qty: 41,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MR1TBR",
@@ -10201,7 +10201,7 @@ export const products: Product[] = [
     qty: 44,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MR1YW",
@@ -10213,7 +10213,7 @@ export const products: Product[] = [
     qty: 21,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MS1TBR",
@@ -10225,7 +10225,7 @@ export const products: Product[] = [
     qty: 25,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MS1TBU",
@@ -10237,7 +10237,7 @@ export const products: Product[] = [
     qty: 27,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MS1TRD",
@@ -10249,7 +10249,7 @@ export const products: Product[] = [
     qty: 29,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-MZCP2",
@@ -10261,7 +10261,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-U-SMILEOR",
@@ -10273,7 +10273,7 @@ export const products: Product[] = [
     qty: 9,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-U-SMILETBR",
@@ -10285,7 +10285,7 @@ export const products: Product[] = [
     qty: 21,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-U-SMILETBS",
@@ -10297,7 +10297,7 @@ export const products: Product[] = [
     qty: 9,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-U-SMILETBU",
@@ -10309,7 +10309,7 @@ export const products: Product[] = [
     qty: 18,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-U-SMILETRD",
@@ -10321,7 +10321,7 @@ export const products: Product[] = [
     qty: 12,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-U-SMILINOYW",
@@ -10345,7 +10345,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Intermediate",
     image: "/products/accessories/jenova-camera-bag.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "TE-U400",
@@ -10357,7 +10357,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/guitars/cort-ad810-acoustic.webp",
-    shortDescription: "Ukulele with bright, cheerful tone — great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "MO-AIRP10",
@@ -11497,7 +11497,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "MYS100105",
@@ -12745,7 +12745,7 @@ export const products: Product[] = [
     qty: 12,
     skillLevel: "Professional",
     image: "/products/accessories/cort-cm150b-amp.webp",
-    shortDescription: "Acoustic guitar with solid construction and balanced tone — perfect for practice, performance, or recording. Orange amplifiers deliver iconic British tone and stage-ready reliability. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
+    shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Orange amplifiers deliver iconic British tone and stage-ready reliability. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
     id: "ORCRUSHMINI",
@@ -13849,7 +13849,7 @@ export const products: Product[] = [
     qty: 785,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "SNR-RS120",
@@ -13897,7 +13897,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Intermediate",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "SNR300D",
@@ -13909,7 +13909,7 @@ export const products: Product[] = [
     qty: 12,
     skillLevel: "Intermediate",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "SNR301A",
@@ -13921,7 +13921,7 @@ export const products: Product[] = [
     qty: 9,
     skillLevel: "Intermediate",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "SNR301D",
@@ -13933,7 +13933,7 @@ export const products: Product[] = [
     qty: 9,
     skillLevel: "Intermediate",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "SNRB11A",
@@ -13945,7 +13945,7 @@ export const products: Product[] = [
     qty: 6,
     skillLevel: "Intermediate",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "SNRB25-B",
@@ -14017,7 +14017,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "SNRB5C",
@@ -14029,7 +14029,7 @@ export const products: Product[] = [
     qty: 6,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "SNRB7",
@@ -14041,7 +14041,7 @@ export const products: Product[] = [
     qty: 3,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "SNRB75F",
@@ -14185,7 +14185,7 @@ export const products: Product[] = [
     qty: 101,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "SNRSRM",
@@ -14197,7 +14197,7 @@ export const products: Product[] = [
     qty: 6,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "SNRSRS",
@@ -14209,7 +14209,7 @@ export const products: Product[] = [
     qty: 18,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "SUN-B-BIRDC",
@@ -15601,7 +15601,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TH136",
@@ -15709,7 +15709,7 @@ export const products: Product[] = [
     qty: 4,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TH18",
@@ -15769,7 +15769,7 @@ export const products: Product[] = [
     qty: 9,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TH214A",
@@ -15805,7 +15805,7 @@ export const products: Product[] = [
     qty: 9,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TH23",
@@ -16153,7 +16153,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Intermediate",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Thomastik-Infeld strings are the professional choice for orchestral players. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Thomastik-Infeld strings are the professional choice for orchestral players. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "TE-VC201",
@@ -16285,7 +16285,7 @@ export const products: Product[] = [
     qty: 86,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Valencia classical guitars offer comfortable playability for students. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Valencia classical guitars offer comfortable playability for students. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "TE-VTP50-1/2",
@@ -16297,7 +16297,7 @@ export const products: Product[] = [
     qty: 12,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Valencia classical guitars offer comfortable playability for students. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Valencia classical guitars offer comfortable playability for students. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDCM1405",
@@ -16573,7 +16573,7 @@ export const products: Product[] = [
     qty: 4,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDCR503",
@@ -16669,7 +16669,7 @@ export const products: Product[] = [
     qty: 14,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDJCR013",
@@ -16705,7 +16705,7 @@ export const products: Product[] = [
     qty: 7,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDJSR5125/3",
@@ -16717,7 +16717,7 @@ export const products: Product[] = [
     qty: 3,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDJSR513/3",
@@ -16729,7 +16729,7 @@ export const products: Product[] = [
     qty: 8,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDJSR6115",
@@ -16777,7 +16777,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDJSR7115",
@@ -16789,7 +16789,7 @@ export const products: Product[] = [
     qty: 8,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDJSR712",
@@ -16921,7 +16921,7 @@ export const products: Product[] = [
     qty: 8,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2015",
@@ -16933,7 +16933,7 @@ export const products: Product[] = [
     qty: 9,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR202",
@@ -16945,7 +16945,7 @@ export const products: Product[] = [
     qty: 6,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2025",
@@ -16957,7 +16957,7 @@ export const products: Product[] = [
     qty: 10,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR203",
@@ -16969,7 +16969,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2035",
@@ -16981,7 +16981,7 @@ export const products: Product[] = [
     qty: 4,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2115",
@@ -16993,7 +16993,7 @@ export const products: Product[] = [
     qty: 34,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR212",
@@ -17005,7 +17005,7 @@ export const products: Product[] = [
     qty: 21,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2125",
@@ -17017,7 +17017,7 @@ export const products: Product[] = [
     qty: 27,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR213",
@@ -17029,7 +17029,7 @@ export const products: Product[] = [
     qty: 11,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2135",
@@ -17041,7 +17041,7 @@ export const products: Product[] = [
     qty: 10,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR215",
@@ -17053,7 +17053,7 @@ export const products: Product[] = [
     qty: 16,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR221",
@@ -17077,7 +17077,7 @@ export const products: Product[] = [
     qty: 17,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR222",
@@ -17089,7 +17089,7 @@ export const products: Product[] = [
     qty: 15,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2225",
@@ -17101,7 +17101,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2235",
@@ -17113,7 +17113,7 @@ export const products: Product[] = [
     qty: 6,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR253",
@@ -17137,7 +17137,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2615",
@@ -17149,7 +17149,7 @@ export const products: Product[] = [
     qty: 9,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2615R",
@@ -17161,7 +17161,7 @@ export const products: Product[] = [
     qty: 4,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR262",
@@ -17173,7 +17173,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2625",
@@ -17197,7 +17197,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR262R",
@@ -17209,7 +17209,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2635",
@@ -17221,7 +17221,7 @@ export const products: Product[] = [
     qty: 4,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2635R",
@@ -17233,7 +17233,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR263R",
@@ -17257,7 +17257,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR271",
@@ -17269,7 +17269,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2715",
@@ -17281,7 +17281,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2715R",
@@ -17293,7 +17293,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR272",
@@ -17305,7 +17305,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2725R",
@@ -17317,7 +17317,7 @@ export const products: Product[] = [
     qty: 11,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR272R",
@@ -17329,7 +17329,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR273",
@@ -17353,7 +17353,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR2735R",
@@ -17377,7 +17377,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR302",
@@ -17401,7 +17401,7 @@ export const products: Product[] = [
     qty: 3,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR303",
@@ -17413,7 +17413,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR3035",
@@ -17425,7 +17425,7 @@ export const products: Product[] = [
     qty: 3,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR304",
@@ -17437,7 +17437,7 @@ export const products: Product[] = [
     qty: 4,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR4115",
@@ -17521,7 +17521,7 @@ export const products: Product[] = [
     qty: 3,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR4225",
@@ -17605,7 +17605,7 @@ export const products: Product[] = [
     qty: 7,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR6125",
@@ -17617,7 +17617,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR613",
@@ -17629,7 +17629,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR6135",
@@ -17641,7 +17641,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR623",
@@ -17653,7 +17653,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR7015",
@@ -17665,7 +17665,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR702",
@@ -17677,7 +17677,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR7025",
@@ -17689,7 +17689,7 @@ export const products: Product[] = [
     qty: 4,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR7035",
@@ -17701,7 +17701,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR704",
@@ -17713,7 +17713,7 @@ export const products: Product[] = [
     qty: 6,
     skillLevel: "Beginner",
     image: "/products/pro-audio/alto-live1604.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR705",
@@ -17737,7 +17737,7 @@ export const products: Product[] = [
     qty: 5,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR713",
@@ -17749,7 +17749,7 @@ export const products: Product[] = [
     qty: 3,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR7135",
@@ -17761,7 +17761,7 @@ export const products: Product[] = [
     qty: 3,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR714",
@@ -17773,7 +17773,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR7215",
@@ -17785,7 +17785,7 @@ export const products: Product[] = [
     qty: 3,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR722",
@@ -17797,7 +17797,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR7235",
@@ -17809,7 +17809,7 @@ export const products: Product[] = [
     qty: 2,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR8025",
@@ -17821,7 +17821,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDSR8125",
@@ -17869,7 +17869,7 @@ export const products: Product[] = [
     qty: 1,
     skillLevel: "Beginner",
     image: "/products/wind/sonata-flute-silver.webp",
-    shortDescription: "Reed for woodwind instruments — essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "VDH",
@@ -19561,7 +19561,7 @@ export const products: Product[] = [
     qty: 13,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Wolf produces precision accessories for violin and viola. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Wolf produces precision accessories for violin and viola. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "WSR24",
@@ -19573,7 +19573,7 @@ export const products: Product[] = [
     qty: 11,
     skillLevel: "Beginner",
     image: "/products/strings/gc-violin-44.webp",
-    shortDescription: "Violin with carved top and balanced tone — suitable for students and advancing players. Wolf produces precision accessories for violin and viola. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
+    shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Wolf produces precision accessories for violin and viola. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
     id: "XVP3",
@@ -19681,7 +19681,7 @@ export const products: Product[] = [
     qty: 7,
     skillLevel: "Intermediate",
     image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
-    shortDescription: "Acoustic guitar with solid construction and balanced tone — perfect for practice, performance, or recording. XVive wireless systems provide cable-free freedom for performers. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
+    shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. XVive wireless systems provide cable-free freedom for performers. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
     id: "XVU9",

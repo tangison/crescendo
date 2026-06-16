@@ -35,9 +35,9 @@ const SKILL_LEVELS = ['Beginner', 'Intermediate', 'Professional'];
 
 const PRICE_RANGES: { label: string; min: number; max: number }[] = [
   { label: 'Under N$ 500', min: 0, max: 500 },
-  { label: 'N$ 500 – N$ 1,000', min: 500, max: 1000 },
-  { label: 'N$ 1,000 – N$ 5,000', min: 1000, max: 5000 },
-  { label: 'N$ 5,000 – N$ 10,000', min: 5000, max: 10000 },
+  { label: 'N$ 500 - N$ 1,000', min: 500, max: 1000 },
+  { label: 'N$ 1,000 - N$ 5,000', min: 1000, max: 5000 },
+  { label: 'N$ 5,000 - N$ 10,000', min: 5000, max: 10000 },
   { label: 'Over N$ 10,000', min: 10000, max: Infinity },
 ];
 

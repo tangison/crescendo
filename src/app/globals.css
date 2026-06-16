@@ -4,7 +4,7 @@
 @custom-variant dark (&:is(.dark *));
 
 /* ============================================
-   CRESCENDO NAMIBIA — Brand System
+   CRESCENDO NAMIBIA - Brand System
    Philosophy: Pentagram simplicity + Siegel+Gale clarity + COLLINS muscularity
    ============================================ */
 
@@ -14,7 +14,7 @@
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
   
-  /* Brand Colors — Music-inspired palette */
+  /* Brand Colors - Music-inspired palette */
   --color-brand: var(--brand);
   --color-brand-light: var(--brand-light);
   --color-brand-dark: var(--brand-dark);
@@ -61,7 +61,7 @@
   --radius: 0.625rem;
   
   /* ============================================
-     COLOR SYSTEM — Crescendo brand
+     COLOR SYSTEM - Crescendo brand
      Primary: Deep charcoal (authority, trust)
      Accent: Cyan-blue (matches logo, energy)
      ============================================ */
@@ -85,7 +85,7 @@
   --popover: oklch(1 0 0);
   --popover-foreground: oklch(0.15 0.01 260);
   
-  /* Primary — the action color */
+  /* Primary - the action color */
   --primary: oklch(0.22 0.01 260);         /* Brand charcoal */
   --primary-foreground: oklch(0.99 0 0);   /* White on dark */
   
@@ -93,11 +93,11 @@
   --secondary: oklch(0.96 0.005 70);       /* Warm light gray */
   --secondary-foreground: oklch(0.22 0.01 260);
   
-  /* Muted — supporting text, disabled states */
+  /* Muted - supporting text, disabled states */
   --muted: oklch(0.96 0.005 70);
   --muted-foreground: oklch(0.50 0.01 260);
   
-  /* Accent — cyan-blue highlights */
+  /* Accent - cyan-blue highlights */
   --accent: oklch(0.95 0.02 235);
   --accent-foreground: oklch(0.22 0.01 260);
   
@@ -188,7 +188,7 @@
 }
 
 /* ============================================
-   CRESCENDO — Custom Utilities
+   CRESCENDO - Custom Utilities
    Siegel+Gale: Simplicity is the ultimate sophistication
    Pentagram: Typography as architecture
    ============================================ */
@@ -204,7 +204,7 @@
   .border-brand { border-color: var(--brand); }
   .border-brand-accent { border-color: var(--brand-accent); }
   
-  /* Typography utilities — COLLINS muscular voice */
+  /* Typography utilities - COLLINS muscular voice */
   .text-balance { text-wrap: balance; }
   .text-pretty { text-wrap: pretty; }
   
@@ -215,14 +215,14 @@
   .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
   .no-scrollbar::-webkit-scrollbar { display: none; }
   
-  /* Image treatment — no blend mode, cleaner display */
+  /* Image treatment - no blend mode, cleaner display */
   .img-product {
     object-fit: contain;
   }
 }
 
 /* ============================================
-   CRESCENDO — Custom Animations
+   CRESCENDO - Custom Animations
    DesignStudio: Kinetic energy, Wolff Olins: Motion personality
    ============================================ */
 
@@ -259,7 +259,7 @@
 }
 
 /* ============================================
-   CRESCENDO — Focus States
+   CRESCENDO - Focus States
    Accessibility: Visible focus indicators (44px touch targets)
    ============================================ */
 
@@ -270,7 +270,7 @@
 }
 
 /* ============================================
-   CRESCENDO — Selection
+   CRESCENDO - Selection
    ============================================ */
 
 ::selection {
@@ -279,7 +279,7 @@
 }
 
 /* ============================================
-   CRESCENDO — Pill-shaped buttons (global)
+   CRESCENDO - Pill-shaped buttons (global)
    Every button, CTA, and pill-style link uses full radius
    ============================================ */
 button,
@@ -311,7 +311,7 @@ pre {
 }
 
 /* ============================================
-   CRESCENDO — Brand accent helper classes
+   CRESCENDO - Brand accent helper classes
    ============================================ */
 .text-brand-accent {
   color: var(--brand-accent) !important;

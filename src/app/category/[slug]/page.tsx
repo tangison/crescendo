@@ -180,7 +180,7 @@ export default async function CategoryPage({ params }: PageProps) {
           <div className="p-4 sm:p-5 rounded-xl bg-card border border-border">
             <TrendingUp className="size-5 text-brand-accent mb-2" />
             <p className="text-sm sm:text-base font-black font-mono leading-tight">
-              {formatPrice(minPrice)} – {formatPrice(maxPrice)}
+              {formatPrice(minPrice)} - {formatPrice(maxPrice)}
             </p>
             <p className="text-[11px] text-muted-foreground tracking-wide uppercase mt-0.5">Price Range</p>
           </div>
