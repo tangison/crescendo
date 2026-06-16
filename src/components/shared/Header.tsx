@@ -8,7 +8,7 @@ import { MobileMenu } from './MobileMenu';
 import { SearchDialog } from './SearchDialog';
 import { CartDrawer } from './CartDrawer';
 import { useCartStore } from '@/stores/cart-store';
-import { Menu, Search, ShoppingBag, ChevronDown, X } from 'lucide-react';
+import { CustomIcon } from '@/components/ui/custom-icon';
 import { categories } from '@/data/categories';
 import { motion, AnimatePresence } from 'framer-motion';
 import { usePathname } from 'next/navigation';
@@ -92,7 +92,7 @@ export function Header() {
                 aria-label="Open menu"
                 className="size-10 md:hidden"
               >
-                <Menu className="size-5" />
+                <CustomIcon name="menu" className="size-5" alt="" />
               </Button>
 
               {/* Desktop: Home + Shop dropdown */}
@@ -114,7 +114,7 @@ export function Header() {
                     aria-expanded={shopDropdownOpen}
                   >
                     Shop
-                    <ChevronDown className={`size-3.5 transition-transform ${shopDropdownOpen ? 'rotate-180' : ''}`} />
+                    <CustomIcon name="chevron-down" className={`size-3.5 transition-transform ${shopDropdownOpen ? 'rotate-180' : ''}`} alt="" />
                   </button>
 
                   <AnimatePresence>
@@ -185,7 +185,7 @@ export function Header() {
                 aria-label="Search products"
                 className="size-10"
               >
-                <Search className="size-5" />
+                <CustomIcon name="search" className="size-5" alt="" />
               </Button>
 
               <Button
@@ -195,7 +195,7 @@ export function Header() {
                 aria-label="Open enquiry list"
                 className="size-10 relative"
               >
-                <ShoppingBag className="size-5" />
+                <CustomIcon name="shopping-bag" className="size-5" alt="" />
                 {itemCount > 0 && (
                   <span className="absolute -top-0.5 -right-0.5 min-w-[18px] h-[18px] flex items-center justify-center rounded-full bg-brand-accent text-brand-dark text-[10px] font-bold px-1">
                     {itemCount > 99 ? '99+' : itemCount}

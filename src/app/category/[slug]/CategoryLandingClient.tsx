@@ -2,7 +2,7 @@
 
 import { ProductCard } from '@/components/products/ProductCard';
 import { motion } from 'framer-motion';
-import { Search } from 'lucide-react';
+import { CustomIcon } from '@/components/ui/custom-icon';
 import { useRouter } from 'next/navigation';
 import type { Product } from '@/data/products';
 
@@ -44,7 +44,7 @@ export function CategoryLandingClient({
           className="p-6 rounded-2xl bg-secondary/40 border border-border"
         >
           <div className="flex items-center gap-2 mb-3">
-            <Search className="size-4 text-brand-accent" />
+            <CustomIcon name="search" className="size-4 text-brand-accent" alt="" />
             <h3 className="text-sm font-bold tracking-wide uppercase">Popular Searches in {categoryName}</h3>
           </div>
           <div className="flex flex-wrap gap-2">

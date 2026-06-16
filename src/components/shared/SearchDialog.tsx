@@ -10,7 +10,7 @@ import {
   DialogDescription,
 } from '@/components/ui/dialog';
 import { ScrollArea } from '@/components/ui/scroll-area';
-import { Search, X, ArrowRight } from 'lucide-react';
+import { CustomIcon } from '@/components/ui/custom-icon';
 import { products } from '@/data/products';
 import { categories } from '@/data/categories';
 import { formatPrice, getCategoryName } from '@/lib/utils-crescendo';
@@ -185,7 +185,7 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
 
       {/* Search input row */}
       <div className="flex items-center gap-3 px-5 h-16 border-b border-border">
-        <Search className="size-5 text-muted-foreground flex-shrink-0" />
+        <CustomIcon name="search" className="size-5 text-muted-foreground flex-shrink-0" alt="" />
         <input
           ref={inputRef}
           type="text"
@@ -201,7 +201,7 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
             className="size-8 flex items-center justify-center rounded-lg hover:bg-accent transition-colors"
             aria-label="Clear search"
           >
-            <X className="size-4 text-muted-foreground" />
+            <CustomIcon name="x" className="size-4 text-muted-foreground" alt="" />
           </button>
         )}
       </div>
@@ -219,7 +219,7 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
                 className="text-xs font-medium text-brand-accent hover:underline flex items-center gap-1"
               >
                 View all
-                <ArrowRight className="size-3" />
+                <CustomIcon name="arrow-right" className="size-3" alt="" />
               </button>
             </div>
 
@@ -264,7 +264,7 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
                     className="w-full px-5 py-2 text-left text-xs font-medium text-brand-accent hover:bg-accent transition-colors flex items-center gap-1"
                   >
                     View all {group.count} in {group.categoryName}
-                    <ArrowRight className="size-3" />
+                    <CustomIcon name="arrow-right" className="size-3" alt="" />
                   </button>
                 )}
               </div>
@@ -272,7 +272,7 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
           </div>
         ) : hasSearched && debouncedQuery.trim() ? (
           <div className="py-16 text-center px-5">
-            <Search className="size-10 mx-auto mb-4 text-muted-foreground/30" />
+            <CustomIcon name="search" className="size-10 mx-auto mb-4 text-muted-foreground/30" alt="" />
             <p className="text-base font-semibold mb-1">No products found</p>
             <p className="text-sm text-muted-foreground">
               No matches for &ldquo;{debouncedQuery}&rdquo;. Try a different keyword.
@@ -289,7 +289,7 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
                 onClick={() => handleRecentClick(search)}
                 className="w-full flex items-center gap-3 px-5 py-2.5 hover:bg-accent transition-colors text-left text-sm"
               >
-                <Search className="size-3.5 text-muted-foreground" />
+                <CustomIcon name="search" className="size-3.5 text-muted-foreground" alt="" />
                 <span className="truncate">{search}</span>
               </button>
             ))}
@@ -312,7 +312,7 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
           </div>
         ) : (
           <div className="py-16 text-center px-5">
-            <Search className="size-10 mx-auto mb-4 text-muted-foreground/30" />
+            <CustomIcon name="search" className="size-10 mx-auto mb-4 text-muted-foreground/30" alt="" />
             <p className="text-base font-semibold mb-1">Search our catalog</p>
             <p className="text-sm text-muted-foreground">
               Find instruments, gear, and accessories by name, brand, category, or description

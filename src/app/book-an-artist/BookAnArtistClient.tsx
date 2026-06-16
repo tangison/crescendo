@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import { Button } from '@/components/ui/button';
-import { MessageCircle, Phone, Mail, Music, Users, Mic } from 'lucide-react';
+import { CustomIcon, type IconName } from '@/components/ui/custom-icon';
 import { motion } from 'framer-motion';
 import { getWhatsAppUrl, WHATSAPP_DISPLAY, CONTACT_EMAIL } from '@/lib/utils-crescendo';
 
@@ -70,19 +70,19 @@ export function BookAnArtistPage() {
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 sm:gap-8 max-w-3xl mx-auto">
             {[
               {
-                icon: Music,
+                icon: 'music' as IconName,
                 step: '01',
                 title: 'Browse',
                 description: 'Explore our talented musicians and artists across genres and specialties.',
               },
               {
-                icon: Users,
+                icon: 'users' as IconName,
                 step: '02',
                 title: 'Connect',
                 description: 'Reach out via WhatsApp to discuss your event or lesson requirements.',
               },
               {
-                icon: Mic,
+                icon: 'mic' as IconName,
                 step: '03',
                 title: 'Perform',
                 description: 'Book your artist and enjoy live music tailored to your occasion.',
@@ -97,7 +97,7 @@ export function BookAnArtistPage() {
                 className="text-center"
               >
                 <div className="w-16 h-16 rounded-2xl bg-brand/5 dark:bg-brand/10 flex items-center justify-center mx-auto mb-4">
-                  <item.icon className="size-7 text-brand-accent" />
+                  <CustomIcon name={item.icon} className="size-7" alt="" />
                 </div>
                 <p className="text-[11px] font-semibold tracking-[0.3em] uppercase text-muted-foreground mb-1">
                   Step {item.step}
@@ -134,7 +134,7 @@ export function BookAnArtistPage() {
               className="h-14 px-10 text-base font-semibold bg-[#25D366] hover:bg-[#20BD5A] text-white"
             >
               <a href={whatsappUrl} target="_blank" rel="noopener noreferrer">
-                <MessageCircle className="size-5 mr-2" />
+                <CustomIcon name="message-circle" tone="mono-light" className="size-5 mr-2" alt="" />
                 Chat With Us on WhatsApp
               </a>
             </Button>
@@ -144,14 +144,14 @@ export function BookAnArtistPage() {
                 href={`tel:+${WHATSAPP_DISPLAY.replace(/\D/g, '')}`}
                 className="flex items-center gap-2 text-sm hover:text-white transition-colors"
               >
-                <Phone className="size-4" />
+                <CustomIcon name="phone" tone="mono-light" className="size-4" alt="" />
                 {WHATSAPP_DISPLAY}
               </a>
               <a
                 href={`mailto:${CONTACT_EMAIL}`}
                 className="flex items-center gap-2 text-sm hover:text-white transition-colors"
               >
-                <Mail className="size-4" />
+                <CustomIcon name="mail" tone="mono-light" className="size-4" alt="" />
                 {CONTACT_EMAIL}
               </a>
             </div>

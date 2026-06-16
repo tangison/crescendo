@@ -6,14 +6,7 @@ import { products } from '@/data/products';
 import { categories } from '@/data/categories';
 import { ProductCard } from './ProductCard';
 import { Button } from '@/components/ui/button';
-import {
-  Search,
-  SlidersHorizontal,
-  ChevronLeft,
-  ChevronRight,
-  LayoutGrid,
-  X,
-} from 'lucide-react';
+import { CustomIcon } from '@/components/ui/custom-icon';
 import { getCategoryName } from '@/lib/utils-crescendo';
 
 const PRODUCTS_PER_PAGE = 24;
@@ -196,7 +189,7 @@ export function ProductGrid() {
       {/* Search Bar - clean, centered */}
       <div className="relative mb-4">
         <div className="relative">
-          <Search className="absolute left-4 top-1/2 -translate-y-1/2 size-5 text-muted-foreground pointer-events-none" />
+          <CustomIcon name="search" className="absolute left-4 top-1/2 -translate-y-1/2 size-5 text-muted-foreground pointer-events-none" alt="" />
           <input
             ref={searchInputRef}
             type="text"
@@ -212,7 +205,7 @@ export function ProductGrid() {
               className="absolute right-4 top-1/2 -translate-y-1/2 p-1 rounded-md hover:bg-accent transition-colors"
               aria-label="Clear search"
             >
-              <X className="size-4 text-muted-foreground" />
+              <CustomIcon name="x" className="size-4 text-muted-foreground" alt="" />
             </button>
           )}
         </div>
@@ -255,7 +248,7 @@ export function ProductGrid() {
               </div>
             ) : (
               <div className="py-12 text-center text-muted-foreground">
-                <Search className="size-8 mx-auto mb-3 opacity-40" />
+                <CustomIcon name="search" className="size-8 mx-auto mb-3 opacity-40" alt="" />
                 <p className="text-sm">
                   No results for &ldquo;{debouncedQuery}&rdquo;
                 </p>
@@ -298,7 +291,7 @@ export function ProductGrid() {
               : 'border border-border hover:bg-accent'
           }`}
         >
-          <SlidersHorizontal className="size-4" />
+          <CustomIcon name="sliders" className="size-4" alt="" />
           Filter
         </button>
 
@@ -380,7 +373,7 @@ export function ProductGrid() {
         </div>
       ) : (
         <div className="py-16 text-center">
-          <LayoutGrid className="size-12 mx-auto text-muted-foreground/40 mb-4" />
+          <CustomIcon name="layout-grid" className="size-12 mx-auto text-muted-foreground/40 mb-4" alt="" />
           <p className="text-lg font-semibold mb-1">No products found</p>
           <p className="text-sm text-muted-foreground mb-4">
             Try adjusting your filters or search criteria
@@ -400,7 +393,7 @@ export function ProductGrid() {
             onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
             disabled={currentPage === 1}
           >
-            <ChevronLeft className="size-4" />
+            <CustomIcon name="chevron-left" className="size-4" alt="" />
             Previous
           </Button>
 
@@ -437,7 +430,7 @@ export function ProductGrid() {
             disabled={currentPage === totalPages}
           >
             Next
-            <ChevronRight className="size-4" />
+            <CustomIcon name="chevron-right" className="size-4" alt="" />
           </Button>
         </div>
       )}

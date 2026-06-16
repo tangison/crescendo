@@ -2,16 +2,16 @@
 
 import Link from 'next/link';
 import Image from 'next/image';
-import { MessageCircle, Phone, Mail, MapPin, Shield, Award, Users, Package } from 'lucide-react';
+import { CustomIcon } from '@/components/ui/custom-icon';
 import { categories } from '@/data/categories';
 import { WHATSAPP_DISPLAY, CONTACT_EMAIL, getWhatsAppUrl } from '@/lib/utils-crescendo';
 import { motion } from 'framer-motion';
 
 const TRUST_INDICATORS = [
-  { icon: Award, value: 'Since 2009', label: 'Trusted for 16+ years' },
-  { icon: Users, value: '500+ Students', label: 'Taught and inspired' },
-  { icon: Package, value: '1640+ Products', label: 'In stock and catalogued' },
-  { icon: MapPin, value: 'Namibia Wide', label: 'Shipping nationwide' },
+  { icon: 'award' as const, value: 'Since 2009', label: 'Trusted for 16+ years' },
+  { icon: 'users' as const, value: '500+ Students', label: 'Taught and inspired' },
+  { icon: 'package' as const, value: '1640+ Products', label: 'In stock and catalogued' },
+  { icon: 'map-pin' as const, value: 'Namibia Wide', label: 'Shipping nationwide' },
 ];
 
 function BrandLogo({ variant }: { variant: 'light' | 'dark' }) {
@@ -133,7 +133,7 @@ export function Footer() {
                   className="flex items-center gap-3 text-sm text-white/80 hover:text-[#25D366] transition-colors group"
                 >
                   <span className="size-9 flex items-center justify-center bg-white/5 group-hover:bg-[#25D366]/15 transition-colors rounded-xl">
-                    <MessageCircle className="size-4" />
+                    <CustomIcon name="message-circle" tone="mono-light" className="size-4" alt="" />
                   </span>
                   <span>
                     <span className="block text-[10px] text-white/40 uppercase tracking-wide">WhatsApp</span>
@@ -145,7 +145,7 @@ export function Footer() {
                   className="flex items-center gap-3 text-sm text-white/80 hover:text-brand-accent transition-colors group"
                 >
                   <span className="size-9 flex items-center justify-center bg-white/5 group-hover:bg-brand-accent/15 transition-colors rounded-xl">
-                    <Phone className="size-4" />
+                    <CustomIcon name="phone" tone="mono-light" className="size-4" alt="" />
                   </span>
                   <span>
                     <span className="block text-[10px] text-white/40 uppercase tracking-wide">Call</span>
@@ -157,7 +157,7 @@ export function Footer() {
                   className="flex items-center gap-3 text-sm text-white/80 hover:text-brand-accent transition-colors group"
                 >
                   <span className="size-9 flex items-center justify-center bg-white/5 group-hover:bg-brand-accent/15 transition-colors rounded-xl">
-                    <Mail className="size-4" />
+                    <CustomIcon name="mail" tone="mono-light" className="size-4" alt="" />
                   </span>
                   <span>
                     <span className="block text-[10px] text-white/40 uppercase tracking-wide">Email</span>
@@ -166,7 +166,7 @@ export function Footer() {
                 </a>
                 <div className="flex items-center gap-3 text-sm text-white/80">
                   <span className="size-9 flex items-center justify-center bg-white/5 rounded-xl">
-                    <MapPin className="size-4" />
+                    <CustomIcon name="map-pin" tone="mono-light" className="size-4" alt="" />
                   </span>
                   <span>
                     <span className="block text-[10px] text-white/40 uppercase tracking-wide">Location</span>
@@ -184,7 +184,7 @@ export function Footer() {
               <div className="grid grid-cols-2 gap-3">
                 {TRUST_INDICATORS.map((item) => (
                   <div key={item.label} className="p-3 bg-white/5 border border-white/10 rounded-2xl">
-                    <item.icon className="size-4 text-brand-accent mb-2" />
+                    <CustomIcon name={item.icon} tone="mono-light" className="size-4 mb-2" alt="" />
                     <p className="text-sm font-bold leading-tight">{item.value}</p>
                     <p className="text-[10px] text-white/50 mt-0.5">{item.label}</p>
                   </div>
@@ -224,7 +224,7 @@ export function Footer() {
           </p>
           <div className="flex items-center gap-3 text-[10px] text-white/40 order-3">
             <span className="flex items-center gap-1">
-              <Shield className="size-3" />
+              <CustomIcon name="shield" tone="mono-light" className="size-3" alt="" />
               Secure Enquiries
             </span>
           </div>

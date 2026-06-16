@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button';
 import { Separator } from '@/components/ui/separator';
 import { ProductCard } from '@/components/products/ProductCard';
 import { ProductImage } from '@/components/products/ProductImage';
-import { MessageCircle, ChevronRight, ShoppingBag, Minus, Plus } from 'lucide-react';
+import { CustomIcon } from '@/components/ui/custom-icon';
 import { useCartStore } from '@/stores/cart-store';
 import {
   formatPrice,
@@ -54,18 +54,18 @@ export function ProductDetailPage({
         <Link href="/" className="hover:text-foreground transition-colors whitespace-nowrap">
           Home
         </Link>
-        <ChevronRight className="size-3.5 flex-shrink-0" />
+        <CustomIcon name="chevron-right" className="size-3.5 flex-shrink-0" alt="" />
         <Link href="/shop" className="hover:text-foreground transition-colors whitespace-nowrap">
           Shop
         </Link>
-        <ChevronRight className="size-3.5 flex-shrink-0" />
+        <CustomIcon name="chevron-right" className="size-3.5 flex-shrink-0" alt="" />
         <Link
           href={`/category/${product.category}`}
           className="hover:text-foreground transition-colors whitespace-nowrap"
         >
           {category?.name || getCategoryName(product.category)}
         </Link>
-        <ChevronRight className="size-3.5 flex-shrink-0" />
+        <CustomIcon name="chevron-right" className="size-3.5 flex-shrink-0" alt="" />
         <span className="text-foreground font-medium truncate">{product.name}</span>
       </nav>
 
@@ -149,7 +149,7 @@ export function ProductDetailPage({
                 className="size-9 flex items-center justify-center hover:bg-accent transition-colors rounded-l-lg"
                 aria-label="Decrease quantity"
               >
-                <Minus className="size-3.5" />
+                <CustomIcon name="minus" className="size-3.5" alt="" />
               </button>
               <span className="w-10 text-center text-sm font-medium">{quantity}</span>
               <button
@@ -157,7 +157,7 @@ export function ProductDetailPage({
                 className="size-9 flex items-center justify-center hover:bg-accent transition-colors rounded-r-lg"
                 aria-label="Increase quantity"
               >
-                <Plus className="size-3.5" />
+                <CustomIcon name="plus" className="size-3.5" alt="" />
               </button>
             </div>
           </div>
@@ -170,7 +170,7 @@ export function ProductDetailPage({
               className="flex-1 h-12 text-base bg-[#25D366] hover:bg-[#20BD5A] text-white"
             >
               <a href={whatsappUrl} target="_blank" rel="noopener noreferrer">
-                <MessageCircle className="size-5 mr-2" />
+                <CustomIcon name="message-circle" tone="mono-light" className="size-5 mr-2" alt="" />
                 Enquire via WhatsApp
               </a>
             </Button>
@@ -181,7 +181,12 @@ export function ProductDetailPage({
               disabled={product.qty <= 0}
               className={`flex-1 h-12 text-base transition-all ${added ? 'bg-brand-accent text-brand-dark' : ''}`}
             >
-              <ShoppingBag className="size-5 mr-2" />
+              <CustomIcon
+                name="shopping-bag"
+                tone={added ? 'mono-dark' : 'default'}
+                className="size-5 mr-2"
+                alt=""
+              />
               {added ? 'Added to List!' : 'Add to Enquiry List'}
             </Button>
           </div>

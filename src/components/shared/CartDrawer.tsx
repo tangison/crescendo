@@ -12,7 +12,7 @@ import {
 import { Button } from '@/components/ui/button';
 import { Separator } from '@/components/ui/separator';
 import { ScrollArea } from '@/components/ui/scroll-area';
-import { Minus, Plus, Trash2, ShoppingBag, MessageCircle, ArrowRight } from 'lucide-react';
+import { CustomIcon } from '@/components/ui/custom-icon';
 import { useCartStore } from '@/stores/cart-store';
 import { formatPrice, getCartWhatsAppMessage, getWhatsAppUrl } from '@/lib/utils-crescendo';
 import { motion, AnimatePresence } from 'framer-motion';
@@ -41,7 +41,7 @@ export function CartDrawer({ open, onOpenChange }: CartDrawerProps) {
       <SheetContent side="right" className="w-[92vw] sm:max-w-md p-0 flex flex-col">
         <SheetHeader className="p-5 pb-3">
           <SheetTitle className="flex items-center gap-2 text-lg">
-            <ShoppingBag className="size-5" />
+            <CustomIcon name="shopping-bag" className="size-5" alt="" />
             Your Enquiry List
             {!isEmpty && (
               <span className="text-xs font-normal text-muted-foreground">
@@ -64,7 +64,7 @@ export function CartDrawer({ open, onOpenChange }: CartDrawerProps) {
               transition={{ duration: 0.3 }}
               className="w-24 h-24 rounded-full bg-secondary flex items-center justify-center mb-5"
             >
-              <ShoppingBag className="size-10 text-muted-foreground" />
+              <CustomIcon name="shopping-bag" className="size-10 text-muted-foreground" alt="" />
             </motion.div>
             <p className="text-base font-semibold mb-1">Your enquiry list is empty</p>
             <p className="text-sm text-muted-foreground mb-6 max-w-xs">
@@ -73,7 +73,7 @@ export function CartDrawer({ open, onOpenChange }: CartDrawerProps) {
             <Button asChild variant="default" size="lg">
               <Link href="/shop" onClick={() => onOpenChange(false)}>
                 Browse Store
-                <ArrowRight className="size-4 ml-2" />
+                <CustomIcon name="arrow-right" className="size-4 ml-2" alt="" />
               </Link>
             </Button>
           </div>
@@ -127,7 +127,7 @@ export function CartDrawer({ open, onOpenChange }: CartDrawerProps) {
                               className="size-7 flex items-center justify-center rounded-md hover:bg-accent transition-colors"
                               aria-label="Decrease quantity"
                             >
-                              <Minus className="size-3" />
+                              <CustomIcon name="minus" className="size-3" alt="" />
                             </button>
                             <span className="w-8 text-center text-sm font-medium tabular-nums">
                               {item.quantity}
@@ -138,14 +138,14 @@ export function CartDrawer({ open, onOpenChange }: CartDrawerProps) {
                               className="size-7 flex items-center justify-center rounded-md hover:bg-accent transition-colors disabled:opacity-40 disabled:cursor-not-allowed"
                               aria-label="Increase quantity"
                             >
-                              <Plus className="size-3" />
+                              <CustomIcon name="plus" className="size-3" alt="" />
                             </button>
                             <button
                               onClick={() => removeItem(item.product.id)}
                               className="size-7 flex items-center justify-center rounded-md hover:bg-destructive/10 text-destructive transition-colors ml-1"
                               aria-label="Remove item"
                             >
-                              <Trash2 className="size-3.5" />
+                              <CustomIcon name="trash" tone="mono-red" className="size-3.5" alt="" />
                             </button>
                           </div>
                         </div>
@@ -181,7 +181,7 @@ export function CartDrawer({ open, onOpenChange }: CartDrawerProps) {
                 className="w-full h-12 text-base bg-[#25D366] hover:bg-[#20BD5A] text-white"
                 size="lg"
               >
-                <MessageCircle className="size-5 mr-2" />
+                <CustomIcon name="message-circle" tone="mono-light" className="size-5 mr-2" alt="" />
                 Enquire on WhatsApp
               </Button>
 

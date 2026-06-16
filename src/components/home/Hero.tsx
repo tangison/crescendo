@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { Button } from '@/components/ui/button';
-import { ArrowRight } from 'lucide-react';
+import { CustomIcon } from '@/components/ui/custom-icon';
 import { motion } from 'framer-motion';
 import { useEffect, useRef, useState, forwardRef } from 'react';
 import { products } from '@/data/products';
@@ -172,14 +172,14 @@ export function Hero() {
             >
               <Link href="/shop">
                 Explore Our Store
-                <ArrowRight className="size-4 sm:size-5 ml-2" />
+                <CustomIcon name="arrow-right" tone="mono-dark" className="size-4 sm:size-5 ml-2" alt="" />
               </Link>
             </Button>
             <Button
               asChild
               variant="outline"
               size="lg"
-              className="h-12 sm:h-14 px-6 sm:px-8 text-sm sm:text-base border-white/30 text-white hover:bg-white/15 hover:text-white hover:border-white/50 backdrop-blur-sm"
+              className="h-12 sm:h-14 px-6 sm:px-8 text-sm sm:text-base bg-transparent border-white/40 text-white hover:bg-white/15 hover:text-white hover:border-white/70 backdrop-blur-sm shadow-lg shadow-black/20"
             >
               <Link href="/book-an-artist">Book an Artist</Link>
             </Button>

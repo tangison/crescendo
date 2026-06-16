@@ -4,7 +4,7 @@ import Link from 'next/link';
 import type { Product } from '@/data/products';
 import { formatPrice, getStockStatus, getProductWhatsAppMessage, getWhatsAppUrl } from '@/lib/utils-crescendo';
 import { motion } from 'framer-motion';
-import { MessageCircle } from 'lucide-react';
+import { CustomIcon } from '@/components/ui/custom-icon';
 import { ProductImage } from './ProductImage';
 
 interface ProductCardProps {
@@ -90,7 +90,7 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
             rel="noopener noreferrer"
             className="mt-2 sm:mt-3 w-full flex items-center justify-center gap-2 h-9 bg-[#25D366] hover:bg-[#20BD5A] text-white text-xs sm:text-sm font-medium transition-colors rounded-xl"
           >
-            <MessageCircle className="size-3.5 sm:size-4" />
+            <CustomIcon name="message-circle" tone="mono-light" className="size-3.5 sm:size-4" alt="" />
             Enquire
           </a>
         </div>

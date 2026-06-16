@@ -5,10 +5,6 @@ const nextConfig: NextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
-  eslint: {
-    // Lint is run separately via npm run lint; do not block production builds
-    ignoreDuringBuilds: true,
-  },
   reactStrictMode: false,
   images: {
     formats: ["image/webp", "image/avif"],

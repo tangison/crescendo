@@ -6,7 +6,7 @@ import { products } from '@/data/products';
 import { categories } from '@/data/categories';
 import { formatPrice, getCategoryName } from '@/lib/utils-crescendo';
 import { CategoryLandingClient } from './CategoryLandingClient';
-import { ArrowRight, ChevronRight, Package, Tag, TrendingUp } from 'lucide-react';
+import { CustomIcon } from '@/components/ui/custom-icon';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -119,9 +119,9 @@ export default async function CategoryPage({ params }: PageProps) {
       <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 pt-5">
         <nav className="flex items-center gap-1.5 text-sm text-muted-foreground overflow-x-auto no-scrollbar">
           <Link href="/" className="hover:text-foreground transition-colors whitespace-nowrap">Home</Link>
-          <ChevronRight className="size-3.5 flex-shrink-0" />
+          <CustomIcon name="chevron-right" className="size-3.5 flex-shrink-0" alt="" />
           <Link href="/shop" className="hover:text-foreground transition-colors whitespace-nowrap">Shop</Link>
-          <ChevronRight className="size-3.5 flex-shrink-0" />
+          <CustomIcon name="chevron-right" className="size-3.5 flex-shrink-0" alt="" />
           <span className="text-foreground font-medium whitespace-nowrap">{category.name}</span>
         </nav>
       </div>
@@ -155,7 +155,7 @@ export default async function CategoryPage({ params }: PageProps) {
                   className="inline-flex items-center gap-2 h-11 px-6 bg-brand-accent hover:bg-brand-accent/90 text-brand-dark text-sm font-semibold transition-colors rounded-xl"
                 >
                   Browse All {category.name}
-                  <ArrowRight className="size-4" />
+                  <CustomIcon name="arrow-right" className="size-4" alt="" />
                 </Link>
               </div>
             </div>
@@ -167,17 +167,17 @@ export default async function CategoryPage({ params }: PageProps) {
       <section className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="grid grid-cols-3 gap-3 sm:gap-4">
           <div className="p-4 sm:p-5 rounded-xl bg-card border border-border">
-            <Package className="size-5 text-brand-accent mb-2" />
+            <CustomIcon name="package" className="size-5 text-brand-accent mb-2" alt="" />
             <p className="text-2xl sm:text-3xl font-black font-mono">{catProducts.length}</p>
             <p className="text-[11px] text-muted-foreground tracking-wide uppercase mt-0.5">Products</p>
           </div>
           <div className="p-4 sm:p-5 rounded-xl bg-card border border-border">
-            <Tag className="size-5 text-brand-accent mb-2" />
+            <CustomIcon name="tag" className="size-5 text-brand-accent mb-2" alt="" />
             <p className="text-2xl sm:text-3xl font-black font-mono">{Object.keys(brandCounts).length}</p>
             <p className="text-[11px] text-muted-foreground tracking-wide uppercase mt-0.5">Brands</p>
           </div>
           <div className="p-4 sm:p-5 rounded-xl bg-card border border-border">
-            <TrendingUp className="size-5 text-brand-accent mb-2" />
+            <CustomIcon name="trending-up" className="size-5 text-brand-accent mb-2" alt="" />
             <p className="text-sm sm:text-base font-black font-mono leading-tight">
               {formatPrice(minPrice)} - {formatPrice(maxPrice)}
             </p>
@@ -223,7 +223,7 @@ export default async function CategoryPage({ params }: PageProps) {
               className="text-xs font-medium text-brand-accent hover:underline flex items-center gap-1"
             >
               View all {catProducts.length} products
-              <ArrowRight className="size-3" />
+              <CustomIcon name="arrow-right" className="size-3" alt="" />
             </Link>
           </div>
           <CategoryLandingClient products={featured} popularSearches={popularSearches} categoryName={category.name} categorySlug={slug} />

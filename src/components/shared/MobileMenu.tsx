@@ -11,7 +11,7 @@ import {
 } from '@/components/ui/sheet';
 import { categories } from '@/data/categories';
 import { WHATSAPP_DISPLAY, getWhatsAppUrl } from '@/lib/utils-crescendo';
-import { Phone, MessageCircle, Music, X } from 'lucide-react';
+import { CustomIcon } from '@/components/ui/custom-icon';
 import { motion } from 'framer-motion';
 
 interface MobileMenuProps {
@@ -45,7 +45,7 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
             aria-label="Close menu"
             className="size-9 flex items-center justify-center rounded-xl hover:bg-white/10 transition-colors"
           >
-            <X className="size-5" />
+            <CustomIcon name="x" tone="mono-light" className="size-5" alt="" />
           </button>
           <SheetDescription className="sr-only">Navigation menu</SheetDescription>
         </SheetHeader>
@@ -124,7 +124,7 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-2 w-full h-12 rounded-xl bg-[#25D366] hover:bg-[#20BD5A] text-white text-sm font-semibold transition-colors"
           >
-            <MessageCircle className="size-4" />
+            <CustomIcon name="message-circle" tone="mono-light" className="size-4" alt="" />
             WhatsApp · {WHATSAPP_DISPLAY}
           </a>
           <div className="grid grid-cols-2 gap-2">
@@ -132,7 +132,7 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
               href={`tel:+${WHATSAPP_DISPLAY.replace(/\D/g, '')}`}
               className="flex items-center justify-center gap-2 h-11 rounded-xl bg-white/5 hover:bg-white/10 text-white text-xs font-medium transition-colors"
             >
-              <Phone className="size-4" />
+              <CustomIcon name="phone" tone="mono-light" className="size-4" alt="" />
               Call Us
             </a>
             <Link
@@ -140,7 +140,7 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
               onClick={() => onOpenChange(false)}
               className="flex items-center justify-center gap-2 h-11 rounded-xl bg-white/5 hover:bg-white/10 text-white text-xs font-medium transition-colors"
             >
-              <Music className="size-4" />
+              <CustomIcon name="music" tone="mono-light" className="size-4" alt="" />
               Book Artist
             </Link>
           </div>

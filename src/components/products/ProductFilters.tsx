@@ -5,7 +5,7 @@ import { products } from '@/data/products';
 import { Badge } from '@/components/ui/badge';
 import { Separator } from '@/components/ui/separator';
 import { ScrollArea } from '@/components/ui/scroll-area';
-import { X } from 'lucide-react';
+import { CustomIcon } from '@/components/ui/custom-icon';
 import { getSkillLevelColor } from '@/lib/utils-crescendo';
 
 interface ProductFiltersProps {
@@ -102,7 +102,7 @@ export function ProductFilters({
             onClick={onClearAll}
             className="text-xs text-brand-accent hover:underline flex items-center gap-1"
           >
-            <X className="size-3" />
+            <CustomIcon name="x" className="size-3" alt="" />
             Clear all
           </button>
         )}
