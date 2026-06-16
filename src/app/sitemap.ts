@@ -26,7 +26,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
-  // Category pages
+  // Category landing pages (curated)
   const categorySlugs = [
     'accessories',
     'wind',
@@ -37,10 +37,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'keyboards',
   ];
   const categoryPages: MetadataRoute.Sitemap = categorySlugs.map((slug) => ({
-    url: `${baseUrl}/shop?category=${slug}`,
+    url: `${baseUrl}/category/${slug}`,
     lastModified: new Date(),
     changeFrequency: 'weekly',
     priority: 0.8,
+  }));
+  // Shop category filter pages (functional)
+  const shopCategoryPages: MetadataRoute.Sitemap = categorySlugs.map((slug) => ({
+    url: `${baseUrl}/shop?category=${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.7,
   }));
 
   // Product pages (limited to first 500 to avoid sitemap bloat)
@@ -54,5 +61,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.6,
     }));
 
-  return [...staticPages, ...categoryPages, ...productPages];
+  return [...staticPages, ...categoryPages, ...shopCategoryPages, ...productPages];
 }

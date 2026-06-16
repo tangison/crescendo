@@ -108,11 +108,26 @@ export default async function ProductPage({ params }: PageProps) {
     },
   };
 
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.crescendona.com' },
+      { '@type': 'ListItem', position: 2, name: 'Shop', item: 'https://www.crescendona.com/shop' },
+      { '@type': 'ListItem', position: 3, name: category?.name || product.category, item: `https://www.crescendona.com/category/${product.category}` },
+      { '@type': 'ListItem', position: 4, name: product.name, item: `https://www.crescendona.com/shop/${product.slug}` },
+    ],
+  };
+
   return (
     <>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
       />
       <ProductDetailPage
         product={product}

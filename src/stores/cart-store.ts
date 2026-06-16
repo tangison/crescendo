@@ -9,7 +9,9 @@ export interface CartItem {
 
 interface CartStore {
   items: CartItem[];
-  addItem: (product: Product) => void;
+  hasHydrated: boolean;
+  setHasHydrated: (state: boolean) => void;
+  addItem: (product: Product, quantity?: number) => void;
   removeItem: (productId: string) => void;
   updateQuantity: (productId: string, quantity: number) => void;
   clearCart: () => void;
@@ -21,8 +23,10 @@ export const useCartStore = create<CartStore>()(
   persist(
     (set, get) => ({
       items: [],
+      hasHydrated: false,
+      setHasHydrated: (state) => set({ hasHydrated: state }),
 
-      addItem: (product: Product) => {
+      addItem: (product: Product, quantity = 1) => {
         set((state) => {
           const existing = state.items.find(
             (item) => item.product.id === product.id
@@ -31,12 +35,12 @@ export const useCartStore = create<CartStore>()(
             return {
               items: state.items.map((item) =>
                 item.product.id === product.id
-                  ? { ...item, quantity: item.quantity + 1 }
+                  ? { ...item, quantity: item.quantity + quantity }
                   : item
               ),
             };
           }
-          return { items: [...state.items, { product, quantity: 1 }] };
+          return { items: [...state.items, { product, quantity }] };
         });
       },
 
@@ -51,9 +55,13 @@ export const useCartStore = create<CartStore>()(
           get().removeItem(productId);
           return;
         }
+        // Cap at available stock
+        const item = get().items.find((i) => i.product.id === productId);
+        const maxQty = item?.product.qty ?? 999;
+        const cappedQty = Math.min(quantity, maxQty);
         set((state) => ({
           items: state.items.map((item) =>
-            item.product.id === productId ? { ...item, quantity } : item
+            item.product.id === productId ? { ...item, quantity: cappedQty } : item
           ),
         }));
       },
@@ -75,6 +83,9 @@ export const useCartStore = create<CartStore>()(
     }),
     {
       name: 'crescendo-cart',
+      onRehydrateStorage: () => (state) => {
+        state?.setHasHydrated(true);
+      },
     }
   )
 );

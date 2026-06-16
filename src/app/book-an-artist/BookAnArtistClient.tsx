@@ -4,13 +4,12 @@ import Image from 'next/image';
 import { Button } from '@/components/ui/button';
 import { MessageCircle, Phone, Mail, Music, Users, Mic } from 'lucide-react';
 import { motion } from 'framer-motion';
+import { getWhatsAppUrl, WHATSAPP_DISPLAY, CONTACT_EMAIL } from '@/lib/utils-crescendo';
 
 export function BookAnArtistPage() {
-  const whatsappUrl =
-    'https://wa.me/264812345678?text=' +
-    encodeURIComponent(
-      'Hi Crescendo! I\'d like to book an artist for an event/lesson. Could you provide more details?'
-    );
+  const whatsappUrl = getWhatsAppUrl(
+    'Hi Crescendo! I\'d like to book an artist for an event/lesson. Could you provide more details?'
+  );
 
   return (
     <div>
@@ -142,18 +141,18 @@ export function BookAnArtistPage() {
 
             <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-8 text-white/50">
               <a
-                href="tel:+264812345678"
+                href={`tel:+${WHATSAPP_DISPLAY.replace(/\D/g, '')}`}
                 className="flex items-center gap-2 text-sm hover:text-white transition-colors"
               >
                 <Phone className="size-4" />
-                +264 81 234 5678
+                {WHATSAPP_DISPLAY}
               </a>
               <a
-                href="mailto:info@crescendo-namibia.com"
+                href={`mailto:${CONTACT_EMAIL}`}
                 className="flex items-center gap-2 text-sm hover:text-white transition-colors"
               >
                 <Mail className="size-4" />
-                info@crescendo-namibia.com
+                {CONTACT_EMAIL}
               </a>
             </div>
           </motion.div>

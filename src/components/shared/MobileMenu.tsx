@@ -2,10 +2,17 @@
 
 import Link from 'next/link';
 import Image from 'next/image';
-import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetDescription } from '@/components/ui/sheet';
-import { Separator } from '@/components/ui/separator';
+import {
+  Sheet,
+  SheetContent,
+  SheetHeader,
+  SheetTitle,
+  SheetDescription,
+} from '@/components/ui/sheet';
 import { categories } from '@/data/categories';
-import { Phone, Mail, MessageCircle, X } from 'lucide-react';
+import { WHATSAPP_DISPLAY, getWhatsAppUrl } from '@/lib/utils-crescendo';
+import { Phone, MessageCircle, Music, X } from 'lucide-react';
+import { motion } from 'framer-motion';
 
 interface MobileMenuProps {
   open: boolean;
@@ -13,109 +20,129 @@ interface MobileMenuProps {
 }
 
 export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
+  const waUrl = getWhatsAppUrl('Hi Crescendo! I have a general enquiry.');
+
   return (
     <Sheet open={open} onOpenChange={onOpenChange}>
-      <SheetContent side="right" className="w-[90vw] max-w-[420px] p-0 flex flex-col bg-brand-dark text-white">
-        <SheetHeader className="p-5 pb-3">
-          <div className="flex items-center justify-between">
-            <SheetTitle className="flex items-center gap-2">
-              <Image
-                src="/branding/crescendo-logo.webp"
-                alt="Crescendo"
-                width={140}
-                height={36}
-                className="h-9 brightness-0 invert"
-                style={{ width: 'auto' }}
-              />
-            </SheetTitle>
-          </div>
+      <SheetContent
+        side="right"
+        className="w-full sm:w-[420px] p-0 flex flex-col bg-brand-dark text-white border-l-0"
+      >
+        {/* Top: Logo + Close */}
+        <SheetHeader className="p-5 pb-3 flex-row items-center justify-between space-y-0">
+          <SheetTitle className="flex items-center">
+            <Image
+              src="/branding/crescendo-logo.webp"
+              alt="Crescendo Namibia"
+              width={150}
+              height={38}
+              className="h-8 brightness-0 invert w-auto"
+            />
+          </SheetTitle>
+          <button
+            onClick={() => onOpenChange(false)}
+            aria-label="Close menu"
+            className="size-9 flex items-center justify-center rounded-lg hover:bg-white/10 transition-colors"
+          >
+            <X className="size-5" />
+          </button>
           <SheetDescription className="sr-only">Navigation menu</SheetDescription>
         </SheetHeader>
 
-        <Separator className="bg-white/10" />
-
-        {/* Navigation Links */}
-        <div className="px-4 py-3 space-y-1">
+        {/* Quick links */}
+        <div className="px-5 pb-3 flex items-center gap-2">
           <Link
             href="/"
             onClick={() => onOpenChange(false)}
-            className="flex items-center gap-3 px-3 py-3 rounded-lg text-sm font-medium tracking-wide uppercase hover:bg-white/10 transition-colors min-h-[44px]"
+            className="flex-1 text-center px-3 py-2.5 rounded-lg text-xs font-medium tracking-wide uppercase bg-white/5 hover:bg-white/10 transition-colors"
           >
             Home
           </Link>
           <Link
             href="/shop"
             onClick={() => onOpenChange(false)}
-            className="flex items-center gap-3 px-3 py-3 rounded-lg text-sm font-medium tracking-wide uppercase hover:bg-white/10 transition-colors min-h-[44px]"
+            className="flex-1 text-center px-3 py-2.5 rounded-lg text-xs font-medium tracking-wide uppercase bg-white/5 hover:bg-white/10 transition-colors"
           >
             Shop All
           </Link>
           <Link
             href="/book-an-artist"
             onClick={() => onOpenChange(false)}
-            className="flex items-center gap-3 px-3 py-3 rounded-lg text-sm font-medium tracking-wide uppercase hover:bg-white/10 transition-colors min-h-[44px]"
+            className="flex-1 text-center px-3 py-2.5 rounded-lg text-xs font-medium tracking-wide uppercase bg-white/5 hover:bg-white/10 transition-colors"
           >
-            Book an Artist
+            Book Artist
           </Link>
         </div>
 
-        <Separator className="bg-white/10" />
-
-        {/* Category Gallery — Image-rich, immersive */}
+        {/* Middle: Visual category cards */}
         <div className="flex-1 overflow-y-auto px-4 py-3">
-          <p className="px-3 pb-3 text-[11px] font-semibold tracking-widest uppercase text-white/50">
-            Categories
+          <p className="px-1 pb-3 text-[10px] font-semibold tracking-[0.25em] uppercase text-white/40">
+            Browse Categories
           </p>
-          <div className="space-y-2">
-            {categories.map((category) => (
-              <Link
+          <div className="grid grid-cols-2 gap-2.5">
+            {categories.map((category, index) => (
+              <motion.div
                 key={category.slug}
-                href={`/shop?category=${category.slug}`}
-                onClick={() => onOpenChange(false)}
-                className="flex items-center gap-4 px-3 py-3 rounded-xl hover:bg-white/10 transition-all group min-h-[72px]"
+                initial={{ opacity: 0, y: 12 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.25, delay: index * 0.04 }}
               >
-                <div className="relative w-16 h-16 rounded-lg overflow-hidden flex-shrink-0 border border-white/10">
+                <Link
+                  href={`/category/${category.slug}`}
+                  onClick={() => onOpenChange(false)}
+                  className="group relative block aspect-[4/3] rounded-xl overflow-hidden border border-white/10"
+                >
                   <Image
                     src={category.image}
                     alt={category.name}
                     fill
-                    className="object-cover group-hover:scale-110 transition-transform duration-300"
-                    sizes="64px"
+                    className="object-cover group-hover:scale-110 transition-transform duration-500"
+                    sizes="(max-width: 420px) 50vw, 200px"
                   />
-                </div>
-                <div className="flex-1 min-w-0">
-                  <p className="text-sm font-semibold tracking-wide uppercase group-hover:text-brand-accent transition-colors">
-                    {category.name}
-                  </p>
-                  <p className="text-xs text-white/50 mt-0.5">
-                    {category.productCount} products
-                  </p>
-                </div>
-              </Link>
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent" />
+                  <div className="absolute inset-0 flex flex-col justify-end p-3">
+                    <p className="text-xs font-bold tracking-wide uppercase text-white leading-tight">
+                      {category.name}
+                    </p>
+                    <p className="text-[10px] text-white/60 mt-0.5">
+                      {category.productCount} products
+                    </p>
+                  </div>
+                  <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-brand-accent scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left" />
+                </Link>
+              </motion.div>
             ))}
           </div>
         </div>
 
-        <Separator className="bg-white/10" />
-
-        {/* Contact Info */}
-        <div className="p-5 space-y-3">
+        {/* Bottom: CTAs */}
+        <div className="p-4 border-t border-white/10 space-y-2 bg-black/30">
           <a
-            href="https://wa.me/264812345678"
+            href={waUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-3 text-sm text-white/70 hover:text-[#25D366] transition-colors min-h-[44px]"
+            className="flex items-center justify-center gap-2 w-full h-12 rounded-xl bg-[#25D366] hover:bg-[#20BD5A] text-white text-sm font-semibold transition-colors"
           >
-            <MessageCircle className="size-4 flex-shrink-0" />
-            <span>+264 81 234 5678</span>
+            <MessageCircle className="size-4" />
+            WhatsApp · {WHATSAPP_DISPLAY}
           </a>
-          <a
-            href="mailto:info@crescendo-namibia.com"
-            className="flex items-center gap-3 text-sm text-white/70 hover:text-white transition-colors min-h-[44px]"
-          >
-            <Mail className="size-4 flex-shrink-0" />
-            <span>info@crescendo-namibia.com</span>
-          </a>
+          <div className="grid grid-cols-2 gap-2">
+            <a
+              href={`tel:+${WHATSAPP_DISPLAY.replace(/\D/g, '')}`}
+              className="flex items-center justify-center gap-2 h-11 rounded-xl bg-white/5 hover:bg-white/10 text-white text-xs font-medium transition-colors"
+            >
+              <Phone className="size-4" />
+              Call Us
+            </a>
+            <Link
+              href="/book-an-artist"
+              onClick={() => onOpenChange(false)}
+              className="flex items-center justify-center gap-2 h-11 rounded-xl bg-white/5 hover:bg-white/10 text-white text-xs font-medium transition-colors"
+            >
+              <Music className="size-4" />
+              Book Artist
+            </Link>
+          </div>
         </div>
       </SheetContent>
     </Sheet>

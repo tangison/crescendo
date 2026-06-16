@@ -4,10 +4,13 @@ export function formatPrice(price: number): string {
   return `N$ ${price.toLocaleString('en-NA', { minimumFractionDigits: 0, maximumFractionDigits: 2 })}`;
 }
 
+export const WHATSAPP_PHONE = '264814623936'; // +264 81 462 3936
+export const WHATSAPP_DISPLAY = '+264 81 462 3936';
+export const CONTACT_EMAIL = 'info@crescendona.com';
+
 export function getWhatsAppUrl(message: string): string {
-  const phone = '264812345678';
   const encoded = encodeURIComponent(message);
-  return `https://wa.me/${phone}?text=${encoded}`;
+  return `https://wa.me/${WHATSAPP_PHONE}?text=${encoded}`;
 }
 
 export function getProductWhatsAppMessage(product: Product): string {

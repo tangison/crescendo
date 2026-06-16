@@ -52,10 +52,10 @@ export const metadata: Metadata = {
     locale: "en_NA",
     images: [
       {
-        url: "/branding/crescendo-logo.webp",
+        url: "/hero/og.webp",
         width: 1200,
         height: 630,
-        alt: "Crescendo Namibia — Your Music, Our Passion",
+        alt: "Crescendo Namibia — World-class music stage in the Namib Desert at golden hour",
       },
     ],
   },
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
     title: "Crescendo Namibia — Your Music, Our Passion",
     description:
       "Namibia's premier music store in Windhoek. Your Music, Our Passion.",
-    images: ["/branding/crescendo-logo.webp"],
+    images: ["/hero/og.webp"],
   },
   robots: {
     index: true,
@@ -96,8 +96,11 @@ export default function RootLayout({
               name: "Crescendo Namibia",
               url: "https://www.crescendona.com",
               logo: "https://www.crescendona.com/branding/crescendo-logo.webp",
+              image: "https://www.crescendona.com/hero/og.webp",
               description:
                 "Namibia's premier music store. Instruments, pro audio, accessories, and expert advice.",
+              slogan: "Your Music, Our Passion",
+              foundingDate: "2009",
               address: {
                 "@type": "PostalAddress",
                 addressLocality: "Windhoek",
@@ -105,11 +108,30 @@ export default function RootLayout({
               },
               contactPoint: {
                 "@type": "ContactPoint",
-                telephone: "+264-81-234-5678",
+                telephone: "+264-81-462-3936",
                 contactType: "sales",
                 availableLanguage: ["English"],
               },
               sameAs: [],
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "Crescendo Namibia",
+              url: "https://www.crescendona.com",
+              potentialAction: {
+                "@type": "SearchAction",
+                target: {
+                  "@type": "EntryPoint",
+                  urlTemplate: "https://www.crescendona.com/shop?q={search_term_string}",
+                },
+                "query-input": "required name=search_term_string",
+              },
             }),
           }}
         />

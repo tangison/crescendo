@@ -45,20 +45,27 @@ export function ProductGrid() {
   const router = useRouter();
 
   const initialCategory = searchParams.get('category') || '';
+  const initialQuery = searchParams.get('q') || '';
 
   const [selectedCategory, setSelectedCategory] = useState<string>(initialCategory);
   const [sortBy, setSortBy] = useState<SortOption>('name-asc');
   const [selectedSkill, setSelectedSkill] = useState<string>('');
   const [currentPage, setCurrentPage] = useState(1);
   const [showFilters, setShowFilters] = useState(false);
-  const [searchQuery, setSearchQuery] = useState('');
-  const [debouncedQuery, setDebouncedQuery] = useState('');
+  const [searchQuery, setSearchQuery] = useState(initialQuery);
+  const [debouncedQuery, setDebouncedQuery] = useState(initialQuery);
   const searchInputRef = useRef<HTMLInputElement>(null);
 
   // Sync state when URL changes (back/forward navigation)
   const urlCategory = searchParams.get('category') || '';
   if (urlCategory !== selectedCategory) {
     setSelectedCategory(urlCategory);
+    setCurrentPage(1);
+  }
+  const urlQuery = searchParams.get('q') || '';
+  if (urlQuery !== searchQuery) {
+    setSearchQuery(urlQuery);
+    setDebouncedQuery(urlQuery);
     setCurrentPage(1);
   }
 
@@ -93,7 +100,8 @@ export function ProductGrid() {
           p.name.toLowerCase().includes(q) ||
           p.brand.toLowerCase().includes(q) ||
           p.category.toLowerCase().includes(q) ||
-          getCategoryName(p.category).toLowerCase().includes(q)
+          getCategoryName(p.category).toLowerCase().includes(q) ||
+          (p.shortDescription || '').toLowerCase().includes(q)
       );
     }
 

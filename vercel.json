@@ -1,16 +1,4 @@
 {
-  "redirects": [
-    {
-      "source": "/cresedona.com",
-      "destination": "https://www.crescendona.com",
-      "permanent": true
-    },
-    {
-      "source": "/www.cresedona.com",
-      "destination": "https://www.crescendona.com",
-      "permanent": true
-    }
-  ],
   "headers": [
     {
       "source": "/(.*)",
@@ -26,6 +14,41 @@
         {
           "key": "Referrer-Policy",
           "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=()"
+        },
+        {
+          "key": "X-XSS-Protection",
+          "value": "1; mode=block"
+        }
+      ]
+    },
+    {
+      "source": "/products/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/hero/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/branding/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
         }
       ]
     }

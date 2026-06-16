@@ -36,11 +36,12 @@ export function ProductDetailPage({
   const stockStatus = getStockStatus(product.qty);
   const whatsappUrl = getWhatsAppUrl(getProductWhatsAppMessage(product));
   const [quantity, setQuantity] = useState(1);
+  const [added, setAdded] = useState(false);
 
   const handleAddToCart = () => {
-    for (let i = 0; i < quantity; i++) {
-      addItem(product);
-    }
+    addItem(product, quantity);
+    setAdded(true);
+    setTimeout(() => setAdded(false), 2000);
   };
 
   // Format description: split by newlines into paragraphs
@@ -59,7 +60,7 @@ export function ProductDetailPage({
         </Link>
         <ChevronRight className="size-3.5 flex-shrink-0" />
         <Link
-          href={`/shop?category=${product.category}`}
+          href={`/category/${product.category}`}
           className="hover:text-foreground transition-colors whitespace-nowrap"
         >
           {category?.name || getCategoryName(product.category)}
@@ -174,13 +175,14 @@ export function ProductDetailPage({
               </a>
             </Button>
             <Button
-              variant="outline"
+              variant={added ? 'default' : 'outline'}
               size="lg"
               onClick={handleAddToCart}
-              className="flex-1 h-12 text-base"
+              disabled={product.qty <= 0}
+              className={`flex-1 h-12 text-base transition-all ${added ? 'bg-brand-accent text-brand-dark' : ''}`}
             >
               <ShoppingBag className="size-5 mr-2" />
-              Add to Enquiry List
+              {added ? 'Added to List!' : 'Add to Enquiry List'}
             </Button>
           </div>
 
@@ -195,7 +197,7 @@ export function ProductDetailPage({
             <div className="flex justify-between">
               <span className="text-muted-foreground">Category</span>
               <Link
-                href={`/shop?category=${product.category}`}
+                href={`/category/${product.category}`}
                 className="font-medium hover:text-brand-accent transition-colors"
               >
                 {getCategoryName(product.category)}
