@@ -43,7 +43,7 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
           <button
             onClick={() => onOpenChange(false)}
             aria-label="Close menu"
-            className="size-9 flex items-center justify-center rounded-lg hover:bg-white/10 transition-colors"
+            className="size-9 flex items-center justify-center rounded-xl hover:bg-white/10 transition-colors"
           >
             <X className="size-5" />
           </button>
@@ -55,21 +55,21 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
           <Link
             href="/"
             onClick={() => onOpenChange(false)}
-            className="flex-1 text-center px-3 py-2.5 rounded-lg text-xs font-medium tracking-wide uppercase bg-white/5 hover:bg-white/10 transition-colors"
+            className="flex-1 text-center px-3 py-2.5 rounded-xl text-xs font-medium tracking-wide uppercase bg-white/5 hover:bg-white/10 transition-colors"
           >
             Home
           </Link>
           <Link
             href="/shop"
             onClick={() => onOpenChange(false)}
-            className="flex-1 text-center px-3 py-2.5 rounded-lg text-xs font-medium tracking-wide uppercase bg-white/5 hover:bg-white/10 transition-colors"
+            className="flex-1 text-center px-3 py-2.5 rounded-xl text-xs font-medium tracking-wide uppercase bg-white/5 hover:bg-white/10 transition-colors"
           >
             Shop All
           </Link>
           <Link
             href="/book-an-artist"
             onClick={() => onOpenChange(false)}
-            className="flex-1 text-center px-3 py-2.5 rounded-lg text-xs font-medium tracking-wide uppercase bg-white/5 hover:bg-white/10 transition-colors"
+            className="flex-1 text-center px-3 py-2.5 rounded-xl text-xs font-medium tracking-wide uppercase bg-white/5 hover:bg-white/10 transition-colors"
           >
             Book Artist
           </Link>
@@ -91,7 +91,7 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
                 <Link
                   href={`/category/${category.slug}`}
                   onClick={() => onOpenChange(false)}
-                  className="group relative block aspect-[4/3] rounded-xl overflow-hidden border border-white/10"
+                  className="group relative block aspect-[4/3] rounded-2xl overflow-hidden border border-white/10"
                 >
                   <Image
                     src={category.image}

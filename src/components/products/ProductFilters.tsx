@@ -186,7 +186,7 @@ export function ProductFilters({
             <button
               key={level}
               onClick={() => toggleSkillLevel(level)}
-              className={`inline-flex items-center px-3 py-1.5 rounded-full text-xs font-medium transition-colors ${
+              className={`inline-flex items-center px-3 py-1.5 rounded-xl text-xs font-medium transition-colors ${
                 selectedSkillLevels.includes(level)
                   ? getSkillLevelColor(level)
                   : 'bg-secondary text-muted-foreground hover:bg-accent'

@@ -275,7 +275,7 @@ export function ProductGrid() {
               <button
                 key={cat.slug || 'all'}
                 onClick={() => handleCategoryChange(cat.slug)}
-                className={`px-4 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-all ${
+                className={`px-4 py-2 rounded-xl text-sm font-medium whitespace-nowrap transition-all ${
                   isActive
                     ? 'bg-primary text-primary-foreground'
                     : 'bg-card border border-border text-foreground hover:border-primary hover:bg-accent'
@@ -344,7 +344,7 @@ export function ProductGrid() {
           <div className="flex flex-wrap gap-2">
             <button
               onClick={() => setSelectedSkill('')}
-              className={`px-3 py-1.5 rounded-full text-xs font-medium transition-colors ${
+              className={`px-3 py-1.5 rounded-xl text-xs font-medium transition-colors ${
                 selectedSkill === ''
                   ? 'bg-primary text-primary-foreground'
                   : 'bg-card border border-border hover:bg-accent'
@@ -358,7 +358,7 @@ export function ProductGrid() {
                 onClick={() =>
                   setSelectedSkill(selectedSkill === level ? '' : level)
                 }
-                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-colors ${
+                className={`px-3 py-1.5 rounded-xl text-xs font-medium transition-colors ${
                   selectedSkill === level
                     ? 'bg-primary text-primary-foreground'
                     : 'bg-card border border-border hover:bg-accent'

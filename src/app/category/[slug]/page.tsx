@@ -152,8 +152,7 @@ export default async function CategoryPage({ params }: PageProps) {
                 </p>
                 <Link
                   href={`/shop?category=${slug}`}
-                  className="inline-flex items-center gap-2 h-11 px-6 bg-brand-accent hover:bg-brand-accent/90 text-brand-dark text-sm font-semibold transition-colors"
-                  style={{ borderRadius: '9999px' }}
+                  className="inline-flex items-center gap-2 h-11 px-6 bg-brand-accent hover:bg-brand-accent/90 text-brand-dark text-sm font-semibold transition-colors rounded-xl"
                 >
                   Browse All {category.name}
                   <ArrowRight className="size-4" />
@@ -204,7 +203,7 @@ export default async function CategoryPage({ params }: PageProps) {
               <Link
                 key={brand.name}
                 href={`/shop?category=${slug}&q=${encodeURIComponent(brand.name)}`}
-                className="px-4 py-2 rounded-full bg-card border border-border text-sm font-medium hover:border-brand-accent hover:text-brand-accent transition-colors"
+                className="px-4 py-2 rounded-xl bg-card border border-border text-sm font-medium hover:border-brand-accent hover:text-brand-accent transition-colors"
               >
                 {brand.name}
                 <span className="ml-2 text-xs text-muted-foreground">{brand.count}</span>

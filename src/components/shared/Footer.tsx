@@ -70,8 +70,7 @@ export function Footer() {
               >
                 <Link
                   href={`/category/${cat.slug}`}
-                  className="group relative block aspect-[4/3] overflow-hidden border border-white/10"
-                  style={{ borderRadius: '0.5rem' }}
+                  className="group relative block aspect-[4/3] overflow-hidden border border-white/10 rounded-2xl"
                 >
                   <Image
                     src={cat.image}
@@ -133,7 +132,7 @@ export function Footer() {
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 text-sm text-white/80 hover:text-[#25D366] transition-colors group"
                 >
-                  <span className="size-9 flex items-center justify-center bg-white/5 group-hover:bg-[#25D366]/15 transition-colors" style={{ borderRadius: '0.5rem' }}>
+                  <span className="size-9 flex items-center justify-center bg-white/5 group-hover:bg-[#25D366]/15 transition-colors rounded-xl">
                     <MessageCircle className="size-4" />
                   </span>
                   <span>
@@ -145,7 +144,7 @@ export function Footer() {
                   href={`tel:+${WHATSAPP_DISPLAY.replace(/\D/g, '')}`}
                   className="flex items-center gap-3 text-sm text-white/80 hover:text-brand-accent transition-colors group"
                 >
-                  <span className="size-9 flex items-center justify-center bg-white/5 group-hover:bg-brand-accent/15 transition-colors" style={{ borderRadius: '0.5rem' }}>
+                  <span className="size-9 flex items-center justify-center bg-white/5 group-hover:bg-brand-accent/15 transition-colors rounded-xl">
                     <Phone className="size-4" />
                   </span>
                   <span>
@@ -157,7 +156,7 @@ export function Footer() {
                   href={`mailto:${CONTACT_EMAIL}`}
                   className="flex items-center gap-3 text-sm text-white/80 hover:text-brand-accent transition-colors group"
                 >
-                  <span className="size-9 flex items-center justify-center bg-white/5 group-hover:bg-brand-accent/15 transition-colors" style={{ borderRadius: '0.5rem' }}>
+                  <span className="size-9 flex items-center justify-center bg-white/5 group-hover:bg-brand-accent/15 transition-colors rounded-xl">
                     <Mail className="size-4" />
                   </span>
                   <span>
@@ -166,7 +165,7 @@ export function Footer() {
                   </span>
                 </a>
                 <div className="flex items-center gap-3 text-sm text-white/80">
-                  <span className="size-9 flex items-center justify-center bg-white/5" style={{ borderRadius: '0.5rem' }}>
+                  <span className="size-9 flex items-center justify-center bg-white/5 rounded-xl">
                     <MapPin className="size-4" />
                   </span>
                   <span>
@@ -184,7 +183,7 @@ export function Footer() {
               </p>
               <div className="grid grid-cols-2 gap-3">
                 {TRUST_INDICATORS.map((item) => (
-                  <div key={item.label} className="p-3 bg-white/5 border border-white/10" style={{ borderRadius: '0.5rem' }}>
+                  <div key={item.label} className="p-3 bg-white/5 border border-white/10 rounded-2xl">
                     <item.icon className="size-4 text-brand-accent mb-2" />
                     <p className="text-sm font-bold leading-tight">{item.value}</p>
                     <p className="text-[10px] text-white/50 mt-0.5">{item.label}</p>

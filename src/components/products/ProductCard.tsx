@@ -26,7 +26,7 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
       transition={{ duration: 0.4, delay: Math.min(index * 0.03, 0.3) }}
       className="group"
     >
-      <div className="bg-card border border-border overflow-hidden transition-all duration-300 hover:shadow-lg" style={{ borderRadius: '0.75rem' }}>
+      <div className="bg-card border border-border overflow-hidden transition-all duration-300 hover:shadow-lg rounded-2xl">
         {/* Image - linked to product detail */}
         <Link href={`/shop/${product.slug}`} className="block">
           <div className="relative aspect-square bg-secondary/30 p-4 sm:p-6 overflow-hidden">
@@ -40,20 +40,20 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
 
             {/* Sale badge */}
             {isOnSale && (
-              <span className="absolute top-2 left-2 inline-flex items-center px-2 py-0.5 bg-red-600 text-white text-[10px] font-bold" style={{ borderRadius: '9999px' }}>
+              <span className="absolute top-2 left-2 inline-flex items-center px-2 py-0.5 bg-red-600 text-white text-[10px] font-bold rounded-xl">
                 Sale
               </span>
             )}
             {/* New badge */}
             {isNew && !isOnSale && (
-              <span className="absolute top-2 left-2 inline-flex items-center px-2 py-0.5 bg-primary text-primary-foreground text-[10px] font-bold" style={{ borderRadius: '9999px' }}>
+              <span className="absolute top-2 left-2 inline-flex items-center px-2 py-0.5 bg-primary text-primary-foreground text-[10px] font-bold rounded-xl">
                 New
               </span>
             )}
             {/* Out of stock overlay */}
             {stockStatus.label === 'Out of Stock' && (
               <div className="absolute inset-0 bg-background/70 flex items-center justify-center">
-                <span className="px-3 py-1 bg-destructive text-white text-xs font-semibold" style={{ borderRadius: '9999px' }}>
+                <span className="px-3 py-1 bg-destructive text-white text-xs font-semibold rounded-xl">
                   Out of Stock
                 </span>
               </div>
@@ -83,13 +83,12 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
             )}
           </div>
 
-          {/* WhatsApp CTA - pill-shaped */}
+          {/* WhatsApp CTA - low-profile rounded-xl */}
           <a
             href={whatsappUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="mt-2 sm:mt-3 w-full flex items-center justify-center gap-2 h-9 bg-[#25D366] hover:bg-[#20BD5A] text-white text-xs sm:text-sm font-medium transition-colors"
-            style={{ borderRadius: '9999px' }}
+            className="mt-2 sm:mt-3 w-full flex items-center justify-center gap-2 h-9 bg-[#25D366] hover:bg-[#20BD5A] text-white text-xs sm:text-sm font-medium transition-colors rounded-xl"
           >
             <MessageCircle className="size-3.5 sm:size-4" />
             Enquire

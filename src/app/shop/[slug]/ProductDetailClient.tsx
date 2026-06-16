@@ -113,7 +113,7 @@ export function ProductDetailPage({
           {/* Badges */}
           <div className="flex flex-wrap items-center gap-2 mt-4">
             <span
-              className={`inline-flex items-center px-2.5 py-1 rounded-full text-xs font-semibold ${getSkillLevelColor(
+              className={`inline-flex items-center px-2.5 py-1 rounded-xl text-xs font-semibold ${getSkillLevelColor(
                 product.skillLevel
               )}`}
             >
@@ -122,7 +122,7 @@ export function ProductDetailPage({
             <Badge variant={stockStatus.variant} className="text-xs">
               {stockStatus.label}
             </Badge>
-            <span className="text-xs text-muted-foreground px-2.5 py-1 rounded-full bg-secondary">
+            <span className="text-xs text-muted-foreground px-2.5 py-1 rounded-xl bg-secondary">
               {getCategoryName(product.category)}
             </span>
           </div>

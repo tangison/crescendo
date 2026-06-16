@@ -238,7 +238,7 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
                     onClick={() => handleSelect(result)}
                     className="w-full flex items-center gap-3 px-5 py-2.5 hover:bg-accent transition-colors text-left group"
                   >
-                    <div className="relative w-12 h-12 overflow-hidden bg-secondary flex-shrink-0 border border-border" style={{ borderRadius: '0.5rem' }}>
+                    <div className="relative w-12 h-12 overflow-hidden bg-secondary flex-shrink-0 border border-border rounded-xl">
                       <ProductImage
                         src={result.image}
                         alt={result.name}
@@ -302,7 +302,7 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
                   <button
                     key={term}
                     onClick={() => handleRecentClick(term)}
-                    className="px-3 py-1.5 rounded-full bg-secondary hover:bg-accent text-xs font-medium transition-colors"
+                    className="px-3 py-1.5 rounded-xl bg-secondary hover:bg-accent text-xs font-medium transition-colors"
                   >
                     {term}
                   </button>
@@ -326,7 +326,7 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
                   <button
                     key={term}
                     onClick={() => handleRecentClick(term)}
-                    className="px-3 py-1.5 rounded-full bg-secondary hover:bg-accent text-xs font-medium transition-colors"
+                    className="px-3 py-1.5 rounded-xl bg-secondary hover:bg-accent text-xs font-medium transition-colors"
                   >
                     {term}
                   </button>

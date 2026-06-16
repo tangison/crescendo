@@ -54,7 +54,7 @@ export function CategoryGrid() {
             >
               <Link
                 href={`/category/${category.slug}`}
-                className="group relative block aspect-[4/3] sm:aspect-[3/2] rounded-xl overflow-hidden"
+                className="group relative block aspect-[4/3] sm:aspect-[3/2] rounded-2xl overflow-hidden"
               >
                 <Image
                   src={category.image}

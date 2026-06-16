@@ -279,16 +279,15 @@
 }
 
 /* ============================================
-   CRESCENDO - Pill-shaped buttons (global)
-   Every button, CTA, and pill-style link uses full radius
+   CRESCENDO - Border Radius System
+   - Action buttons / CTAs: rounded-xl (12px) via Button component
+   - Filter chips / tabs / pills: rounded-xl (12px) - low-profile modern tabs
+   - Product cards / image containers / category cards: rounded-2xl (16px)
+   - True UI primitives (radio, switch, slider, avatar, badge dots): rounded-full
+   - Inputs / textareas: var(--radius) via component classes
    ============================================ */
-button,
-a[class*='rounded'],
-[role='button'] {
-  border-radius: 9999px;
-}
 
-/* Keep square corners only where intentional (cards, containers, inputs, code) */
+/* Keep square corners for inputs, textareas, code blocks */
 input[type='text'],
 input[type='email'],
 input[type='search'],
@@ -301,13 +300,6 @@ select,
 .code-block,
 pre {
   border-radius: var(--radius);
-}
-
-/* Restore sharp corners for images-as-containers and cards */
-[class*='rounded-xl'],
-[class*='rounded-lg'],
-[class*='rounded-2xl'] {
-  border-radius: var(--radius-lg);
 }
 
 /* ============================================
