@@ -13,11 +13,11 @@ export function BookAnArtistPage() {
 
   return (
     <div>
-      {/* Hero Section — Single Image, cropped at bottom */}
+      {/* Hero Section - Single Image, cropped at bottom */}
       <section className="relative w-full h-[60vh] min-h-[400px] overflow-hidden">
         <Image
           src="/products/book-an-artist/book-an-artist-hero.webp"
-          alt="Book an Artist — Live music for your events"
+          alt="Book an Artist: live music for your events"
           fill
           className="object-cover object-bottom"
           priority

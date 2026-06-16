@@ -101,7 +101,7 @@ CountUpStat.displayName = 'CountUpStat';
 export function Hero() {
   return (
     <section className="relative overflow-hidden min-h-[88vh] sm:min-h-[92vh] flex items-center">
-      {/* Background hero image — responsive */}
+      {/* Background hero image - responsive */}
       <div className="absolute inset-0 z-0">
         <Image
           src="/hero/mobile.webp"
@@ -121,7 +121,7 @@ export function Hero() {
         />
         <Image
           src="/hero/desktop.webp"
-          alt="Crescendo Namibia — World-class music stage in the Namib Desert at golden hour"
+          alt="Crescendo Namibia: music stage in the Namib Desert at golden hour"
           fill
           priority
           sizes="100vw"
@@ -129,9 +129,10 @@ export function Hero() {
         />
       </div>
 
-      {/* Gradient overlays for text readability */}
-      <div className="absolute inset-0 z-10 bg-gradient-to-r from-black/80 via-black/50 to-black/30" />
-      <div className="absolute inset-0 z-10 bg-gradient-to-t from-black/70 via-transparent to-black/30" />
+      {/* Gradient overlays for text readability - darker for clean contrast */}
+      <div className="absolute inset-0 z-10 bg-black/50" />
+      <div className="absolute inset-0 z-10 bg-gradient-to-r from-black/90 via-black/70 to-black/40" />
+      <div className="absolute inset-0 z-10 bg-gradient-to-t from-black/80 via-black/30 to-black/40" />
 
       {/* Content */}
       <div className="relative z-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28 w-full">
@@ -155,7 +156,7 @@ export function Hero() {
             <span className="text-brand-accent">Our Passion</span>
           </h1>
           <p className="mt-5 sm:mt-7 text-base sm:text-xl text-white/85 max-w-md leading-relaxed drop-shadow-lg">
-            Instruments, gear, and expertise for every musician — from the dunes of the Namib to stages worldwide.
+            Instruments, gear, and expertise for every musician. From the dunes of the Namib to stages worldwide.
           </p>
 
           <motion.div

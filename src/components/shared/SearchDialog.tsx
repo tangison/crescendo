@@ -2,7 +2,6 @@
 
 import { useState, useCallback, useRef, useMemo, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
-import Image from 'next/image';
 import {
   Dialog,
   DialogContent,
@@ -16,6 +15,7 @@ import { products } from '@/data/products';
 import { categories } from '@/data/categories';
 import { formatPrice, getCategoryName } from '@/lib/utils-crescendo';
 import { motion, AnimatePresence } from 'framer-motion';
+import { ProductImage } from '@/components/products/ProductImage';
 
 interface SearchDialogProps {
   open: boolean;
@@ -74,7 +74,7 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
     setRecentSearches(getRecentSearchesFromStorage());
   }, []);
 
-  // Debounced search — 200ms
+  // Debounced search - 200ms
   const handleQueryChange = useCallback((value: string) => {
     setQuery(value);
     if (debounceRef.current) clearTimeout(debounceRef.current);
@@ -238,12 +238,12 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
                     onClick={() => handleSelect(result)}
                     className="w-full flex items-center gap-3 px-5 py-2.5 hover:bg-accent transition-colors text-left group"
                   >
-                    <div className="relative w-12 h-12 rounded-lg overflow-hidden bg-secondary flex-shrink-0 border border-border">
-                      <Image
+                    <div className="relative w-12 h-12 overflow-hidden bg-secondary flex-shrink-0 border border-border" style={{ borderRadius: '0.5rem' }}>
+                      <ProductImage
                         src={result.image}
                         alt={result.name}
                         fill
-                        className="object-contain img-product p-1"
+                        className="img-product p-1"
                         sizes="48px"
                       />
                     </div>

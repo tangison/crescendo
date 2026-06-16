@@ -1,11 +1,11 @@
 'use client';
 
-import Image from 'next/image';
 import Link from 'next/link';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Separator } from '@/components/ui/separator';
 import { ProductCard } from '@/components/products/ProductCard';
+import { ProductImage } from '@/components/products/ProductImage';
 import { MessageCircle, ChevronRight, ShoppingBag, Minus, Plus } from 'lucide-react';
 import { useCartStore } from '@/stores/cart-store';
 import {
@@ -76,12 +76,12 @@ export function ProductDetailPage({
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.5 }}
         >
-          <div className="relative aspect-square bg-card rounded-2xl border border-border overflow-hidden p-6 sm:p-10">
-            <Image
+          <div className="relative aspect-square bg-card border border-border overflow-hidden p-6 sm:p-10" style={{ borderRadius: '1rem' }}>
+            <ProductImage
               src={product.image}
               alt={product.name}
               fill
-              className="object-contain img-product p-4"
+              className="img-product p-4"
               sizes="(max-width: 1024px) 100vw, 50vw"
               priority
             />
@@ -129,7 +129,7 @@ export function ProductDetailPage({
 
           <Separator className="my-5" />
 
-          {/* Description — preserves newlines for features list */}
+          {/* Description - preserves newlines for features list */}
           {descriptionLines.length > 0 && (
             <div className="text-sm text-muted-foreground leading-relaxed mb-5 space-y-2">
               {descriptionLines.map((line, i) => (

@@ -78,7 +78,7 @@ export function Header() {
         style={{ borderBottom: '1px solid var(--border)' }}
       >
         {/* ============================
-            ROW 1 — Main navigation bar
+            ROW 1 - Main navigation bar
             ============================ */}
         <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-[68px] sm:h-[76px]">
@@ -159,17 +159,20 @@ export function Header() {
               </nav>
             </div>
 
-            {/* Center: Logo (perfectly centered) */}
+            {/* Center: Logo + Wordmark (perfectly centered) */}
             <div className="flex items-center justify-center">
-              <Link href="/" className="flex items-center" aria-label="Crescendo Namibia home">
+              <Link href="/" className="flex items-center gap-2" aria-label="Crescendo home">
                 <Image
                   src="/branding/crescendo-logo.webp"
-                  alt="Crescendo Namibia"
-                  width={180}
-                  height={44}
-                  className="h-8 sm:h-9 md:h-10 w-auto"
+                  alt="Crescendo"
+                  width={36}
+                  height={36}
+                  className="h-7 sm:h-8 md:h-9 w-auto"
                   priority
                 />
+                <span className="text-lg sm:text-xl md:text-2xl font-black tracking-tight text-foreground">
+                  Crescendo
+                </span>
               </Link>
             </div>
 
@@ -204,7 +207,7 @@ export function Header() {
         </div>
 
         {/* ============================
-            ROW 2 — Visual Category Cards (desktop only)
+            ROW 2 - Visual Category Cards (desktop only)
             ============================ */}
         <div className="hidden md:block border-t border-border bg-card/50">
           <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8">

@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const category = categories.find((c) => c.slug === product.category);
   const description =
     product.shortDescription ||
-    `${product.brand} ${product.name} — ${category?.name || product.category} at Crescendo Namibia. Price N$ ${product.price.toLocaleString()}.`;
+    `${product.brand} ${product.name} (${category?.name || product.category}) at Crescendo Namibia. Price N$ ${product.price.toLocaleString()}.`;
 
   const canonical = `https://www.crescendona.com/shop/${product.slug}`;
   const ogImageUrl = `https://www.crescendona.com${product.image}`;
@@ -45,7 +45,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       'buy instruments Namibia',
     ],
     openGraph: {
-      title: `${product.name} — Crescendo Namibia`,
+      title: `${product.name} | Crescendo Namibia`,
       description,
       url: canonical,
       type: 'website',
@@ -58,7 +58,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     },
     twitter: {
       card: 'summary_large_image',
-      title: `${product.name} — Crescendo Namibia`,
+      title: `${product.name} | Crescendo Namibia`,
       description,
       images: [ogImageUrl],
     },
@@ -85,7 +85,7 @@ export default async function ProductPage({ params }: PageProps) {
     image: `https://www.crescendona.com${product.image}`,
     description:
       product.shortDescription ||
-      `${product.brand} ${product.name} — ${category?.name || product.category} at Crescendo Namibia.`,
+      `${product.brand} ${product.name} (${category?.name || product.category}) at Crescendo Namibia.`,
     sku: product.id,
     brand: {
       '@type': 'Brand',

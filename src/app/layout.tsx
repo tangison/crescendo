@@ -18,8 +18,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Crescendo Namibia — Your Music, Our Passion",
-    template: "%s — Crescendo Namibia",
+    default: "Crescendo Namibia: Your Music, Our Passion",
+    template: "%s | Crescendo Namibia",
   },
   description:
     "Namibia's premier music store in Windhoek. Shop guitars, keyboards, drums, pro audio, wind instruments & accessories. Expert advice for every musician.",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   openGraph: {
-    title: "Crescendo Namibia — Your Music, Our Passion",
+    title: "Crescendo Namibia: Your Music, Our Passion",
     description:
       "Namibia's premier music store in Windhoek. Instruments, pro audio, accessories, and expert advice for every musician.",
     siteName: "Crescendo Namibia",
@@ -55,13 +55,13 @@ export const metadata: Metadata = {
         url: "/hero/og.webp",
         width: 1200,
         height: 630,
-        alt: "Crescendo Namibia — World-class music stage in the Namib Desert at golden hour",
+        alt: "Crescendo Namibia: music stage in the Namib Desert at golden hour",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Crescendo Namibia — Your Music, Our Passion",
+    title: "Crescendo Namibia: Your Music, Our Passion",
     description:
       "Namibia's premier music store in Windhoek. Your Music, Our Passion.",
     images: ["/hero/og.webp"],

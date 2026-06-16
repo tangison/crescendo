@@ -61,24 +61,24 @@
   --radius: 0.625rem;
   
   /* ============================================
-     COLOR SYSTEM — World-Class Brand Philosophy
-     Primary: Deep charcoal (authority, sophistication — Landor)
-     Accent: Warm amber/gold (crescendo symbolism, aspiration — Lippincott)
+     COLOR SYSTEM — Crescendo brand
+     Primary: Deep charcoal (authority, trust)
+     Accent: Cyan-blue (matches logo, energy)
      ============================================ */
   
   /* Brand Colors */
-  --brand: oklch(0.22 0.01 260);          /* Deep charcoal — trust & authority */
-  --brand-light: oklch(0.35 0.01 260);     /* Lighter charcoal for hover states */
-  --brand-dark: oklch(0.12 0.01 260);      /* Near-black for emphasis */
-  --brand-accent: oklch(0.72 0.15 65);     /* Warm amber/gold — crescendo warmth */
-  --brand-warm: oklch(0.85 0.06 70);       /* Light warm cream — breathing room */
+  --brand: oklch(0.22 0.01 260);          /* Deep charcoal */
+  --brand-light: oklch(0.35 0.01 260);     /* Lighter charcoal */
+  --brand-dark: oklch(0.12 0.01 260);      /* Near-black */
+  --brand-accent: oklch(0.71 0.14 235);    /* Cyan-blue (logo color) */
+  --brand-warm: oklch(0.96 0.01 235);      /* Light cyan tint */
   
-  /* Core palette — Siegel+Gale simplicity principle */
-  --background: oklch(0.99 0.002 70);      /* Warm off-white, not cold pure white */
-  --foreground: oklch(0.15 0.01 260);      /* Near-black for readability */
+  /* Core palette */
+  --background: oklch(0.99 0.002 70);      /* Warm off-white */
+  --foreground: oklch(0.15 0.01 260);      /* Near-black */
   
   /* Card system */
-  --card: oklch(1 0 0);                    /* Pure white cards on warm background */
+  --card: oklch(1 0 0);                    /* Pure white cards */
   --card-foreground: oklch(0.15 0.01 260);
   
   /* Popover */
@@ -97,24 +97,24 @@
   --muted: oklch(0.96 0.005 70);
   --muted-foreground: oklch(0.50 0.01 260);
   
-  /* Accent — gold highlights, CTAs when primary is too heavy */
-  --accent: oklch(0.96 0.01 70);
+  /* Accent — cyan-blue highlights */
+  --accent: oklch(0.95 0.02 235);
   --accent-foreground: oklch(0.22 0.01 260);
   
   /* Destructive */
   --destructive: oklch(0.577 0.245 27.325);
   
   /* Borders & Inputs */
-  --border: oklch(0.91 0.005 70);          /* Warm border, not cold gray */
+  --border: oklch(0.91 0.005 70);          /* Warm border */
   --input: oklch(0.91 0.005 70);
-  --ring: oklch(0.72 0.15 65);             /* Accent color for focus rings */
+  --ring: oklch(0.71 0.14 235);            /* Cyan-blue focus rings */
   
   /* Charts */
   --chart-1: oklch(0.22 0.01 260);         /* Brand charcoal */
-  --chart-2: oklch(0.72 0.15 65);          /* Brand amber */
+  --chart-2: oklch(0.71 0.14 235);         /* Brand cyan-blue */
   --chart-3: oklch(0.55 0.10 260);         /* Medium blue-gray */
-  --chart-4: oklch(0.82 0.08 70);          /* Warm light */
-  --chart-5: oklch(0.45 0.12 340);         /* Deep rose accent */
+  --chart-4: oklch(0.82 0.08 235);         /* Light cyan */
+  --chart-5: oklch(0.45 0.12 340);         /* Deep rose */
   
   /* Sidebar */
   --sidebar: oklch(0.98 0.003 70);
@@ -124,7 +124,7 @@
   --sidebar-accent: oklch(0.96 0.005 70);
   --sidebar-accent-foreground: oklch(0.22 0.01 260);
   --sidebar-border: oklch(0.91 0.005 70);
-  --sidebar-ring: oklch(0.72 0.15 65);
+  --sidebar-ring: oklch(0.71 0.14 235);
 }
 
 .dark {
@@ -132,8 +132,8 @@
   --brand: oklch(0.85 0.01 260);
   --brand-light: oklch(0.75 0.01 260);
   --brand-dark: oklch(0.95 0.01 260);
-  --brand-accent: oklch(0.78 0.17 65);     /* Brighter amber for dark bg */
-  --brand-warm: oklch(0.30 0.02 70);
+  --brand-accent: oklch(0.75 0.15 235);    /* Brighter cyan-blue for dark bg */
+  --brand-warm: oklch(0.30 0.02 235);
   
   --background: oklch(0.13 0.01 260);      /* Deep dark, not pure black */
   --foreground: oklch(0.96 0.005 70);
@@ -160,22 +160,22 @@
   
   --border: oklch(0.28 0.01 260);
   --input: oklch(0.28 0.01 260);
-  --ring: oklch(0.78 0.17 65);
+  --ring: oklch(0.75 0.15 235);
   
   --chart-1: oklch(0.85 0.01 260);
-  --chart-2: oklch(0.78 0.17 65);
+  --chart-2: oklch(0.75 0.15 235);
   --chart-3: oklch(0.65 0.10 260);
-  --chart-4: oklch(0.55 0.08 70);
+  --chart-4: oklch(0.55 0.08 235);
   --chart-5: oklch(0.70 0.15 340);
   
   --sidebar: oklch(0.18 0.01 260);
   --sidebar-foreground: oklch(0.96 0.005 70);
-  --sidebar-primary: oklch(0.78 0.17 65);
+  --sidebar-primary: oklch(0.75 0.15 235);
   --sidebar-primary-foreground: oklch(0.13 0.01 260);
   --sidebar-accent: oklch(0.25 0.01 260);
   --sidebar-accent-foreground: oklch(0.96 0.005 70);
   --sidebar-border: oklch(0.28 0.01 260);
-  --sidebar-ring: oklch(0.78 0.17 65);
+  --sidebar-ring: oklch(0.75 0.15 235);
 }
 
 @layer base {
@@ -276,4 +276,49 @@
 ::selection {
   background-color: var(--brand-accent);
   color: var(--brand-dark);
+}
+
+/* ============================================
+   CRESCENDO — Pill-shaped buttons (global)
+   Every button, CTA, and pill-style link uses full radius
+   ============================================ */
+button,
+a[class*='rounded'],
+[role='button'] {
+  border-radius: 9999px;
+}
+
+/* Keep square corners only where intentional (cards, containers, inputs, code) */
+input[type='text'],
+input[type='email'],
+input[type='search'],
+input[type='password'],
+input[type='tel'],
+input[type='url'],
+input[type='number'],
+textarea,
+select,
+.code-block,
+pre {
+  border-radius: var(--radius);
+}
+
+/* Restore sharp corners for images-as-containers and cards */
+[class*='rounded-xl'],
+[class*='rounded-lg'],
+[class*='rounded-2xl'] {
+  border-radius: var(--radius-lg);
+}
+
+/* ============================================
+   CRESCENDO — Brand accent helper classes
+   ============================================ */
+.text-brand-accent {
+  color: var(--brand-accent) !important;
+}
+.bg-brand-accent {
+  background-color: var(--brand-accent) !important;
+}
+.border-brand-accent {
+  border-color: var(--brand-accent) !important;
 }

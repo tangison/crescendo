@@ -1,11 +1,11 @@
 'use client';
 
 import Link from 'next/link';
-import Image from 'next/image';
 import type { Product } from '@/data/products';
 import { formatPrice, getStockStatus, getProductWhatsAppMessage, getWhatsAppUrl } from '@/lib/utils-crescendo';
 import { motion } from 'framer-motion';
 import { MessageCircle } from 'lucide-react';
+import { ProductImage } from './ProductImage';
 
 interface ProductCardProps {
   product: Product;
@@ -26,34 +26,34 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
       transition={{ duration: 0.4, delay: Math.min(index * 0.03, 0.3) }}
       className="group"
     >
-      <div className="bg-card rounded-xl border border-border overflow-hidden transition-all duration-300 hover:shadow-lg">
-        {/* Image — linked to product detail */}
+      <div className="bg-card border border-border overflow-hidden transition-all duration-300 hover:shadow-lg" style={{ borderRadius: '0.75rem' }}>
+        {/* Image - linked to product detail */}
         <Link href={`/shop/${product.slug}`} className="block">
           <div className="relative aspect-square bg-secondary/30 p-4 sm:p-6 overflow-hidden">
-            <Image
+            <ProductImage
               src={product.image}
               alt={product.name}
               fill
-              className="object-contain img-product transition-transform duration-500 group-hover:scale-105 p-3"
+              className="img-product transition-transform duration-500 group-hover:scale-105 p-3"
               sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
             />
 
             {/* Sale badge */}
             {isOnSale && (
-              <span className="absolute top-2 left-2 inline-flex items-center px-2 py-0.5 rounded-full bg-red-600 text-white text-[10px] font-bold">
+              <span className="absolute top-2 left-2 inline-flex items-center px-2 py-0.5 bg-red-600 text-white text-[10px] font-bold" style={{ borderRadius: '9999px' }}>
                 Sale
               </span>
             )}
             {/* New badge */}
             {isNew && !isOnSale && (
-              <span className="absolute top-2 left-2 inline-flex items-center px-2 py-0.5 rounded-full bg-primary text-primary-foreground text-[10px] font-bold">
+              <span className="absolute top-2 left-2 inline-flex items-center px-2 py-0.5 bg-primary text-primary-foreground text-[10px] font-bold" style={{ borderRadius: '9999px' }}>
                 New
               </span>
             )}
             {/* Out of stock overlay */}
             {stockStatus.label === 'Out of Stock' && (
               <div className="absolute inset-0 bg-background/70 flex items-center justify-center">
-                <span className="px-3 py-1 rounded-full bg-destructive text-white text-xs font-semibold">
+                <span className="px-3 py-1 bg-destructive text-white text-xs font-semibold" style={{ borderRadius: '9999px' }}>
                   Out of Stock
                 </span>
               </div>
@@ -83,12 +83,13 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
             )}
           </div>
 
-          {/* WhatsApp CTA */}
+          {/* WhatsApp CTA - pill-shaped */}
           <a
             href={whatsappUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="mt-2 sm:mt-3 w-full flex items-center justify-center gap-2 h-9 rounded-lg bg-[#25D366] hover:bg-[#20BD5A] text-white text-xs sm:text-sm font-medium transition-colors"
+            className="mt-2 sm:mt-3 w-full flex items-center justify-center gap-2 h-9 bg-[#25D366] hover:bg-[#20BD5A] text-white text-xs sm:text-sm font-medium transition-colors"
+            style={{ borderRadius: '9999px' }}
           >
             <MessageCircle className="size-3.5 sm:size-4" />
             Enquire

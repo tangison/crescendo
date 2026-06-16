@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!category) return { title: 'Category Not Found' };
 
   const catProducts = products.filter((p) => p.category === slug);
-  const title = `${category.name} — ${catProducts.length}+ Products | Crescendo Namibia`;
+  const title = `${category.name}: ${catProducts.length}+ Products at Crescendo Namibia`;
   const description = `Shop ${category.name.toLowerCase()} at Crescendo Namibia. ${category.description} ${catProducts.length}+ products from top brands. Expert advice, Namibia-wide shipping since 2009.`;
 
   return {
@@ -129,7 +129,7 @@ export default async function CategoryPage({ params }: PageProps) {
       {/* Category Hero */}
       <section className="relative overflow-hidden mt-4">
         <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="relative rounded-2xl overflow-hidden aspect-[21/9] sm:aspect-[3/1]">
+          <div className="relative overflow-hidden aspect-[21/9] sm:aspect-[3/1]" style={{ borderRadius: '1rem' }}>
             <Image
               src={category.image}
               alt={category.name}
@@ -152,7 +152,8 @@ export default async function CategoryPage({ params }: PageProps) {
                 </p>
                 <Link
                   href={`/shop?category=${slug}`}
-                  className="inline-flex items-center gap-2 h-11 px-6 rounded-lg bg-brand-accent hover:bg-brand-accent/90 text-brand-dark text-sm font-semibold transition-colors"
+                  className="inline-flex items-center gap-2 h-11 px-6 bg-brand-accent hover:bg-brand-accent/90 text-brand-dark text-sm font-semibold transition-colors"
+                  style={{ borderRadius: '9999px' }}
                 >
                   Browse All {category.name}
                   <ArrowRight className="size-4" />

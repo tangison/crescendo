@@ -2,7 +2,7 @@ import { BookAnArtistPage } from './BookAnArtistClient';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Book an Artist — Live Music & Lessons in Windhoek',
+  title: 'Book an Artist: Live Music and Lessons in Windhoek',
   description:
     'Book professional musicians for live events or music lessons in Windhoek, Namibia. Live music for weddings, corporate events, and private functions. Experienced artists available.',
   alternates: {
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     'Crescendo artists',
   ],
   openGraph: {
-    title: 'Book an Artist — Crescendo Namibia',
+    title: 'Book an Artist | Crescendo Namibia',
     description:
       'Live music for your events. Professional musicians for lessons. Book through Crescendo Namibia.',
     url: 'https://www.crescendona.com/book-an-artist',
@@ -25,13 +25,13 @@ export const metadata: Metadata = {
     images: [
       {
         url: '/products/book-an-artist/book-an-artist-hero.webp',
-        alt: 'Book an Artist — Live music for your events',
+        alt: 'Book an Artist: live music for your events',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Book an Artist — Crescendo Namibia',
+    title: 'Book an Artist | Crescendo Namibia',
     description: 'Live music for your events. Professional musicians for lessons.',
     images: ['/products/book-an-artist/book-an-artist-hero.webp'],
   },
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
 const serviceLd = {
   '@context': 'https://schema.org',
   '@type': 'Service',
-  name: 'Book an Artist — Live Music & Lessons',
+  name: 'Book an Artist: Live Music and Lessons',
   serviceType: 'Live Music Performance & Music Lessons',
   provider: {
     '@type': 'Organization',

@@ -19,7 +19,7 @@ export function getProductWhatsAppMessage(product: Product): string {
 
 export function getCartWhatsAppMessage(items: { product: Product; quantity: number }[]): string {
   const lines = items.map(
-    (item) => `• ${item.product.name} (x${item.quantity}) — ${formatPrice(item.product.price * item.quantity)}`
+    (item) => `• ${item.product.name} (x${item.quantity}): ${formatPrice(item.product.price * item.quantity)}`
   );
   const total = items.reduce((sum, item) => sum + item.product.price * item.quantity, 0);
   return `Hi Crescendo! I'd like to enquire about:\n\n${lines.join('\n')}\n\nTotal: ${formatPrice(total)}`;
@@ -47,11 +47,11 @@ export function getCategoryName(slug: string): string {
 export function getSkillLevelColor(level: string): string {
   switch (level) {
     case 'Beginner':
-      return 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-200';
+      return 'bg-sky-100 text-sky-800 dark:bg-sky-900 dark:text-sky-200';
     case 'Intermediate':
-      return 'bg-amber-100 text-amber-800 dark:bg-amber-900 dark:text-amber-200';
+      return 'bg-cyan-100 text-cyan-800 dark:bg-cyan-900 dark:text-cyan-200';
     case 'Professional':
-      return 'bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-200';
+      return 'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200';
     default:
       return 'bg-secondary text-secondary-foreground';
   }

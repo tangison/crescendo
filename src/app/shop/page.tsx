@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     'Crescendo shop',
   ],
   openGraph: {
-    title: 'Shop — Crescendo Namibia',
+    title: 'Shop | Crescendo Namibia',
     description:
       'Browse our full collection of 1640+ instruments, pro audio gear, and accessories in Windhoek, Namibia.',
     url: 'https://www.crescendona.com/shop',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Shop — Crescendo Namibia',
+    title: 'Shop | Crescendo Namibia',
     description: 'Browse 1640+ instruments, pro audio gear, and accessories in Windhoek, Namibia.',
   },
 };

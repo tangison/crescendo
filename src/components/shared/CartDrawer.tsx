@@ -1,6 +1,5 @@
 'use client';
 
-import Image from 'next/image';
 import Link from 'next/link';
 import {
   Sheet,
@@ -17,6 +16,7 @@ import { Minus, Plus, Trash2, ShoppingBag, MessageCircle, ArrowRight } from 'luc
 import { useCartStore } from '@/stores/cart-store';
 import { formatPrice, getCartWhatsAppMessage, getWhatsAppUrl } from '@/lib/utils-crescendo';
 import { motion, AnimatePresence } from 'framer-motion';
+import { ProductImage } from '@/components/products/ProductImage';
 
 interface CartDrawerProps {
   open: boolean;
@@ -95,13 +95,14 @@ export function CartDrawer({ open, onOpenChange }: CartDrawerProps) {
                       <Link
                         href={`/shop/${item.product.slug}`}
                         onClick={() => onOpenChange(false)}
-                        className="relative w-20 h-20 rounded-md overflow-hidden bg-secondary flex-shrink-0 border border-border"
+                        className="relative w-20 h-20 overflow-hidden bg-secondary flex-shrink-0 border border-border"
+                        style={{ borderRadius: '0.375rem' }}
                       >
-                        <Image
+                        <ProductImage
                           src={item.product.image}
                           alt={item.product.name}
                           fill
-                          className="object-contain img-product p-1"
+                          className="img-product p-1"
                           sizes="80px"
                         />
                       </Link>

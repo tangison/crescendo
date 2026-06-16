@@ -193,7 +193,7 @@ export function ProductGrid() {
         </p>
       </div>
 
-      {/* Search Bar — clean, centered */}
+      {/* Search Bar - clean, centered */}
       <div className="relative mb-4">
         <div className="relative">
           <Search className="absolute left-4 top-1/2 -translate-y-1/2 size-5 text-muted-foreground pointer-events-none" />
@@ -266,7 +266,7 @@ export function ProductGrid() {
         )}
       </div>
 
-      {/* Category Pills — horizontal scrollable on mobile */}
+      {/* Category Pills - horizontal scrollable on mobile */}
       <div className="mb-4 -mx-4 px-4 overflow-x-auto no-scrollbar">
         <div className="flex gap-2 w-max pb-1">
           {CATEGORY_PILLS.map((cat) => {
@@ -335,7 +335,7 @@ export function ProductGrid() {
         </div>
       </div>
 
-      {/* Secondary Filter Row — hidden by default */}
+      {/* Secondary Filter Row - hidden by default */}
       {showFilters && (
         <div className="mb-4 p-4 rounded-xl bg-secondary/30 border border-border">
           <p className="text-[11px] font-semibold tracking-widest uppercase text-muted-foreground mb-2">

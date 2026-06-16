@@ -28,16 +28,17 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
         side="right"
         className="w-full sm:w-[420px] p-0 flex flex-col bg-brand-dark text-white border-l-0"
       >
-        {/* Top: Logo + Close */}
+        {/* Top: Logo + Wordmark + Close */}
         <SheetHeader className="p-5 pb-3 flex-row items-center justify-between space-y-0">
-          <SheetTitle className="flex items-center">
+          <SheetTitle className="flex items-center gap-2">
             <Image
               src="/branding/crescendo-logo.webp"
-              alt="Crescendo Namibia"
-              width={150}
-              height={38}
-              className="h-8 brightness-0 invert w-auto"
+              alt="Crescendo"
+              width={32}
+              height={32}
+              className="h-7 w-auto"
             />
+            <span className="text-lg font-black tracking-tight text-white">Crescendo</span>
           </SheetTitle>
           <button
             onClick={() => onOpenChange(false)}
