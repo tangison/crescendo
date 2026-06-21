@@ -1,20 +1,51 @@
 /**
- * CustomIcon — Renders a custom AI-generated illustrative icon from /public/icons/*.png
+ * CustomIcon — renders a crisp, single-color SVG icon from `lucide-react`.
  *
- * Replaces lucide-react icons with branded custom imagery.
- * Accepts the same `className` API as lucide icons (e.g. "size-4", "size-5").
+ * This replaces the previous generation of multi-color illustrative PNG icons
+ * (which were blurry at 16–24px and could not be cleanly recolored). Lucide
+ * icons use `stroke="currentColor"`, so color is inherited from Tailwind
+ * `text-*` utilities — no CSS filters needed.
  *
- * Tone modes:
- *   - "default"   : show as-is (cyan-blue + charcoal on transparent) — best on light/white backgrounds.
- *   - "mono-dark" : CSS filter to solid black — for use on light/colored buttons where dark text is shown.
- *   - "mono-light": CSS filter to solid white — for use on dark/charcoal backgrounds where light text is shown.
+ * Tone modes (kept for backwards compatibility with the previous API):
+ *   - "default"   : uses currentColor — controlled by `className="text-…"`
+ *   - "mono-dark" : forces dark color (`text-brand-dark` / `text-gray-900`)
+ *   - "mono-light": forces light color (`text-white`)
+ *   - "mono-red"  : forces destructive color (`text-destructive`)
  *
  * Usage:
  *   <CustomIcon name="search" className="size-5" />
  *   <CustomIcon name="message-circle" className="size-4" tone="mono-light" />
+ *   <CustomIcon name="trash" className="size-4" tone="mono-red" alt="Remove" />
  */
 
-import Image, { type ImageProps } from 'next/image';
+import {
+  ArrowRight,
+  ChevronRight,
+  ChevronLeft,
+  ChevronDown,
+  MessageCircle,
+  Phone,
+  Mail,
+  ShoppingBag,
+  Package,
+  Tag,
+  Trash,
+  Users,
+  Award,
+  Shield,
+  MapPin,
+  Music,
+  Mic,
+  Search,
+  Sliders,
+  Menu,
+  X,
+  Plus,
+  Minus,
+  LayoutGrid,
+  TrendingUp,
+  type LucideIcon,
+} from 'lucide-react';
 
 export type IconName =
   | 'arrow-right'
@@ -50,23 +81,51 @@ interface CustomIconProps {
   className?: string;
   /** Accessible label. If omitted, icon is decorative (aria-hidden). */
   alt?: string;
-  /** Override the default width/height (defaults to 24 to match lucide). */
+  /** Override the default size (defaults to 24 to match lucide). */
   width?: number;
   height?: number;
+  /** Stroke width override (defaults to 2 — lucide default). */
+  strokeWidth?: number;
   /** Visual tone — see comment above. */
   tone?: IconTone;
-  /** Optional priority loading (rarely needed for icons). */
-  priority?: ImageProps['priority'];
 }
 
-const TONE_FILTER: Record<IconTone, string> = {
+const ICONS: Record<IconName, LucideIcon> = {
+  'arrow-right': ArrowRight,
+  'chevron-right': ChevronRight,
+  'chevron-left': ChevronLeft,
+  'chevron-down': ChevronDown,
+  'message-circle': MessageCircle,
+  phone: Phone,
+  mail: Mail,
+  'shopping-bag': ShoppingBag,
+  package: Package,
+  tag: Tag,
+  trash: Trash,
+  users: Users,
+  award: Award,
+  shield: Shield,
+  'map-pin': MapPin,
+  music: Music,
+  mic: Mic,
+  search: Search,
+  sliders: Sliders,
+  menu: Menu,
+  x: X,
+  plus: Plus,
+  minus: Minus,
+  'layout-grid': LayoutGrid,
+  'trending-up': TrendingUp,
+};
+
+const TONE_CLASS: Record<IconTone, string> = {
   default: '',
-  // brightness(0) -> solid black; for use where text is dark (e.g. on cyan/light buttons)
-  'mono-dark': 'brightness(0)',
-  // brightness(0) invert(1) -> solid white; for use where text is light (e.g. on dark/charcoal bg)
-  'mono-light': 'brightness(0) invert(1)',
-  // solid red for destructive contexts (trash, delete)
-  'mono-red': 'brightness(0) sepia(1) saturate(8) hue-rotate(-30deg) brightness(1.2)',
+  // For use on light/colored buttons where dark icon is needed
+  'mono-dark': 'text-brand-dark',
+  // For use on dark/charcoal backgrounds where light icon is needed
+  'mono-light': 'text-white',
+  // For destructive contexts (trash, delete)
+  'mono-red': 'text-destructive',
 };
 
 export function CustomIcon({
@@ -75,23 +134,29 @@ export function CustomIcon({
   alt,
   width = 24,
   height = 24,
+  strokeWidth = 2,
   tone = 'default',
-  priority,
 }: CustomIconProps) {
-  const src = `/icons/${name}.png`;
-  const filter = TONE_FILTER[tone];
-  const filterStyle = filter ? { filter } : undefined;
+  const Icon = ICONS[name];
+  if (!Icon) {
+    if (process.env.NODE_ENV !== 'production') {
+      console.warn(`[CustomIcon] Unknown icon name: ${name}`);
+    }
+    return null;
+  }
+
+  const toneClass = TONE_CLASS[tone];
+  const isDecorative = !alt;
+
   return (
-    <Image
-      src={src}
-      alt={alt ?? ''}
+    <Icon
       width={width}
       height={height}
-      style={filterStyle}
-      className={`pointer-events-none select-none inline-block shrink-0 ${className}`}
-      aria-hidden={alt ? undefined : true}
-      role={alt ? 'img' : undefined}
-      priority={priority}
+      strokeWidth={strokeWidth}
+      className={`pointer-events-none select-none inline-block shrink-0 ${toneClass} ${className}`}
+      aria-hidden={isDecorative ? true : undefined}
+      role={isDecorative ? undefined : 'img'}
+      aria-label={isDecorative ? undefined : alt}
     />
   );
 }

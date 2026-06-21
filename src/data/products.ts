@@ -72,7 +72,7 @@ export const products: Product[] = [
     price: 570.0,
     qty: 265,
     skillLevel: "Beginner",
-    image: "/products/catalog/67-1-rodelink-filmmaker-kit-rode-filmmaker-rx-tx-wireless-kit-lavalier-mic.webp",
+    image: "/products/accessories/mic-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. ADV Sound delivers quality audio gear for everyday listening. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -912,7 +912,7 @@ export const products: Product[] = [
     price: 14195.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/catalog/rode-lavalier-go-professional-grade-wearable-microphone.webp",
+    image: "/products/accessories/mic-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -948,7 +948,7 @@ export const products: Product[] = [
     price: 16470.0,
     qty: 3,
     skillLevel: "Professional",
-    image: "/products/catalog/dji-mini-3-pro-standard-controller-2.webp",
+    image: "/products/accessories/mic-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -1296,7 +1296,7 @@ export const products: Product[] = [
     price: 895.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/catalog/458-4588914-yanagisawa-wo-1-e-flat-alto-saxophone.webp",
+    image: "/products/accessories/mic-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Conn Selmer represents legendary American wind instrument craftsmanship. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1320,7 +1320,7 @@ export const products: Product[] = [
     price: 1555.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/catalog/0000144-trinity-theory-of-music-workbook-gr-1.webp",
+    image: "/products/strings/gc-violin-44.webp",
     shortDescription: "Cello with deep, resonant low-end response. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1368,7 +1368,7 @@ export const products: Product[] = [
     price: 755.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/catalog/0000144-trinity-theory-of-music-workbook-gr-1.webp",
+    image: "/products/strings/artisan-student-violin.webp",
     shortDescription: "Cello with deep, resonant low-end response. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1464,7 +1464,7 @@ export const products: Product[] = [
     price: 60.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/catalog/sig-10-overhead-2-vert-medium.webp",
+    image: "/products/guitars/cort-ad810-acoustic.webp",
     shortDescription: "Guitar strings engineered for tone and durability. Dean Markley strings deliver tone trusted by performers. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• High-quality materials for consistent tone\n• Available in various gauges\n• Corrosion-resistant for extended life\n• Engineered for your playing style\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3072,7 +3072,7 @@ export const products: Product[] = [
     price: 4495.0,
     qty: 0,
     skillLevel: "Intermediate",
-    image: "/products/catalog/new-qsc.webp",
+    image: "/products/drums/roland-td17kv2.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gibraltar hardware provides rock-solid support for drummers. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -3300,7 +3300,7 @@ export const products: Product[] = [
     price: 17275.0,
     qty: 0,
     skillLevel: "Professional",
-    image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
+    image: "/products/accessories/mic-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -3480,7 +3480,7 @@ export const products: Product[] = [
     price: 2050.0,
     qty: 6,
     skillLevel: "Intermediate",
-    image: "/products/catalog/dji-mini-3-pro-standard-controller-2.webp",
+    image: "/products/accessories/guitar-strap.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -3528,7 +3528,7 @@ export const products: Product[] = [
     price: 95.0,
     qty: 122,
     skillLevel: "Beginner",
-    image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
+    image: "/products/accessories/guitar-strap.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3552,7 +3552,7 @@ export const products: Product[] = [
     price: 95.0,
     qty: 101,
     skillLevel: "Beginner",
-    image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
+    image: "/products/accessories/keyboard-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3564,7 +3564,7 @@ export const products: Product[] = [
     price: 85.0,
     qty: 135,
     skillLevel: "Beginner",
-    image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
+    image: "/products/accessories/mic-mute-button.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3768,7 +3768,7 @@ export const products: Product[] = [
     price: 280.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/catalog/vivitek-novodisplay-dk653-port-description.webp",
+    image: "/products/accessories/mic-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4452,7 +4452,7 @@ export const products: Product[] = [
     price: 50.0,
     qty: 32,
     skillLevel: "Beginner",
-    image: "/products/catalog/power-dynamic-mics.webp",
+    image: "/products/accessories/mic-stand.webp",
     shortDescription: "Premium cable with reliable signal transmission. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4464,7 +4464,7 @@ export const products: Product[] = [
     price: 75.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/catalog/power-dynamic-mics.webp",
+    image: "/products/accessories/guitar-strap.webp",
     shortDescription: "Premium cable with reliable signal transmission. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4896,7 +4896,7 @@ export const products: Product[] = [
     price: 75.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/catalog/boya-by-wm4-pro-k1-digital-wireless-microphone-front-3000x.webp",
+    image: "/products/pro-audio/shure-ksm8.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4920,7 +4920,7 @@ export const products: Product[] = [
     price: 550.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/catalog/boya-by-wm4-pro-k1-digital-wireless-microphone-front-3000x.webp",
+    image: "/products/pro-audio/focusrite-scarlett-2i2.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5052,7 +5052,7 @@ export const products: Product[] = [
     price: 470.0,
     qty: 28,
     skillLevel: "Beginner",
-    image: "/products/catalog/0008587-rode-sm6-shock-mount-with-detachable-pop-filter.webp",
+    image: "/products/pro-audio/shure-ksm8.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5088,7 +5088,7 @@ export const products: Product[] = [
     price: 325.0,
     qty: 119,
     skillLevel: "Beginner",
-    image: "/products/catalog/0008587-rode-sm6-shock-mount-with-detachable-pop-filter.webp",
+    image: "/products/pro-audio/focusrite-scarlett-2i2.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6324,7 +6324,7 @@ export const products: Product[] = [
     price: 920.0,
     qty: 32,
     skillLevel: "Beginner",
-    image: "/products/catalog/sig-10-overhead-2-vert-medium.webp",
+    image: "/products/strings/gc-violin-44.webp",
     shortDescription: "Cello with deep, resonant low-end response. Jargar strings are handcrafted in Denmark for orchestral players. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6348,7 +6348,7 @@ export const products: Product[] = [
     price: 1195.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/catalog/sig-10-overhead-2-vert-medium.webp",
+    image: "/products/strings/artisan-student-violin.webp",
     shortDescription: "Cello with deep, resonant low-end response. Jargar strings are handcrafted in Denmark for orchestral players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6372,7 +6372,7 @@ export const products: Product[] = [
     price: 995.0,
     qty: 13,
     skillLevel: "Beginner",
-    image: "/products/catalog/sig-10-overhead-2-vert-medium.webp",
+    image: "/products/strings/al2044-violin.webp",
     shortDescription: "Cello with deep, resonant low-end response. Jargar strings are handcrafted in Denmark for orchestral players. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6396,7 +6396,7 @@ export const products: Product[] = [
     price: 1095.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/catalog/sig-10-overhead-2-vert-medium.webp",
+    image: "/products/strings/mason-violin.webp",
     shortDescription: "Cello with deep, resonant low-end response. Jargar strings are handcrafted in Denmark for orchestral players. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6828,7 +6828,7 @@ export const products: Product[] = [
     price: 145.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/catalog/shure-ksm8-nickel-wired-on-white-hr1.webp",
+    image: "/products/strings/gc-violin-44.webp",
     shortDescription: "Orchestral string instrument for classical and contemporary players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for students and advancing players\n• Durable materials\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6996,7 +6996,7 @@ export const products: Product[] = [
     price: 348.6,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/catalog/458-4588914-yanagisawa-wo-1-e-flat-alto-saxophone.webp",
+    image: "/products/strings/gc-violin-44.webp",
     shortDescription: "Mute for quieter practice. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Reduces volume for quiet practice\n• Easy to attach and remove\n• Doesn't affect tone quality\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7380,7 +7380,7 @@ export const products: Product[] = [
     price: 60.0,
     qty: 40,
     skillLevel: "Beginner",
-    image: "/products/catalog/boya-by-wm4-pro-k1-digital-wireless-microphone-front-3000x.webp",
+    image: "/products/pro-audio/shure-pga58.webp",
     shortDescription: "XLR or instrument cable with reliable signal transmission. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality connectors for reliable signal\n• Shielded to reduce noise\n• Flexible jacket resists kinking\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7392,7 +7392,7 @@ export const products: Product[] = [
     price: 95.0,
     qty: 96,
     skillLevel: "Beginner",
-    image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
+    image: "/products/pro-audio/shure-ksm8.webp",
     shortDescription: "XLR or instrument cable with reliable signal transmission. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality connectors for reliable signal\n• Shielded to reduce noise\n• Flexible jacket resists kinking\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7404,7 +7404,7 @@ export const products: Product[] = [
     price: 95.0,
     qty: 52,
     skillLevel: "Beginner",
-    image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
+    image: "/products/pro-audio/focusrite-scarlett-2i2.webp",
     shortDescription: "XLR or instrument cable with reliable signal transmission. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality connectors for reliable signal\n• Shielded to reduce noise\n• Flexible jacket resists kinking\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7476,7 +7476,7 @@ export const products: Product[] = [
     price: 1295.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/catalog/rode-lavalier-go-professional-grade-wearable-microphone.webp",
+    image: "/products/accessories/guitar-strap.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7488,7 +7488,7 @@ export const products: Product[] = [
     price: 1295.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/catalog/rode-lavalier-go-professional-grade-wearable-microphone.webp",
+    image: "/products/accessories/keyboard-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7512,7 +7512,7 @@ export const products: Product[] = [
     price: 480.0,
     qty: 19,
     skillLevel: "Beginner",
-    image: "/products/catalog/rode-lavalier-go-professional-grade-wearable-microphone.webp",
+    image: "/products/accessories/mic-mute-button.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7524,7 +7524,7 @@ export const products: Product[] = [
     price: 480.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/catalog/rode-lavalier-go-professional-grade-wearable-microphone.webp",
+    image: "/products/accessories/nux-npk20.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7728,7 +7728,7 @@ export const products: Product[] = [
     price: 4250.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/catalog/alesis-concert-digital-piano-with-music-rest-scaled.webp",
+    image: "/products/guitars/cort-ad810-acoustic.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Lanikai ukuleles deliver authentic Hawaiian tone. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -8592,7 +8592,7 @@ export const products: Product[] = [
     price: 520.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/catalog/hammer88pro-angle-right-transparent.webp",
+    image: "/products/accessories/mic-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8604,7 +8604,7 @@ export const products: Product[] = [
     price: 950.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/catalog/hammer88pro-angle-right-transparent.webp",
+    image: "/products/accessories/guitar-strap.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8964,7 +8964,7 @@ export const products: Product[] = [
     price: 2955.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
+    image: "/products/drums/roland-td17kv2.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9000,7 +9000,7 @@ export const products: Product[] = [
     price: 2955.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
+    image: "/products/drums/dixon-star-bubinga.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9132,7 +9132,7 @@ export const products: Product[] = [
     price: 1995.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/catalog/stagg-headbanger-mk3-led-wash-70w-moving-head-light-image1.webp",
+    image: "/products/accessories/mic-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9144,7 +9144,7 @@ export const products: Product[] = [
     price: 2195.0,
     qty: 9,
     skillLevel: "Intermediate",
-    image: "/products/catalog/stagg-headbanger-mk3-led-wash-70w-moving-head-light-image1.webp",
+    image: "/products/accessories/guitar-strap.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9156,7 +9156,7 @@ export const products: Product[] = [
     price: 1545.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/catalog/stagg-headbanger-mk3-led-wash-70w-moving-head-light-image1.webp",
+    image: "/products/drums/roland-td17kv2.webp",
     shortDescription: "Drum head delivering consistent tone and response. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Single or double-ply construction\n• Clear or coated finish options\n• Consistent tone across the drum\n• Easy to tune and replace\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9168,7 +9168,7 @@ export const products: Product[] = [
     price: 1675.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/catalog/stagg-headbanger-mk3-led-wash-70w-moving-head-light-image1.webp",
+    image: "/products/drums/dixon-star-bubinga.webp",
     shortDescription: "Drum head delivering consistent tone and response. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Single or double-ply construction\n• Clear or coated finish options\n• Consistent tone across the drum\n• Easy to tune and replace\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9180,7 +9180,7 @@ export const products: Product[] = [
     price: 1859.2,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/catalog/stagg-headbanger-mk3-led-wash-70w-moving-head-light-image1.webp",
+    image: "/products/drums/remo-coloured-heads.webp",
     shortDescription: "Drum head delivering consistent tone and response. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Single or double-ply construction\n• Clear or coated finish options\n• Consistent tone across the drum\n• Easy to tune and replace\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9192,7 +9192,7 @@ export const products: Product[] = [
     price: 1702.4,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
+    image: "/products/accessories/nux-npk20.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9204,7 +9204,7 @@ export const products: Product[] = [
     price: 1195.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/catalog/stagg-headbanger-mk3-led-wash-70w-moving-head-light-image1.webp",
+    image: "/products/accessories/keyboard-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9348,7 +9348,7 @@ export const products: Product[] = [
     price: 985.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/catalog/stagg-headbanger-mk3-led-wash-70w-moving-head-light-image1.webp",
+    image: "/products/accessories/mic-mute-button.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9360,7 +9360,7 @@ export const products: Product[] = [
     price: 1045.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/catalog/stagg-headbanger-mk3-led-wash-70w-moving-head-light-image1.webp",
+    image: "/products/accessories/nux-npk20.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9576,7 +9576,7 @@ export const products: Product[] = [
     price: 1670.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
+    image: "/products/guitars/cort-ad810-acoustic.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9708,7 +9708,7 @@ export const products: Product[] = [
     price: 2395.0,
     qty: 31,
     skillLevel: "Intermediate",
-    image: "/products/catalog/alesis-concert-digital-piano-with-music-rest-scaled.webp",
+    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9768,7 +9768,7 @@ export const products: Product[] = [
     price: 2265.0,
     qty: 11,
     skillLevel: "Intermediate",
-    image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
+    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9780,7 +9780,7 @@ export const products: Product[] = [
     price: 2855.0,
     qty: 30,
     skillLevel: "Intermediate",
-    image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
+    image: "/products/guitars/fender-electric.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9876,7 +9876,7 @@ export const products: Product[] = [
     price: 675.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/catalog/alesis-concert-88-key-digital-piano-scaled.webp",
+    image: "/products/accessories/mic-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9888,7 +9888,7 @@ export const products: Product[] = [
     price: 605.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/catalog/alesis-concert-88-key-digital-piano-scaled.webp",
+    image: "/products/accessories/guitar-strap.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9912,7 +9912,7 @@ export const products: Product[] = [
     price: 840.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/catalog/alesis-concert-88-key-digital-piano-scaled.webp",
+    image: "/products/accessories/keyboard-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12120,7 +12120,7 @@ export const products: Product[] = [
     price: 3181.2,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/catalog/458-4588914-yanagisawa-wo-1-e-flat-alto-saxophone.webp",
+    image: "/products/accessories/guitar-strap.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mypad offers essential musician accessories. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12252,7 +12252,7 @@ export const products: Product[] = [
     price: 5260.0,
     qty: 19,
     skillLevel: "Intermediate",
-    image: "/products/catalog/sonata-student-clarinet-bb-clarinet-with-case.webp",
+    image: "/products/wind/sonata-clarinet-bb.webp",
     shortDescription: "Hard case protecting your wind instrument in transit. Nuova offers quality student wind instruments. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Hard-shell protection\n• Plush interior lining\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12612,7 +12612,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 89,
     skillLevel: "Beginner",
-    image: "/products/catalog/07-jbl-eon715-rear-straight-original.webp",
+    image: "/products/accessories/mic-stand.webp",
     shortDescription: "Premium cable with reliable signal transmission. Orange amplifiers deliver iconic British tone and stage-ready reliability. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12636,7 +12636,7 @@ export const products: Product[] = [
     price: 490.0,
     qty: 25,
     skillLevel: "Beginner",
-    image: "/products/catalog/07-jbl-eon715-rear-straight-original.webp",
+    image: "/products/accessories/guitar-strap.webp",
     shortDescription: "Premium cable with reliable signal transmission. Orange amplifiers deliver iconic British tone and stage-ready reliability. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12768,7 +12768,7 @@ export const products: Product[] = [
     price: 675.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/catalog/dji-mini-3-pro-standard-controller-2.webp",
+    image: "/products/accessories/keyboard-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Orange amplifiers deliver iconic British tone and stage-ready reliability. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12804,7 +12804,7 @@ export const products: Product[] = [
     price: 105.4,
     qty: 40,
     skillLevel: "Beginner",
-    image: "/products/catalog/canon-handle-unit-hdu-4-for-canon-xa60b.webp",
+    image: "/products/drums/roland-td17kv2.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. PDP (Pacific Drums) offers DW quality at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12840,7 +12840,7 @@ export const products: Product[] = [
     price: 1913.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
+    image: "/products/accessories/jenova-camera-bag.webp",
     shortDescription: "Mounting hardware for secure installation. PDP (Pacific Drums) offers DW quality at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Universal fit\n• Secure attachment\n• Durable metal\n• Easy installation\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12936,7 +12936,7 @@ export const products: Product[] = [
     price: 22295.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/catalog/rode-nt1-black-3-quarter-with-shock-mount-and-pop-shield.webp",
+    image: "/products/accessories/canon-d250.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -13104,7 +13104,7 @@ export const products: Product[] = [
     price: 59.0,
     qty: 85,
     skillLevel: "Beginner",
-    image: "/products/catalog/boya-by-wm4-pro-k1-digital-wireless-microphone-front-3000x.webp",
+    image: "/products/pro-audio/shure-se215bt.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Quiklok stands provide sturdy support for keyboards and gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13116,7 +13116,7 @@ export const products: Product[] = [
     price: 538.2,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/catalog/boya-by-wm4-pro-k1-digital-wireless-microphone-front-3000x.webp",
+    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Quiklok stands provide sturdy support for keyboards and gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14448,7 +14448,7 @@ export const products: Product[] = [
     price: 150.0,
     qty: 63,
     skillLevel: "Beginner",
-    image: "/products/catalog/alesis-concert-88-key-digital-piano-scaled.webp",
+    image: "/products/accessories/mic-mute-button.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14460,7 +14460,7 @@ export const products: Product[] = [
     price: 150.0,
     qty: 57,
     skillLevel: "Beginner",
-    image: "/products/catalog/alesis-concert-88-key-digital-piano-scaled.webp",
+    image: "/products/accessories/nux-npk20.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14472,7 +14472,7 @@ export const products: Product[] = [
     price: 150.0,
     qty: 41,
     skillLevel: "Beginner",
-    image: "/products/catalog/alesis-concert-88-key-digital-piano-scaled.webp",
+    image: "/products/accessories/jenova-camera-bag.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14484,7 +14484,7 @@ export const products: Product[] = [
     price: 410.0,
     qty: 58,
     skillLevel: "Beginner",
-    image: "/products/catalog/alesis-concert-88-key-digital-piano-scaled.webp",
+    image: "/products/accessories/canon-d250.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14496,7 +14496,7 @@ export const products: Product[] = [
     price: 410.0,
     qty: 117,
     skillLevel: "Beginner",
-    image: "/products/catalog/alesis-concert-88-key-digital-piano-scaled.webp",
+    image: "/products/accessories/gaffer-tape-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14508,7 +14508,7 @@ export const products: Product[] = [
     price: 410.0,
     qty: 66,
     skillLevel: "Beginner",
-    image: "/products/catalog/alesis-concert-88-key-digital-piano-scaled.webp",
+    image: "/products/accessories/godox-ms300-kit.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15036,7 +15036,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/catalog/stagg-headbanger-mk3-led-wash-70w-moving-head-light-image1.webp",
+    image: "/products/accessories/jenova-camera-bag.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. SX Doctor Parts provides quality guitar components and accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15972,7 +15972,7 @@ export const products: Product[] = [
     price: 341.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/catalog/458-4588914-yanagisawa-wo-1-e-flat-alto-saxophone.webp",
+    image: "/products/accessories/keyboard-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16008,7 +16008,7 @@ export const products: Product[] = [
     price: 995.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/catalog/458-4588914-yanagisawa-wo-1-e-flat-alto-saxophone.webp",
+    image: "/products/accessories/mic-mute-button.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16020,7 +16020,7 @@ export const products: Product[] = [
     price: 995.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/catalog/458-4588914-yanagisawa-wo-1-e-flat-alto-saxophone.webp",
+    image: "/products/accessories/nux-npk20.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
