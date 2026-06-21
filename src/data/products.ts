@@ -288,7 +288,7 @@ export const products: Product[] = [
     price: 327.6,
     qty: 13,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/accessories/aquarian-kickpatch.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Aquarian drum heads deliver consistent tone and durability. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -300,7 +300,7 @@ export const products: Product[] = [
     price: 480.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/accessories/aquarian-10-2ply-wglue-head.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Aquarian drum heads deliver consistent tone and durability. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -312,7 +312,7 @@ export const products: Product[] = [
     price: 540.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/accessories/aquarian-12-2ply-with-glue-head.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Aquarian drum heads deliver consistent tone and durability. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -324,7 +324,7 @@ export const products: Product[] = [
     price: 740.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/accessories/aquarian-16-2ply-with-glue-head.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Aquarian drum heads deliver consistent tone and durability. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
