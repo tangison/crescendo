@@ -168,7 +168,7 @@ export const products: Product[] = [
     price: 280.8,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/drums/aquarian-13-classic-clear-snare-bottom.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Aquarian drum heads deliver consistent tone and durability. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -756,7 +756,7 @@ export const products: Product[] = [
     price: 16375.0,
     qty: 2,
     skillLevel: "Professional",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/keyboards/arturia-keylab-49-mkii-black.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Arturia blends classic analog character with modern digital control. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -768,7 +768,7 @@ export const products: Product[] = [
     price: 16495.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/gaffer-tape-white.webp",
+    image: "/products/keyboards/arturia-keylab-49-mkii-white.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Arturia blends classic analog character with modern digital control. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -888,7 +888,7 @@ export const products: Product[] = [
     price: 10550.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/keyboards/arturia-keylab-essential-88-mk3-black.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Arturia blends classic analog character with modern digital control. Professional-grade gear built to meet the demands of serious players. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -900,7 +900,7 @@ export const products: Product[] = [
     price: 13265.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/keyboards/arturia-keylab-49-mk3-black.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Arturia blends classic analog character with modern digital control. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -912,7 +912,7 @@ export const products: Product[] = [
     price: 14195.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/arturia-keystep-professional.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -924,7 +924,7 @@ export const products: Product[] = [
     price: 16295.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/arturia-minibrute-2-noir.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -948,7 +948,7 @@ export const products: Product[] = [
     price: 16470.0,
     qty: 3,
     skillLevel: "Professional",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/arturia-mini-freak.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -1032,7 +1032,7 @@ export const products: Product[] = [
     price: 11105.0,
     qty: 2,
     skillLevel: "Professional",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/arturia-audiofuse-x8.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. Professional-grade gear built to meet the demands of serious players. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -1044,7 +1044,7 @@ export const products: Product[] = [
     price: 11405.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/crafter-able-g600cen-classic-guitar.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -1104,7 +1104,7 @@ export const products: Product[] = [
     price: 7055.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/crafter-dnaught-guitar-hd250-cutaway-natural.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Crafter Guitars combine quality craftsmanship with reliable tone. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -1296,7 +1296,7 @@ export const products: Product[] = [
     price: 895.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/conn-primo-plastic-alto-mouthpiece-with-cap.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Conn Selmer represents legendary American wind instrument craftsmanship. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
