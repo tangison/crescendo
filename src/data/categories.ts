@@ -34,7 +34,7 @@ export const categories: Category[] = [
     name: "Strings",
     description: "Violins, violas, cellos, and accessories for classical and contemporary string players.",
     productCount: 162,
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/category-tile-violin.webp",
   },
   {
     slug: "drums",

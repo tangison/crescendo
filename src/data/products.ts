@@ -24,7 +24,7 @@ export const products: Product[] = [
     price: 360.0,
     qty: 165,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/pro-audio/adv-sound-silicone-unibody-earbuds-black.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. ADV Sound delivers quality audio gear for everyday listening. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -36,7 +36,7 @@ export const products: Product[] = [
     price: 360.0,
     qty: 165,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/shure-sm58.webp",
+    image: "/products/pro-audio/adv-sound-silicone-unibody-earbuds-blue.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. ADV Sound delivers quality audio gear for everyday listening. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -48,7 +48,7 @@ export const products: Product[] = [
     price: 360.0,
     qty: 165,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/shure-sm58.webp",
+    image: "/products/pro-audio/adv-sound-silicone-unibody-earbuds-red.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. ADV Sound delivers quality audio gear for everyday listening. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -60,7 +60,7 @@ export const products: Product[] = [
     price: 360.0,
     qty: 165,
     skillLevel: "Beginner",
-    image: "/products/accessories/gaffer-tape-white.webp",
+    image: "/products/pro-audio/adv-sound-silicone-unibody-earbuds-white.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. ADV Sound delivers quality audio gear for everyday listening. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -84,7 +84,7 @@ export const products: Product[] = [
     price: 445.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/accessories/aquarian-12-classic-clear-head.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Aquarian drum heads deliver consistent tone and durability. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {

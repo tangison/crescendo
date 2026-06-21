@@ -29,7 +29,7 @@ export const metadata: Metadata = {
         url: "/hero/og.webp",
         width: 1200,
         height: 630,
-        alt: "Crescendo Namibia: music stage in the Namib Desert at golden hour",
+        alt: "Crescendo Namibia: a vintage microphone silhouetted against the red dunes of Sossusvlei at golden hour",
       },
     ],
   },
