@@ -1560,7 +1560,7 @@ export const products: Product[] = [
     price: 575.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/guitars/dixon-electric-guitar-machine-heads-chrome.webp",
     shortDescription: "Electric guitar with versatile tone options and reliable electronics. Dixon delivers quality you can rely on. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid body construction for sustained tone\n• Single-coil or humbucker pickups for versatile sound\n• Maple or rosewood fingerboard for comfortable playing\n• Adjustable bridge for precise intonation\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1572,7 +1572,7 @@ export const products: Product[] = [
     price: 575.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/guitars/dixon-electric-guitar-machine-heads-nickel.webp",
     shortDescription: "Electric guitar with versatile tone options and reliable electronics. Dixon delivers quality you can rely on. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Solid body construction for sustained tone\n• Single-coil or humbucker pickups for versatile sound\n• Maple or rosewood fingerboard for comfortable playing\n• Adjustable bridge for precise intonation\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
