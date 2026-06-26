@@ -1440,7 +1440,7 @@ export const products: Product[] = [
     price: 50.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-action-bass-v-plus.webp",
+    image: "/products/accessories/dean-markley-round-wound-bass-070.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Dean Markley strings deliver tone trusted by performers. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1452,7 +1452,7 @@ export const products: Product[] = [
     price: 60.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/dean-mark-blue-steel-ac-bro-med-lt-13-58.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Dean Markley strings deliver tone trusted by performers. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
