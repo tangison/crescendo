@@ -1236,7 +1236,7 @@ export const products: Product[] = [
     price: 16955.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/guitars/crafter-vlg28ce-professional-acoustic-guitar.webp",
     shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -1260,7 +1260,7 @@ export const products: Product[] = [
     price: 245.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/accessories/conn-selmer-polishing-cloth-lacquer.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Conn Selmer represents legendary American wind instrument craftsmanship. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
