@@ -1116,7 +1116,7 @@ export const products: Product[] = [
     price: 6335.0,
     qty: 12,
     skillLevel: "Intermediate",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/guitars/crafter-acoustic-guitar-cg100-cutaway-pickup.webp",
     shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -1128,7 +1128,7 @@ export const products: Product[] = [
     price: 4235.0,
     qty: 11,
     skillLevel: "Intermediate",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/guitars/crafter-hg100-acoustic-guitar-open-pore.webp",
     shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -1140,7 +1140,7 @@ export const products: Product[] = [
     price: 10235.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/crafter-noble-vtg-edition-guitar.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -1152,7 +1152,7 @@ export const products: Product[] = [
     price: 13245.0,
     qty: 2,
     skillLevel: "Professional",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/guitars/crafter-snt-16ce-professional-acoustic-guitar.webp",
     shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -1164,7 +1164,7 @@ export const products: Product[] = [
     price: 14855.0,
     qty: 13,
     skillLevel: "Professional",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/guitars/crafter-gaudit-stg-g22ce-professional-acoustic-guitar.webp",
     shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -1176,7 +1176,7 @@ export const products: Product[] = [
     price: 15205.0,
     qty: 5,
     skillLevel: "Professional",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/guitars/crafter-stg-28ce-professional-acoustic-guitar.webp",
     shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -1188,7 +1188,7 @@ export const products: Product[] = [
     price: 11135.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/guitars/crafter-te6-mh-acoustic-guitar.webp",
     shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -1212,7 +1212,7 @@ export const products: Product[] = [
     price: 15865.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/guitars/crafter-vl-g22ce-professional-acoustic-guitar.webp",
     shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
