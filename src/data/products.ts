@@ -516,7 +516,7 @@ export const products: Product[] = [
     price: 58.6,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/accessories/fresnel-studio-light.webp",
+    image: "/products/accessories/aquarian-16-studio-e-ring-single.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Aquarian drum heads deliver consistent tone and durability. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -564,7 +564,7 @@ export const products: Product[] = [
     price: 1995.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/accessories/aquarian-tc10-12-16-prepack.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Aquarian drum heads deliver consistent tone and durability. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -672,7 +672,7 @@ export const products: Product[] = [
     price: 840.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/accessories/aquarian-16-tex-ctd-response-2-2ply-hea.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Aquarian drum heads deliver consistent tone and durability. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -684,7 +684,7 @@ export const products: Product[] = [
     price: 374.4,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/accessories/aquarian-8-tex-ctd-response-2-2ply-head.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Aquarian drum heads deliver consistent tone and durability. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -696,7 +696,7 @@ export const products: Product[] = [
     price: 374.4,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/accessories/aquarian-8-super-2-2ply-texture-coated.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Aquarian drum heads deliver consistent tone and durability. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -708,7 +708,7 @@ export const products: Product[] = [
     price: 795.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/fresnel-studio-light.webp",
+    image: "/products/accessories/aquarian-16-tex-coated-studio-x.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Aquarian drum heads deliver consistent tone and durability. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -720,7 +720,7 @@ export const products: Product[] = [
     price: 819.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/drums/aquarian-13-triple-threat-snare-head.webp",
     shortDescription: "Drum head delivering consistent tone and response. Aquarian drum heads deliver consistent tone and durability. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Single or double-ply construction\n• Clear or coated finish options\n• Consistent tone across the drum\n• Easy to tune and replace\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -732,7 +732,7 @@ export const products: Product[] = [
     price: 840.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/drums/aquarian-14-triple-threat-snare-head.webp",
     shortDescription: "Drum head delivering consistent tone and response. Aquarian drum heads deliver consistent tone and durability. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Single or double-ply construction\n• Clear or coated finish options\n• Consistent tone across the drum\n• Easy to tune and replace\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -744,7 +744,7 @@ export const products: Product[] = [
     price: 680.0,
     qty: 38,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/accessories/aquarian-14-hi-velocity-head.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Aquarian drum heads deliver consistent tone and durability. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -780,7 +780,7 @@ export const products: Product[] = [
     price: 39995.0,
     qty: 4,
     skillLevel: "Professional",
-    image: "/products/accessories/gaffer-tape-white.webp",
+    image: "/products/keyboards/arturia-astrolab-61-white.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Arturia blends classic analog character with modern digital control. Professional-grade gear built to meet the demands of serious players. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -792,7 +792,7 @@ export const products: Product[] = [
     price: 3075.0,
     qty: 37,
     skillLevel: "Intermediate",
-    image: "/products/accessories/gaffer-tape-white.webp",
+    image: "/products/accessories/arturia-minilab-mk-3-white.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -804,7 +804,7 @@ export const products: Product[] = [
     price: 3075.0,
     qty: 30,
     skillLevel: "Intermediate",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/arturia-minilab-mk-3-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -828,7 +828,7 @@ export const products: Product[] = [
     price: 5895.0,
     qty: 9,
     skillLevel: "Intermediate",
-    image: "/products/accessories/gaffer-tape-white.webp",
+    image: "/products/accessories/arturia-essential-49-mk3-white.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -840,7 +840,7 @@ export const products: Product[] = [
     price: 5895.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/arturia-essential-49-mk3-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -852,7 +852,7 @@ export const products: Product[] = [
     price: 7160.0,
     qty: 17,
     skillLevel: "Intermediate",
-    image: "/products/accessories/gaffer-tape-white.webp",
+    image: "/products/accessories/arturia-essential-61-mk3-white.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -864,7 +864,7 @@ export const products: Product[] = [
     price: 7160.0,
     qty: 13,
     skillLevel: "Intermediate",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/arturia-essential-61-mk3-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -876,7 +876,7 @@ export const products: Product[] = [
     price: 10550.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/gaffer-tape-white.webp",
+    image: "/products/accessories/arturia-essential-88-mk3-white.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. Professional-grade gear built to meet the demands of serious players. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -936,7 +936,7 @@ export const products: Product[] = [
     price: 9550.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/arturia-drumbrute-impact.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Arturia blends classic analog character with modern digital control. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -960,7 +960,7 @@ export const products: Product[] = [
     price: 3185.0,
     qty: 11,
     skillLevel: "Intermediate",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/arturia-minifuse-1-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -972,7 +972,7 @@ export const products: Product[] = [
     price: 4385.0,
     qty: 23,
     skillLevel: "Intermediate",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/arturia-minifuse-2-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -996,7 +996,7 @@ export const products: Product[] = [
     price: 3185.0,
     qty: 11,
     skillLevel: "Intermediate",
-    image: "/products/accessories/gaffer-tape-white.webp",
+    image: "/products/accessories/arturia-minifuse-1-white.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -1008,7 +1008,7 @@ export const products: Product[] = [
     price: 4385.0,
     qty: 23,
     skillLevel: "Intermediate",
-    image: "/products/accessories/gaffer-tape-white.webp",
+    image: "/products/accessories/arturia-minifuse-2-white.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -1020,7 +1020,7 @@ export const products: Product[] = [
     price: 28965.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/fresnel-studio-light.webp",
+    image: "/products/accessories/arturia-audiofuse-studio.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -1068,7 +1068,7 @@ export const products: Product[] = [
     price: 12515.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/guitars/crafter-de8-mh-acoustic-guitar.webp",
     shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. Professional-grade gear built to meet the demands of serious players. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -1080,7 +1080,7 @@ export const products: Product[] = [
     price: 6335.0,
     qty: 12,
     skillLevel: "Intermediate",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/guitars/crafter-acoustic-guitar-hd100-cutaway-pickup.webp",
     shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -1092,7 +1092,7 @@ export const products: Product[] = [
     price: 4235.0,
     qty: 11,
     skillLevel: "Intermediate",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/guitars/crafter-acoustic-guitar-hd100op-natural.webp",
     shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Crafter Guitars combine quality craftsmanship with reliable tone. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
