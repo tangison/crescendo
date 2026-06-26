@@ -1464,7 +1464,7 @@ export const products: Product[] = [
     price: 60.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/dean-markley-banjo-string-set-medium.webp",
     shortDescription: "Guitar strings engineered for tone and durability. Dean Markley strings deliver tone trusted by performers. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• High-quality materials for consistent tone\n• Available in various gauges\n• Corrosion-resistant for extended life\n• Engineered for your playing style\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1476,7 +1476,7 @@ export const products: Product[] = [
     price: 60.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/dean-markley-mandolin-phos-bronze-lt.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Dean Markley strings deliver tone trusted by performers. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1488,7 +1488,7 @@ export const products: Product[] = [
     price: 60.0,
     qty: 21,
     skillLevel: "Beginner",
-    image: "/products/guitars/ibanez-iegs62-electric.webp",
+    image: "/products/accessories/dean-markley-signature-electric-11-52-medium.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Dean Markley strings deliver tone trusted by performers. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1500,7 +1500,7 @@ export const products: Product[] = [
     price: 60.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/guitars/ibanez-iegs62-electric.webp",
+    image: "/products/accessories/dean-markley-blue-steel-electric-reg-10-46.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Dean Markley strings deliver tone trusted by performers. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1512,7 +1512,7 @@ export const products: Product[] = [
     price: 60.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/guitars/ibanez-iegs62-electric.webp",
+    image: "/products/accessories/dean-markley-blue-steel-electric-med-11-52.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Dean Markley strings deliver tone trusted by performers. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1524,7 +1524,7 @@ export const products: Product[] = [
     price: 60.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/fresnel-studio-light.webp",
+    image: "/products/accessories/dean-markley-blue-steel-bass-x-light.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Dean Markley strings deliver tone trusted by performers. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1536,7 +1536,7 @@ export const products: Product[] = [
     price: 60.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-action-bass-v-plus.webp",
+    image: "/products/accessories/dean-markley-blue-steel-bass-set-lt.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Dean Markley strings deliver tone trusted by performers. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
