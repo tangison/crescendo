@@ -1272,7 +1272,7 @@ export const products: Product[] = [
     price: 9908.8,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/conn-selmer-flute-split-e-outfit.webp",
     shortDescription: "Flute with responsive keys and clear tone. Conn Selmer represents legendary American wind instrument craftsmanship. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -1284,7 +1284,7 @@ export const products: Product[] = [
     price: 895.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/conn-selmer-clarinet-mouthpiece-with-cap.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Conn Selmer represents legendary American wind instrument craftsmanship. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
