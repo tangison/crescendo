@@ -1,65 +1,69 @@
 import { MetadataRoute } from 'next';
 import { products } from '@/data/products';
+import { categories } from '@/data/categories';
 
+const BASE_URL = 'https://www.crescendona.com';
+
+/**
+ * Sitemap — covers ALL pages on the site.
+ *
+ * Includes:
+ *   - Static pages (home, shop, book-an-artist)
+ *   - Category landing pages (7)
+ *   - Shop category filter pages (7)
+ *   - All product pages (1640+)
+ *
+ * Google limit: 50,000 URLs / 50MB per sitemap. We're well under that.
+ * Served at /sitemap.xml
+ */
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://www.crescendona.com';
+  const now = new Date();
 
   // Static pages
   const staticPages: MetadataRoute.Sitemap = [
     {
-      url: `${baseUrl}/`,
-      lastModified: new Date(),
+      url: `${BASE_URL}/`,
+      lastModified: now,
       changeFrequency: 'daily',
       priority: 1.0,
     },
     {
-      url: `${baseUrl}/shop`,
-      lastModified: new Date(),
+      url: `${BASE_URL}/shop`,
+      lastModified: now,
       changeFrequency: 'daily',
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/book-an-artist`,
-      lastModified: new Date(),
+      url: `${BASE_URL}/book-an-artist`,
+      lastModified: now,
       changeFrequency: 'monthly',
       priority: 0.7,
     },
   ];
 
-  // Category landing pages (curated)
-  const categorySlugs = [
-    'accessories',
-    'wind',
-    'guitars',
-    'strings',
-    'drums',
-    'pro-audio',
-    'keyboards',
-  ];
-  const categoryPages: MetadataRoute.Sitemap = categorySlugs.map((slug) => ({
-    url: `${baseUrl}/category/${slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly',
+  // Category landing pages (curated, high-priority)
+  const categoryPages: MetadataRoute.Sitemap = categories.map((c) => ({
+    url: `${BASE_URL}/category/${c.slug}`,
+    lastModified: now,
+    changeFrequency: 'weekly' as const,
     priority: 0.8,
   }));
-  // Shop category filter pages (functional)
-  const shopCategoryPages: MetadataRoute.Sitemap = categorySlugs.map((slug) => ({
-    url: `${baseUrl}/shop?category=${slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly',
-    priority: 0.7,
+
+  // Shop category filter pages (functional, lower priority)
+  const shopCategoryPages: MetadataRoute.Sitemap = categories.map((c) => ({
+    url: `${BASE_URL}/shop?category=${c.slug}`,
+    lastModified: now,
+    changeFrequency: 'weekly' as const,
+    priority: 0.6,
   }));
 
-  // Product pages (limited to first 500 to avoid sitemap bloat)
-  // For full coverage, this should be split into multiple sitemaps.
-  const productPages: MetadataRoute.Sitemap = products
-    .slice(0, 500)
-    .map((product) => ({
-      url: `${baseUrl}/shop/${product.slug}`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly',
-      priority: 0.6,
-    }));
+  // ALL product pages (no slice — full coverage for Google indexing)
+  const productPages: MetadataRoute.Sitemap = products.map((product) => ({
+    url: `${BASE_URL}/shop/${product.slug}`,
+    lastModified: now,
+    changeFrequency: 'weekly' as const,
+    priority: 0.6,
+  }));
 
   return [...staticPages, ...categoryPages, ...shopCategoryPages, ...productPages];
 }

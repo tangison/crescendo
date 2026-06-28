@@ -39,9 +39,18 @@ export const metadata: Metadata = {
     "buy instruments Namibia",
   ],
   authors: [{ name: "Crescendo Namibia" }],
+  creator: "Crescendo Namibia",
+  publisher: "Crescendo Namibia",
+  applicationName: "Crescendo Namibia",
+  category: "Shopping",
   icons: {
-    icon: "/branding/crescendo-logo.webp",
+    icon: [
+      { url: "/branding/crescendo-logo.webp", type: "image/webp" },
+      { url: "/favicon.ico", sizes: "any" },
+    ],
+    apple: "/branding/crescendo-logo.webp",
   },
+  manifest: "/manifest.webmanifest",
   metadataBase: new URL("https://www.crescendona.com"),
   alternates: {
     canonical: "/",
@@ -81,6 +90,13 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  verification: {
+    google: "G7IfiD3lAp4EAZuid7AonJZTK9Rzly7nL0npNa2GS4c",
+  },
+  other: {
+    "msvalidate.01": "", // Bing verification - add token when available
+    "format-detection": "telephone=no",
+  },
 };
 
 export default function RootLayout({
@@ -96,26 +112,51 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
-              "@type": "Organization",
+              "@type": "MusicStore",
               name: "Crescendo Namibia",
+              legalName: "Crescendo Namibia",
               url: "https://www.crescendona.com",
               logo: "https://www.crescendona.com/branding/crescendo-logo.webp",
               image: "https://www.crescendona.com/hero/og.webp",
               description:
-                "Namibia's premier music store. Instruments, pro audio, accessories, and expert advice.",
+                "Namibia's premier music store in Windhoek. Instruments, pro audio, accessories, and expert advice for every musician since 2009.",
               slogan: "Your Music, Our Passion",
               foundingDate: "2009",
+              currenciesAccepted: "NAD, USD",
+              paymentAccepted: "Cash, Credit Card, Debit Card, EFT",
               address: {
                 "@type": "PostalAddress",
                 addressLocality: "Windhoek",
+                addressRegion: "Khomas",
                 addressCountry: "NA",
+              },
+              geo: {
+                "@type": "GeoCoordinates",
+                latitude: -22.5609,
+                longitude: 17.0658,
               },
               contactPoint: {
                 "@type": "ContactPoint",
                 telephone: "+264-81-462-3936",
                 contactType: "sales",
-                availableLanguage: ["English"],
+                areaServed: "NA",
+                availableLanguage: ["English", "Afrikaans"],
               },
+              openingHoursSpecification: [
+                {
+                  "@type": "OpeningHoursSpecification",
+                  dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+                  opens: "08:30",
+                  closes: "17:00",
+                },
+                {
+                  "@type": "OpeningHoursSpecification",
+                  dayOfWeek: "Saturday",
+                  opens: "09:00",
+                  closes: "13:00",
+                },
+              ],
+              priceRange: "N$50 - N$50,000",
               sameAs: [],
             }),
           }}
@@ -128,6 +169,12 @@ export default function RootLayout({
               "@type": "WebSite",
               name: "Crescendo Namibia",
               url: "https://www.crescendona.com",
+              inLanguage: "en-NA",
+              publisher: {
+                "@type": "MusicStore",
+                name: "Crescendo Namibia",
+                url: "https://www.crescendona.com",
+              },
               potentialAction: {
                 "@type": "SearchAction",
                 target: {
@@ -136,6 +183,57 @@ export default function RootLayout({
                 },
                 "query-input": "required name=search_term_string",
               },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              mainEntity: [
+                {
+                  "@type": "Question",
+                  name: "Where is Crescendo Namibia located?",
+                  acceptedAnswer: {
+                    "@type": "Answer",
+                    text: "Crescendo Namibia is located in Windhoek, Namibia. We are Namibia's premier music store, serving musicians since 2009. Contact us on +264 81 462 3936 for directions and store hours.",
+                  },
+                },
+                {
+                  "@type": "Question",
+                  name: "Does Crescendo Namibia ship nationwide?",
+                  acceptedAnswer: {
+                    "@type": "Answer",
+                    text: "Yes, we ship to all major towns and cities across Namibia including Windhoek, Swakopmund, Walvis Bay, Oshakati, Rundu, and Katima Mulilo. Shipping costs are calculated at checkout based on destination and order size.",
+                  },
+                },
+                {
+                  "@type": "Question",
+                  name: "What products does Crescendo Namibia sell?",
+                  acceptedAnswer: {
+                    "@type": "Answer",
+                    text: "We stock over 1640 products across 7 categories: guitars and ukuleles, keyboards and digital pianos, drums and percussion, pro audio equipment (microphones, PA systems, mixers), wind and brass instruments, string instruments (violins, cellos), and accessories. We also stock music books and offer artist booking services.",
+                  },
+                },
+                {
+                  "@type": "Question",
+                  name: "Can I book a music lesson or artist through Crescendo?",
+                  acceptedAnswer: {
+                    "@type": "Answer",
+                    text: "Yes, we offer artist booking services for events, live performances, and music lessons. Visit our Book an Artist page or contact us on +264 81 462 3936 to discuss your requirements.",
+                  },
+                },
+                {
+                  "@type": "Question",
+                  name: "What payment methods does Crescendo Namibia accept?",
+                  acceptedAnswer: {
+                    "@type": "Answer",
+                    text: "We accept cash (NAD), credit and debit cards, and electronic funds transfer (EFT). For online orders, you can also order via WhatsApp and pay on delivery or collection.",
+                  },
+                },
+              ],
             }),
           }}
         />

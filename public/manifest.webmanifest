@@ -1,0 +1,56 @@
+{
+  "name": "Crescendo Namibia",
+  "short_name": "Crescendo",
+  "description": "Namibia's premier music store in Windhoek. Shop guitars, keyboards, drums, pro audio, wind instruments & accessories.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5b7",
+  "orientation": "portrait-primary",
+  "categories": ["shopping", "music", "lifestyle"],
+  "lang": "en",
+  "dir": "ltr",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/branding/crescendo-logo.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/branding/crescendo-logo.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Shop All Products",
+      "short_name": "Shop",
+      "url": "/shop",
+      "description": "Browse all 1640+ products"
+    },
+    {
+      "name": "Guitars & Ukuleles",
+      "short_name": "Guitars",
+      "url": "/category/guitars"
+    },
+    {
+      "name": "Keyboards",
+      "short_name": "Keyboards",
+      "url": "/category/keyboards"
+    },
+    {
+      "name": "Pro Audio",
+      "short_name": "Audio",
+      "url": "/category/pro-audio"
+    },
+    {
+      "name": "Book an Artist",
+      "short_name": "Book",
+      "url": "/book-an-artist"
+    }
+  ]
+}
