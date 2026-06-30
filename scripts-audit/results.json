@@ -2602,5 +2602,41 @@
     "error": null,
     "provider": "z-ai",
     "elapsed_sec": 9.9
+  },
+  {
+    "id": "PDP38",
+    "slug": "dixon-8-practise-pad-natural-rebound",
+    "category": "accessories",
+    "brand": "Dixon Drums",
+    "name": "Dixon 8  Practise Pad Natural Rebound",
+    "old_image": "/products/drums/dixon-star-bubinga.webp",
+    "new_image": "/products/accessories/dixon-8-practise-pad-natural-rebound.webp",
+    "matched": true,
+    "source_url": "https://sfile.chatglm.cn/images-ppt/1724bc6c7148.jpg",
+    "score": 70,
+    "reason": "The product appears to be a practice pad matching the description, but the brand is not clearly visible to confirm it is Dixon Drums. | shown=A circular practice pad with a black rim, gray surface, and ",
+    "candidates_seen": 3,
+    "candidates_downloaded": 3,
+    "error": null,
+    "provider": "z-ai",
+    "elapsed_sec": 32.7
+  },
+  {
+    "id": "PDP481HP",
+    "slug": "dixon-6-practise-pad",
+    "category": "accessories",
+    "brand": "Dixon Drums",
+    "name": "Dixon 6  Practise Pad",
+    "old_image": "/products/drums/dixon-star-bubinga.webp",
+    "new_image": null,
+    "matched": false,
+    "source_url": "https://sfile.chatglm.cn/images-ppt/a567e29aef32.png",
+    "score": 20,
+    "reason": "The image shows a practice pad but lacks visible Dixon Drums branding and the specific 'Dixon 6' product details. | shown=A black circular practice pad with embossed text",
+    "candidates_seen": 3,
+    "candidates_downloaded": 3,
+    "error": "best score 20 < 60",
+    "provider": "z-ai",
+    "elapsed_sec": 20.9
   }
 ]
