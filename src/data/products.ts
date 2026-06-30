@@ -1428,7 +1428,7 @@ export const products: Product[] = [
     price: 5.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/dean-markley-plain-singles-019p.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Dean Markley strings deliver tone trusted by performers. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
