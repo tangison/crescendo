@@ -1716,7 +1716,7 @@ export const products: Product[] = [
     price: 85.0,
     qty: 167,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/drums/dixon-felt-washer-for-cymbal-stands.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1752,7 +1752,7 @@ export const products: Product[] = [
     price: 530.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/accessories/dixon-srow-6-wooden-tambourine.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
