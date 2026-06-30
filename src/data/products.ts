@@ -1644,7 +1644,7 @@ export const products: Product[] = [
     price: 215.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/drums/dixon-brite-drum-key-led-light.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1656,7 +1656,7 @@ export const products: Product[] = [
     price: 215.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/accessories/dixon-ratchet-lug-wrench.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
