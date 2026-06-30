@@ -1620,7 +1620,7 @@ export const products: Product[] = [
     price: 125.0,
     qty: 116,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/accessories/dixon-speed-wrench.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
