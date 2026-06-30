@@ -984,7 +984,7 @@ export const products: Product[] = [
     price: 6370.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/arturia-minifuse-4-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Arturia blends classic analog character with modern digital control. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -1200,7 +1200,7 @@ export const products: Product[] = [
     price: 1075.0,
     qty: 14,
     skillLevel: "Beginner",
-    image: "/products/accessories/stagg-guitar-bag.webp",
+    image: "/products/guitars/crafter-gig-bag-for-electric-guitar.webp",
     shortDescription: "Electric guitar with versatile tone options and reliable electronics. Crafter Guitars combine quality craftsmanship with reliable tone. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid body construction for sustained tone\n• Single-coil or humbucker pickups for versatile sound\n• Maple or rosewood fingerboard for comfortable playing\n• Adjustable bridge for precise intonation\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1308,7 +1308,7 @@ export const products: Product[] = [
     price: 365.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/saga-a-breton-violin-bow-14-size.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1320,7 +1320,7 @@ export const products: Product[] = [
     price: 1555.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/saga-a-breton-44-cello-bow-professional.webp",
     shortDescription: "Cello with deep, resonant low-end response. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1344,7 +1344,7 @@ export const products: Product[] = [
     price: 305.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/saga-a-breton-14-violin-tailpiece.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
