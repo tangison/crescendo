@@ -1680,7 +1680,7 @@ export const products: Product[] = [
     price: 55.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/accessories/dixon-rubber-feet-for-9290-stand.webp",
     shortDescription: "Sturdy stand for instruments or equipment. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Sturdy construction\n• Adjustable for different uses\n• Folds for transport\n• Non-slip rubber feet\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1692,7 +1692,7 @@ export const products: Product[] = [
     price: 75.0,
     qty: 26,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/drums/dixon-plastic-cymbal-topper-8mm-thread.webp",
     shortDescription: "Cymbal with defined tone and projection. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Cast B20 bronze or sheet brass construction\n• Bright or dark tone depending on model\n• Defined sustain and projection\n• Suitable for various musical styles\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
