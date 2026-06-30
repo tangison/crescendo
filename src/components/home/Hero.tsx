@@ -129,10 +129,11 @@ export function Hero() {
         />
       </div>
 
-      {/* Gradient overlays for text readability - strong dark contrast for hero legibility */}
-      <div className="absolute inset-0 z-10 bg-black/60" />
-      <div className="absolute inset-0 z-10 bg-gradient-to-r from-black/95 via-black/80 to-black/55" />
-      <div className="absolute inset-0 z-10 bg-gradient-to-t from-black/85 via-black/45 to-black/55" />
+      {/* Gradient overlays - subtle, preserves the Namibian landscape photo clarity.
+          Was: 3 stacked layers (bg-black/60 + gradient from-black/95 via-black/80 to-black/55 + gradient from-black/85 via-black/45 to-black/55).
+          Now: 2 lighter layers focused on the left text area and bottom edge. */}
+      <div className="absolute inset-0 z-10 bg-gradient-to-r from-black/60 via-black/25 to-transparent" />
+      <div className="absolute inset-0 z-10 bg-gradient-to-t from-black/50 via-transparent to-black/20" />
 
       {/* Content */}
       <div className="relative z-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28 w-full">
