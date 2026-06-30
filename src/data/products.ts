@@ -1392,7 +1392,7 @@ export const products: Product[] = [
     price: 295.0,
     qty: 24,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/saga-a-breton-14-12-violin-shoulder-rest.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Saga provides quality instruments and accessories for musicians. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {

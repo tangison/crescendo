@@ -2242,5 +2242,41 @@
     "candidates_downloaded": 0,
     "error": null,
     "provider": "prior-run"
+  },
+  {
+    "id": "SAGVP70K",
+    "slug": "saga-a-breton-34-44-violin-shoulder-rest",
+    "category": "strings",
+    "brand": "Saga",
+    "name": "Saga A Breton 3/4 4/4 Violin Shoulder Rest",
+    "old_image": "/products/strings/gc-violin-44.webp",
+    "new_image": "/products/strings/saga-a-breton-34-44-violin-shoulder-rest.webp",
+    "matched": true,
+    "source_url": "https://sfile.chatglm.cn/images-ppt/690d34811927.webp",
+    "score": 80,
+    "reason": "The image shows a violin shoulder rest matching the product description, but the brand 'Saga' is not visible to confirm. | shown=Violin shoulder rest",
+    "candidates_seen": 5,
+    "candidates_downloaded": 5,
+    "error": null,
+    "provider": "z-ai",
+    "elapsed_sec": 45.6
+  },
+  {
+    "id": "DM1008",
+    "slug": "dean-markley-plain-singles-008p",
+    "category": "accessories",
+    "brand": "Dean Markley",
+    "name": "Dean Markley Plain Singles .008P",
+    "old_image": "/products/accessories/mic-stand.webp",
+    "new_image": null,
+    "matched": false,
+    "source_url": "https://sfile.chatglm.cn/images-ppt/40ca06915b07.jpg",
+    "score": 40,
+    "reason": "The image shows Dean Markley guitar strings but features 'Super Long Play (SLP)' instead of 'Plain Singles .008P'. | shown=Dean Markley Super Long Play (SLP) guitar strings",
+    "candidates_seen": 5,
+    "candidates_downloaded": 5,
+    "error": "best score 40 < 60",
+    "provider": "z-ai",
+    "elapsed_sec": 31.7
   }
 ]
