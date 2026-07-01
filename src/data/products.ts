@@ -2112,7 +2112,7 @@ export const products: Product[] = [
     price: 170.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/accessories/dixon-high-hat-clutch.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -2124,7 +2124,7 @@ export const products: Product[] = [
     price: 495.0,
     qty: 25,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/drums/dixon-k-series-hihat-clutch.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
