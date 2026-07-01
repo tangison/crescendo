@@ -2800,5 +2800,23 @@
     "error": null,
     "provider": "z-ai",
     "elapsed_sec": 12.6
+  },
+  {
+    "id": "PHZ122CBDIX1",
+    "slug": "dixon-22-clear-batter-drum-head",
+    "category": "drums",
+    "brand": "Dixon Drums",
+    "name": "Dixon 22  Clear Batter Drum Head",
+    "old_image": "/products/drums/remo-coloured-heads.webp",
+    "new_image": null,
+    "matched": false,
+    "source_url": "https://sfile.chatglm.cn/images-ppt/89d91b9497e6.jpg",
+    "score": 0,
+    "reason": "no JSON",
+    "candidates_seen": 3,
+    "candidates_downloaded": 3,
+    "error": "best score 0 < 60",
+    "provider": "z-ai",
+    "elapsed_sec": 108.7
   }
 ]
