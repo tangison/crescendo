@@ -91,7 +91,7 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: "G7IfiD3lAp4EAZuid7AonJZTK9Rzly7nL0npNa2GS4c",
+    google: "SAZAuvRLUPxDmr3ZY-l8PTCPEaq4OH7JX4pb3dwsSK0",
   },
   other: {
     "msvalidate.01": "", // Bing verification - add token when available
