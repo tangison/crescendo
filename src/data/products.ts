@@ -2148,7 +2148,7 @@ export const products: Product[] = [
     price: 1395.0,
     qty: 31,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/drums/dixon-drum-throne-round-seat.webp",
     shortDescription: "Drum throne providing comfortable seated support. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Padded seat for comfort during long sessions\n• Adjustable height\n• Double-braced base for stability\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -2160,7 +2160,7 @@ export const products: Product[] = [
     price: 1950.0,
     qty: 0,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/drums/dixon-drum-throne-round-seat-2.webp",
     shortDescription: "Drum throne providing comfortable seated support. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Padded seat for comfort during long sessions\n• Adjustable height\n• Double-braced base for stability\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -2196,7 +2196,7 @@ export const products: Product[] = [
     price: 1325.0,
     qty: 0,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/accessories/dixon-po-series-sbrace-cym-boom-stand.webp",
     shortDescription: "Sturdy stand for instruments or equipment. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Sturdy construction\n• Adjustable for different uses\n• Folds for transport\n• Non-slip rubber feet\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
