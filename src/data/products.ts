@@ -2064,7 +2064,7 @@ export const products: Product[] = [
     price: 18655.0,
     qty: 3,
     skillLevel: "Professional",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/accessories/dixon-spark-birch-5pc-dkit-sblack.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Dixon drums offer quality construction at musician-friendly prices. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
