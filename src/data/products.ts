@@ -1884,7 +1884,7 @@ export const products: Product[] = [
     price: 525.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/accessories/dixon-22-bas-head-new-logo.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
