@@ -1944,7 +1944,7 @@ export const products: Product[] = [
     price: 965.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/drums/dixon-14-maple-hoop-snare-drum-top.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1980,7 +1980,7 @@ export const products: Product[] = [
     price: 365.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/drums/dixon-14-power-snare-hoop-8-hole.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -1992,7 +1992,7 @@ export const products: Product[] = [
     price: 965.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/drums/dixon-14-maple-wood-hoop-snare-drum.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
