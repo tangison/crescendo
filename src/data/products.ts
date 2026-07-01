@@ -1812,7 +1812,7 @@ export const products: Product[] = [
     price: 250.0,
     qty: 22,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/drums/dixon-bass-drum-claw-hook-4-set-15mm.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
