@@ -3268,5 +3268,41 @@
     "error": null,
     "provider": "z-ai",
     "elapsed_sec": 26.3
+  },
+  {
+    "id": "PSYV-19C-HP",
+    "slug": "dixon-deluxe-cymbal-sleeve-8mm-4pcs",
+    "category": "drums",
+    "brand": "Dixon Drums",
+    "name": "Dixon Deluxe Cymbal Sleeve 8Mm 4Pcs",
+    "old_image": "/products/drums/dixon-star-bubinga.webp",
+    "new_image": null,
+    "matched": false,
+    "source_url": null,
+    "score": 0,
+    "reason": "",
+    "candidates_seen": 0,
+    "candidates_downloaded": 0,
+    "error": "search: z-ai 429 rate limited",
+    "provider": "z-ai",
+    "elapsed_sec": 3.1
+  },
+  {
+    "id": "PSYV-T1-HP",
+    "slug": "dixon-cymbal-sleeve-4pcs",
+    "category": "drums",
+    "brand": "Dixon Drums",
+    "name": "Dixon Cymbal Sleeve 4Pcs",
+    "old_image": "/products/drums/dixon-star-bubinga.webp",
+    "new_image": null,
+    "matched": false,
+    "source_url": null,
+    "score": 0,
+    "reason": "",
+    "candidates_seen": 0,
+    "candidates_downloaded": 0,
+    "error": "search: z-ai 429 rate limited",
+    "provider": "z-ai",
+    "elapsed_sec": 2.4
   }
 ]
