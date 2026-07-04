@@ -3216,7 +3216,7 @@ export const products: Product[] = [
     price: 17250.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/vivitek-dk-series.webp",
+    image: "/products/accessories/gibraltar-6700-series-hardware-pack.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -3228,7 +3228,7 @@ export const products: Product[] = [
     price: 2095.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/accessories/gibraltar-multipad-floor-stand.webp",
     shortDescription: "Sturdy stand for instruments or equipment. Gibraltar hardware provides rock-solid support for drummers. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Sturdy construction\n• Adjustable for different uses\n• Folds for transport\n• Non-slip rubber feet\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -3240,7 +3240,7 @@ export const products: Product[] = [
     price: 9195.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/gibraltar-drum-throne-moto-seat-with-back-r.webp",
     shortDescription: "Drum throne providing comfortable seated support. Gibraltar hardware provides rock-solid support for drummers. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Padded seat for comfort during long sessions\n• Adjustable height\n• Double-braced base for stability\n• Durable construction\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -3252,7 +3252,7 @@ export const products: Product[] = [
     price: 4430.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/drums/gibraltar-cymbal-boom-stand.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gibraltar hardware provides rock-solid support for drummers. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -3276,7 +3276,7 @@ export const products: Product[] = [
     price: 3160.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/rode-nt1-shock-mount.webp",
+    image: "/products/accessories/gibraltar-table-mount-dj-electronics.webp",
     shortDescription: "Mounting hardware for secure installation. Gibraltar hardware provides rock-solid support for drummers. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Universal fit\n• Secure attachment\n• Durable metal\n• Easy installation\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
