@@ -3060,7 +3060,7 @@ export const products: Product[] = [
     price: 5095.0,
     qty: 5,
     skillLevel: "Intermediate",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/gibraltar-cajon-pedal-double-chain.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gibraltar hardware provides rock-solid support for drummers. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -3096,7 +3096,7 @@ export const products: Product[] = [
     price: 2730.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/drums/gibraltar-lweight-hihat-stand.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gibraltar hardware provides rock-solid support for drummers. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -3108,7 +3108,7 @@ export const products: Product[] = [
     price: 2205.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/drums/gibraltar-lweight-boom-cymbal-stand.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gibraltar hardware provides rock-solid support for drummers. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -3120,7 +3120,7 @@ export const products: Product[] = [
     price: 2115.0,
     qty: 6,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/gibraltar-velocity-schain-drive-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
