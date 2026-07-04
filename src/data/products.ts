@@ -2592,7 +2592,7 @@ export const products: Product[] = [
     price: 460.0,
     qty: 135,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/accessories/elixir-acoustic-phos-nw-lt-012-53-set.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Elixir strings feature coated technology for extended tone life. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -2616,7 +2616,7 @@ export const products: Product[] = [
     price: 1055.0,
     qty: 22,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/accessories/elixir-acoustic-8020-nw-custlt-11-52-3-pack.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Elixir strings feature coated technology for extended tone life. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -2628,7 +2628,7 @@ export const products: Product[] = [
     price: 1055.0,
     qty: 37,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/accessories/elixir-acoustic-8020-nw-lt-12-53-3-pack.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Elixir strings feature coated technology for extended tone life. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -2640,7 +2640,7 @@ export const products: Product[] = [
     price: 795.0,
     qty: 41,
     skillLevel: "Beginner",
-    image: "/products/guitars/ibanez-iegs62-electric.webp",
+    image: "/products/accessories/elixir-electric-nw-suplt-9-42-3-pack.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Elixir strings feature coated technology for extended tone life. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -2652,7 +2652,7 @@ export const products: Product[] = [
     price: 795.0,
     qty: 54,
     skillLevel: "Beginner",
-    image: "/products/guitars/ibanez-iegs62-electric.webp",
+    image: "/products/accessories/elixir-electric-nw-lt-10-46-3-pack.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Elixir strings feature coated technology for extended tone life. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
