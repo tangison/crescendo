@@ -2940,7 +2940,7 @@ export const products: Product[] = [
     price: 2850.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-keyboard-bag-61-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -2952,7 +2952,7 @@ export const products: Product[] = [
     price: 2650.0,
     qty: 8,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-slim-keyboard-bag-61-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -2964,7 +2964,7 @@ export const products: Product[] = [
     price: 3360.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-keyboard-bag-88-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -2976,7 +2976,7 @@ export const products: Product[] = [
     price: 3360.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-keyboard-bag-88-key-slim-long.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -2988,7 +2988,7 @@ export const products: Product[] = [
     price: 1110.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-economy-keyboard-bag-61-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3000,7 +3000,7 @@ export const products: Product[] = [
     price: 1295.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-economy-keyboard-bag-76-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3012,7 +3012,7 @@ export const products: Product[] = [
     price: 1460.0,
     qty: 21,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-economy-keyboard-bag-88-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5220,7 +5220,7 @@ export const products: Product[] = [
     price: 2660.0,
     qty: 7,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-keyboard-bag-61-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5232,7 +5232,7 @@ export const products: Product[] = [
     price: 2495.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-slim-keyboard-bag-61-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5268,7 +5268,7 @@ export const products: Product[] = [
     price: 3150.0,
     qty: 16,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-keyboard-bag-88-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5292,7 +5292,7 @@ export const products: Product[] = [
     price: 3150.0,
     qty: 5,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-keyboard-bag-88-key-slim-long.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5316,7 +5316,7 @@ export const products: Product[] = [
     price: 1040.0,
     qty: 12,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-economy-keyboard-bag-61-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5328,7 +5328,7 @@ export const products: Product[] = [
     price: 1195.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-economy-keyboard-bag-76-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5340,7 +5340,7 @@ export const products: Product[] = [
     price: 1440.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-economy-keyboard-bag-88-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
