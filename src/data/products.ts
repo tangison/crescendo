@@ -2316,7 +2316,7 @@ export const products: Product[] = [
     price: 3685.6,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/drums/dw-stand-snare-5000-series-complete.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. DW (Drum Workshop) is the professional choice for drum hardware. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -2328,7 +2328,7 @@ export const products: Product[] = [
     price: 6563.8,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/dw-cp5500d-heavy-duty-delta-ii-3leg-hi-h.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. DW (Drum Workshop) is the professional choice for drum hardware. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -2340,7 +2340,7 @@ export const products: Product[] = [
     price: 3416.4,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/drums/dw-stand-cymbalboom-5000-complete.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. DW (Drum Workshop) is the professional choice for drum hardware. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -2352,7 +2352,7 @@ export const products: Product[] = [
     price: 8927.2,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/dw-pedal-sngl-9000.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. DW (Drum Workshop) is the professional choice for drum hardware. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -2364,7 +2364,7 @@ export const products: Product[] = [
     price: 1234.4,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/dw-single-clamp-w-v-memory-lock.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. DW (Drum Workshop) is the professional choice for drum hardware. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
