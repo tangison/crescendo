@@ -3360,7 +3360,7 @@ export const products: Product[] = [
     price: 2195.0,
     qty: 0,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/drums/gibraltar-rock-series-hihat-stand.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gibraltar hardware provides rock-solid support for drummers. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -3372,7 +3372,7 @@ export const products: Product[] = [
     price: 3195.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/gibraltar-rock-series-round-drum-throne.webp",
     shortDescription: "Drum throne providing comfortable seated support. Gibraltar hardware provides rock-solid support for drummers. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded seat for comfort during long sessions\n• Adjustable height\n• Double-braced base for stability\n• Durable construction\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -3384,7 +3384,7 @@ export const products: Product[] = [
     price: 120.0,
     qty: 62,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/behringer-wing-2.webp",
+    image: "/products/accessories/gibraltar-wing-screws-8mm.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3396,7 +3396,7 @@ export const products: Product[] = [
     price: 105.0,
     qty: 20,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-action-bass-v-plus.webp",
+    image: "/products/accessories/gibraltar-spring-with-triangle-hook-bass-dr.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3408,7 +3408,7 @@ export const products: Product[] = [
     price: 240.0,
     qty: 58,
     skillLevel: "Beginner",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/gibraltar-13-snappy-snare-16-strand.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gibraltar hardware provides rock-solid support for drummers. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
