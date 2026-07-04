@@ -3036,7 +3036,7 @@ export const products: Product[] = [
     price: 9570.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/keyboards/gator-61-tsa-latch-poly-keyboard-case.webp",
     shortDescription: "Padded case protecting your keyboard in transit. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Padded protection for transport\n• Durable exterior\n• Comfortable handles\n• Accessory pocket\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
