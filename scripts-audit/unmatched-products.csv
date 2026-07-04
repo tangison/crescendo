@@ -1,3 +1,10 @@
 id,slug,category,brand,name,old_image,best_score,reason,error,provider
 PSYV-19C-HP,dixon-deluxe-cymbal-sleeve-8mm-4pcs,drums,Dixon Drums,Dixon Deluxe Cymbal Sleeve 8Mm 4Pcs,/products/drums/dixon-star-bubinga.webp,0,,search: z-ai 429 rate limited,z-ai
 PSYV-T1-HP,dixon-cymbal-sleeve-4pcs,drums,Dixon Drums,Dixon Cymbal Sleeve 4Pcs,/products/drums/dixon-star-bubinga.webp,0,,search: z-ai 429 rate limited,z-ai
+EL11077,elixir-acoustic-8020-nw-ltmed-012-56-set,accessories,Elixir,Elixir Acoustic 8020 Nw Ltmed 012-56 Set,/products/guitars/cort-grs-ga1e-acoustic.webp,0,,search: all providers exhausted/cooling,z-ai
+EL11102,elixir-acoustic-8020-nw-med-013-56-set,accessories,Elixir,Elixir Acoustic 8020 Nw Med 013-56 Set,/products/guitars/cort-grs-ga1e-acoustic.webp,0,"The image shows a book about astrological tables, not the Elixir Acoustic guitar strings product. | shown=Tables of Ascendants on Nirayana Basis book",best score 0 < 60,z-ai
+EL11182,elixir-acoustic-8020-nw-hdlt-013-53-set,accessories,Elixir,Elixir Acoustic 8020 Nw Hdlt 013-53 Set,/products/guitars/cort-grs-ga1e-acoustic.webp,0,,search: all providers exhausted/cooling,z-ai
+EL12027,elixir-electric-nckl-nw-cuslt-009-46-set,accessories,Elixir,Elixir Electric Nckl Nw Cuslt 009-46 Set,/products/guitars/ibanez-iegs62-electric.webp,0,,search: all providers exhausted/cooling,z-ai
+EL12052,elixir-electric-nckl-nw-lt-010-46-set,accessories,Elixir,Elixir Electric Nckl Nw Lt 010-46 Set,/products/guitars/ibanez-iegs62-electric.webp,0,,search: all providers exhausted/cooling,z-ai
+EL12077,elixir-electric-nckl-nw-lthvy-010-52-set,accessories,Elixir,Elixir Electric Nckl Nw Lthvy 010-52 Set,/products/guitars/ibanez-iegs62-electric.webp,0,,search: all providers exhausted/cooling,z-ai
+EL12152,elixir-electric-nckl-nw-hvy-012-52-set,accessories,Elixir,Elixir Electric Nckl Nw Hvy 012-52 Set,/products/guitars/ibanez-iegs62-electric.webp,0,,search: all providers exhausted/cooling,z-ai

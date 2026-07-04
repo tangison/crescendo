@@ -2388,7 +2388,7 @@ export const products: Product[] = [
     price: 450.0,
     qty: 48,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/accessories/elixir-acoustic-8020-nw-lt-012-53-set.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Elixir strings feature coated technology for extended tone life. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
