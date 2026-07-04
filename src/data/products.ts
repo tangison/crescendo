@@ -3300,7 +3300,7 @@ export const products: Product[] = [
     price: 17275.0,
     qty: 0,
     skillLevel: "Professional",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/gibraltar-24x66-sound-shield-5-panel.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -3312,7 +3312,7 @@ export const products: Product[] = [
     price: 170.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/gibraltar-hihat-upper-pull-rod.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gibraltar hardware provides rock-solid support for drummers. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3324,7 +3324,7 @@ export const products: Product[] = [
     price: 2550.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/gibraltar-single-drum-pedal-road-class.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gibraltar hardware provides rock-solid support for drummers. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
