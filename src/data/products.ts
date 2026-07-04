@@ -2520,7 +2520,7 @@ export const products: Product[] = [
     price: 35.0,
     qty: 23,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/elixir-016-single-steel-string.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Elixir strings feature coated technology for extended tone life. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
