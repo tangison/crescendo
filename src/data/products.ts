@@ -2832,7 +2832,7 @@ export const products: Product[] = [
     price: 1795.0,
     qty: 19,
     skillLevel: "Beginner",
-    image: "/products/accessories/cort-cm150b-amp.webp",
+    image: "/products/guitars/fluid-audio-guitar-monitor-amp-3watt.webp",
     shortDescription: "Guitar amplifier designed for clear tone and reliable performance. Fluid Audio delivers accurate monitoring for studio professionals. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Solid-state or tube circuitry for authentic tone\n• Multiple channels for clean and overdriven sounds\n• Built-in EQ for tone shaping\n• Headphone output for silent practice\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -2868,7 +2868,7 @@ export const products: Product[] = [
     price: 3210.0,
     qty: 48,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-hduty-double-braced-keyboard-stan.webp",
     shortDescription: "Keyboard stand providing stable support. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Sturdy X-style or double-braced construction\n• Adjustable height for seated or standing play\n• Folds flat for transport\n• Non-slip rubber caps\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -2892,7 +2892,7 @@ export const products: Product[] = [
     price: 6065.0,
     qty: 9,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-61-note-lightweight-keybaord-case.webp",
     shortDescription: "Protective case for gear transport. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -2904,7 +2904,7 @@ export const products: Product[] = [
     price: 5615.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-lightweight-61-slim-case.webp",
     shortDescription: "Protective case for gear transport. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -2916,7 +2916,7 @@ export const products: Product[] = [
     price: 7310.0,
     qty: 7,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/keyboards/gator-lweight-keyboard-case-88slxl.webp",
     shortDescription: "Padded case protecting your keyboard in transit. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Padded protection for transport\n• Durable exterior\n• Comfortable handles\n• Accessory pocket\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -2928,7 +2928,7 @@ export const products: Product[] = [
     price: 1795.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-keyboard-bag-49-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5136,7 +5136,7 @@ export const products: Product[] = [
     price: 6065.0,
     qty: 6,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-61-note-lightweight-keybaord-case.webp",
     shortDescription: "Protective case for gear transport. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5148,7 +5148,7 @@ export const products: Product[] = [
     price: 5615.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-lightweight-61-slim-case.webp",
     shortDescription: "Protective case for gear transport. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5196,7 +5196,7 @@ export const products: Product[] = [
     price: 7310.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/keyboards/gator-lweight-keyboard-case-88slxl.webp",
     shortDescription: "Padded case protecting your keyboard in transit. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Padded protection for transport\n• Durable exterior\n• Comfortable handles\n• Accessory pocket\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5208,7 +5208,7 @@ export const products: Product[] = [
     price: 2360.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-keyboard-bag-49-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5436,7 +5436,7 @@ export const products: Product[] = [
     price: 3210.0,
     qty: 27,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-hduty-double-braced-keyboard-stan.webp",
     shortDescription: "Keyboard stand providing stable support. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Sturdy X-style or double-braced construction\n• Adjustable height for seated or standing play\n• Folds flat for transport\n• Non-slip rubber caps\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
