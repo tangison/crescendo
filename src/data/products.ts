@@ -2256,7 +2256,7 @@ export const products: Product[] = [
     price: 905.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/drums/dixon-cymbal-holder-arm.webp",
     shortDescription: "Cymbal with defined tone and projection. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Cast B20 bronze or sheet brass construction\n• Bright or dark tone depending on model\n• Defined sustain and projection\n• Suitable for various musical styles\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -2268,7 +2268,7 @@ export const products: Product[] = [
     price: 135.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/drums/dixon-cymbal-rubber-practise-pad.webp",
     shortDescription: "Cymbal with defined tone and projection. Dixon drums offer quality construction at musician-friendly prices. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Cast B20 bronze or sheet brass construction\n• Bright or dark tone depending on model\n• Defined sustain and projection\n• Suitable for various musical styles\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -2280,7 +2280,7 @@ export const products: Product[] = [
     price: 10395.0,
     qty: 2,
     skillLevel: "Professional",
-    image: "/products/accessories/vivitek-dk-series.webp",
+    image: "/products/accessories/dwcp3002-3000-series-double-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. DW (Drum Workshop) is the professional choice for drum hardware. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -2292,7 +2292,7 @@ export const products: Product[] = [
     price: 5855.8,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/dw-single-pedal-5000.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. DW (Drum Workshop) is the professional choice for drum hardware. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
