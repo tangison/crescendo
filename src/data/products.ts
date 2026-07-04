@@ -2820,7 +2820,7 @@ export const products: Product[] = [
     price: 7150.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/ts408-wedge-monitor.webp",
+    image: "/products/pro-audio/fluid-audio-8-studio-monitor-fader.webp",
     shortDescription: "Stage monitor for accurate performance monitoring. Fluid Audio delivers accurate monitoring for studio professionals. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Near-field design for accurate mixing\n• Flat frequency response\n• Shielded magnets for computer use\n• Multiple input connections\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
