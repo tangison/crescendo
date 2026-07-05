@@ -19428,7 +19428,7 @@ export const products: Product[] = [
     price: 295.0,
     qty: 20,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-strap-lock-set-black.webp",
     shortDescription: "Comfortable strap for instrument support. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19452,7 +19452,7 @@ export const products: Product[] = [
     price: 541.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-plastic-back-cover-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19464,7 +19464,7 @@ export const products: Product[] = [
     price: 3685.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-volumebalance-stack-knob.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -19608,7 +19608,7 @@ export const products: Product[] = [
     price: 4665.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/vasm-witalk-wt6s-8.webp",
+    image: "/products/pro-audio/xvive-u3-wireless-microphone-system.webp",
     shortDescription: "Microphone capturing clear, accurate sound. XVive wireless systems provide cable-free freedom for performers. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -19620,7 +19620,7 @@ export const products: Product[] = [
     price: 4925.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/vasm-witalk-wt6s-8.webp",
+    image: "/products/pro-audio/xvive-condenser-microphone-wireless-sysstem.webp",
     shortDescription: "Microphone capturing clear, accurate sound. XVive wireless systems provide cable-free freedom for performers. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
