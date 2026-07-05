@@ -4668,7 +4668,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 29,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/frameworks-uke-mandolin-hanger.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4680,7 +4680,7 @@ export const products: Product[] = [
     price: 185.0,
     qty: 14,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/frameworks-ukulele-wall-hanger-black.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4692,7 +4692,7 @@ export const products: Product[] = [
     price: 240.0,
     qty: 71,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/frameworks-uke-wall-hanger-maple-2.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4704,7 +4704,7 @@ export const products: Product[] = [
     price: 240.0,
     qty: 71,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/frameworks-uke-wall-hanger-maple-2.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4716,7 +4716,7 @@ export const products: Product[] = [
     price: 415.0,
     qty: 44,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/frameworks-dlx-closet-yoke-guitar-hanger.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4728,7 +4728,7 @@ export const products: Product[] = [
     price: 230.0,
     qty: 27,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/frameworks-closet-guitar-yoke-hanger.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4740,7 +4740,7 @@ export const products: Product[] = [
     price: 440.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/gator-rok-it-a-frame-dual-guitar-stand.webp",
     shortDescription: "Guitar stand providing stable display and storage. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Stable tripod base prevents tipping\n• Rubberized contacts protect instrument finish\n• Folds flat for transport\n• Adjustable height for different guitars\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4752,7 +4752,7 @@ export const products: Product[] = [
     price: 485.0,
     qty: 19,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/gator-rok-it-a-frame-2x-guitar-stand.webp",
     shortDescription: "Guitar stand providing stable display and storage. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Stable tripod base prevents tipping\n• Rubberized contacts protect instrument finish\n• Folds flat for transport\n• Adjustable height for different guitars\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4764,7 +4764,7 @@ export const products: Product[] = [
     price: 1070.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/rok-it-3-guitar-rack-stand.webp",
     shortDescription: "Guitar stand providing stable display and storage. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Stable tripod base prevents tipping\n• Rubberized contacts protect instrument finish\n• Folds flat for transport\n• Adjustable height for different guitars\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4776,7 +4776,7 @@ export const products: Product[] = [
     price: 1097.4,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/ts415-speaker.webp",
+    image: "/products/pro-audio/gator-speaker-stand-cover-stretcy-black.webp",
     shortDescription: "Microphone stand providing stable positioning. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Stable tripod base\n• Adjustable height and boom\n• Heavy-duty construction\n• Folds for transport\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4788,7 +4788,7 @@ export const products: Product[] = [
     price: 4637.8,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/mercury-152w-system.webp",
+    image: "/products/accessories/gator-case-lrg-pa-passport-system.webp",
     shortDescription: "Protective case for gear transport. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4800,7 +4800,7 @@ export const products: Product[] = [
     price: 6695.0,
     qty: 5,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-4u-rolling-rack-case.webp",
     shortDescription: "Protective case for gear transport. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4812,7 +4812,7 @@ export const products: Product[] = [
     price: 8640.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/gator-8u-rolling-rack.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4824,7 +4824,7 @@ export const products: Product[] = [
     price: 3315.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/fresnel-studio-light.webp",
+    image: "/products/accessories/gator-8u-studio-rack.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4836,7 +4836,7 @@ export const products: Product[] = [
     price: 6961.6,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-tsa-latch-utility-case-20x30x8.webp",
     shortDescription: "Protective case for gear transport. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4848,7 +4848,7 @@ export const products: Product[] = [
     price: 810.0,
     qty: 42,
     skillLevel: "Beginner",
-    image: "/products/accessories/fresnel-studio-light.webp",
+    image: "/products/accessories/frameworks-studio-isolation-pad-large.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4860,7 +4860,7 @@ export const products: Product[] = [
     price: 660.0,
     qty: 20,
     skillLevel: "Beginner",
-    image: "/products/accessories/fresnel-studio-light.webp",
+    image: "/products/accessories/frameworks-studio-isolation-pad-medium.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4872,7 +4872,7 @@ export const products: Product[] = [
     price: 520.0,
     qty: 12,
     skillLevel: "Beginner",
-    image: "/products/accessories/fresnel-studio-light.webp",
+    image: "/products/accessories/frameworks-studio-isolation-pad-small.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4896,7 +4896,7 @@ export const products: Product[] = [
     price: 75.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/shure-ksm8.webp",
+    image: "/products/pro-audio/frameworks-wireless-microphone-holder.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4908,7 +4908,7 @@ export const products: Product[] = [
     price: 1450.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-shock-mount.webp",
+    image: "/products/accessories/frameworks-dlx-uni-smount-18-55mm.webp",
     shortDescription: "Mounting hardware for secure installation. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Universal fit\n• Secure attachment\n• Durable metal\n• Easy installation\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4932,7 +4932,7 @@ export const products: Product[] = [
     price: 350.0,
     qty: 51,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-shock-mount.webp",
+    image: "/products/accessories/frameworks-wall-mount-cable-hanger.webp",
     shortDescription: "Premium cable with reliable signal transmission. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4956,7 +4956,7 @@ export const products: Product[] = [
     price: 1210.0,
     qty: 16,
     skillLevel: "Beginner",
-    image: "/products/keyboards/roland-fantom-x8-top.webp",
+    image: "/products/accessories/frameworks-collapible-6u-dtop-rack.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4968,7 +4968,7 @@ export const products: Product[] = [
     price: 1795.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/accessories/frameworks-clamp-on-laptop-stand.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4980,7 +4980,7 @@ export const products: Product[] = [
     price: 240.0,
     qty: 24,
     skillLevel: "Beginner",
-    image: "/products/keyboards/roland-fantom-x8-top.webp",
+    image: "/products/pro-audio/frameworks-mini-dtop-tripod-microphone-stan.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5004,7 +5004,7 @@ export const products: Product[] = [
     price: 295.0,
     qty: 21,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/frameworks-clamp-on-cup-holder.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5016,7 +5016,7 @@ export const products: Product[] = [
     price: 520.0,
     qty: 46,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/frameworks-desk-edge-cup-holder.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5028,7 +5028,7 @@ export const products: Product[] = [
     price: 970.0,
     qty: 34,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/ts408-wedge-monitor.webp",
+    image: "/products/pro-audio/frameworks-angled-wedge-monitor-stand.webp",
     shortDescription: "Microphone stand providing stable positioning. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Stable tripod base\n• Adjustable height and boom\n• Heavy-duty construction\n• Folds for transport\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5052,7 +5052,7 @@ export const products: Product[] = [
     price: 470.0,
     qty: 28,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/shure-ksm8.webp",
+    image: "/products/pro-audio/frameworks-microphone-pop-filter.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5064,7 +5064,7 @@ export const products: Product[] = [
     price: 950.0,
     qty: 47,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/pro-audio/gator-rok-it-roundbase-microphone-stand.webp",
     shortDescription: "Microphone stand providing stable positioning. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Stable tripod base\n• Adjustable height and boom\n• Heavy-duty construction\n• Folds for transport\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5076,7 +5076,7 @@ export const products: Product[] = [
     price: 920.0,
     qty: 95,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/pro-audio/gator-rok-it-boom-tripod-microphone-stand-black.webp",
     shortDescription: "Microphone stand providing stable positioning. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Stable tripod base\n• Adjustable height and boom\n• Heavy-duty construction\n• Folds for transport\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5088,7 +5088,7 @@ export const products: Product[] = [
     price: 325.0,
     qty: 119,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/focusrite-scarlett-2i2.webp",
+    image: "/products/pro-audio/gator-rok-it-single-layer-microphone-pop-filter.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5112,7 +5112,7 @@ export const products: Product[] = [
     price: 1095.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-midi-keyboard-bag-small.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5124,7 +5124,7 @@ export const products: Product[] = [
     price: 1195.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-micro-keyboard-bag.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5160,7 +5160,7 @@ export const products: Product[] = [
     price: 6435.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/keyboards/gator-lweight-keyboard-case-76-key.webp",
     shortDescription: "Padded case protecting your keyboard in transit. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Padded protection for transport\n• Durable exterior\n• Comfortable handles\n• Accessory pocket\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5172,7 +5172,7 @@ export const products: Product[] = [
     price: 6995.0,
     qty: 5,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/keyboards/gator-88-note-lightweight-keyboard-case.webp",
     shortDescription: "Padded case protecting your keyboard in transit. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded protection for transport\n• Durable exterior\n• Comfortable handles\n• Accessory pocket\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5184,7 +5184,7 @@ export const products: Product[] = [
     price: 6795.0,
     qty: 7,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-lweight-88-slim-kboard-case.webp",
     shortDescription: "Protective case for gear transport. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5244,7 +5244,7 @@ export const products: Product[] = [
     price: 3150.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-keyboard-bag-76-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5256,7 +5256,7 @@ export const products: Product[] = [
     price: 2850.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-keyboard-bag-slim-76-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5280,7 +5280,7 @@ export const products: Product[] = [
     price: 3195.0,
     qty: 5,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-keyboard-bag-slim-88-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5304,7 +5304,7 @@ export const products: Product[] = [
     price: 1010.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-economy-keyboard-bag-49-key.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5364,7 +5364,7 @@ export const products: Product[] = [
     price: 730.0,
     qty: 31,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/gator-keyboard-cover-large-stretch.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5376,7 +5376,7 @@ export const products: Product[] = [
     price: 13560.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/keyboards/gator-tsa-latch-poly-88-keyboard-case.webp",
     shortDescription: "Padded case protecting your keyboard in transit. Gator Cases provide reliable protection for your gear. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Padded protection for transport\n• Durable exterior\n• Comfortable handles\n• Accessory pocket\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -5388,7 +5388,7 @@ export const products: Product[] = [
     price: 12050.0,
     qty: 2,
     skillLevel: "Professional",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-tsa-latch-poly-88-kboard-case-slim.webp",
     shortDescription: "Protective case for gear transport. Gator Cases provide reliable protection for your gear. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -5400,7 +5400,7 @@ export const products: Product[] = [
     price: 12420.0,
     qty: 2,
     skillLevel: "Professional",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-tsa-latch-poly-88-kboard-case-slxl.webp",
     shortDescription: "Protective case for gear transport. Gator Cases provide reliable protection for your gear. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -5448,7 +5448,7 @@ export const products: Product[] = [
     price: 810.0,
     qty: 25,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/rok-it-single-x-keyboard-stand-2-piece.webp",
     shortDescription: "Keyboard stand providing stable support. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Sturdy X-style or double-braced construction\n• Adjustable height for seated or standing play\n• Folds flat for transport\n• Non-slip rubber caps\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5460,7 +5460,7 @@ export const products: Product[] = [
     price: 295.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-mute-button.webp",
+    image: "/products/accessories/gewa-mute-magnetic-vln.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5472,7 +5472,7 @@ export const products: Product[] = [
     price: 195.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/gewa-44-violin-fingerboard-marking.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5496,7 +5496,7 @@ export const products: Product[] = [
     price: 195.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/gewa-14-violin-fingerboard-marking.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5508,7 +5508,7 @@ export const products: Product[] = [
     price: 195.0,
     qty: 26,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/gewa-18-violin-fingerboard-marking.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5520,7 +5520,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 16,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/gewa-viol-cleaner.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5532,7 +5532,7 @@ export const products: Product[] = [
     price: 2795.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/gewa-flute-pad-set-pearl-f430.webp",
     shortDescription: "Flute with responsive keys and clear tone. Gewa brings German craftsmanship to string instruments and cases. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5544,7 +5544,7 @@ export const products: Product[] = [
     price: 1410.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/gewa-clarinet-pad-set-cl80.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
