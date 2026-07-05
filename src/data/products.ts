@@ -18588,7 +18588,7 @@ export const products: Product[] = [
     price: 495.0,
     qty: 56,
     skillLevel: "Beginner",
-    image: "/products/accessories/stagg-guitar-bag.webp",
+    image: "/products/guitars/warwick-basic-accoustic-guitar-bag.webp",
     shortDescription: "Padded gig bag protecting your instrument during transport. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded interior for instrument protection\n• Durable exterior material resists wear\n• Adjustable shoulder straps for comfortable carrying\n• Accessory pocket for picks, strings, and tuner\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18600,7 +18600,7 @@ export const products: Product[] = [
     price: 215.0,
     qty: 23,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-34-classic-bag-economy-black.webp",
     shortDescription: "Padded bag for convenient gear carrying. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18612,7 +18612,7 @@ export const products: Product[] = [
     price: 265.0,
     qty: 82,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-economy-bass-bag-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18624,7 +18624,7 @@ export const products: Product[] = [
     price: 215.0,
     qty: 53,
     skillLevel: "Beginner",
-    image: "/products/accessories/stagg-guitar-bag.webp",
+    image: "/products/guitars/warwick-eco-electric-guitar-bag-black.webp",
     shortDescription: "Electric guitar with versatile tone options and reliable electronics. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid body construction for sustained tone\n• Single-coil or humbucker pickups for versatile sound\n• Maple or rosewood fingerboard for comfortable playing\n• Adjustable bridge for precise intonation\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18636,7 +18636,7 @@ export const products: Product[] = [
     price: 250.0,
     qty: 76,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-classic-bag-economy-line.webp",
     shortDescription: "Padded bag for convenient gear carrying. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18660,7 +18660,7 @@ export const products: Product[] = [
     price: 340.0,
     qty: 13,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/drums/warwick-cymbal-pad-standard.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18672,7 +18672,7 @@ export const products: Product[] = [
     price: 475.0,
     qty: 21,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-hi-hat-pad.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18720,7 +18720,7 @@ export const products: Product[] = [
     price: 1685.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/drums/warwick-drummer-hware-bag-44.webp",
     shortDescription: "Padded bag protecting percussion gear. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded protection for gear\n• Durable exterior material\n• Comfortable carrying straps\n• Multiple size options\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18732,7 +18732,7 @@ export const products: Product[] = [
     price: 991.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-amp-bag-for-lwa1000-watt-amp-hd.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
