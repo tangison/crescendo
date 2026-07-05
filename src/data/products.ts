@@ -9600,7 +9600,7 @@ export const products: Product[] = [
     price: 1085.0,
     qty: 14,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-hibuscis-orange-burst.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9612,7 +9612,7 @@ export const products: Product[] = [
     price: 1085.0,
     qty: 33,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-hibuscis-purple.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9624,7 +9624,7 @@ export const products: Product[] = [
     price: 1085.0,
     qty: 42,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-hibuscis-red-burst.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9636,7 +9636,7 @@ export const products: Product[] = [
     price: 1025.0,
     qty: 24,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-vintage-natural.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9648,7 +9648,7 @@ export const products: Product[] = [
     price: 1215.0,
     qty: 22,
     skillLevel: "Beginner",
-    image: "/products/keyboards/alesis-concert-rest.webp",
+    image: "/products/guitars/mahalo-concert-ukulele-vintage-natural.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9660,7 +9660,7 @@ export const products: Product[] = [
     price: 2610.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/guitars/ibanez-iegs62-electric.webp",
+    image: "/products/guitars/mahalo-tenor-uke-acelectric-vnatural.webp",
     shortDescription: "Electric guitar with versatile tone options and reliable electronics. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Solid body construction for sustained tone\n• Single-coil or humbucker pickups for versatile sound\n• Maple or rosewood fingerboard for comfortable playing\n• Adjustable bridge for precise intonation\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9672,7 +9672,7 @@ export const products: Product[] = [
     price: 1435.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-tenor-ukulele-vintage-natural.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9684,7 +9684,7 @@ export const products: Product[] = [
     price: 1395.0,
     qty: 16,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-trans-brown.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9696,7 +9696,7 @@ export const products: Product[] = [
     price: 1710.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/keyboards/alesis-concert-rest.webp",
+    image: "/products/guitars/mahalo-concert-ukulele-transparent-brown.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9708,7 +9708,7 @@ export const products: Product[] = [
     price: 2395.0,
     qty: 31,
     skillLevel: "Intermediate",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/guitars/mahalo-concert-ukulele-brown-with-pickup.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9720,7 +9720,7 @@ export const products: Product[] = [
     price: 1599.0,
     qty: 32,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-tenor-ukulele-3-tone-sunburst.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9732,7 +9732,7 @@ export const products: Product[] = [
     price: 3445.0,
     qty: 10,
     skillLevel: "Intermediate",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-ten-ukulele-vintage-natural-pickup.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9744,7 +9744,7 @@ export const products: Product[] = [
     price: 1920.0,
     qty: 20,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-tenor-ukulele-trans-brown.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9756,7 +9756,7 @@ export const products: Product[] = [
     price: 1895.0,
     qty: 17,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-tenor-ukulele-vintage-natural-2.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9768,7 +9768,7 @@ export const products: Product[] = [
     price: 2265.0,
     qty: 11,
     skillLevel: "Intermediate",
-    image: "/products/guitars/cort-grs-ga1e-acoustic.webp",
+    image: "/products/guitars/mahalo-tenor-ukulele-with-pickup-3ts.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9780,7 +9780,7 @@ export const products: Product[] = [
     price: 2855.0,
     qty: 30,
     skillLevel: "Intermediate",
-    image: "/products/guitars/fender-electric.webp",
+    image: "/products/guitars/mahalo-tenor-ukulele-brown-with-pickup.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9792,7 +9792,7 @@ export const products: Product[] = [
     price: 2275.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-baritone-ukulele-natural.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9804,7 +9804,7 @@ export const products: Product[] = [
     price: 695.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/mahalo-batik-soprano-uke-trans-black.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9816,7 +9816,7 @@ export const products: Product[] = [
     price: 695.0,
     qty: 75,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/guitars/mahalo-batik-soprano-uke-trans-brown-with-bag.webp",
     shortDescription: "Padded gig bag protecting your instrument during transport. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Padded interior for instrument protection\n• Durable exterior material resists wear\n• Adjustable shoulder straps for comfortable carrying\n• Accessory pocket for picks, strings, and tuner\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9828,7 +9828,7 @@ export const products: Product[] = [
     price: 695.0,
     qty: 29,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/guitars/mahalo-batik-soprano-uke-trans-blue-with-bag.webp",
     shortDescription: "Padded gig bag protecting your instrument during transport. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Padded interior for instrument protection\n• Durable exterior material resists wear\n• Adjustable shoulder straps for comfortable carrying\n• Accessory pocket for picks, strings, and tuner\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9840,7 +9840,7 @@ export const products: Product[] = [
     price: 695.0,
     qty: 146,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/guitars/mahalo-batik-soprano-uke-trans-red-with-bag.webp",
     shortDescription: "Padded gig bag protecting your instrument during transport. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Padded interior for instrument protection\n• Durable exterior material resists wear\n• Adjustable shoulder straps for comfortable carrying\n• Accessory pocket for picks, strings, and tuner\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9852,7 +9852,7 @@ export const products: Product[] = [
     price: 695.0,
     qty: 16,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-trans-black.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9864,7 +9864,7 @@ export const products: Product[] = [
     price: 695.0,
     qty: 26,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-trans-purple.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9876,7 +9876,7 @@ export const products: Product[] = [
     price: 675.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/mahalo-17-key-kalimba-cheetah.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9888,7 +9888,7 @@ export const products: Product[] = [
     price: 605.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/mahalo-17-key-kalimba-pharoah.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9900,7 +9900,7 @@ export const products: Product[] = [
     price: 745.0,
     qty: 16,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/accessories/mahalo-traditional-kalimba-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9912,7 +9912,7 @@ export const products: Product[] = [
     price: 840.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/accessories/mahalo-17-key-kalimba-zebra-design.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9924,7 +9924,7 @@ export const products: Product[] = [
     price: 875.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-aqua-blue.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9936,7 +9936,7 @@ export const products: Product[] = [
     price: 875.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-coral-pink.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9948,7 +9948,7 @@ export const products: Product[] = [
     price: 875.0,
     qty: 14,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-cherry-red.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9960,7 +9960,7 @@ export const products: Product[] = [
     price: 875.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-smoke-haze.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9972,7 +9972,7 @@ export const products: Product[] = [
     price: 895.0,
     qty: 15,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-island-con-ukulele-aqua-blue.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9984,7 +9984,7 @@ export const products: Product[] = [
     price: 895.0,
     qty: 15,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/guitars/mahalo-island-series-con-uke-berry-crush.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9996,7 +9996,7 @@ export const products: Product[] = [
     price: 895.0,
     qty: 17,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/guitars/mahalo-island-series-con-uke-cherry-red.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10008,7 +10008,7 @@ export const products: Product[] = [
     price: 1375.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-tenor-ukulele-aqua-blue.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10020,7 +10020,7 @@ export const products: Product[] = [
     price: 1375.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-tenor-ukulele-berry-crush.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10032,7 +10032,7 @@ export const products: Product[] = [
     price: 1055.0,
     qty: 20,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-island-ten-ukulele-sand-dune.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10044,7 +10044,7 @@ export const products: Product[] = [
     price: 1195.0,
     qty: 23,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-tenor-ukulele-smoke-haze.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10056,7 +10056,7 @@ export const products: Product[] = [
     price: 3075.0,
     qty: 10,
     skillLevel: "Intermediate",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-ten-solid-wood-uke-hist-brown.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Mahalo ukuleles offer bright tone and unbeatable value for beginners. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -10068,7 +10068,7 @@ export const products: Product[] = [
     price: 1995.0,
     qty: 23,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/guitars/mahalo-pearl-series-soprano-ukulele-natural.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
