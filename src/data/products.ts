@@ -12960,7 +12960,7 @@ export const products: Product[] = [
     price: 36065.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/gaffer-tape-white.webp",
+    image: "/products/accessories/pdp-concept-7pce-maple-pearlecent-white.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -12972,7 +12972,7 @@ export const products: Product[] = [
     price: 36065.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/pdp-concept-7pce-maple-satin-charcoal-br.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -12984,7 +12984,7 @@ export const products: Product[] = [
     price: 33285.0,
     qty: 2,
     skillLevel: "Professional",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/pdp-concept-7pce-maple-satin-seafoam.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -12996,7 +12996,7 @@ export const products: Product[] = [
     price: 33285.0,
     qty: 3,
     skillLevel: "Professional",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/pdp-concept-maple-7pce-satin-olive.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Professional-grade gear built to meet the demands of serious players. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -13008,7 +13008,7 @@ export const products: Product[] = [
     price: 33285.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/pdp-concept-maple-7pce-twisted-ivory.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -13020,7 +13020,7 @@ export const products: Product[] = [
     price: 10995.0,
     qty: 3,
     skillLevel: "Professional",
-    image: "/products/accessories/vivitek-dk-series.webp",
+    image: "/products/accessories/pdp-800-series-hardware-pack.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -13032,7 +13032,7 @@ export const products: Product[] = [
     price: 15255.0,
     qty: 2,
     skillLevel: "Professional",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/pdp-conept-hardware-pack-5pce.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -13044,7 +13044,7 @@ export const products: Product[] = [
     price: 24965.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/pdp-mainstage-5pce-black-spark-hw-paist.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -13056,7 +13056,7 @@ export const products: Product[] = [
     price: 9435.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/pdp-thick-snare-65x14-wood-hoop-maple.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. PDP (Pacific Drums) offers DW quality at accessible prices. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13068,7 +13068,7 @@ export const products: Product[] = [
     price: 1250.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/ts408-wedge-monitor.webp",
+    image: "/products/pro-audio/quik-lok-studio-monitor-stand-adjstable.webp",
     shortDescription: "Microphone stand providing stable positioning. Quiklok stands provide sturdy support for keyboards and gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Stable tripod base\n• Adjustable height and boom\n• Heavy-duty construction\n• Folds for transport\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13080,7 +13080,7 @@ export const products: Product[] = [
     price: 386.2,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/quik-lok-guitar-wall-hanger-with-yoke-lok.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Quiklok stands provide sturdy support for keyboards and gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13092,7 +13092,7 @@ export const products: Product[] = [
     price: 1160.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/quik-lok-universal-guitar-stand-locking.webp",
     shortDescription: "Guitar stand providing stable display and storage. Quiklok stands provide sturdy support for keyboards and gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Stable tripod base prevents tipping\n• Rubberized contacts protect instrument finish\n• Folds flat for transport\n• Adjustable height for different guitars\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13104,7 +13104,7 @@ export const products: Product[] = [
     price: 59.0,
     qty: 85,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/shure-se215bt.webp",
+    image: "/products/pro-audio/quik-lok-microphone-clip-rubber.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Quiklok stands provide sturdy support for keyboards and gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13116,7 +13116,7 @@ export const products: Product[] = [
     price: 538.2,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/pro-audio/quik-lok-adjustable-dual-microphone-holder.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Quiklok stands provide sturdy support for keyboards and gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13128,7 +13128,7 @@ export const products: Product[] = [
     price: 1090.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/accessories/quik-lok-music-stand-and-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Quiklok stands provide sturdy support for keyboards and gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13140,7 +13140,7 @@ export const products: Product[] = [
     price: 435.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/quik-lok-sustain-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Quiklok stands provide sturdy support for keyboards and gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13152,7 +13152,7 @@ export const products: Product[] = [
     price: 175.6,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/ts415-speaker.webp",
+    image: "/products/pro-audio/quik-lok-speaker-stand-extension-tube.webp",
     shortDescription: "Microphone stand providing stable positioning. Quiklok stands provide sturdy support for keyboards and gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Stable tripod base\n• Adjustable height and boom\n• Heavy-duty construction\n• Folds for transport\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13164,7 +13164,7 @@ export const products: Product[] = [
     price: 895.0,
     qty: 25,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/quik-lok-alto-tenor-sax-tall-stand.webp",
     shortDescription: "Instrument stand providing stable display. Quiklok stands provide sturdy support for keyboards and gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Stable base for secure display\n• Rubberized contacts protect finish\n• Folds for transport\n• Adjustable for different instruments\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13176,7 +13176,7 @@ export const products: Product[] = [
     price: 509.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/wind/quik-lok-trombone-stand.webp",
     shortDescription: "Instrument stand providing stable display. Quiklok stands provide sturdy support for keyboards and gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Stable base for secure display\n• Rubberized contacts protect finish\n• Folds for transport\n• Adjustable for different instruments\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13188,7 +13188,7 @@ export const products: Product[] = [
     price: 525.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/wind/quik-lok-trumpetcornet-stand.webp",
     shortDescription: "Instrument stand providing stable display. Quiklok stands provide sturdy support for keyboards and gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Stable base for secure display\n• Rubberized contacts protect finish\n• Folds for transport\n• Adjustable for different instruments\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13200,7 +13200,7 @@ export const products: Product[] = [
     price: 1889.6,
     qty: 14,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/keyboards/quik-lok-adj-keyboard-second-tier.webp",
     shortDescription: "A keyboard instrument suitable for practice, performance, or production. Quiklok stands provide sturdy support for keyboards and gear. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Responsive keys for expressive playing\n• Multiple instrument sounds\n• Built-in speakers\n• Headphone output for silent practice\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13212,7 +13212,7 @@ export const products: Product[] = [
     price: 5779.8,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/accessories/quik-lok-12u-rack-stand-cherry-wood.webp",
     shortDescription: "Sturdy stand for instruments or equipment. Quiklok stands provide sturdy support for keyboards and gear. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Sturdy construction\n• Adjustable for different uses\n• Folds for transport\n• Non-slip rubber feet\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13224,7 +13224,7 @@ export const products: Product[] = [
     price: 1510.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/shure-se215bt.webp",
+    image: "/products/pro-audio/gator-shure-4-microphone-bag.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. Shure delivers industry-standard reliability trusted by professionals worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13236,7 +13236,7 @@ export const products: Product[] = [
     price: 2040.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215bt.webp",
+    image: "/products/pro-audio/gator-shure-12-microphone-bag.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. Shure delivers industry-standard reliability trusted by professionals worldwide. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13248,7 +13248,7 @@ export const products: Product[] = [
     price: 1860.0,
     qty: 41,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/pro-audio/gator-shure-round-base-microphone-stand.webp",
     shortDescription: "Microphone stand providing stable positioning. Shure delivers industry-standard reliability trusted by professionals worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Stable tripod base\n• Adjustable height and boom\n• Heavy-duty construction\n• Folds for transport\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13260,7 +13260,7 @@ export const products: Product[] = [
     price: 2095.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/pro-audio/gator-shure-3-microphone-stand-5-microphone-bag.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. Shure delivers industry-standard reliability trusted by professionals worldwide. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13272,7 +13272,7 @@ export const products: Product[] = [
     price: 2250.0,
     qty: 38,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/pro-audio/gator-shure-telescopic-tripod-microphone-stand.webp",
     shortDescription: "Microphone stand providing stable positioning. Shure delivers industry-standard reliability trusted by professionals worldwide. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Stable tripod base\n• Adjustable height and boom\n• Heavy-duty construction\n• Folds for transport\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13284,7 +13284,7 @@ export const products: Product[] = [
     price: 1995.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/shure-se215bt.webp",
+    image: "/products/pro-audio/gator-shure-2-wireless-microphone-bag.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. Shure delivers industry-standard reliability trusted by professionals worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13296,7 +13296,7 @@ export const products: Product[] = [
     price: 2095.0,
     qty: 8,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215bt.webp",
+    image: "/products/pro-audio/gator-shure-wireless-microphone-bag.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. Shure delivers industry-standard reliability trusted by professionals worldwide. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13308,7 +13308,7 @@ export const products: Product[] = [
     price: 4620.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-11-aax-xplosion-splash.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13320,7 +13320,7 @@ export const products: Product[] = [
     price: 4760.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/sabian-20-b8x-ride-cymbal.webp",
     shortDescription: "Cymbal with defined tone and projection. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Cast B20 bronze or sheet brass construction\n• Bright or dark tone depending on model\n• Defined sustain and projection\n• Suitable for various musical styles\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13332,7 +13332,7 @@ export const products: Product[] = [
     price: 15050.0,
     qty: 3,
     skillLevel: "Professional",
-    image: "/products/guitars/cort-action-bass-v-plus.webp",
+    image: "/products/accessories/sabian-b8x-perf-set-plus-with-free-18-cras.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -13344,7 +13344,7 @@ export const products: Product[] = [
     price: 2650.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/drums/sabian-standard-cymbal-bag-22.webp",
     shortDescription: "Padded bag protecting percussion gear. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Padded protection for gear\n• Durable exterior material\n• Comfortable carrying straps\n• Multiple size options\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13356,7 +13356,7 @@ export const products: Product[] = [
     price: 270.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-rivets-12-pack.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13368,7 +13368,7 @@ export const products: Product[] = [
     price: 125.0,
     qty: 40,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/sabian-drum-key.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Sabian cymbals are crafted in Canada for crystal-clear tone. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13380,7 +13380,7 @@ export const products: Product[] = [
     price: 295.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/sabian-nylon-cymbal-straps.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Sabian cymbals are crafted in Canada for crystal-clear tone. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13392,7 +13392,7 @@ export const products: Product[] = [
     price: 1640.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/accessories/sabian-standard-stick-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Sabian cymbals are crafted in Canada for crystal-clear tone. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13404,7 +13404,7 @@ export const products: Product[] = [
     price: 2295.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/accessories/sabian-premium-xl-stick-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13416,7 +13416,7 @@ export const products: Product[] = [
     price: 710.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/accessories/sabian-econo-stick-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Sabian cymbals are crafted in Canada for crystal-clear tone. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13428,7 +13428,7 @@ export const products: Product[] = [
     price: 1054.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-shock-mount.webp",
+    image: "/products/accessories/sabian-camber-chime-mount.webp",
     shortDescription: "Mounting hardware for secure installation. Sabian cymbals are crafted in Canada for crystal-clear tone. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Universal fit\n• Secure attachment\n• Durable metal\n• Easy installation\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
