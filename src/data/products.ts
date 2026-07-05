@@ -11040,7 +11040,7 @@ export const products: Product[] = [
     price: 1950.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-slow-engine.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11052,7 +11052,7 @@ export const products: Product[] = [
     price: 1895.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-univibe-chorus-vibrato-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11064,7 +11064,7 @@ export const products: Product[] = [
     price: 2330.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-wah-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -11076,7 +11076,7 @@ export const products: Product[] = [
     price: 2810.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-tone-capture-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -11088,7 +11088,7 @@ export const products: Product[] = [
     price: 1320.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-tremelo-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11100,7 +11100,7 @@ export const products: Product[] = [
     price: 1950.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-cab-simulated-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11112,7 +11112,7 @@ export const products: Product[] = [
     price: 3095.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-jcm900-micro-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -11124,7 +11124,7 @@ export const products: Product[] = [
     price: 2750.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-marshall-plexi-50-simulator-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -11148,7 +11148,7 @@ export const products: Product[] = [
     price: 1495.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-compressor-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11160,7 +11160,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 55,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypad-clarinet-11mm.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11172,7 +11172,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 87,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypads-clarinet-115.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11184,7 +11184,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypad-clarinet-12mm.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11196,7 +11196,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 51,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypads-clarinet-125.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11208,7 +11208,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 105,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypads-clarinet-pads-140.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11220,7 +11220,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 99,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypads-clarinet-150.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11232,7 +11232,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 95,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypad-clarinet-pads-155.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11268,7 +11268,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypad-clarinet-17mm.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11280,7 +11280,7 @@ export const products: Product[] = [
     price: 64.4,
     qty: 43,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypads-clarinet-pads-175.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11292,7 +11292,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 74,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypad-clarinet-pad-transparent.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11304,7 +11304,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 90,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypads-clarinet-pads-185.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11328,7 +11328,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 128,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypads-clarinet-pads-np-7.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11340,7 +11340,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 169,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypad-clarinet-pads-75-dbl.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11352,7 +11352,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 125,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypads-clarinet-pads-no8.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11364,7 +11364,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 99,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypads-clarinet-pads-no-85.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11376,7 +11376,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 55,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/mypad-clarinet-9mm.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11388,7 +11388,7 @@ export const products: Product[] = [
     price: 855.2,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/mypad-deluxe-piccolo-set.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11400,7 +11400,7 @@ export const products: Product[] = [
     price: 77.2,
     qty: 75,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/mypad-flute-11mm.webp",
     shortDescription: "Flute with responsive keys and clear tone. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11412,7 +11412,7 @@ export const products: Product[] = [
     price: 77.2,
     qty: 122,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/mypads-flute-pads-115.webp",
     shortDescription: "Flute with responsive keys and clear tone. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11424,7 +11424,7 @@ export const products: Product[] = [
     price: 77.2,
     qty: 27,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/mypad-flute-12mm.webp",
     shortDescription: "Flute with responsive keys and clear tone. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11436,7 +11436,7 @@ export const products: Product[] = [
     price: 77.2,
     qty: 116,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/mypad-flute-pad-yellow-bladder-15mm.webp",
     shortDescription: "Flute with responsive keys and clear tone. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11448,7 +11448,7 @@ export const products: Product[] = [
     price: 77.2,
     qty: 120,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/mypads-flute-pad-16mm.webp",
     shortDescription: "Flute with responsive keys and clear tone. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11460,7 +11460,7 @@ export const products: Product[] = [
     price: 77.2,
     qty: 70,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/mypad-flute-165mm.webp",
     shortDescription: "Flute with responsive keys and clear tone. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11472,7 +11472,7 @@ export const products: Product[] = [
     price: 77.2,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/mypads-flute-19mm.webp",
     shortDescription: "Flute with responsive keys and clear tone. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11484,7 +11484,7 @@ export const products: Product[] = [
     price: 77.2,
     qty: 39,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/mypads-flute-pads-no-195.webp",
     shortDescription: "Flute with responsive keys and clear tone. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11496,7 +11496,7 @@ export const products: Product[] = [
     price: 1564.2,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-live1604.webp",
+    image: "/products/wind/mypad-alto-reed-trimmer.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11508,7 +11508,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 32,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypads-sax-pad-no-105.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
