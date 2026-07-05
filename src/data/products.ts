@@ -8160,7 +8160,7 @@ export const products: Product[] = [
     price: 380.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-2-spirit-case-guitar-strap-navy-blue.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8172,7 +8172,7 @@ export const products: Product[] = [
     price: 530.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-2-poly-subliminal-print-strap.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8184,7 +8184,7 @@ export const products: Product[] = [
     price: 1190.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-strap-25-decorative-inlay.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8208,7 +8208,7 @@ export const products: Product[] = [
     price: 845.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-2-hemp-web-guitar-strap-printed-ink-2.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8220,7 +8220,7 @@ export const products: Product[] = [
     price: 799.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-2-hemp-webbing-strap-printed-ink.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8232,7 +8232,7 @@ export const products: Product[] = [
     price: 799.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-2-hemp-vegan-strap-with-rosa.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8244,7 +8244,7 @@ export const products: Product[] = [
     price: 799.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-2-hemp-vegan-strap-with-rosa-2.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8256,7 +8256,7 @@ export const products: Product[] = [
     price: 775.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-2-hemp-strap-natural.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8268,7 +8268,7 @@ export const products: Product[] = [
     price: 365.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/levy-15-kids-leather-galaxy-punch-stra.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8292,7 +8292,7 @@ export const products: Product[] = [
     price: 295.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/levy-acoustic-adaptor-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8304,7 +8304,7 @@ export const products: Product[] = [
     price: 295.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-acoustic-strap-adaptor-brown.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8328,7 +8328,7 @@ export const products: Product[] = [
     price: 550.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levys-2-poly-guitar-strap-print-design.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8340,7 +8340,7 @@ export const products: Product[] = [
     price: 550.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levys-2-poly-guitar-strap-print-design-2.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8352,7 +8352,7 @@ export const products: Product[] = [
     price: 550.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-2-poly-print-strap-suede-ends.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8364,7 +8364,7 @@ export const products: Product[] = [
     price: 485.6,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-strap-2-sublim-citrus-suede-ends.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8376,7 +8376,7 @@ export const products: Product[] = [
     price: 520.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levys-2-poly-guitar-strap-sublim-print.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8388,7 +8388,7 @@ export const products: Product[] = [
     price: 520.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levys-2-poly-guitar-strap-sublim-print-2.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8400,7 +8400,7 @@ export const products: Product[] = [
     price: 520.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-2-poly-guitar-strap-sublime-print.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8412,7 +8412,7 @@ export const products: Product[] = [
     price: 520.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-2-poly-guitar-strap-sublime-print-2.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8424,7 +8424,7 @@ export const products: Product[] = [
     price: 550.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-2-poly-guitar-strap-sonic-art-doghnut.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8436,7 +8436,7 @@ export const products: Product[] = [
     price: 550.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-2-poly-strap-traditional-dragon.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8448,7 +8448,7 @@ export const products: Product[] = [
     price: 550.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-2-poly-strap-traditional-tiger.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8460,7 +8460,7 @@ export const products: Product[] = [
     price: 735.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levys-2-poly-strap-with-jack-guard-grn.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8472,7 +8472,7 @@ export const products: Product[] = [
     price: 735.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levys-2-poly-strap-with-jack-guard-red.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8496,7 +8496,7 @@ export const products: Product[] = [
     price: 320.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-15-kids-skull-print-guitar-strap.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8508,7 +8508,7 @@ export const products: Product[] = [
     price: 320.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-15-kids-dinosaur-print-guitar-strap.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8520,7 +8520,7 @@ export const products: Product[] = [
     price: 320.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-15-kids-purple-print-guitar-strap.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8544,7 +8544,7 @@ export const products: Product[] = [
     price: 320.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-15-kids-red-print-guitar-strap.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8556,7 +8556,7 @@ export const products: Product[] = [
     price: 320.0,
     qty: 12,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-15-kids-diagonal-print-guitar-strap.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8568,7 +8568,7 @@ export const products: Product[] = [
     price: 460.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-2-poly-guitar-strap-sonic-art.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8580,7 +8580,7 @@ export const products: Product[] = [
     price: 520.0,
     qty: 13,
     skillLevel: "Beginner",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/levy-25-right-height-garment-leath-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8592,7 +8592,7 @@ export const products: Product[] = [
     price: 520.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/levy-2-right-height-red-cotton-leather.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8604,7 +8604,7 @@ export const products: Product[] = [
     price: 950.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-3-right-height-garment-leather-chm.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8628,7 +8628,7 @@ export const products: Product[] = [
     price: 950.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levys-2-suede-guitar-strap-honey.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
