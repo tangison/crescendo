@@ -8652,7 +8652,7 @@ export const products: Product[] = [
     price: 795.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-3-cotton-bass-guitar-strap-black.webp",
     shortDescription: "Bass guitar with deep, punchy low-end response. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid basswood or alder body\n• Maple neck with rosewood fingerboard\n• Single-coil or humbucker pickups for punchy low-end\n• Adjustable bridge for precise action\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8664,7 +8664,7 @@ export const products: Product[] = [
     price: 877.6,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-strap-1-ukulele-printed-cork.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8676,7 +8676,7 @@ export const products: Product[] = [
     price: 877.6,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-strap-1-ukulele-printed-cork-2.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8688,7 +8688,7 @@ export const products: Product[] = [
     price: 877.6,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-strap-1-ukulele-printed-cork-3.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8700,7 +8700,7 @@ export const products: Product[] = [
     price: 877.6,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-strap-1-ukulele-printed-cork-4.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8712,7 +8712,7 @@ export const products: Product[] = [
     price: 643.6,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-strap-1-mandolin-printed-cork.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8724,7 +8724,7 @@ export const products: Product[] = [
     price: 643.6,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-strap-1-mandolin-printed-cork-2.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8736,7 +8736,7 @@ export const products: Product[] = [
     price: 643.6,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-strap-1-mandolin-printed-cork-3.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8748,7 +8748,7 @@ export const products: Product[] = [
     price: 643.6,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-strap-1-mandolin-printed-cork-4.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8760,7 +8760,7 @@ export const products: Product[] = [
     price: 1045.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-2-cork-wildflower-on-black-guitar-strap.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8772,7 +8772,7 @@ export const products: Product[] = [
     price: 995.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-2-cork-zanzibar-on-natural-guitar-strap.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8784,7 +8784,7 @@ export const products: Product[] = [
     price: 1045.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/levy-2-cork-nantucket-pattern-on-tan.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8796,7 +8796,7 @@ export const products: Product[] = [
     price: 1045.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/levy-2-cork-orleans-pattern-on-black-strap.webp",
     shortDescription: "Comfortable strap for instrument support. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8808,7 +8808,7 @@ export const products: Product[] = [
     price: 685.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/levy-guitar-wall-hanger-leather-black.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8820,7 +8820,7 @@ export const products: Product[] = [
     price: 685.0,
     qty: 12,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/levy-guitar-hanger-black-metal-brown-leather.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8832,7 +8832,7 @@ export const products: Product[] = [
     price: 685.0,
     qty: 14,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/levy-guitar-hanger-black-met-tan-leather.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8844,7 +8844,7 @@ export const products: Product[] = [
     price: 685.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/levy-guitar-hanger-brown-met-black-leather.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8856,7 +8856,7 @@ export const products: Product[] = [
     price: 685.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-guitar-hanger-bronze-met-brown-leather.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8868,7 +8868,7 @@ export const products: Product[] = [
     price: 695.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-guitar-wall-hanger-bronze-tan-leather.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8880,7 +8880,7 @@ export const products: Product[] = [
     price: 685.0,
     qty: 15,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/levy-guitar-hanger-silver-met-black-leather.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8892,7 +8892,7 @@ export const products: Product[] = [
     price: 685.0,
     qty: 15,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-guitar-hanger-silver-met-brown-leather.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8904,7 +8904,7 @@ export const products: Product[] = [
     price: 685.0,
     qty: 17,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/levy-guitar-hanger-silver-met-tan-leather.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Levy's straps offer premium comfort and style for performing musicians. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8928,7 +8928,7 @@ export const products: Product[] = [
     price: 99.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/lp-egg-shakers-glow-in-dark.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8940,7 +8940,7 @@ export const products: Product[] = [
     price: 99.0,
     qty: 25,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/lp-egg-shakers-mix.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8952,7 +8952,7 @@ export const products: Product[] = [
     price: 1155.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/lp-classic-rock-ridge-rider-85-cowbell.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -8964,7 +8964,7 @@ export const products: Product[] = [
     price: 2955.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/lp-prism-cajon-red-snare-with-pad.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -8976,7 +8976,7 @@ export const products: Product[] = [
     price: 2955.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/accessories/gaffer-tape-white.webp",
+    image: "/products/drums/lp-prism-cajon-white-snare-with-pad.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -8988,7 +8988,7 @@ export const products: Product[] = [
     price: 2955.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/drums/remo-green-heads.webp",
+    image: "/products/drums/lp-prism-cajon-green-snare-with-pad.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9000,7 +9000,7 @@ export const products: Product[] = [
     price: 2955.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/drums/lp-prism-cajon-blue-snare-with-pad.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9012,7 +9012,7 @@ export const products: Product[] = [
     price: 3235.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/lp-festivo-cajon-blue.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9024,7 +9024,7 @@ export const products: Product[] = [
     price: 3568.6,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/drums/remo-green-heads.webp",
+    image: "/products/drums/lp-festivo-cajon-green.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9036,7 +9036,7 @@ export const products: Product[] = [
     price: 561.6,
     qty: 13,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/lp-foot-tambourine.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9048,7 +9048,7 @@ export const products: Product[] = [
     price: 2955.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/drums/lp-world-10-rope-circ-djembe-black.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9060,7 +9060,7 @@ export const products: Product[] = [
     price: 2955.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/lp-10-world-rope-circ-djembe-blue-marbl.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9072,7 +9072,7 @@ export const products: Product[] = [
     price: 2955.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/drums/remo-green-heads.webp",
+    image: "/products/drums/lp-10-world-rope-circ-djembe-green-marb.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9084,7 +9084,7 @@ export const products: Product[] = [
     price: 2955.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/lp-10-world-rope-circ-djembe-orange-mar.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9096,7 +9096,7 @@ export const products: Product[] = [
     price: 95.0,
     qty: 19,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/drums/lp-conga-shaker-black.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9108,7 +9108,7 @@ export const products: Product[] = [
     price: 930.2,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/lp-black-beauty-cowbell-12-mount.webp",
     shortDescription: "Mounting hardware for secure installation. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Universal fit\n• Secure attachment\n• Durable metal\n• Easy installation\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
