@@ -6120,7 +6120,7 @@ export const products: Product[] = [
     price: 725.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/hanflag-10-practise-pad-octagon-single.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Han Flag Percussion delivers quality percussion accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6252,7 +6252,7 @@ export const products: Product[] = [
     price: 60.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/hidersine-violin-e-string.webp",
     shortDescription: "String set engineered for tone and durability. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6264,7 +6264,7 @@ export const products: Product[] = [
     price: 260.0,
     qty: 16,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/hidersine-violin-a-string.webp",
     shortDescription: "String set engineered for tone and durability. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6276,7 +6276,7 @@ export const products: Product[] = [
     price: 330.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/hidersine-violin-d-string.webp",
     shortDescription: "String set engineered for tone and durability. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6288,7 +6288,7 @@ export const products: Product[] = [
     price: 495.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/hidersine-violin-g-string.webp",
     shortDescription: "String set engineered for tone and durability. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6300,7 +6300,7 @@ export const products: Product[] = [
     price: 195.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/hidersine-violin-shoulder-pad.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6312,7 +6312,7 @@ export const products: Product[] = [
     price: 745.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/hidersine-maesbury-violin-shoulder-rest.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6324,7 +6324,7 @@ export const products: Product[] = [
     price: 920.0,
     qty: 32,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/jargar-cello-single-a-medium-i.webp",
     shortDescription: "Cello with deep, resonant low-end response. Jargar strings are handcrafted in Denmark for orchestral players. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6336,7 +6336,7 @@ export const products: Product[] = [
     price: 920.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/jargar-cello-a1-red-forte.webp",
     shortDescription: "Cello with deep, resonant low-end response. Jargar strings are handcrafted in Denmark for orchestral players. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6348,7 +6348,7 @@ export const products: Product[] = [
     price: 1195.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/strings/artisan-student-violin.webp",
+    image: "/products/strings/jargar-cello-c-medium-iv.webp",
     shortDescription: "Cello with deep, resonant low-end response. Jargar strings are handcrafted in Denmark for orchestral players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6360,7 +6360,7 @@ export const products: Product[] = [
     price: 1195.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/jargar-cello-c4-red-forte.webp",
     shortDescription: "Cello with deep, resonant low-end response. Jargar strings are handcrafted in Denmark for orchestral players. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6384,7 +6384,7 @@ export const products: Product[] = [
     price: 995.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/jargar-cello-d2-red-forte.webp",
     shortDescription: "Cello with deep, resonant low-end response. Jargar strings are handcrafted in Denmark for orchestral players. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6396,7 +6396,7 @@ export const products: Product[] = [
     price: 1095.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/strings/mason-violin.webp",
+    image: "/products/strings/jargar-cello-g-medium-iii.webp",
     shortDescription: "Cello with deep, resonant low-end response. Jargar strings are handcrafted in Denmark for orchestral players. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6408,7 +6408,7 @@ export const products: Product[] = [
     price: 1095.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/jargar-cello-g3-red-forte.webp",
     shortDescription: "Cello with deep, resonant low-end response. Jargar strings are handcrafted in Denmark for orchestral players. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6420,7 +6420,7 @@ export const products: Product[] = [
     price: 1130.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/strings/jargar-cello-c-silver-red-forte.webp",
     shortDescription: "Cello with deep, resonant low-end response. Jargar strings are handcrafted in Denmark for orchestral players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6432,7 +6432,7 @@ export const products: Product[] = [
     price: 1045.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/strings/jargar-cello-g-string-silver-red-forte.webp",
     shortDescription: "String set engineered for tone and durability. Jargar strings are handcrafted in Denmark for orchestral players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6444,7 +6444,7 @@ export const products: Product[] = [
     price: 372.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/jarger-viola-a-string.webp",
     shortDescription: "String set engineered for tone and durability. Jargar strings are handcrafted in Denmark for orchestral players. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6456,7 +6456,7 @@ export const products: Product[] = [
     price: 418.8,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/jarger-viola-g-string.webp",
     shortDescription: "String set engineered for tone and durability. Jargar strings are handcrafted in Denmark for orchestral players. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6516,7 +6516,7 @@ export const products: Product[] = [
     price: 150.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-12-violin-bridge-uncut.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6552,7 +6552,7 @@ export const products: Product[] = [
     price: 115.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-violin-tailgut-34--44.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6564,7 +6564,7 @@ export const products: Product[] = [
     price: 76.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-violin-tailgut-12.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6576,7 +6576,7 @@ export const products: Product[] = [
     price: 76.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-violin-tailgut-14.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6588,7 +6588,7 @@ export const products: Product[] = [
     price: 80.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/josef-teller-tailgut.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6600,7 +6600,7 @@ export const products: Product[] = [
     price: 155.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-tailgut-cello.webp",
     shortDescription: "Cello with deep, resonant low-end response. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6612,7 +6612,7 @@ export const products: Product[] = [
     price: 124.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-action-bass-v-plus.webp",
+    image: "/products/accessories/josef-teller-tailhang-d-bass-34-metal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6648,7 +6648,7 @@ export const products: Product[] = [
     price: 215.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-14-ebony-violin-peg.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6660,7 +6660,7 @@ export const products: Product[] = [
     price: 260.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-viola-pegs-french-style-ebo.webp",
     shortDescription: "Viola with warm, mellow tone. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard\n• Warm, mellow tone\n• Includes case and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6696,7 +6696,7 @@ export const products: Product[] = [
     price: 195.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-12-violin-bridge-cut.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6708,7 +6708,7 @@ export const products: Product[] = [
     price: 195.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-14-violin-bridge-fitted.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
