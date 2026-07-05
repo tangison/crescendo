@@ -3804,7 +3804,7 @@ export const products: Product[] = [
     price: 1260.0,
     qty: 19,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/gibraltar-127mm-single-ball-arm.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3816,7 +3816,7 @@ export const products: Product[] = [
     price: 1260.0,
     qty: 13,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/gibraltar-105mm-single-ball-arm.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3828,7 +3828,7 @@ export const products: Product[] = [
     price: 1260.0,
     qty: 14,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/gibraltar-95mm-single-ball-arm.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3840,7 +3840,7 @@ export const products: Product[] = [
     price: 350.0,
     qty: 24,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/gibraltar-knurled-rod-265mm.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3852,7 +3852,7 @@ export const products: Product[] = [
     price: 540.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/gibraltar-95mm-floor-tom-legs.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gibraltar hardware provides rock-solid support for drummers. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3864,7 +3864,7 @@ export const products: Product[] = [
     price: 595.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/gibraltar-floor-tom-legs.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gibraltar hardware provides rock-solid support for drummers. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3876,7 +3876,7 @@ export const products: Product[] = [
     price: 5210.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/gibraltar-docking-station-frame-clamp.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gibraltar hardware provides rock-solid support for drummers. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -3888,7 +3888,7 @@ export const products: Product[] = [
     price: 495.0,
     qty: 21,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/gibraltar-drum-shield-hinge.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gibraltar hardware provides rock-solid support for drummers. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3900,7 +3900,7 @@ export const products: Product[] = [
     price: 1995.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/gator-lightweight-clarinet-case.webp",
     shortDescription: "Hard case protecting your wind instrument in transit. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Hard-shell protection\n• Plush interior lining\n• Secure latches\n• Comfortable handle\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3924,7 +3924,7 @@ export const products: Product[] = [
     price: 2930.0,
     qty: 10,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/wind/gator-lightweight-trumpet-case.webp",
     shortDescription: "Hard case protecting your wind instrument in transit. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Hard-shell protection\n• Plush interior lining\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -3960,7 +3960,7 @@ export const products: Product[] = [
     price: 610.0,
     qty: 17,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/accessories/gator-stick-mallet-bag-standard.webp",
     shortDescription: "Padded bag for convenient gear carrying. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3972,7 +3972,7 @@ export const products: Product[] = [
     price: 670.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/gator-8x8-padded-tom-drum-bag.webp",
     shortDescription: "Padded bag protecting percussion gear. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded protection for gear\n• Durable exterior material\n• Comfortable carrying straps\n• Multiple size options\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3984,7 +3984,7 @@ export const products: Product[] = [
     price: 496.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/gator-10x9-padded-drum-bag.webp",
     shortDescription: "Padded bag protecting percussion gear. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Padded protection for gear\n• Durable exterior material\n• Comfortable carrying straps\n• Multiple size options\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -3996,7 +3996,7 @@ export const products: Product[] = [
     price: 640.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/drums/gator-12x9-tom-bag.webp",
     shortDescription: "Padded bag protecting percussion gear. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded protection for gear\n• Durable exterior material\n• Comfortable carrying straps\n• Multiple size options\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4008,7 +4008,7 @@ export const products: Product[] = [
     price: 750.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/drums/gator-13x55-snare-bag.webp",
     shortDescription: "Padded bag protecting percussion gear. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded protection for gear\n• Durable exterior material\n• Comfortable carrying straps\n• Multiple size options\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4020,7 +4020,7 @@ export const products: Product[] = [
     price: 870.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/drums/gator-14x12-tom-bag.webp",
     shortDescription: "Padded bag protecting percussion gear. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Padded protection for gear\n• Durable exterior material\n• Comfortable carrying straps\n• Multiple size options\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4032,7 +4032,7 @@ export const products: Product[] = [
     price: 1250.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/gator-18x14-bass-drum-bag.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4044,7 +4044,7 @@ export const products: Product[] = [
     price: 1550.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/gator-20x18-bass-drum-bag.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4056,7 +4056,7 @@ export const products: Product[] = [
     price: 1580.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/gator-22x16-bass-drum-bag.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
