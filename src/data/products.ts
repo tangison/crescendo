@@ -10560,7 +10560,7 @@ export const products: Product[] = [
     price: 25.0,
     qty: 50,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-footswitch-topper-red.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10572,7 +10572,7 @@ export const products: Product[] = [
     price: 25.0,
     qty: 49,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-footswitch-topper-rose-violet.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10584,7 +10584,7 @@ export const products: Product[] = [
     price: 25.0,
     qty: 42,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-footswitch-topper-yellow-green.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10596,7 +10596,7 @@ export const products: Product[] = [
     price: 1670.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-digital-auto-wah-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10608,7 +10608,7 @@ export const products: Product[] = [
     price: 2515.0,
     qty: 7,
     skillLevel: "Intermediate",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/guitars/mooer-multi-effects-guitar-pedal.webp",
     shortDescription: "Effects pedal shaping your guitar tone. Mooer packs powerful effects into compact, affordable pedals. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Versatile tone-shaping controls\n• True bypass for signal purity\n• Sturdy metal enclosure for stage use\n• Battery or power supply operation\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -10620,7 +10620,7 @@ export const products: Product[] = [
     price: 4295.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/guitars/mooer-ge150-multi-effects-guitar-pedal.webp",
     shortDescription: "Effects pedal shaping your guitar tone. Mooer packs powerful effects into compact, affordable pedals. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Versatile tone-shaping controls\n• True bypass for signal purity\n• Sturdy metal enclosure for stage use\n• Battery or power supply operation\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -10632,7 +10632,7 @@ export const products: Product[] = [
     price: 10150.0,
     qty: 2,
     skillLevel: "Professional",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/guitars/mooer-ge250-multi-effects-guitar-pedal.webp",
     shortDescription: "Effects pedal shaping your guitar tone. Mooer packs powerful effects into compact, affordable pedals. Professional-grade gear built to meet the demands of serious players. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Versatile tone-shaping controls\n• True bypass for signal purity\n• Sturdy metal enclosure for stage use\n• Battery or power supply operation\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -10644,7 +10644,7 @@ export const products: Product[] = [
     price: 21760.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-ge300-multi-effects-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -10656,7 +10656,7 @@ export const products: Product[] = [
     price: 1320.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-green-mile-overdrive-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10668,7 +10668,7 @@ export const products: Product[] = [
     price: 2695.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/drums/mooer-drum-machine-looper-pedal.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Mooer packs powerful effects into compact, affordable pedals. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -10680,7 +10680,7 @@ export const products: Product[] = [
     price: 3340.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-grooveloop-x2-series.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -10692,7 +10692,7 @@ export const products: Product[] = [
     price: 1320.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-distortion-pedal-2.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10704,7 +10704,7 @@ export const products: Product[] = [
     price: 1910.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-volume-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10716,7 +10716,7 @@ export const products: Product[] = [
     price: 1795.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-3-mode-decimator-effects-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10728,7 +10728,7 @@ export const products: Product[] = [
     price: 3350.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-x2-looper-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -10752,7 +10752,7 @@ export const products: Product[] = [
     price: 3650.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-12-port-power-supply.webp",
     shortDescription: "Power supply for equipment operation. Mooer packs powerful effects into compact, affordable pedals. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Correct voltage output\n• Reliable operation\n• Long cable\n• Safety-certified\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -10764,7 +10764,7 @@ export const products: Product[] = [
     price: 1910.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-8-port-power-supply.webp",
     shortDescription: "Power supply for equipment operation. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Correct voltage output\n• Reliable operation\n• Long cable\n• Safety-certified\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10776,7 +10776,7 @@ export const products: Product[] = [
     price: 960.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-micro-aby-pedal-mkii.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10788,7 +10788,7 @@ export const products: Product[] = [
     price: 1495.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-direct-input-box.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10800,7 +10800,7 @@ export const products: Product[] = [
     price: 2030.0,
     qty: 6,
     skillLevel: "Intermediate",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/drums/mooer-micro-drum-machine-pedal.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Mooer packs powerful effects into compact, affordable pedals. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -10812,7 +10812,7 @@ export const products: Product[] = [
     price: 1910.0,
     qty: 33,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-loop-recording-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10824,7 +10824,7 @@ export const products: Product[] = [
     price: 1495.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-noise-reduction-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10836,7 +10836,7 @@ export const products: Product[] = [
     price: 4695.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-p1-intelligent-pedal-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -10848,7 +10848,7 @@ export const products: Product[] = [
     price: 25895.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/guitars/ibanez-iegs62-electric.webp",
+    image: "/products/guitars/mooer-intelligent-electric-guitar-dark-night.webp",
     shortDescription: "Electric guitar with versatile tone options and reliable electronics. Mooer packs powerful effects into compact, affordable pedals. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Solid body construction for sustained tone\n• Single-coil or humbucker pickups for versatile sound\n• Maple or rosewood fingerboard for comfortable playing\n• Adjustable bridge for precise intonation\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -10860,7 +10860,7 @@ export const products: Product[] = [
     price: 128.8,
     qty: 12,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-straight-pedal-connecter-jack-plug.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10872,7 +10872,7 @@ export const products: Product[] = [
     price: 117.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-z-shape-pedal-connector-jack-plug.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10884,7 +10884,7 @@ export const products: Product[] = [
     price: 95.0,
     qty: 16,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-5-straight-multi-dc-power-cable.webp",
     shortDescription: "Premium cable with reliable signal transmission. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10896,7 +10896,7 @@ export const products: Product[] = [
     price: 115.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-8-plug-angled-multi-dc-power-cable.webp",
     shortDescription: "Premium cable with reliable signal transmission. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10908,7 +10908,7 @@ export const products: Product[] = [
     price: 1495.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-harmony-shifting-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10920,7 +10920,7 @@ export const products: Product[] = [
     price: 3580.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-octave-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -10932,7 +10932,7 @@ export const products: Product[] = [
     price: 12195.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-digital-multi-preamp-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -10944,7 +10944,7 @@ export const products: Product[] = [
     price: 1320.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-boost-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10956,7 +10956,7 @@ export const products: Product[] = [
     price: 1670.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-multi-mode-clean-octave-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -10968,7 +10968,7 @@ export const products: Product[] = [
     price: 2810.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-reverb-pedal-x2-series.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -10980,7 +10980,7 @@ export const products: Product[] = [
     price: 4295.0,
     qty: 5,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/ts415-speaker.webp",
+    image: "/products/pro-audio/mooer-speaker-cab-simulator-pedal.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. Mooer packs powerful effects into compact, affordable pedals. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -10992,7 +10992,7 @@ export const products: Product[] = [
     price: 1670.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-metal-distortion-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11004,7 +11004,7 @@ export const products: Product[] = [
     price: 1670.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-digital-delay-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11016,7 +11016,7 @@ export const products: Product[] = [
     price: 1670.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-digital-reverb-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11028,7 +11028,7 @@ export const products: Product[] = [
     price: 1670.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/mooer-digital-reverb-pedal-2.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mooer packs powerful effects into compact, affordable pedals. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
