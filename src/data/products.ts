@@ -18756,7 +18756,7 @@ export const products: Product[] = [
     price: 131.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-action-bass-v-plus.webp",
+    image: "/products/guitars/warwick-bass-guitar-string-display---dual.webp",
     shortDescription: "Bass guitar with deep, punchy low-end response. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Solid basswood or alder body\n• Maple neck with rosewood fingerboard\n• Single-coil or humbucker pickups for punchy low-end\n• Adjustable bridge for precise action\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18768,7 +18768,7 @@ export const products: Product[] = [
     price: 661.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-action-bass-v-plus.webp",
+    image: "/products/guitars/warwick-bass-guitar-string-display---9vp.webp",
     shortDescription: "Bass guitar with deep, punchy low-end response. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Solid basswood or alder body\n• Maple neck with rosewood fingerboard\n• Single-coil or humbucker pickups for punchy low-end\n• Adjustable bridge for precise action\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18780,7 +18780,7 @@ export const products: Product[] = [
     price: 2155.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rboard-61x146cm-with-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Warwick delivers premium bass gear with German engineering. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -18792,7 +18792,7 @@ export const products: Product[] = [
     price: 2455.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rboard-432x236cm-with-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Warwick delivers premium bass gear with German engineering. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -18804,7 +18804,7 @@ export const products: Product[] = [
     price: 2545.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rockboard-51x236cm-with-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Warwick delivers premium bass gear with German engineering. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -18816,7 +18816,7 @@ export const products: Product[] = [
     price: 3230.0,
     qty: 5,
     skillLevel: "Intermediate",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rboard-598x236cm-with-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Warwick delivers premium bass gear with German engineering. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -18828,7 +18828,7 @@ export const products: Product[] = [
     price: 4030.0,
     qty: 7,
     skillLevel: "Intermediate",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rboard-33tres-722x236cm-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Warwick delivers premium bass gear with German engineering. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -18840,7 +18840,7 @@ export const products: Product[] = [
     price: 4795.0,
     qty: 8,
     skillLevel: "Intermediate",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rboard-61x326cm-with-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Warwick delivers premium bass gear with German engineering. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -18876,7 +18876,7 @@ export const products: Product[] = [
     price: 2850.0,
     qty: 6,
     skillLevel: "Intermediate",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rboard-23duo-722x142cm-with-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Warwick delivers premium bass gear with German engineering. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -18888,7 +18888,7 @@ export const products: Product[] = [
     price: 3250.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/stagg-guitar-bag.webp",
+    image: "/products/accessories/warwick-rockboard-46x326cm-with-gig-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Warwick delivers premium bass gear with German engineering. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -18912,7 +18912,7 @@ export const products: Product[] = [
     price: 1710.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rockboard-mod1-ver2-xlr.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18924,7 +18924,7 @@ export const products: Product[] = [
     price: 1401.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rockboard-with-xlr-trs-for-vocal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
