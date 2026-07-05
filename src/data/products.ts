@@ -9120,7 +9120,7 @@ export const products: Product[] = [
     price: 1295.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/lp-afuche-cabasa-mini-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9132,7 +9132,7 @@ export const products: Product[] = [
     price: 1995.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/lp-small-matador-bongo-rawhide-head.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9144,7 +9144,7 @@ export const products: Product[] = [
     price: 2195.0,
     qty: 9,
     skillLevel: "Intermediate",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/lp-large-matador-bongo-rawhide-head.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9156,7 +9156,7 @@ export const products: Product[] = [
     price: 1545.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/lp-10-city-conga-head.webp",
     shortDescription: "Drum head delivering consistent tone and response. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Single or double-ply construction\n• Clear or coated finish options\n• Consistent tone across the drum\n• Easy to tune and replace\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9168,7 +9168,7 @@ export const products: Product[] = [
     price: 1675.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/drums/dixon-star-bubinga.webp",
+    image: "/products/drums/lp-11-city-conga-head.webp",
     shortDescription: "Drum head delivering consistent tone and response. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Single or double-ply construction\n• Clear or coated finish options\n• Consistent tone across the drum\n• Easy to tune and replace\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9180,7 +9180,7 @@ export const products: Product[] = [
     price: 1859.2,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/drums/lp-12-city-conga-head.webp",
     shortDescription: "Drum head delivering consistent tone and response. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Single or double-ply construction\n• Clear or coated finish options\n• Consistent tone across the drum\n• Easy to tune and replace\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9192,7 +9192,7 @@ export const products: Product[] = [
     price: 1702.4,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/lp-mini-merengue-guiro-with-scraper.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9204,7 +9204,7 @@ export const products: Product[] = [
     price: 1195.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/accessories/lp-worship-10-double-row-syn-head-tamour.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9216,7 +9216,7 @@ export const products: Product[] = [
     price: 1667.2,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/lp-multi-guiro-ii.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9228,7 +9228,7 @@ export const products: Product[] = [
     price: 10205.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/lp-45x12-salsa-snare-stainless-steel.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -9240,7 +9240,7 @@ export const products: Product[] = [
     price: 1333.8,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/lp-multi-guiro.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9252,7 +9252,7 @@ export const products: Product[] = [
     price: 2685.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/lp-traditional-cabasa.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9264,7 +9264,7 @@ export const products: Product[] = [
     price: 10735.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/lp-55x13-salsa-snare-drum.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -9276,7 +9276,7 @@ export const products: Product[] = [
     price: 3225.0,
     qty: 6,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/lp-city-bongo-set-aw.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9288,7 +9288,7 @@ export const products: Product[] = [
     price: 3225.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/lp-city-bongo-set-dark-wood.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9300,7 +9300,7 @@ export const products: Product[] = [
     price: 3225.0,
     qty: 8,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/lp-city-bongo-set-vsb.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9312,7 +9312,7 @@ export const products: Product[] = [
     price: 10735.0,
     qty: 7,
     skillLevel: "Professional",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/lp-city-1011-conga-set-aw.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -9324,7 +9324,7 @@ export const products: Product[] = [
     price: 10735.0,
     qty: 7,
     skillLevel: "Professional",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/lp-city-1011-conga-set-dw.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. Professional-grade gear built to meet the demands of serious players. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -9336,7 +9336,7 @@ export const products: Product[] = [
     price: 10735.0,
     qty: 8,
     skillLevel: "Professional",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/lp-city-1011-conga-set-vsb.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. LP (Latin Percussion) sets the standard for hand percussion worldwide. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -9348,7 +9348,7 @@ export const products: Product[] = [
     price: 985.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-mute-button.webp",
+    image: "/products/accessories/lp-small-city-bongo-head.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9360,7 +9360,7 @@ export const products: Product[] = [
     price: 1045.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/lp-large-city-bongo-head.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9372,7 +9372,7 @@ export const products: Product[] = [
     price: 8055.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/lp-aspire-timbale-set.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9384,7 +9384,7 @@ export const products: Product[] = [
     price: 3485.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/lp-aspire-trap-table.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -9396,7 +9396,7 @@ export const products: Product[] = [
     price: 13695.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/lp-mat-11-quinto-oak-almond-brown.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. LP (Latin Percussion) sets the standard for hand percussion worldwide. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -9408,7 +9408,7 @@ export const products: Product[] = [
     price: 1085.0,
     qty: 22,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/guitars/mahalo-art-series-soprano-ukulele-darts.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9420,7 +9420,7 @@ export const products: Product[] = [
     price: 1245.0,
     qty: 42,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/guitars/mahalo-art-series-soprano-ukulele-grafitti.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9432,7 +9432,7 @@ export const products: Product[] = [
     price: 865.0,
     qty: 22,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-heart-black.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9444,7 +9444,7 @@ export const products: Product[] = [
     price: 835.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-monstera.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9456,7 +9456,7 @@ export const products: Product[] = [
     price: 1085.0,
     qty: 17,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/guitars/mahalo-art-series-soprano-ukulele-ninja.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9468,7 +9468,7 @@ export const products: Product[] = [
     price: 865.0,
     qty: 22,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/guitars/mahalo-art-series-soprano-ukulele-russian-do.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9480,7 +9480,7 @@ export const products: Product[] = [
     price: 1165.0,
     qty: 17,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-skull-colours.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9492,7 +9492,7 @@ export const products: Product[] = [
     price: 1085.0,
     qty: 35,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/guitars/mahalo-art-series-soprano-ukulele-tiki.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9504,7 +9504,7 @@ export const products: Product[] = [
     price: 1085.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/guitars/mahalo-art-series-soprano-ukulele-owl.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9516,7 +9516,7 @@ export const products: Product[] = [
     price: 999.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/guitars/mahalo-art-series-soprano-ukulele-zebra.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9528,7 +9528,7 @@ export const products: Product[] = [
     price: 1399.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/guitars/mahalo-elite-series-concert-ukulele-koa.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9540,7 +9540,7 @@ export const products: Product[] = [
     price: 1540.0,
     qty: 22,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/guitars/mahalo-elite-series-concert-uke-pharoah.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9552,7 +9552,7 @@ export const products: Product[] = [
     price: 1540.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/guitars/mahalo-elite-series-tenor-ukulele-koa.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9564,7 +9564,7 @@ export const products: Product[] = [
     price: 1065.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-skull-black.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9576,7 +9576,7 @@ export const products: Product[] = [
     price: 1670.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-with-pick-up-black.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -9588,7 +9588,7 @@ export const products: Product[] = [
     price: 1085.0,
     qty: 32,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/mahalo-soprano-ukulele-hibiscus-blue-burst.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Mahalo ukuleles offer bright tone and unbeatable value for beginners. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
