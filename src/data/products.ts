@@ -15456,7 +15456,7 @@ export const products: Product[] = [
     price: 2010.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/accessories/sx-pedal-board-45x31x9-with-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. SX Doctor Parts provides quality guitar components and accessories. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -15468,7 +15468,7 @@ export const products: Product[] = [
     price: 1595.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/accessories/sx-pedal-board-45x15x4-with-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. SX Doctor Parts provides quality guitar components and accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15480,7 +15480,7 @@ export const products: Product[] = [
     price: 2440.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/accessories/sx-pedal-board-60x37x90-with-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. SX Doctor Parts provides quality guitar components and accessories. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -15492,7 +15492,7 @@ export const products: Product[] = [
     price: 2820.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/accessories/sx-pedal-board-80x41x90-with-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. SX Doctor Parts provides quality guitar components and accessories. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -15504,7 +15504,7 @@ export const products: Product[] = [
     price: 1330.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sx-tele-body.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. SX Doctor Parts provides quality guitar components and accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15528,7 +15528,7 @@ export const products: Product[] = [
     price: 315.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-superflexible-violin-a-string.webp",
     shortDescription: "String set engineered for tone and durability. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15540,7 +15540,7 @@ export const products: Product[] = [
     price: 335.0,
     qty: 24,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-superflexible-violin-d-string.webp",
     shortDescription: "String set engineered for tone and durability. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15552,7 +15552,7 @@ export const products: Product[] = [
     price: 420.0,
     qty: 25,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-superflexible-violin-g-string.webp",
     shortDescription: "String set engineered for tone and durability. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15564,7 +15564,7 @@ export const products: Product[] = [
     price: 295.0,
     qty: 29,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-dominant-violin-e-string.webp",
     shortDescription: "String set engineered for tone and durability. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15576,7 +15576,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-dominant-violin-a-string.webp",
     shortDescription: "String set engineered for tone and durability. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15588,7 +15588,7 @@ export const products: Product[] = [
     price: 550.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-dominant-violin-d-string.webp",
     shortDescription: "String set engineered for tone and durability. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15600,7 +15600,7 @@ export const products: Product[] = [
     price: 1820.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-dominant-violin-set-44.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15612,7 +15612,7 @@ export const products: Product[] = [
     price: 480.0,
     qty: 24,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-dominant-viola-a-string.webp",
     shortDescription: "String set engineered for tone and durability. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15624,7 +15624,7 @@ export const products: Product[] = [
     price: 550.0,
     qty: 12,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-dominant-viola-d-string.webp",
     shortDescription: "String set engineered for tone and durability. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15636,7 +15636,7 @@ export const products: Product[] = [
     price: 775.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-dominant-viola-g-string.webp",
     shortDescription: "String set engineered for tone and durability. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15648,7 +15648,7 @@ export const products: Product[] = [
     price: 1295.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-dominant-viola-c.webp",
     shortDescription: "Viola with warm, mellow tone. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard\n• Warm, mellow tone\n• Includes case and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15660,7 +15660,7 @@ export const products: Product[] = [
     price: 995.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-cello-dominant-a-string.webp",
     shortDescription: "String set engineered for tone and durability. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15672,7 +15672,7 @@ export const products: Product[] = [
     price: 1620.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-cello-dominant-g-string.webp",
     shortDescription: "String set engineered for tone and durability. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15684,7 +15684,7 @@ export const products: Product[] = [
     price: 1341.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-cello-dominant-c-string.webp",
     shortDescription: "String set engineered for tone and durability. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15696,7 +15696,7 @@ export const products: Product[] = [
     price: 5750.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-dominant-cello-set.webp",
     shortDescription: "Cello with deep, resonant low-end response. Thomastik-Infeld strings are the professional choice for orchestral players. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -15708,7 +15708,7 @@ export const products: Product[] = [
     price: 1395.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-violin-superflexible-set.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15720,7 +15720,7 @@ export const products: Product[] = [
     price: 370.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/thomastik-superflxible-viola-a-string.webp",
     shortDescription: "String set engineered for tone and durability. Thomastik-Infeld strings are the professional choice for orchestral players. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
