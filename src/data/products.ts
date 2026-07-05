@@ -14964,7 +14964,7 @@ export const products: Product[] = [
     price: 1155.0,
     qty: 24,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/drums/superlux-bass-drum-microphone.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14976,7 +14976,7 @@ export const products: Product[] = [
     price: 2155.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/hartke-hd25-amp.webp",
+    image: "/products/accessories/superlux-overhead-condensor-microphone.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Superlux offers professional audio gear at accessible prices. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -14988,7 +14988,7 @@ export const products: Product[] = [
     price: 35.0,
     qty: 300,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-microphone-windshield-black.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15000,7 +15000,7 @@ export const products: Product[] = [
     price: 599.0,
     qty: 606,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-tm58-dynamic-microphone-black.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15012,7 +15012,7 @@ export const products: Product[] = [
     price: 699.0,
     qty: 59,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-tm58s-microphone-with-switch.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15024,7 +15024,7 @@ export const products: Product[] = [
     price: 641.0,
     qty: 28,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/guitars/sx-doctor-parts-bass-guitar-mheads-gold-ri.webp",
     shortDescription: "Bass guitar with deep, punchy low-end response. SX Doctor Parts provides quality guitar components and accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Solid basswood or alder body\n• Maple neck with rosewood fingerboard\n• Single-coil or humbucker pickups for punchy low-end\n• Adjustable bridge for precise action\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -15084,7 +15084,7 @@ export const products: Product[] = [
     price: 8415.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/keyboards/roland-fantom-x8-top.webp",
+    image: "/products/guitars/sx-les-paul-eletric-guitar-gold-top.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. SX Doctor Parts provides quality guitar components and accessories. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -15096,7 +15096,7 @@ export const products: Product[] = [
     price: 9505.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/guitars/ibanez-iegs62-electric.webp",
+    image: "/products/guitars/sx-les-paul-electric-guitar-cherry-sburst.webp",
     shortDescription: "Electric guitar with versatile tone options and reliable electronics. SX Doctor Parts provides quality guitar components and accessories. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Solid body construction for sustained tone\n• Single-coil or humbucker pickups for versatile sound\n• Maple or rosewood fingerboard for comfortable playing\n• Adjustable bridge for precise intonation\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -15168,7 +15168,7 @@ export const products: Product[] = [
     price: 6320.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/stagg-guitar-bag.webp",
+    image: "/products/guitars/sx-les-paul-electric-guitar-black-bag.webp",
     shortDescription: "Electric guitar with versatile tone options and reliable electronics. SX Doctor Parts provides quality guitar components and accessories. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Solid body construction for sustained tone\n• Single-coil or humbucker pickups for versatile sound\n• Maple or rosewood fingerboard for comfortable playing\n• Adjustable bridge for precise intonation\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -15180,7 +15180,7 @@ export const products: Product[] = [
     price: 6320.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/stagg-guitar-bag.webp",
+    image: "/products/guitars/sx-les-paul-electric-guitar-vsb-bag.webp",
     shortDescription: "Electric guitar with versatile tone options and reliable electronics. SX Doctor Parts provides quality guitar components and accessories. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Solid body construction for sustained tone\n• Single-coil or humbucker pickups for versatile sound\n• Maple or rosewood fingerboard for comfortable playing\n• Adjustable bridge for precise intonation\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -15192,7 +15192,7 @@ export const products: Product[] = [
     price: 4260.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/stagg-guitar-bag.webp",
+    image: "/products/guitars/sx-tele-electric-guitar-burning-fire-bag.webp",
     shortDescription: "Electric guitar with versatile tone options and reliable electronics. SX Doctor Parts provides quality guitar components and accessories. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Solid body construction for sustained tone\n• Single-coil or humbucker pickups for versatile sound\n• Maple or rosewood fingerboard for comfortable playing\n• Adjustable bridge for precise intonation\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -15204,7 +15204,7 @@ export const products: Product[] = [
     price: 8610.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/guitars/cort-action-bass-v-plus.webp",
+    image: "/products/accessories/sx-jazz-bass-4str-3ts.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. SX Doctor Parts provides quality guitar components and accessories. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
