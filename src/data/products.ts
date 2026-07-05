@@ -7200,7 +7200,7 @@ export const products: Product[] = [
     price: 1095.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/jupiter-clarinet-mouthpiece.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Jupiter wind instruments offer quality construction for advancing students. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7212,7 +7212,7 @@ export const products: Product[] = [
     price: 5795.0,
     qty: 12,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/kaotica-eyeball.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Kaotica delivers innovative vocal booth solutions. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -7224,7 +7224,7 @@ export const products: Product[] = [
     price: 85.0,
     qty: 178,
     skillLevel: "Beginner",
-    image: "/products/accessories/fresnel-studio-light.webp",
+    image: "/products/accessories/santa-fe-studio-insulation-foam.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7248,7 +7248,7 @@ export const products: Product[] = [
     price: 55.0,
     qty: 16,
     skillLevel: "Beginner",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/kz-abs-case-black.webp",
     shortDescription: "Protective case for gear transport. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7260,7 +7260,7 @@ export const products: Product[] = [
     price: 1640.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/pro-audio/kz-as10-in-ear-black.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7272,7 +7272,7 @@ export const products: Product[] = [
     price: 2630.0,
     qty: 5,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/pro-audio/kz-as16-in-ears-black.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. KZ Audio delivers quality in-ear monitors at accessible prices. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -7284,7 +7284,7 @@ export const products: Product[] = [
     price: 2630.0,
     qty: 5,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-sm58.webp",
+    image: "/products/pro-audio/kz-as16-in-ears-blue.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. KZ Audio delivers quality in-ear monitors at accessible prices. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -7296,7 +7296,7 @@ export const products: Product[] = [
     price: 4295.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/pro-audio/kz-as24-in-ears-black.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. KZ Audio delivers quality in-ear monitors at accessible prices. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -7308,7 +7308,7 @@ export const products: Product[] = [
     price: 630.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/shure-sm58.webp",
+    image: "/products/pro-audio/kz-dq6-in-ears-gray.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7320,7 +7320,7 @@ export const products: Product[] = [
     price: 630.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/accessories/kz-dq6-inears-silver.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7356,7 +7356,7 @@ export const products: Product[] = [
     price: 25.0,
     qty: 68,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/kz-memory-foam-1-pair.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7416,7 +7416,7 @@ export const products: Product[] = [
     price: 20.0,
     qty: 78,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/pro-audio/kz-in-earphone-case-oval-black.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7428,7 +7428,7 @@ export const products: Product[] = [
     price: 25.0,
     qty: 20,
     skillLevel: "Beginner",
-    image: "/products/accessories/gaffer-tape-white.webp",
+    image: "/products/accessories/kz-silicone-tips-white.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7440,7 +7440,7 @@ export const products: Product[] = [
     price: 110.0,
     qty: 49,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/pro-audio/kz-silver-cable-type-b-no-microphone-upgrade.webp",
     shortDescription: "XLR or instrument cable with reliable signal transmission. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality connectors for reliable signal\n• Shielded to reduce noise\n• Flexible jacket resists kinking\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7452,7 +7452,7 @@ export const products: Product[] = [
     price: 1130.0,
     qty: 35,
     skillLevel: "Beginner",
-    image: "/products/accessories/dji-mini3-pro.webp",
+    image: "/products/accessories/kz-zs10pro-2-in-ears-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7476,7 +7476,7 @@ export const products: Product[] = [
     price: 1295.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/kz-zs10-professional-in-ears-blue.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7512,7 +7512,7 @@ export const products: Product[] = [
     price: 480.0,
     qty: 19,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-mute-button.webp",
+    image: "/products/accessories/kz-zsn-professional-in-ears-blue.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7536,7 +7536,7 @@ export const products: Product[] = [
     price: 550.0,
     qty: 39,
     skillLevel: "Beginner",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/kz-zsn-professional-x-in-ears-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7560,7 +7560,7 @@ export const products: Product[] = [
     price: 430.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/kz-zst-x-in-ears-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. KZ Audio delivers quality in-ear monitors at accessible prices. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7572,7 +7572,7 @@ export const products: Product[] = [
     price: 575.0,
     qty: 12,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/kyser-guitar-12-string-capo-black.webp",
     shortDescription: "Capo for changing key without retuning. Kyser capos are the industry standard for quick key changes. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quick-release mechanism for fast key changes\n• Even pressure across all strings\n• Durable construction for years of use\n• Won't throw your guitar out of tune\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7584,7 +7584,7 @@ export const products: Product[] = [
     price: 575.0,
     qty: 21,
     skillLevel: "Beginner",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/kyser-short-cut-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Kyser capos are the industry standard for quick key changes. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7596,7 +7596,7 @@ export const products: Product[] = [
     price: 575.0,
     qty: 24,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/kyser-guitar-6-string-capo-black.webp",
     shortDescription: "Capo for changing key without retuning. Kyser capos are the industry standard for quick key changes. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quick-release mechanism for fast key changes\n• Even pressure across all strings\n• Durable construction for years of use\n• Won't throw your guitar out of tune\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7608,7 +7608,7 @@ export const products: Product[] = [
     price: 575.0,
     qty: 14,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/kyser-guitar-6str-capo-black-chrome.webp",
     shortDescription: "Capo for changing key without retuning. Kyser capos are the industry standard for quick key changes. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quick-release mechanism for fast key changes\n• Even pressure across all strings\n• Durable construction for years of use\n• Won't throw your guitar out of tune\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7620,7 +7620,7 @@ export const products: Product[] = [
     price: 575.0,
     qty: 17,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/kyser-guitar-6-string-capo-gold.webp",
     shortDescription: "Capo for changing key without retuning. Kyser capos are the industry standard for quick key changes. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quick-release mechanism for fast key changes\n• Even pressure across all strings\n• Durable construction for years of use\n• Won't throw your guitar out of tune\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7632,7 +7632,7 @@ export const products: Product[] = [
     price: 575.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/kyser-guitar-6-string-capo-red.webp",
     shortDescription: "Capo for changing key without retuning. Kyser capos are the industry standard for quick key changes. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quick-release mechanism for fast key changes\n• Even pressure across all strings\n• Durable construction for years of use\n• Won't throw your guitar out of tune\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7644,7 +7644,7 @@ export const products: Product[] = [
     price: 575.0,
     qty: 17,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/kyser-guitar-6-string-capo-silver.webp",
     shortDescription: "Capo for changing key without retuning. Kyser capos are the industry standard for quick key changes. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quick-release mechanism for fast key changes\n• Even pressure across all strings\n• Durable construction for years of use\n• Won't throw your guitar out of tune\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7656,7 +7656,7 @@ export const products: Product[] = [
     price: 575.0,
     qty: 20,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/kyser-6-string-guitar-capo-tie-dye.webp",
     shortDescription: "Capo for changing key without retuning. Kyser capos are the industry standard for quick key changes. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quick-release mechanism for fast key changes\n• Even pressure across all strings\n• Durable construction for years of use\n• Won't throw your guitar out of tune\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7668,7 +7668,7 @@ export const products: Product[] = [
     price: 575.0,
     qty: 17,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/kyser-6-string-cap-blue.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Kyser capos are the industry standard for quick key changes. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14640,7 +14640,7 @@ export const products: Product[] = [
     price: 85.0,
     qty: 57,
     skillLevel: "Beginner",
-    image: "/products/accessories/fresnel-studio-light.webp",
+    image: "/products/accessories/santa-fe-studio-insulation-foam.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
