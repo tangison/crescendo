@@ -16596,7 +16596,7 @@ export const products: Product[] = [
     price: 895.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/vandoren-56-rue-lepit-clarinet-reeds-4.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16608,7 +16608,7 @@ export const products: Product[] = [
     price: 975.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/vandoren-v21-clarinet-reeds-25.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16620,7 +16620,7 @@ export const products: Product[] = [
     price: 975.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/vandoren-v21-clarinet-reeds-3.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16632,7 +16632,7 @@ export const products: Product[] = [
     price: 975.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/vandoren-v21-clarinet-reeds-35.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16644,7 +16644,7 @@ export const products: Product[] = [
     price: 515.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/vandoren-juno-clarinet-bb-reeds-15.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16656,7 +16656,7 @@ export const products: Product[] = [
     price: 515.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/vandoren-juno-clarinet-reeds-2.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16668,7 +16668,7 @@ export const products: Product[] = [
     price: 515.0,
     qty: 14,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/vandoren-juno-bb-calrinet-reeds-25.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16680,7 +16680,7 @@ export const products: Product[] = [
     price: 515.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/vandoren-juno-clarinet-reeds-3.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16692,7 +16692,7 @@ export const products: Product[] = [
     price: 515.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/vandoren-juno-clarinet-reeds-35.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16704,7 +16704,7 @@ export const products: Product[] = [
     price: 155.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/vandoren-juno-soprano-reeds-2-3-pack.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16716,7 +16716,7 @@ export const products: Product[] = [
     price: 155.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/vandoren-juno-soprano-reeds-25-3-pack.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16728,7 +16728,7 @@ export const products: Product[] = [
     price: 155.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/vandoren-juno-soprano-reeds-3-3pack.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16740,7 +16740,7 @@ export const products: Product[] = [
     price: 695.0,
     qty: 17,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/vandoren-juno-alto-sax-reeds-15.webp",
     shortDescription: "Wind instrument for players of all skill levels. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16752,7 +16752,7 @@ export const products: Product[] = [
     price: 695.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/vandoren-juno-alto-sax-reeds-2.webp",
     shortDescription: "Wind instrument for players of all skill levels. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16764,7 +16764,7 @@ export const products: Product[] = [
     price: 695.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/vandoren-juno-alto-sax-reeds-25.webp",
     shortDescription: "Wind instrument for players of all skill levels. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16776,7 +16776,7 @@ export const products: Product[] = [
     price: 695.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-live1604.webp",
+    image: "/products/wind/vandoren-juno-alto-reeds-35.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16788,7 +16788,7 @@ export const products: Product[] = [
     price: 510.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/vandoren-juno-tenor-reeds-15.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16800,7 +16800,7 @@ export const products: Product[] = [
     price: 510.0,
     qty: 13,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/vandoren-juno-tenor-sax-reeds-2.webp",
     shortDescription: "Wind instrument for players of all skill levels. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16812,7 +16812,7 @@ export const products: Product[] = [
     price: 510.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/vandoren-juno-tenor-sax-reeds-25.webp",
     shortDescription: "Wind instrument for players of all skill levels. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16824,7 +16824,7 @@ export const products: Product[] = [
     price: 1791.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/vandoren-teno-optimum-lig-v16-metal-cap.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16836,7 +16836,7 @@ export const products: Product[] = [
     price: 2495.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/vandoren-optimum-plastique-ligature.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vandoren reeds are the professional choice for woodwind players worldwide. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -16848,7 +16848,7 @@ export const products: Product[] = [
     price: 1795.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-live1604.webp",
+    image: "/products/accessories/vandoren-alto-ligature-leather-cap.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16860,7 +16860,7 @@ export const products: Product[] = [
     price: 1795.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/vandoren-cuir-ligature-tenor-sax.webp",
     shortDescription: "Wind instrument for players of all skill levels. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16872,7 +16872,7 @@ export const products: Product[] = [
     price: 1950.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/vandoren-klassik-clarinet-ligaturecap.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16884,7 +16884,7 @@ export const products: Product[] = [
     price: 911.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/vandoren-optimum-soprano-sax-ligcap.webp",
     shortDescription: "Wind instrument for players of all skill levels. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16896,7 +16896,7 @@ export const products: Product[] = [
     price: 731.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/vandoren-clarinet-reed-holder-8-compartm.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16908,7 +16908,7 @@ export const products: Product[] = [
     price: 3750.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/alto-live1604.webp",
+    image: "/products/accessories/vandoren-alto-v5-a27-mouthpiece.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vandoren reeds are the professional choice for woodwind players worldwide. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -16920,7 +16920,7 @@ export const products: Product[] = [
     price: 785.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/vandoren-soprano-reeds-1.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16932,7 +16932,7 @@ export const products: Product[] = [
     price: 785.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/vandoren-soprano-reeds-15.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16944,7 +16944,7 @@ export const products: Product[] = [
     price: 785.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/vandoren-soprano-reeds-2.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16968,7 +16968,7 @@ export const products: Product[] = [
     price: 785.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/vandoren-soprano-reeds-3.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16980,7 +16980,7 @@ export const products: Product[] = [
     price: 785.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/vandoren-soprano-reeds-35.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -16992,7 +16992,7 @@ export const products: Product[] = [
     price: 995.0,
     qty: 34,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-live1604.webp",
+    image: "/products/wind/vandoren-alto-reeds-15.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -17004,7 +17004,7 @@ export const products: Product[] = [
     price: 995.0,
     qty: 21,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-live1604.webp",
+    image: "/products/wind/vandoren-alto-reeds-2.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -17016,7 +17016,7 @@ export const products: Product[] = [
     price: 995.0,
     qty: 27,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-live1604.webp",
+    image: "/products/wind/vandoren-alto-reeds-25.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -17028,7 +17028,7 @@ export const products: Product[] = [
     price: 995.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-live1604.webp",
+    image: "/products/wind/vandoren-alto-reeds-3.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -17040,7 +17040,7 @@ export const products: Product[] = [
     price: 995.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-live1604.webp",
+    image: "/products/wind/vandoren-alto-reeds-35.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -17052,7 +17052,7 @@ export const products: Product[] = [
     price: 865.0,
     qty: 16,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/alto-live1604.webp",
+    image: "/products/wind/vandoren-alto-reeds-5.webp",
     shortDescription: "Reed for woodwind instruments - essential for tone production. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality cane for consistent response\n• Various strengths available\n• Box of 10 reeds\n• Suitable for student and professional use\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -17064,7 +17064,7 @@ export const products: Product[] = [
     price: 715.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/vandoren-tenor-1.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vandoren reeds are the professional choice for woodwind players worldwide. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
