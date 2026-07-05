@@ -13920,7 +13920,7 @@ export const products: Product[] = [
     price: 2585.0,
     qty: 9,
     skillLevel: "Intermediate",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-44-violin-outfit.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13944,7 +13944,7 @@ export const products: Product[] = [
     price: 3295.0,
     qty: 6,
     skillLevel: "Intermediate",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-violin-bow-b11.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13956,7 +13956,7 @@ export const products: Product[] = [
     price: 975.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-cello-bow-34.webp",
     shortDescription: "Cello with deep, resonant low-end response. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13968,7 +13968,7 @@ export const products: Product[] = [
     price: 895.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-cello-bow-14.webp",
     shortDescription: "Cello with deep, resonant low-end response. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13980,7 +13980,7 @@ export const products: Product[] = [
     price: 975.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-b25-cello-bow-44.webp",
     shortDescription: "Cello with deep, resonant low-end response. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13992,7 +13992,7 @@ export const products: Product[] = [
     price: 1540.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-bow-cello-b27-44.webp",
     shortDescription: "Cello with deep, resonant low-end response. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14004,7 +14004,7 @@ export const products: Product[] = [
     price: 770.0,
     qty: 50,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-bow-vln-b5-44.webp",
     shortDescription: "Bow with quality horsehair for consistent tone production. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality brazilwood or pernambuco stick\n• Real horsehair for consistent tone\n• Comfortable frog grip\n• Balanced weight\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14016,7 +14016,7 @@ export const products: Product[] = [
     price: 770.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-violin-bow-b5-34.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14028,7 +14028,7 @@ export const products: Product[] = [
     price: 770.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-violin-bow-b5-12.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14040,7 +14040,7 @@ export const products: Product[] = [
     price: 1330.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-44-violin-bow.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14052,7 +14052,7 @@ export const products: Product[] = [
     price: 2395.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/guitars/cort-action-bass-v-plus.webp",
+    image: "/products/strings/sandner-dbass-bow-44-french-style.webp",
     shortDescription: "Orchestral string instrument for classical and contemporary players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for students and advancing players\n• Durable materials\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -14076,7 +14076,7 @@ export const products: Product[] = [
     price: 1045.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-12-violin-case-shaped.webp",
     shortDescription: "Padded case protecting your string instrument. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Padded protection for instrument\n• Durable exterior\n• Accessory compartment\n• Comfortable carrying straps\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14088,7 +14088,7 @@ export const products: Product[] = [
     price: 1960.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-44-violin-case.webp",
     shortDescription: "Padded case protecting your string instrument. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Padded protection for instrument\n• Durable exterior\n• Accessory compartment\n• Comfortable carrying straps\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14112,7 +14112,7 @@ export const products: Product[] = [
     price: 2070.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/strings/sandner-16-viola-case.webp",
     shortDescription: "Padded case protecting your string instrument. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Padded protection for instrument\n• Durable exterior\n• Accessory compartment\n• Comfortable carrying straps\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -14124,7 +14124,7 @@ export const products: Product[] = [
     price: 2615.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/strings/sandner-44-cello-bag.webp",
     shortDescription: "Orchestral string instrument for classical and contemporary players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for students and advancing players\n• Durable materials\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -14136,7 +14136,7 @@ export const products: Product[] = [
     price: 2995.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/keyboards/kawai-gx2-grand-piano.webp",
+    image: "/products/keyboards/sandner-piano-bench-adjustable-black.webp",
     shortDescription: "Digital piano with authentic touch and rich tone. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Weighted hammer-action keys for authentic piano feel\n• Multiple piano and instrument voices\n• Built-in metronome for practice\n• Stereo speaker system\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -14148,7 +14148,7 @@ export const products: Product[] = [
     price: 2995.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/keyboards/kawai-gx2-grand-piano.webp",
+    image: "/products/keyboards/sandner-piano-bench-mahogany.webp",
     shortDescription: "Digital piano with authentic touch and rich tone. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Weighted hammer-action keys for authentic piano feel\n• Multiple piano and instrument voices\n• Built-in metronome for practice\n• Stereo speaker system\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -14160,7 +14160,7 @@ export const products: Product[] = [
     price: 2995.0,
     qty: 8,
     skillLevel: "Intermediate",
-    image: "/products/keyboards/kawai-gx2-grand-piano.webp",
+    image: "/products/keyboards/sandner-adjustable-piano-bench-rosewood.webp",
     shortDescription: "Digital piano with authentic touch and rich tone. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Weighted hammer-action keys for authentic piano feel\n• Multiple piano and instrument voices\n• Built-in metronome for practice\n• Stereo speaker system\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -14172,7 +14172,7 @@ export const products: Product[] = [
     price: 2995.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/keyboards/kawai-gx2-grand-piano.webp",
+    image: "/products/keyboards/sandner-piano-bench-wallnut-matt.webp",
     shortDescription: "Digital piano with authentic touch and rich tone. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Weighted hammer-action keys for authentic piano feel\n• Multiple piano and instrument voices\n• Built-in metronome for practice\n• Stereo speaker system\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -14184,7 +14184,7 @@ export const products: Product[] = [
     price: 420.0,
     qty: 101,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-violin-shoulder-rest-large-44---3-4.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14196,7 +14196,7 @@ export const products: Product[] = [
     price: 420.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-violin-shoulder-rest-medium-12---34.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14208,7 +14208,7 @@ export const products: Product[] = [
     price: 420.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-violin-shoulder-rest-small-18---14.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14232,7 +14232,7 @@ export const products: Product[] = [
     price: 2395.0,
     qty: 9,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/santa-fe-classic-wood-case-flat-top.webp",
     shortDescription: "Protective case for gear transport. Santa Fe guitars provide great value for beginning players. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -14244,7 +14244,7 @@ export const products: Product[] = [
     price: 1650.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/santa-fe-12-classic-guitar-pink.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14256,7 +14256,7 @@ export const products: Product[] = [
     price: 99.0,
     qty: 164,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/santa-fe-guitar-lemon-oil-bottle.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14280,7 +14280,7 @@ export const products: Product[] = [
     price: 99.0,
     qty: 447,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/santa-fe-guitar-string-fret-cleaner.webp",
     shortDescription: "Guitar strings engineered for tone and durability. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• High-quality materials for consistent tone\n• Available in various gauges\n• Corrosion-resistant for extended life\n• Engineered for your playing style\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14328,7 +14328,7 @@ export const products: Product[] = [
     price: 250.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/santa-fe-baritone-horn-mouthpiece.webp",
     shortDescription: "Mouthpiece shaping tone and playability. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Precision-machined for consistent tone\n• Various facing options\n• Durable construction\n• Improves playability and projection\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14364,7 +14364,7 @@ export const products: Product[] = [
     price: 90.0,
     qty: 194,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/santa-fe-6-drum-mute-pad.webp",
     shortDescription: "Drum mute for quiet practice. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Reduces volume for quiet practice\n• Easy to install and remove\n• Doesn't affect drum feel\n• Durable material\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14376,7 +14376,7 @@ export const products: Product[] = [
     price: 950.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-action-bass-v-plus.webp",
+    image: "/products/strings/santa-fe-34-double-bass-string-set.webp",
     shortDescription: "Orchestral string instrument for classical and contemporary players. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for students and advancing players\n• Durable materials\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14388,7 +14388,7 @@ export const products: Product[] = [
     price: 351.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/santa-fe-12-cello-string-set.webp",
     shortDescription: "String set engineered for tone and durability. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14412,7 +14412,7 @@ export const products: Product[] = [
     price: 2395.0,
     qty: 9,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/santa-fe-classic-wood-case-flat-top.webp",
     shortDescription: "Protective case for gear transport. Santa Fe guitars provide great value for beginning players. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -14424,7 +14424,7 @@ export const products: Product[] = [
     price: 1650.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/santa-fe-12-classic-guitar-pink.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14520,7 +14520,7 @@ export const products: Product[] = [
     price: 99.0,
     qty: 88,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/santa-fe-guitar-lemon-oil-bottle.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14652,7 +14652,7 @@ export const products: Product[] = [
     price: 99.0,
     qty: 420,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/santa-fe-guitar-string-fret-cleaner.webp",
     shortDescription: "Guitar strings engineered for tone and durability. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• High-quality materials for consistent tone\n• Available in various gauges\n• Corrosion-resistant for extended life\n• Engineered for your playing style\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
