@@ -6732,7 +6732,7 @@ export const products: Product[] = [
     price: 348.6,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-cello-pegss-ebony.webp",
     shortDescription: "Cello with deep, resonant low-end response. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6744,7 +6744,7 @@ export const products: Product[] = [
     price: 277.2,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/josef-teller-12-chinrest-bakelite.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6756,7 +6756,7 @@ export const products: Product[] = [
     price: 567.4,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-viola-44-chinrest.webp",
     shortDescription: "Viola with warm, mellow tone. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard\n• Warm, mellow tone\n• Includes case and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6768,7 +6768,7 @@ export const products: Product[] = [
     price: 185.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-viola-bridge.webp",
     shortDescription: "Viola with warm, mellow tone. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard\n• Warm, mellow tone\n• Includes case and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6780,7 +6780,7 @@ export const products: Product[] = [
     price: 125.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-mute-button.webp",
+    image: "/products/strings/josef-teller-viola-mute-rosewood.webp",
     shortDescription: "Mute for quieter practice. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Reduces volume for quiet practice\n• Easy to attach and remove\n• Doesn't affect tone quality\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6792,7 +6792,7 @@ export const products: Product[] = [
     price: 475.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-cello-e-string-adjuster.webp",
     shortDescription: "String set engineered for tone and durability. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6816,7 +6816,7 @@ export const products: Product[] = [
     price: 110.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-12--14-violin-fine-tuner.webp",
     shortDescription: "Orchestral string instrument for classical and contemporary players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for students and advancing players\n• Durable materials\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6864,7 +6864,7 @@ export const products: Product[] = [
     price: 478.6,
     qty: 17,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-cello-bridge-uncut-18.webp",
     shortDescription: "Cello with deep, resonant low-end response. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6900,7 +6900,7 @@ export const products: Product[] = [
     price: 631.8,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-cello-bridge-18-uncut.webp",
     shortDescription: "Cello with deep, resonant low-end response. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6912,7 +6912,7 @@ export const products: Product[] = [
     price: 572.4,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-12-violin-chinrest-bakelit.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6924,7 +6924,7 @@ export const products: Product[] = [
     price: 1140.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-cello-end-pin-52cm-wood.webp",
     shortDescription: "Cello with deep, resonant low-end response. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6948,7 +6948,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-b-quality-cello-soundpost.webp",
     shortDescription: "Cello with deep, resonant low-end response. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6960,7 +6960,7 @@ export const products: Product[] = [
     price: 300.6,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-action-bass-v-plus.webp",
+    image: "/products/accessories/josef-teller-bass-sound-post-44-34.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6996,7 +6996,7 @@ export const products: Product[] = [
     price: 348.6,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-cello-mutes-rosewood-flat.webp",
     shortDescription: "Mute for quieter practice. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Reduces volume for quiet practice\n• Easy to attach and remove\n• Doesn't affect tone quality\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7008,7 +7008,7 @@ export const products: Product[] = [
     price: 667.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/josef-teller-endpin-pearwood.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7020,7 +7020,7 @@ export const products: Product[] = [
     price: 938.4,
     qty: 32,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-action-bass-v-plus.webp",
+    image: "/products/accessories/josef-teller-bass-mutes-shaped-ebony.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7032,7 +7032,7 @@ export const products: Product[] = [
     price: 631.8,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-endpin-cello-hardwood-52cm.webp",
     shortDescription: "Cello with deep, resonant low-end response. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7056,7 +7056,7 @@ export const products: Product[] = [
     price: 507.8,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/josef-teller-cello-tailpieces-hill-ebony.webp",
     shortDescription: "Cello with deep, resonant low-end response. Joseph Teller crafts premium orchestral strings. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7068,7 +7068,7 @@ export const products: Product[] = [
     price: 875.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/keyboards/roland-jupiter-x.webp",
+    image: "/products/wind/jupiter-5g-tromboneeuphomium-mouthpiece.webp",
     shortDescription: "Trombone with smooth slide action and full tone. Jupiter wind instruments offer quality construction for advancing students. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Yellow brass construction\n• Smooth slide action\n• Full, resonant tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7080,7 +7080,7 @@ export const products: Product[] = [
     price: 895.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/keyboards/roland-jupiter-x.webp",
+    image: "/products/wind/jupiter-5c-trumpet-mouthpiece.webp",
     shortDescription: "Trumpet with bright projection and crisp response. Jupiter wind instruments offer quality construction for advancing students. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive monel or stainless valves\n• Bright, projecting tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7092,7 +7092,7 @@ export const products: Product[] = [
     price: 560.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/jupiter-clarinet-care-kit.webp",
     shortDescription: "Wind instrument for players of all skill levels. Jupiter wind instruments offer quality construction for advancing students. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for students and advancing players\n• Durable finish\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7104,7 +7104,7 @@ export const products: Product[] = [
     price: 450.0,
     qty: 20,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/jupiter-flute-care-kit.webp",
     shortDescription: "Wind instrument for players of all skill levels. Jupiter wind instruments offer quality construction for advancing students. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for students and advancing players\n• Durable finish\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7116,7 +7116,7 @@ export const products: Product[] = [
     price: 80.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/jupiter-flute-swab-cloth.webp",
     shortDescription: "Flute with responsive keys and clear tone. Jupiter wind instruments offer quality construction for advancing students. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7128,7 +7128,7 @@ export const products: Product[] = [
     price: 260.0,
     qty: 20,
     skillLevel: "Beginner",
-    image: "/products/keyboards/roland-jupiter-x.webp",
+    image: "/products/accessories/jupiter-key-oil.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Jupiter wind instruments offer quality construction for advancing students. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7140,7 +7140,7 @@ export const products: Product[] = [
     price: 660.0,
     qty: 40,
     skillLevel: "Beginner",
-    image: "/products/keyboards/roland-jupiter-x.webp",
+    image: "/products/wind/jupiter-slide-trombone-care-kit.webp",
     shortDescription: "Wind instrument for players of all skill levels. Jupiter wind instruments offer quality construction for advancing students. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for students and advancing players\n• Durable finish\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7152,7 +7152,7 @@ export const products: Product[] = [
     price: 185.0,
     qty: 42,
     skillLevel: "Beginner",
-    image: "/products/keyboards/roland-jupiter-x.webp",
+    image: "/products/accessories/jupiter-valve-rotor-oil.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Jupiter wind instruments offer quality construction for advancing students. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -7164,7 +7164,7 @@ export const products: Product[] = [
     price: 15635.0,
     qty: 4,
     skillLevel: "Professional",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/jupiter-700-series-flute-outfit.webp",
     shortDescription: "Flute with responsive keys and clear tone. Jupiter wind instruments offer quality construction for advancing students. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -7176,7 +7176,7 @@ export const products: Product[] = [
     price: 15635.0,
     qty: 4,
     skillLevel: "Professional",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/jupiter-fl700e-series-flute.webp",
     shortDescription: "Flute with responsive keys and clear tone. Jupiter wind instruments offer quality construction for advancing students. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -7188,7 +7188,7 @@ export const products: Product[] = [
     price: 23395.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/jupiter-500-q-series-tenor-saxophone.webp",
     shortDescription: "Wind instrument for players of all skill levels. Jupiter wind instruments offer quality construction for advancing students. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
