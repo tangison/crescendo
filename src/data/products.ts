@@ -4068,7 +4068,7 @@ export const products: Product[] = [
     price: 1570.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/gator-22x18-bass-drum-bag.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4080,7 +4080,7 @@ export const products: Product[] = [
     price: 2820.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/drums/gator-10x8-roto-molded-tom-case.webp",
     shortDescription: "Hard case for maximum protection. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Hard-shell protection\n• Customizable foam interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4092,7 +4092,7 @@ export const products: Product[] = [
     price: 3050.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/drums/gator-12x9-roto-molded-tom-case.webp",
     shortDescription: "Hard case for maximum protection. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Hard-shell protection\n• Customizable foam interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4104,7 +4104,7 @@ export const products: Product[] = [
     price: 3780.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/drums/gator-14x8-roto-snare-case.webp",
     shortDescription: "Hard case for maximum protection. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Hard-shell protection\n• Customizable foam interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4116,7 +4116,7 @@ export const products: Product[] = [
     price: 3630.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/drums/gator-14x12-roto-molded-tom-case.webp",
     shortDescription: "Hard case for maximum protection. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Hard-shell protection\n• Customizable foam interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4128,7 +4128,7 @@ export const products: Product[] = [
     price: 3530.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/drums/gator-14x55-roto-snare-case.webp",
     shortDescription: "Hard case for maximum protection. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Hard-shell protection\n• Customizable foam interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4140,7 +4140,7 @@ export const products: Product[] = [
     price: 3730.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/drums/gator-14x65-roto-snare-case.webp",
     shortDescription: "Hard case for maximum protection. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Hard-shell protection\n• Customizable foam interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4152,7 +4152,7 @@ export const products: Product[] = [
     price: 4295.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/drums/gator-16x14-roto-molded-tom-case.webp",
     shortDescription: "Hard case for maximum protection. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Hard-shell protection\n• Customizable foam interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4164,7 +4164,7 @@ export const products: Product[] = [
     price: 7430.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/gator-roto-molded-22x18-bass-drum-case.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4176,7 +4176,7 @@ export const products: Product[] = [
     price: 3025.0,
     qty: 7,
     skillLevel: "Intermediate",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/drums/gator-conga-bag.webp",
     shortDescription: "Padded bag protecting percussion gear. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded protection for gear\n• Durable exterior material\n• Comfortable carrying straps\n• Multiple size options\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4188,7 +4188,7 @@ export const products: Product[] = [
     price: 3430.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/drums/gator-22-cymbal-backpack-bag.webp",
     shortDescription: "Padded bag protecting percussion gear. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded protection for gear\n• Durable exterior material\n• Comfortable carrying straps\n• Multiple size options\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4200,7 +4200,7 @@ export const products: Product[] = [
     price: 6470.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/gator-electric-drum-kit-bag-with-wheels.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4212,7 +4212,7 @@ export const products: Product[] = [
     price: 4595.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/gator-fusion-5-piece-drum-bag-set.webp",
     shortDescription: "Padded bag protecting percussion gear. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Padded protection for gear\n• Durable exterior material\n• Comfortable carrying straps\n• Multiple size options\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4224,7 +4224,7 @@ export const products: Product[] = [
     price: 4320.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/gator-fusion-16-drum-bag-set.webp",
     shortDescription: "Padded bag protecting percussion gear. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Padded protection for gear\n• Durable exterior material\n• Comfortable carrying straps\n• Multiple size options\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4236,7 +4236,7 @@ export const products: Product[] = [
     price: 4740.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/gator-5-piece-standard-drum-bag-set.webp",
     shortDescription: "Padded bag protecting percussion gear. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Padded protection for gear\n• Durable exterior material\n• Comfortable carrying straps\n• Multiple size options\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4248,7 +4248,7 @@ export const products: Product[] = [
     price: 2340.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/accessories/gator-deluxe-stick-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4260,7 +4260,7 @@ export const products: Product[] = [
     price: 820.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/accessories/stagg-guitar-bag.webp",
+    image: "/products/guitars/gator-concert-ukulele-gig-bag.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4272,7 +4272,7 @@ export const products: Product[] = [
     price: 730.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/accessories/stagg-guitar-bag.webp",
+    image: "/products/guitars/gator-soprano-ukulele-gig-bag.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4284,7 +4284,7 @@ export const products: Product[] = [
     price: 815.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/stagg-guitar-bag.webp",
+    image: "/products/guitars/gator-tenor-ukulele-gig-bag.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4296,7 +4296,7 @@ export const products: Product[] = [
     price: 4430.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-bass-case-deluxe.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4308,7 +4308,7 @@ export const products: Product[] = [
     price: 965.0,
     qty: 23,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/gator-padded-bass-guitar-bag-with-straps.webp",
     shortDescription: "Bass guitar with deep, punchy low-end response. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Solid basswood or alder body\n• Maple neck with rosewood fingerboard\n• Single-coil or humbucker pickups for punchy low-end\n• Adjustable bridge for precise action\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4320,7 +4320,7 @@ export const products: Product[] = [
     price: 935.0,
     qty: 28,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/gator-padded-classic-guitar-bag-with-straps.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4332,7 +4332,7 @@ export const products: Product[] = [
     price: 1020.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/gator-padded-dread-guitar-bag-with-straps.webp",
     shortDescription: "Guitar strap providing comfortable support during long performances. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Adjustable length for comfortable playing position\n• Durable leather or synthetic material\n• Secure attachment to guitar\n• Comfortable width for shoulder support\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4344,7 +4344,7 @@ export const products: Product[] = [
     price: 895.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/gator-padded-electric-guitar-bag-with-straps.webp",
     shortDescription: "Electric guitar with versatile tone options and reliable electronics. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Solid body construction for sustained tone\n• Single-coil or humbucker pickups for versatile sound\n• Maple or rosewood fingerboard for comfortable playing\n• Adjustable bridge for precise intonation\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4368,7 +4368,7 @@ export const products: Product[] = [
     price: 4020.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/guitars/gator-dreadnaught-guitar-case-deluxe.webp",
     shortDescription: "Hard-shell case for maximum instrument protection. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Hard-shell construction for maximum protection\n• Plush interior lining prevents scratches\n• Secure latches keep case closed\n• Comfortable handle for easy transport\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4380,7 +4380,7 @@ export const products: Product[] = [
     price: 3995.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/guitars/gator-12-string-dnaught-guitar-case.webp",
     shortDescription: "Hard-shell case for maximum instrument protection. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Hard-shell construction for maximum protection\n• Plush interior lining prevents scratches\n• Secure latches keep case closed\n• Comfortable handle for easy transport\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4392,7 +4392,7 @@ export const products: Product[] = [
     price: 3270.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-lightweight-bass-case.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4404,7 +4404,7 @@ export const products: Product[] = [
     price: 3080.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-lightweight-electric-case.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4416,7 +4416,7 @@ export const products: Product[] = [
     price: 170.0,
     qty: 19,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/gator-guitar-fret-mute-1-pack-large-black.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4428,7 +4428,7 @@ export const products: Product[] = [
     price: 170.0,
     qty: 30,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/gator-guitar-fret-mute-1-pack-medium-black.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4440,7 +4440,7 @@ export const products: Product[] = [
     price: 170.0,
     qty: 23,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/gator-guitar-fret-mute-1-pack-small-black.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4452,7 +4452,7 @@ export const products: Product[] = [
     price: 50.0,
     qty: 32,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/gator-pedal-power-cable-40.webp",
     shortDescription: "Premium cable with reliable signal transmission. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4464,7 +4464,7 @@ export const products: Product[] = [
     price: 75.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/gator-power-supply-doubler-cable.webp",
     shortDescription: "Premium cable with reliable signal transmission. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4476,7 +4476,7 @@ export const products: Product[] = [
     price: 5410.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/guitars/gator-tsa-latch-dreadnaught-guitar-case.webp",
     shortDescription: "Hard-shell case for maximum instrument protection. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Hard-shell construction for maximum protection\n• Plush interior lining prevents scratches\n• Secure latches keep case closed\n• Comfortable handle for easy transport\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4488,7 +4488,7 @@ export const products: Product[] = [
     price: 4020.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-traditional-bass-case.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4500,7 +4500,7 @@ export const products: Product[] = [
     price: 3370.0,
     qty: 6,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-traditional-dread-case.webp",
     shortDescription: "Protective case for gear transport. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4512,7 +4512,7 @@ export const products: Product[] = [
     price: 3420.0,
     qty: 5,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-traditional-wooden-bass-case-rect.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4524,7 +4524,7 @@ export const products: Product[] = [
     price: 3195.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-economy-style-classic-case.webp",
     shortDescription: "Protective case for gear transport. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4536,7 +4536,7 @@ export const products: Product[] = [
     price: 3030.0,
     qty: 10,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-traditional-wooden-electric-case-rect.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4548,7 +4548,7 @@ export const products: Product[] = [
     price: 3430.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-deluxe-electric-wood-case.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4572,7 +4572,7 @@ export const products: Product[] = [
     price: 4170.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-dlx-wood-electric-case-vintage-bro.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4584,7 +4584,7 @@ export const products: Product[] = [
     price: 3295.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/guitars/gator-les-paul-style-guitar-case-wooden.webp",
     shortDescription: "Hard-shell case for maximum instrument protection. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Hard-shell construction for maximum protection\n• Plush interior lining prevents scratches\n• Secure latches keep case closed\n• Comfortable handle for easy transport\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4596,7 +4596,7 @@ export const products: Product[] = [
     price: 1813.6,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/guitars/gator-soprano-ukulele-case.webp",
     shortDescription: "Ukulele with bright, cheerful tone - great for beginners and travel. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Linden or mahogany body for bright tone\n• Four nylon strings for easy playing\n• Compact size perfect for travel\n• Geared tuners for stable tuning\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4608,7 +4608,7 @@ export const products: Product[] = [
     price: 3780.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/accessories/gator-traditional-les-paul-case-brown.webp",
     shortDescription: "Protective case for gear transport. Gator Cases provide reliable protection for your gear. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Hard-shell protection\n• Customizable interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -4620,7 +4620,7 @@ export const products: Product[] = [
     price: 275.0,
     qty: 95,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/guitars/frameworks-guitar-wall-hanger-black.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4632,7 +4632,7 @@ export const products: Product[] = [
     price: 385.0,
     qty: 89,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/frameworks-guitar-wall-hanger-mahog.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4644,7 +4644,7 @@ export const products: Product[] = [
     price: 385.0,
     qty: 32,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/frameworks-guitar-wall-hanger-maple.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -4656,7 +4656,7 @@ export const products: Product[] = [
     price: 385.0,
     qty: 17,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/frameworks-guitar-wall-hanger-sat-chrome.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Gator Cases provide reliable protection for your gear. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
