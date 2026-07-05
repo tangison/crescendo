@@ -12480,7 +12480,7 @@ export const products: Product[] = [
     price: 1220.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/optech-super-harnass-reg-swivel-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12492,7 +12492,7 @@ export const products: Product[] = [
     price: 125.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-ad810-acoustic.webp",
+    image: "/products/guitars/optech-banjo-adaptor-loop.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12504,7 +12504,7 @@ export const products: Product[] = [
     price: 260.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/wind/optech-trombone-guard-black.webp",
     shortDescription: "Trombone with smooth slide action and full tone. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Yellow brass construction\n• Smooth slide action\n• Full, resonant tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12540,7 +12540,7 @@ export const products: Product[] = [
     price: 995.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/optech-trombone-grip.webp",
     shortDescription: "Trombone with smooth slide action and full tone. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Yellow brass construction\n• Smooth slide action\n• Full, resonant tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12552,7 +12552,7 @@ export const products: Product[] = [
     price: 2335.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/wind/tuba-4-valve.webp",
+    image: "/products/accessories/optech-tuba-harness-junior-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Optech straps reduce instrument weight for comfortable performance. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12564,7 +12564,7 @@ export const products: Product[] = [
     price: 2295.0,
     qty: 7,
     skillLevel: "Intermediate",
-    image: "/products/wind/tuba-4-valve.webp",
+    image: "/products/accessories/optech-pad-it-tuba-harness-reg.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Optech straps reduce instrument weight for comfortable performance. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12576,7 +12576,7 @@ export const products: Product[] = [
     price: 520.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/optech-wick-to-sax-reg-metal-black.webp",
     shortDescription: "Wind instrument for players of all skill levels. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12588,7 +12588,7 @@ export const products: Product[] = [
     price: 54895.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/cort-cm150b-amp.webp",
+    image: "/products/guitars/orange-or30-guitar-amp.webp",
     shortDescription: "Guitar amplifier designed for clear tone and reliable performance. Orange amplifiers deliver iconic British tone and stage-ready reliability. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Solid-state or tube circuitry for authentic tone\n• Multiple channels for clean and overdriven sounds\n• Built-in EQ for tone shaping\n• Headphone output for silent practice\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -12600,7 +12600,7 @@ export const products: Product[] = [
     price: 9795.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/orange-bass-butler-bi-amp-preamp-pedal.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Orange amplifiers deliver iconic British tone and stage-ready reliability. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12612,7 +12612,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 89,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/orange-crush-cable-10ft-straight-jack.webp",
     shortDescription: "Premium cable with reliable signal transmission. Orange amplifiers deliver iconic British tone and stage-ready reliability. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12624,7 +12624,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 102,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/orange-crush-instr-cable-10-ft-angled.webp",
     shortDescription: "Premium cable with reliable signal transmission. Orange amplifiers deliver iconic British tone and stage-ready reliability. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12636,7 +12636,7 @@ export const products: Product[] = [
     price: 490.0,
     qty: 25,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/orange-crush-instr-cable-20ft-straight.webp",
     shortDescription: "Premium cable with reliable signal transmission. Orange amplifiers deliver iconic British tone and stage-ready reliability. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12648,7 +12648,7 @@ export const products: Product[] = [
     price: 490.0,
     qty: 25,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/orange-crush-instr-cable-20ft-angled.webp",
     shortDescription: "Premium cable with reliable signal transmission. Orange amplifiers deliver iconic British tone and stage-ready reliability. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12660,7 +12660,7 @@ export const products: Product[] = [
     price: 789.8,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/ts415-speaker.webp",
+    image: "/products/pro-audio/orange-speaker-cable-jack-speakon-30ft.webp",
     shortDescription: "XLR or instrument cable with reliable signal transmission. Orange amplifiers deliver iconic British tone and stage-ready reliability. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality connectors for reliable signal\n• Shielded to reduce noise\n• Flexible jacket resists kinking\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12672,7 +12672,7 @@ export const products: Product[] = [
     price: 906.8,
     qty: 13,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/ts415-speaker.webp",
+    image: "/products/pro-audio/orange-speaker-cable-speakon-3ft.webp",
     shortDescription: "XLR or instrument cable with reliable signal transmission. Orange amplifiers deliver iconic British tone and stage-ready reliability. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality connectors for reliable signal\n• Shielded to reduce noise\n• Flexible jacket resists kinking\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12684,7 +12684,7 @@ export const products: Product[] = [
     price: 3120.0,
     qty: 22,
     skillLevel: "Intermediate",
-    image: "/products/accessories/cort-cm150b-amp.webp",
+    image: "/products/guitars/orange-crush-12watt-guitar-amp-combo.webp",
     shortDescription: "Guitar amplifier designed for clear tone and reliable performance. Orange amplifiers deliver iconic British tone and stage-ready reliability. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Solid-state or tube circuitry for authentic tone\n• Multiple channels for clean and overdriven sounds\n• Built-in EQ for tone shaping\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12696,7 +12696,7 @@ export const products: Product[] = [
     price: 4050.0,
     qty: 22,
     skillLevel: "Intermediate",
-    image: "/products/accessories/cort-cm150b-amp.webp",
+    image: "/products/guitars/orange-crush-20watt-guitar-amp-combo.webp",
     shortDescription: "Guitar amplifier designed for clear tone and reliable performance. Orange amplifiers deliver iconic British tone and stage-ready reliability. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid-state or tube circuitry for authentic tone\n• Multiple channels for clean and overdriven sounds\n• Built-in EQ for tone shaping\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12708,7 +12708,7 @@ export const products: Product[] = [
     price: 5650.0,
     qty: 24,
     skillLevel: "Intermediate",
-    image: "/products/accessories/cort-cm150b-amp.webp",
+    image: "/products/guitars/orange-crush-20w-guitar-amp-combo-with-reve.webp",
     shortDescription: "Guitar amplifier designed for clear tone and reliable performance. Orange amplifiers deliver iconic British tone and stage-ready reliability. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Solid-state or tube circuitry for authentic tone\n• Multiple channels for clean and overdriven sounds\n• Built-in EQ for tone shaping\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12720,7 +12720,7 @@ export const products: Product[] = [
     price: 6340.0,
     qty: 16,
     skillLevel: "Intermediate",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/orange-20watt-amp-white-with-black-grill.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Orange amplifiers deliver iconic British tone and stage-ready reliability. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12732,7 +12732,7 @@ export const products: Product[] = [
     price: 8250.0,
     qty: 6,
     skillLevel: "Intermediate",
-    image: "/products/accessories/cort-cm150b-amp.webp",
+    image: "/products/guitars/orange-crush-35w-guitar-amp-combo-with-reve.webp",
     shortDescription: "Guitar amplifier designed for clear tone and reliable performance. Orange amplifiers deliver iconic British tone and stage-ready reliability. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Solid-state or tube circuitry for authentic tone\n• Multiple channels for clean and overdriven sounds\n• Built-in EQ for tone shaping\n• Headphone output for silent practice\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12744,7 +12744,7 @@ export const products: Product[] = [
     price: 11745.0,
     qty: 12,
     skillLevel: "Professional",
-    image: "/products/accessories/cort-cm150b-amp.webp",
+    image: "/products/guitars/orange-30watt-crush-acoustic-guitar-amp.webp",
     shortDescription: "Acoustic guitar with solid construction and balanced tone - perfect for practice, performance, or recording. Orange amplifiers deliver iconic British tone and stage-ready reliability. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Solid spruce or cedar top for balanced tone\n• Dreadnought or concert body shape for versatile projection\n• Rosewood or mahogany back and sides for warmth\n• Chrome die-cast tuners for stable tuning\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -12756,7 +12756,7 @@ export const products: Product[] = [
     price: 1695.0,
     qty: 26,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/orange-3watt-crush-mini-amp.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Orange amplifiers deliver iconic British tone and stage-ready reliability. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12768,7 +12768,7 @@ export const products: Product[] = [
     price: 675.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/accessories/keyboard-stand.webp",
+    image: "/products/accessories/orange-mini-single-footswitch.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Orange amplifiers deliver iconic British tone and stage-ready reliability. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12780,7 +12780,7 @@ export const products: Product[] = [
     price: 5195.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/orange-micro-terror-20watt-amp-head.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Orange amplifiers deliver iconic British tone and stage-ready reliability. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12792,7 +12792,7 @@ export const products: Product[] = [
     price: 3395.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/orange-micro-terror-1x8-cab.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Orange amplifiers deliver iconic British tone and stage-ready reliability. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12804,7 +12804,7 @@ export const products: Product[] = [
     price: 105.4,
     qty: 40,
     skillLevel: "Beginner",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/pdp-felts-for-hihat-clutch-4pack.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. PDP (Pacific Drums) offers DW quality at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12816,7 +12816,7 @@ export const products: Product[] = [
     price: 315.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/pdp-hi-hat-clutch.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12840,7 +12840,7 @@ export const products: Product[] = [
     price: 1913.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/accessories/pdp-closed-hh-mount-with-mg3-long-arm.webp",
     shortDescription: "Mounting hardware for secure installation. PDP (Pacific Drums) offers DW quality at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Universal fit\n• Secure attachment\n• Durable metal\n• Easy installation\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12852,7 +12852,7 @@ export const products: Product[] = [
     price: 316.0,
     qty: 29,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/sig10-drum-mic-kit.webp",
+    image: "/products/drums/pdp-cymbal-felt-seat-kit-6pce.webp",
     shortDescription: "Drum kit with shells, hardware, and cymbals. PDP (Pacific Drums) offers DW quality at accessible prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Complete shell pack with hardware\n• Multiple drum sizes for versatile sounds\n• Durable finish resists wear\n• Includes necessary mounting hardware\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12864,7 +12864,7 @@ export const products: Product[] = [
     price: 270.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/pdp-receiver-zinc-12-24-10pk.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12876,7 +12876,7 @@ export const products: Product[] = [
     price: 270.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/pdp-reciever-zinc-true-pitch-10pk.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12888,7 +12888,7 @@ export const products: Product[] = [
     price: 193.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/pdp-tension-rods-tru-pitch-cr-110mm-8pk.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12900,7 +12900,7 @@ export const products: Product[] = [
     price: 140.4,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/pdp-tension-rods-cr-tru-pitch-42mm-8pk.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12924,7 +12924,7 @@ export const products: Product[] = [
     price: 140.4,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/pdp-tension-rods-cr-tru-pitch-55mm-8pk.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12936,7 +12936,7 @@ export const products: Product[] = [
     price: 22295.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/canon-d250.webp",
+    image: "/products/accessories/pdp-centerstage-with-hardware-cym-ruby.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -12948,7 +12948,7 @@ export const products: Product[] = [
     price: 22295.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/godox-ms300-kit.webp",
+    image: "/products/accessories/pdp-centerstage-5pcs-kit-silver.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. PDP (Pacific Drums) offers DW quality at accessible prices. Professional-grade gear built to meet the demands of serious players. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
