@@ -19272,7 +19272,7 @@ export const products: Product[] = [
     price: 190.0,
     qty: 15,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/ts415-speaker.webp",
+    image: "/products/pro-audio/warwick-1m-speaker-cable-j-j-black.webp",
     shortDescription: "XLR or instrument cable with reliable signal transmission. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality connectors for reliable signal\n• Shielded to reduce noise\n• Flexible jacket resists kinking\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19284,7 +19284,7 @@ export const products: Product[] = [
     price: 540.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/guitars/warwick-horizontal-guitar-wall-stand-black.webp",
     shortDescription: "Guitar stand providing stable display and storage. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Stable tripod base prevents tipping\n• Rubberized contacts protect instrument finish\n• Folds flat for transport\n• Adjustable height for different guitars\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19296,7 +19296,7 @@ export const products: Product[] = [
     price: 175.0,
     qty: 104,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-foot-rest-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19320,7 +19320,7 @@ export const products: Product[] = [
     price: 1195.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-active-mec-electronics.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19332,7 +19332,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-machine-head-black-right.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19344,7 +19344,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-machine-heads-black-left.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19356,7 +19356,7 @@ export const products: Product[] = [
     price: 315.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-machine-head-chrome-left.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19368,7 +19368,7 @@ export const products: Product[] = [
     price: 250.0,
     qty: 20,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-saddle-set-normal-space-narrow.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19380,7 +19380,7 @@ export const products: Product[] = [
     price: 250.0,
     qty: 20,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-saddle-set-normal-space-wide.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19392,7 +19392,7 @@ export const products: Product[] = [
     price: 350.0,
     qty: 19,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-just-a-nut-iii-4str.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19404,7 +19404,7 @@ export const products: Product[] = [
     price: 350.0,
     qty: 19,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-just-a-nut-iii-5str.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19416,7 +19416,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-just-a-nut-6-string.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
