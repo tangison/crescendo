@@ -12000,7 +12000,7 @@ export const products: Product[] = [
     price: 194.2,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-43mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12012,7 +12012,7 @@ export const products: Product[] = [
     price: 242.2,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pads-475.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12024,7 +12024,7 @@ export const products: Product[] = [
     price: 218.8,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-48mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12036,7 +12036,7 @@ export const products: Product[] = [
     price: 218.8,
     qty: 21,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pad-485mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12048,7 +12048,7 @@ export const products: Product[] = [
     price: 218.8,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypads-sax-50mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12060,7 +12060,7 @@ export const products: Product[] = [
     price: 242.2,
     qty: 22,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pads-51mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12072,7 +12072,7 @@ export const products: Product[] = [
     price: 242.2,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-52mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12084,7 +12084,7 @@ export const products: Product[] = [
     price: 242.2,
     qty: 25,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pads-53mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12096,7 +12096,7 @@ export const products: Product[] = [
     price: 242.2,
     qty: 26,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-54mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12108,7 +12108,7 @@ export const products: Product[] = [
     price: 242.2,
     qty: 37,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypads-sax-56mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12120,7 +12120,7 @@ export const products: Product[] = [
     price: 3181.2,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/mypad-alto-pad-set---yanagisawa.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mypad offers essential musician accessories. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12132,7 +12132,7 @@ export const products: Product[] = [
     price: 3181.2,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/alto-live1604.webp",
+    image: "/products/accessories/mypad-alto-jupiter-set.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mypad offers essential musician accessories. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12144,7 +12144,7 @@ export const products: Product[] = [
     price: 2035.8,
     qty: 8,
     skillLevel: "Intermediate",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-soprano-sax-pad-set---bundy-style.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12156,7 +12156,7 @@ export const products: Product[] = [
     price: 2035.8,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-soprano-sax-pad-set---jupiter.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12168,7 +12168,7 @@ export const products: Product[] = [
     price: 2035.8,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-soprano-sax-pad-set-selmer.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12180,7 +12180,7 @@ export const products: Product[] = [
     price: 2154.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypads-soprano-sax---yanagisawa.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12192,7 +12192,7 @@ export const products: Product[] = [
     price: 3522.8,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-tenor-sax-pad-set-conn-selmer.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12204,7 +12204,7 @@ export const products: Product[] = [
     price: 3500.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/keyboards/roland-jupiter-x.webp",
+    image: "/products/accessories/mypads-tenor-pad-set-jupiter.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Mypad offers essential musician accessories. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12216,7 +12216,7 @@ export const products: Product[] = [
     price: 3522.8,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypads-tenor-sax-pad-set-selmer.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12228,7 +12228,7 @@ export const products: Product[] = [
     price: 230.4,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/mypad-flute-springs.webp",
     shortDescription: "Flute with responsive keys and clear tone. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12240,7 +12240,7 @@ export const products: Product[] = [
     price: 11995.0,
     qty: 34,
     skillLevel: "Professional",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/nuova-alto-sax-eb-laquer-with-case.webp",
     shortDescription: "Hard case protecting your wind instrument in transit. Nuova offers quality student wind instruments. Professional-grade gear built to meet the demands of serious players. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Hard-shell protection\n• Plush interior lining\n• Secure latches\n• Comfortable handle\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -12252,7 +12252,7 @@ export const products: Product[] = [
     price: 5260.0,
     qty: 19,
     skillLevel: "Intermediate",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/nuova-bb-trumpet-laquer-with-case.webp",
     shortDescription: "Hard case protecting your wind instrument in transit. Nuova offers quality student wind instruments. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Hard-shell protection\n• Plush interior lining\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12264,7 +12264,7 @@ export const products: Product[] = [
     price: 2875.0,
     qty: 9,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/drums/omete-calm-series-cymbal-set-black.webp",
     shortDescription: "Cymbal with defined tone and projection. Omete delivers quality instrument accessories. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Cast B20 bronze or sheet brass construction\n• Bright or dark tone depending on model\n• Defined sustain and projection\n• Suitable for various musical styles\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12276,7 +12276,7 @@ export const products: Product[] = [
     price: 3295.0,
     qty: 9,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/drums/omete-calm-series-cymbal-set-blue.webp",
     shortDescription: "Cymbal with defined tone and projection. Omete delivers quality instrument accessories. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Cast B20 bronze or sheet brass construction\n• Bright or dark tone depending on model\n• Defined sustain and projection\n• Suitable for various musical styles\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12288,7 +12288,7 @@ export const products: Product[] = [
     price: 3225.0,
     qty: 7,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/drums/omete-calm-series-cymbal-set-colours.webp",
     shortDescription: "Cymbal with defined tone and projection. Omete delivers quality instrument accessories. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Cast B20 bronze or sheet brass construction\n• Bright or dark tone depending on model\n• Defined sustain and projection\n• Suitable for various musical styles\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12300,7 +12300,7 @@ export const products: Product[] = [
     price: 2635.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/drums/omete-calm-series-cymbal-set-gold.webp",
     shortDescription: "Cymbal with defined tone and projection. Omete delivers quality instrument accessories. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Cast B20 bronze or sheet brass construction\n• Bright or dark tone depending on model\n• Defined sustain and projection\n• Suitable for various musical styles\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12312,7 +12312,7 @@ export const products: Product[] = [
     price: 2875.0,
     qty: 9,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/drums/omete-calm-series-cymbal-set-red.webp",
     shortDescription: "Cymbal with defined tone and projection. Omete delivers quality instrument accessories. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Cast B20 bronze or sheet brass construction\n• Bright or dark tone depending on model\n• Defined sustain and projection\n• Suitable for various musical styles\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12324,7 +12324,7 @@ export const products: Product[] = [
     price: 2315.0,
     qty: 15,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/alto-tx-series.webp",
+    image: "/products/drums/omete-calm-series-cymbal-set-silver.webp",
     shortDescription: "Cymbal with defined tone and projection. Omete delivers quality instrument accessories. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Cast B20 bronze or sheet brass construction\n• Bright or dark tone depending on model\n• Defined sustain and projection\n• Suitable for various musical styles\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -12336,7 +12336,7 @@ export const products: Product[] = [
     price: 190.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/optech-pucker-pouch-small-black.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12348,7 +12348,7 @@ export const products: Product[] = [
     price: 730.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/optech-regular-sax-swivel-strap-black.webp",
     shortDescription: "Neck strap supporting heavier wind instruments. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Secure attachment\n• Reduces instrument weight on hands\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12360,7 +12360,7 @@ export const products: Product[] = [
     price: 695.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/optech-regular-swivel-sax-strap-xl-black.webp",
     shortDescription: "Neck strap supporting heavier wind instruments. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Secure attachment\n• Reduces instrument weight on hands\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12372,7 +12372,7 @@ export const products: Product[] = [
     price: 795.0,
     qty: 12,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/optech-regular-swivel-sax-strap-red.webp",
     shortDescription: "Neck strap supporting heavier wind instruments. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Secure attachment\n• Reduces instrument weight on hands\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12384,7 +12384,7 @@ export const products: Product[] = [
     price: 795.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/optech-regular-swivel-sax-strap-navy.webp",
     shortDescription: "Neck strap supporting heavier wind instruments. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Secure attachment\n• Reduces instrument weight on hands\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12396,7 +12396,7 @@ export const products: Product[] = [
     price: 745.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/optech-regular-swivel-sax-strap-royal-hc.webp",
     shortDescription: "Neck strap supporting heavier wind instruments. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Secure attachment\n• Reduces instrument weight on hands\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12408,7 +12408,7 @@ export const products: Product[] = [
     price: 795.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/optech-sax-strap-regular-swivel-wine-red.webp",
     shortDescription: "Neck strap supporting heavier wind instruments. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Secure attachment\n• Reduces instrument weight on hands\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12420,7 +12420,7 @@ export const products: Product[] = [
     price: 765.0,
     qty: 13,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/optech-classic-strap-junior-swivel-black.webp",
     shortDescription: "Comfortable strap for instrument support. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12432,7 +12432,7 @@ export const products: Product[] = [
     price: 745.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/optech-classic-sax-strap-regular-black.webp",
     shortDescription: "Neck strap supporting heavier wind instruments. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Secure attachment\n• Reduces instrument weight on hands\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12444,7 +12444,7 @@ export const products: Product[] = [
     price: 415.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/optech-tux-strap-junior-black.webp",
     shortDescription: "Comfortable strap for instrument support. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -12468,7 +12468,7 @@ export const products: Product[] = [
     price: 550.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/accessories/optech-ceo-comfort-strap-black.webp",
     shortDescription: "Comfortable strap for instrument support. Optech straps reduce instrument weight for comfortable performance. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Adjustable length\n• Comfortable padding\n• Durable material\n• Secure attachment\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
