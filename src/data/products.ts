@@ -18936,7 +18936,7 @@ export const products: Product[] = [
     price: 345.0,
     qty: 19,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rockboard-the-tray.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18948,7 +18948,7 @@ export const products: Product[] = [
     price: 75.0,
     qty: 89,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rockboard-flat-patch-cable-10cm.webp",
     shortDescription: "Premium cable with reliable signal transmission. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18960,7 +18960,7 @@ export const products: Product[] = [
     price: 85.0,
     qty: 126,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rockborad-flat-patch-cable-20cm.webp",
     shortDescription: "Premium cable with reliable signal transmission. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18972,7 +18972,7 @@ export const products: Product[] = [
     price: 115.0,
     qty: 70,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rockboard-flat-patch-cable-30cm.webp",
     shortDescription: "Premium cable with reliable signal transmission. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18984,7 +18984,7 @@ export const products: Product[] = [
     price: 120.0,
     qty: 88,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rockboard-flat-patch-cable-60cm.webp",
     shortDescription: "Premium cable with reliable signal transmission. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19020,7 +19020,7 @@ export const products: Product[] = [
     price: 1495.0,
     qty: 440,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/pw-pm1-headphone-amp.webp",
+    image: "/products/pro-audio/warwick-in-ears-headphone-amplifier.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19032,7 +19032,7 @@ export const products: Product[] = [
     price: 895.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rockboard-natural-sound-buffer.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19044,7 +19044,7 @@ export const products: Product[] = [
     price: 2065.0,
     qty: 6,
     skillLevel: "Intermediate",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rboard-100w-power-attenuator.webp",
     shortDescription: "Power supply for equipment operation. Warwick delivers premium bass gear with German engineering. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Correct voltage output\n• Reliable operation\n• Long cable\n• Safety-certified\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -19056,7 +19056,7 @@ export const products: Product[] = [
     price: 950.0,
     qty: 13,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-chromatic-stage-pedal-tuner.webp",
     shortDescription: "Tuner for accurate instrument tuning. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Accurate tuning\n• Easy-to-read display\n• Long battery life\n• Clip-on or pedal format\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19080,7 +19080,7 @@ export const products: Product[] = [
     price: 595.0,
     qty: 14,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rockboard-led-light.webp",
     shortDescription: "Light for stage or studio illumination. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Bright, even illumination\n• Adjustable angle\n• Energy-efficient\n• Long-lasting LED\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19104,7 +19104,7 @@ export const products: Product[] = [
     price: 3295.0,
     qty: 8,
     skillLevel: "Intermediate",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-power-block-v6.webp",
     shortDescription: "Power supply for equipment operation. Warwick delivers premium bass gear with German engineering. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Correct voltage output\n• Reliable operation\n• Long cable\n• Safety-certified\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
