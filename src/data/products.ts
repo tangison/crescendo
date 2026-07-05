@@ -5556,7 +5556,7 @@ export const products: Product[] = [
     price: 80.0,
     qty: 70,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/gewa-clarinet-pad-10mm.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5568,7 +5568,7 @@ export const products: Product[] = [
     price: 110.0,
     qty: 120,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/gewa-clarinet-pad-105mm.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5580,7 +5580,7 @@ export const products: Product[] = [
     price: 85.0,
     qty: 29,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-clarinet-bb.webp",
+    image: "/products/wind/gewa-clarinet-pad-12mm.webp",
     shortDescription: "Clarinet with rich, warm tone and accurate intonation. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• ABS resin or grenadilla body\n• 17 keys with accurate intonation\n• Warm, focused tone\n• Includes case, mouthpiece, and ligature\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5592,7 +5592,7 @@ export const products: Product[] = [
     price: 90.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-9mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5604,7 +5604,7 @@ export const products: Product[] = [
     price: 90.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-95mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5616,7 +5616,7 @@ export const products: Product[] = [
     price: 90.0,
     qty: 29,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-145mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5628,7 +5628,7 @@ export const products: Product[] = [
     price: 90.0,
     qty: 29,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-15mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5652,7 +5652,7 @@ export const products: Product[] = [
     price: 90.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-16mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5664,7 +5664,7 @@ export const products: Product[] = [
     price: 105.0,
     qty: 29,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-175mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5676,7 +5676,7 @@ export const products: Product[] = [
     price: 165.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-18mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5700,7 +5700,7 @@ export const products: Product[] = [
     price: 165.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-19mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5712,7 +5712,7 @@ export const products: Product[] = [
     price: 185.0,
     qty: 19,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-22mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5724,7 +5724,7 @@ export const products: Product[] = [
     price: 185.0,
     qty: 19,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-23mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5736,7 +5736,7 @@ export const products: Product[] = [
     price: 205.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-25mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5760,7 +5760,7 @@ export const products: Product[] = [
     price: 205.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-30mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5772,7 +5772,7 @@ export const products: Product[] = [
     price: 240.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-34mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5784,7 +5784,7 @@ export const products: Product[] = [
     price: 240.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-35mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5796,7 +5796,7 @@ export const products: Product[] = [
     price: 275.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-37mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5808,7 +5808,7 @@ export const products: Product[] = [
     price: 275.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-39mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5820,7 +5820,7 @@ export const products: Product[] = [
     price: 330.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-41mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5832,7 +5832,7 @@ export const products: Product[] = [
     price: 330.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-42mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5844,7 +5844,7 @@ export const products: Product[] = [
     price: 330.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-44mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5856,7 +5856,7 @@ export const products: Product[] = [
     price: 330.0,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/gewa-sax-pad-45mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5868,7 +5868,7 @@ export const products: Product[] = [
     price: 105.0,
     qty: 23,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/gewa-flute-pad-175mm.webp",
     shortDescription: "Flute with responsive keys and clear tone. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5880,7 +5880,7 @@ export const products: Product[] = [
     price: 140.0,
     qty: 32,
     skillLevel: "Beginner",
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/gewa-flute-pad-18mm.webp",
     shortDescription: "Flute with responsive keys and clear tone. Gewa brings German craftsmanship to string instruments and cases. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Silver-plated body and headjoint\n• Responsive plateau or offset G keys\n• Clear, projecting tone\n• Includes case and cleaning rod\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5904,7 +5904,7 @@ export const products: Product[] = [
     price: 8500.0,
     qty: 6,
     skillLevel: "Intermediate",
-    image: "/products/accessories/gaffer-tape-black.webp",
+    image: "/products/accessories/halifax-60-gold-plated-mace-black-shaft.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Halifax offers quality guitar accessories. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -5916,7 +5916,7 @@ export const products: Product[] = [
     price: 410.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/halifax-calfskin-18.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Halifax offers quality guitar accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5952,7 +5952,7 @@ export const products: Product[] = [
     price: 631.8,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/halifax-calfskin-26.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Halifax offers quality guitar accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -5988,7 +5988,7 @@ export const products: Product[] = [
     price: 855.2,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/halifax-calfskin-32.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Halifax offers quality guitar accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6000,7 +6000,7 @@ export const products: Product[] = [
     price: 926.6,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/halifax-calfskin-34.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Halifax offers quality guitar accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6012,7 +6012,7 @@ export const products: Product[] = [
     price: 938.4,
     qty: 7,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/halifax-calfskin-36.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Halifax offers quality guitar accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6024,7 +6024,7 @@ export const products: Product[] = [
     price: 702.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/halifax-calfskin-38.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Halifax offers quality guitar accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6036,7 +6036,7 @@ export const products: Product[] = [
     price: 112.4,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/gaffer-tape-white.webp",
+    image: "/products/accessories/halifax-white-cotton-gloves-medium.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Halifax offers quality guitar accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6060,7 +6060,7 @@ export const products: Product[] = [
     price: 105.0,
     qty: 22,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/hanflag-stick-bottle-opener.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Han Flag Percussion delivers quality percussion accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6072,7 +6072,7 @@ export const products: Product[] = [
     price: 135.0,
     qty: 365,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/hanflag-5a-blue-fire-natural-hickory-wood.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Han Flag Percussion delivers quality percussion accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6084,7 +6084,7 @@ export const products: Product[] = [
     price: 135.0,
     qty: 307,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/hanflag-5b-blue-fire-hickory-wood.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Han Flag Percussion delivers quality percussion accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6096,7 +6096,7 @@ export const products: Product[] = [
     price: 135.0,
     qty: 382,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/hanflag-7a-blue-fire-wood-hickory.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Han Flag Percussion delivers quality percussion accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6108,7 +6108,7 @@ export const products: Product[] = [
     price: 135.0,
     qty: 22,
     skillLevel: "Beginner",
-    image: "/products/accessories/gaffer-tape-white.webp",
+    image: "/products/accessories/hanflag-7a-blue-fire-white-hickory-wood.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Han Flag Percussion delivers quality percussion accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6132,7 +6132,7 @@ export const products: Product[] = [
     price: 865.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/hanflag-12-practise-pad-octagon-single.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Han Flag Percussion delivers quality percussion accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6144,7 +6144,7 @@ export const products: Product[] = [
     price: 85.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/hidersine-violin-varnish-cleaner.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6156,7 +6156,7 @@ export const products: Product[] = [
     price: 105.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/hidersine-violin-rosin-junior.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6168,7 +6168,7 @@ export const products: Product[] = [
     price: 255.0,
     qty: 133,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/hidersine-34-44-oxbury-violin-shoulder-rest.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6180,7 +6180,7 @@ export const products: Product[] = [
     price: 70.0,
     qty: 40,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/hidersine-tourte-violin-mute.webp",
     shortDescription: "Mute for quieter practice. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Reduces volume for quiet practice\n• Easy to attach and remove\n• Doesn't affect tone quality\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6192,7 +6192,7 @@ export const products: Product[] = [
     price: 150.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-mute-button.webp",
+    image: "/products/strings/hidersine-cello-mute.webp",
     shortDescription: "Mute for quieter practice. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Reduces volume for quiet practice\n• Easy to attach and remove\n• Doesn't affect tone quality\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6204,7 +6204,7 @@ export const products: Product[] = [
     price: 120.0,
     qty: 16,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/hidersine-peg-paste-compound.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6216,7 +6216,7 @@ export const products: Product[] = [
     price: 195.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/guitars/cort-action-bass-v-plus.webp",
+    image: "/products/strings/hidersine-dbass-rosin.webp",
     shortDescription: "Orchestral string instrument for classical and contemporary players. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for students and advancing players\n• Durable materials\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6228,7 +6228,7 @@ export const products: Product[] = [
     price: 205.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/hidersine-cello-rosin-deluxe.webp",
     shortDescription: "Cello with deep, resonant low-end response. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Carved spruce top and maple back\n• Solid construction\n• Deep, resonant tone\n• Includes bag and bow\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -6240,7 +6240,7 @@ export const products: Product[] = [
     price: 645.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/hidersine-12-violin-string-set.webp",
     shortDescription: "String set engineered for tone and durability. Hidersine provides quality string instrument accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
