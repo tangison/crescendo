@@ -11520,7 +11520,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pad.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11532,7 +11532,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 90,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pad-12mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11544,7 +11544,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 68,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pad-125mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11556,7 +11556,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 59,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pad-13.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11568,7 +11568,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 46,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pad-135mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11580,7 +11580,7 @@ export const products: Product[] = [
     price: 64.4,
     qty: 84,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pad-165mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11592,7 +11592,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 24,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pad-8mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11604,7 +11604,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 15,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pads-85.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11616,7 +11616,7 @@ export const products: Product[] = [
     price: 41.0,
     qty: 39,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pads-115mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11628,7 +11628,7 @@ export const products: Product[] = [
     price: 64.4,
     qty: 27,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pad-145mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11640,7 +11640,7 @@ export const products: Product[] = [
     price: 64.4,
     qty: 45,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypads-sax-single-pad-15mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11652,7 +11652,7 @@ export const products: Product[] = [
     price: 64.4,
     qty: 13,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypads-sax-155mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11664,7 +11664,7 @@ export const products: Product[] = [
     price: 64.4,
     qty: 60,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-16mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11676,7 +11676,7 @@ export const products: Product[] = [
     price: 64.4,
     qty: 52,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pads-17mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11688,7 +11688,7 @@ export const products: Product[] = [
     price: 64.4,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-175mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11712,7 +11712,7 @@ export const products: Product[] = [
     price: 89.0,
     qty: 30,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-20mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11724,7 +11724,7 @@ export const products: Product[] = [
     price: 112.4,
     qty: 28,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pad-205mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11736,7 +11736,7 @@ export const products: Product[] = [
     price: 112.4,
     qty: 52,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pad-21mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11748,7 +11748,7 @@ export const products: Product[] = [
     price: 112.4,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-22mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11760,7 +11760,7 @@ export const products: Product[] = [
     price: 135.8,
     qty: 59,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pad-225mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11772,7 +11772,7 @@ export const products: Product[] = [
     price: 124.0,
     qty: 20,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-24mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11784,7 +11784,7 @@ export const products: Product[] = [
     price: 124.0,
     qty: 24,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypads-sax-245mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11796,7 +11796,7 @@ export const products: Product[] = [
     price: 124.0,
     qty: 30,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-26mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11808,7 +11808,7 @@ export const products: Product[] = [
     price: 124.0,
     qty: 11,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypads-sax-265mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11820,7 +11820,7 @@ export const products: Product[] = [
     price: 124.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-27mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11832,7 +11832,7 @@ export const products: Product[] = [
     price: 124.0,
     qty: 21,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pad-29mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11856,7 +11856,7 @@ export const products: Product[] = [
     price: 135.8,
     qty: 22,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-305-mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11880,7 +11880,7 @@ export const products: Product[] = [
     price: 135.8,
     qty: 49,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-32mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11892,7 +11892,7 @@ export const products: Product[] = [
     price: 135.8,
     qty: 48,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypads-saxophone-325mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11904,7 +11904,7 @@ export const products: Product[] = [
     price: 135.8,
     qty: 30,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-33mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11916,7 +11916,7 @@ export const products: Product[] = [
     price: 135.8,
     qty: 22,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-335mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11928,7 +11928,7 @@ export const products: Product[] = [
     price: 159.2,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-pad-35mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11940,7 +11940,7 @@ export const products: Product[] = [
     price: 159.2,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-36mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11976,7 +11976,7 @@ export const products: Product[] = [
     price: 159.2,
     qty: 29,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypad-sax-38mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -11988,7 +11988,7 @@ export const products: Product[] = [
     price: 230.4,
     qty: 29,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/mypads-sax-pad-415mm.webp",
     shortDescription: "Wind instrument for players of all skill levels. Mypad offers essential musician accessories. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
