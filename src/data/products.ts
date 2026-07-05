@@ -18228,7 +18228,7 @@ export const products: Product[] = [
     price: 575.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-tech-pack.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18240,7 +18240,7 @@ export const products: Product[] = [
     price: 19550.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rbass-corv-basic-4str-natural-activ.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Professional-grade gear built to meet the demands of serious players. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -18252,7 +18252,7 @@ export const products: Product[] = [
     price: 19550.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/warwick-rbass-corv-basic-4str-hviolin.webp",
     shortDescription: "Orchestral string instrument for classical and contemporary players. Warwick delivers premium bass gear with German engineering. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for students and advancing players\n• Durable materials\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -18264,7 +18264,7 @@ export const products: Product[] = [
     price: 20450.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/warwick-rbass-corv-basic-5str-hviolin.webp",
     shortDescription: "Orchestral string instrument for classical and contemporary players. Warwick delivers premium bass gear with German engineering. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for students and advancing players\n• Durable materials\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -18276,7 +18276,7 @@ export const products: Product[] = [
     price: 21095.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rbass-corv-classic-5str-sburst.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -18288,7 +18288,7 @@ export const products: Product[] = [
     price: 16550.0,
     qty: 2,
     skillLevel: "Professional",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rbass-streamer-standard-4str-hvioli.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -18300,7 +18300,7 @@ export const products: Product[] = [
     price: 19095.0,
     qty: 2,
     skillLevel: "Professional",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rbass-streamer-lx-5str-red.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -18312,7 +18312,7 @@ export const products: Product[] = [
     price: 291.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-surface-finisher-wax.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18324,7 +18324,7 @@ export const products: Product[] = [
     price: 25071.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rbass-corvette-prem-5str-natural.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -18348,7 +18348,7 @@ export const products: Product[] = [
     price: 851.0,
     qty: 28,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-emp-coated-bass-4str-m40-100.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18360,7 +18360,7 @@ export const products: Product[] = [
     price: 295.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-red-lab-bass-strings-4-st-45-105.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18372,7 +18372,7 @@ export const products: Product[] = [
     price: 295.0,
     qty: 78,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-red-label-bass-strings-40-100.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18384,7 +18384,7 @@ export const products: Product[] = [
     price: 355.0,
     qty: 36,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-red-label-bass-strings-40-130.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18396,7 +18396,7 @@ export const products: Product[] = [
     price: 355.0,
     qty: 32,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rlabel-5str-bass-strings-45-135.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19476,7 +19476,7 @@ export const products: Product[] = [
     price: 19550.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rbass-corv-basic-4str-natural-activ.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Professional-grade gear built to meet the demands of serious players. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -19488,7 +19488,7 @@ export const products: Product[] = [
     price: 19550.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/warwick-rbass-corv-basic-4str-hviolin.webp",
     shortDescription: "Orchestral string instrument for classical and contemporary players. Warwick delivers premium bass gear with German engineering. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for students and advancing players\n• Durable materials\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -19500,7 +19500,7 @@ export const products: Product[] = [
     price: 20450.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/warwick-rbass-corv-basic-5str-hviolin.webp",
     shortDescription: "Orchestral string instrument for classical and contemporary players. Warwick delivers premium bass gear with German engineering. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for students and advancing players\n• Durable materials\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -19512,7 +19512,7 @@ export const products: Product[] = [
     price: 21095.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rbass-corv-classic-5str-sburst.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -19524,7 +19524,7 @@ export const products: Product[] = [
     price: 16550.0,
     qty: 2,
     skillLevel: "Professional",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rbass-streamer-standard-4str-hvioli.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Professional-grade gear built to meet the demands of serious players. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -19536,7 +19536,7 @@ export const products: Product[] = [
     price: 19095.0,
     qty: 2,
     skillLevel: "Professional",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-rbass-streamer-lx-5str-red.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Warwick delivers premium bass gear with German engineering. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
