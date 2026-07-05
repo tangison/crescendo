@@ -13440,7 +13440,7 @@ export const products: Product[] = [
     price: 810.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/accessories/godox-ms300-kit.webp",
+    image: "/products/accessories/sabian-crisis-kit.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13452,7 +13452,7 @@ export const products: Product[] = [
     price: 681.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-camber-tilt-stacker.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13464,7 +13464,7 @@ export const products: Product[] = [
     price: 1377.0,
     qty: 3,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-camber-triangle-l-holder.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13476,7 +13476,7 @@ export const products: Product[] = [
     price: 450.0,
     qty: 22,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/accessories/sabian-express-stick-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Sabian cymbals are crafted in Canada for crystal-clear tone. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13488,7 +13488,7 @@ export const products: Product[] = [
     price: 275.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-felt-pack.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13500,7 +13500,7 @@ export const products: Product[] = [
     price: 5533.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-hc-14-14-hoop-crasher.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13512,7 +13512,7 @@ export const products: Product[] = [
     price: 449.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/accessories/godox-ms300-kit.webp",
+    image: "/products/accessories/sabian-logo-repair-kit.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13524,7 +13524,7 @@ export const products: Product[] = [
     price: 3270.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/shure-se215-case.webp",
+    image: "/products/drums/sabian-max-protect-22-cymbal-case.webp",
     shortDescription: "Hard case for maximum protection. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Hard-shell protection\n• Customizable foam interior\n• Secure latches\n• Comfortable handle\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13536,7 +13536,7 @@ export const products: Product[] = [
     price: 5250.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-stratus-cirro-stax.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13548,7 +13548,7 @@ export const products: Product[] = [
     price: 9995.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/sabian-14-stratus-hihats.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13560,7 +13560,7 @@ export const products: Product[] = [
     price: 10995.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-15-stratus-crash.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. Professional-grade gear built to meet the demands of serious players. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -13572,7 +13572,7 @@ export const products: Product[] = [
     price: 7600.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-18-stratus-crash.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13584,7 +13584,7 @@ export const products: Product[] = [
     price: 7985.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-18-stratus-zero-crash.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13596,7 +13596,7 @@ export const products: Product[] = [
     price: 8295.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-19-stratus-crash.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13608,7 +13608,7 @@ export const products: Product[] = [
     price: 9395.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-20-stratus-crash.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13620,7 +13620,7 @@ export const products: Product[] = [
     price: 9995.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-20-stratus-zero.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13632,7 +13632,7 @@ export const products: Product[] = [
     price: 930.0,
     qty: 12,
     skillLevel: "Beginner",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-sbr-10-splash.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13644,7 +13644,7 @@ export const products: Product[] = [
     price: 2670.0,
     qty: 5,
     skillLevel: "Intermediate",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/sabian-sbr-14-hihats.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13656,7 +13656,7 @@ export const products: Product[] = [
     price: 2670.0,
     qty: 14,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-14-sbr-band.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13668,7 +13668,7 @@ export const products: Product[] = [
     price: 2270.0,
     qty: 8,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-sbr-16-crash.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13680,7 +13680,7 @@ export const products: Product[] = [
     price: 2270.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-sbr-16-china.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13692,7 +13692,7 @@ export const products: Product[] = [
     price: 2650.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-sbr-20-ride.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13704,7 +13704,7 @@ export const products: Product[] = [
     price: 4295.0,
     qty: 4,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-sbr-first-pack-13-hats-16-crash.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13716,7 +13716,7 @@ export const products: Product[] = [
     price: 4895.0,
     qty: 9,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-sbr-two-pack-14-hats-18-crash.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13728,7 +13728,7 @@ export const products: Product[] = [
     price: 7195.0,
     qty: 11,
     skillLevel: "Intermediate",
-    image: "/products/accessories/mic-stand.webp",
+    image: "/products/accessories/sabian-sbr-14-hats-16-crash-20-ride-set.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Sabian cymbals are crafted in Canada for crystal-clear tone. A solid choice for advancing players ready to take the next step. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13740,7 +13740,7 @@ export const products: Product[] = [
     price: 12130.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/sabian-sbr-super-cymbal-set.webp",
     shortDescription: "Cymbal with defined tone and projection. Sabian cymbals are crafted in Canada for crystal-clear tone. Professional-grade gear built to meet the demands of serious players. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Cast B20 bronze or sheet brass construction\n• Bright or dark tone depending on model\n• Defined sustain and projection\n• Suitable for various musical styles\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -13752,7 +13752,7 @@ export const products: Product[] = [
     price: 1995.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/accessories/sabian-360-stick-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Sabian cymbals are crafted in Canada for crystal-clear tone. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13764,7 +13764,7 @@ export const products: Product[] = [
     price: 1640.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/accessories/sabian-flip-stick-bag.webp",
     shortDescription: "Padded bag for convenient gear carrying. Sabian cymbals are crafted in Canada for crystal-clear tone. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Padded protection\n• Durable exterior\n• Comfortable straps\n• Accessory pockets\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13776,7 +13776,7 @@ export const products: Product[] = [
     price: 2495.0,
     qty: 3,
     skillLevel: "Intermediate",
-    image: "/products/accessories/guitar-strap.webp",
+    image: "/products/guitars/sandner-dreadnaught-guitar-natural.webp",
     shortDescription: "A quality string instrument for guitarists and ukulele players of all levels. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13788,7 +13788,7 @@ export const products: Product[] = [
     price: 365.0,
     qty: 20,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-cello-string-set-12.webp",
     shortDescription: "String set engineered for tone and durability. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13800,7 +13800,7 @@ export const products: Product[] = [
     price: 365.0,
     qty: 63,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-cello-string-set-14.webp",
     shortDescription: "String set engineered for tone and durability. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13812,7 +13812,7 @@ export const products: Product[] = [
     price: 365.0,
     qty: 25,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-cello-string-set-34.webp",
     shortDescription: "String set engineered for tone and durability. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13836,7 +13836,7 @@ export const products: Product[] = [
     price: 450.0,
     qty: 51,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-concert-44-violin-string-set.webp",
     shortDescription: "String set engineered for tone and durability. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13848,7 +13848,7 @@ export const products: Product[] = [
     price: 60.0,
     qty: 785,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-violin-rosin-5.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13860,7 +13860,7 @@ export const products: Product[] = [
     price: 91795.0,
     qty: 1,
     skillLevel: "Professional",
-    image: "/products/keyboards/kawai-gx2-grand-piano.webp",
+    image: "/products/keyboards/sandner-rs120-upright-piano-black-satin.webp",
     shortDescription: "Digital piano with authentic touch and rich tone. Sandner provides quality orchestral string instruments. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Weighted hammer-action keys for authentic piano feel\n• Multiple piano and instrument voices\n• Built-in metronome for practice\n• Stereo speaker system\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -13872,7 +13872,7 @@ export const products: Product[] = [
     price: 155.0,
     qty: 63,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-violin-string-set-14.webp",
     shortDescription: "String set engineered for tone and durability. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13884,7 +13884,7 @@ export const products: Product[] = [
     price: 155.0,
     qty: 8,
     skillLevel: "Beginner",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-violin-string-set-44.webp",
     shortDescription: "String set engineered for tone and durability. Sandner provides quality orchestral string instruments. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality materials for consistent tone\n• Various tensions available\n• Engineered for orchestral instruments\n• Long-lasting performance\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -13896,7 +13896,7 @@ export const products: Product[] = [
     price: 4795.0,
     qty: 2,
     skillLevel: "Intermediate",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-violin-44-outfit.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -13908,7 +13908,7 @@ export const products: Product[] = [
     price: 4775.0,
     qty: 12,
     skillLevel: "Intermediate",
-    image: "/products/strings/gc-violin-44.webp",
+    image: "/products/strings/sandner-violin-14-outfit.webp",
     shortDescription: "Violin with carved top and balanced tone - suitable for students and advancing players. Sandner provides quality orchestral string instruments. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Carved spruce top and maple back\n• Ebony fingerboard and fittings\n• Warm, balanced tone\n• Includes case, bow, and rosin\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
