@@ -14436,7 +14436,7 @@ export const products: Product[] = [
     price: 140.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/drums/roland-td17kv2.webp",
+    image: "/products/drums/santa-fe-euphonium-bottom-cap.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14460,7 +14460,7 @@ export const products: Product[] = [
     price: 150.0,
     qty: 57,
     skillLevel: "Beginner",
-    image: "/products/accessories/nux-npk20.webp",
+    image: "/products/accessories/santa-fe-10-key-harmonica-d.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14472,7 +14472,7 @@ export const products: Product[] = [
     price: 150.0,
     qty: 41,
     skillLevel: "Beginner",
-    image: "/products/accessories/jenova-camera-bag.webp",
+    image: "/products/accessories/santa-fe-10-key-harmonica-g.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14484,7 +14484,7 @@ export const products: Product[] = [
     price: 410.0,
     qty: 58,
     skillLevel: "Beginner",
-    image: "/products/accessories/canon-d250.webp",
+    image: "/products/accessories/santa-fe-24-key-harmonica-a.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14508,7 +14508,7 @@ export const products: Product[] = [
     price: 410.0,
     qty: 66,
     skillLevel: "Beginner",
-    image: "/products/accessories/godox-ms300-kit.webp",
+    image: "/products/accessories/santa-fe-24-key-harmonica-g.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14532,7 +14532,7 @@ export const products: Product[] = [
     price: 1805.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/santa-fe-metal-tenor-sax-mouthpiece-gold.webp",
     shortDescription: "Wind instrument for players of all skill levels. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14592,7 +14592,7 @@ export const products: Product[] = [
     price: 195.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/rode-nt1-black.webp",
+    image: "/products/wind/santa-fe-plastic-trumpet-mouthpiece-black.webp",
     shortDescription: "Trumpet with bright projection and crisp response. Santa Fe guitars provide great value for beginning players. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive monel or stainless valves\n• Bright, projecting tone\n• Includes case and mouthpiece\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14628,7 +14628,7 @@ export const products: Product[] = [
     price: 10595.0,
     qty: 3,
     skillLevel: "Professional",
-    image: "/products/wind/yanagisawa-wo1-sax.webp",
+    image: "/products/wind/santa-fe-eb-alto-saxophone---laq.webp",
     shortDescription: "Wind instrument for players of all skill levels. Santa Fe guitars provide great value for beginning players. Professional-grade gear built to meet the demands of serious players. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Brass body with lacquer finish\n• Responsive keywork for easy playing\n• Rich, expressive tone\n• Includes case and mouthpiece\n\nIdeal For: professional players seeking reliable performance.",
   },
   {
@@ -14664,7 +14664,7 @@ export const products: Product[] = [
     price: 8495.0,
     qty: 1,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/alto-live1604.webp",
+    image: "/products/accessories/santa-fe-altotenor-horn-bb---laq.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Santa Fe guitars provide great value for beginning players. A solid choice for advancing players ready to take the next step. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -14676,7 +14676,7 @@ export const products: Product[] = [
     price: 1305.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd25-amp.webp",
+    image: "/products/accessories/superlux-compact-vocal-microphone.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14688,7 +14688,7 @@ export const products: Product[] = [
     price: 999.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd25-amp.webp",
+    image: "/products/accessories/superlux-omni-directional-harmonica-microphone.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14700,7 +14700,7 @@ export const products: Product[] = [
     price: 135.0,
     qty: 35,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/drums/superlux-drum-microphone-clip.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14712,7 +14712,7 @@ export const products: Product[] = [
     price: 4615.0,
     qty: 10,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/drums/superlux-7pce-drum-microphone-set.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Superlux offers professional audio gear at accessible prices. A solid choice for advancing players ready to take the next step. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -14724,7 +14724,7 @@ export const products: Product[] = [
     price: 1225.0,
     qty: 15,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-instrument-microphone.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14736,7 +14736,7 @@ export const products: Product[] = [
     price: 1265.0,
     qty: 26,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-studio-condensor-microphone-black.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14748,7 +14748,7 @@ export const products: Product[] = [
     price: 1510.0,
     qty: 19,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-studio-condenser-microphone-silver-usb.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14760,7 +14760,7 @@ export const products: Product[] = [
     price: 2175.0,
     qty: 11,
     skillLevel: "Intermediate",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-dynamic-microphone-sonato-6pcs.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Superlux offers professional audio gear at accessible prices. A solid choice for advancing players ready to take the next step. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: intermediate players seeking reliable performance.",
   },
   {
@@ -14772,7 +14772,7 @@ export const products: Product[] = [
     price: 599.0,
     qty: 5,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/drums/superlux-snare-drum-microphone.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14784,7 +14784,7 @@ export const products: Product[] = [
     price: 1265.0,
     qty: 72,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-in-ear-headphone-amp.webp",
     shortDescription: "Professional audio equipment for studio and live sound applications. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Professional-grade components\n• Reliable performance for studio and stage\n• Durable construction\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14796,7 +14796,7 @@ export const products: Product[] = [
     price: 1025.0,
     qty: 28,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-studio-headphones.webp",
     shortDescription: "Studio headphones for accurate monitoring. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Closed-back design for isolation\n• Accurate frequency response\n• Comfortable for extended sessions\n• Detachable cable\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14808,7 +14808,7 @@ export const products: Product[] = [
     price: 1015.0,
     qty: 16,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-studio-headphones-2.webp",
     shortDescription: "Studio headphones for accurate monitoring. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Closed-back design for isolation\n• Accurate frequency response\n• Comfortable for extended sessions\n• Detachable cable\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14820,7 +14820,7 @@ export const products: Product[] = [
     price: 1265.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-closed-back-studio-headphones.webp",
     shortDescription: "Studio headphones for accurate monitoring. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Closed-back design for isolation\n• Accurate frequency response\n• Comfortable for extended sessions\n• Detachable cable\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14832,7 +14832,7 @@ export const products: Product[] = [
     price: 1265.0,
     qty: 6,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-studio-headphones-white.webp",
     shortDescription: "Studio headphones for accurate monitoring. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Closed-back design for isolation\n• Accurate frequency response\n• Comfortable for extended sessions\n• Detachable cable\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14844,7 +14844,7 @@ export const products: Product[] = [
     price: 1555.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/drums/remo-coloured-heads.webp",
+    image: "/products/drums/superlux-professional-drummers-headphones.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14856,7 +14856,7 @@ export const products: Product[] = [
     price: 995.0,
     qty: 36,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-open-studio-headphones-black.webp",
     shortDescription: "Studio headphones for accurate monitoring. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Closed-back design for isolation\n• Accurate frequency response\n• Comfortable for extended sessions\n• Detachable cable\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14868,7 +14868,7 @@ export const products: Product[] = [
     price: 1115.0,
     qty: 12,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-professional-studio-headphones.webp",
     shortDescription: "Studio headphones for accurate monitoring. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Closed-back design for isolation\n• Accurate frequency response\n• Comfortable for extended sessions\n• Detachable cable\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14880,7 +14880,7 @@ export const products: Product[] = [
     price: 795.0,
     qty: 24,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-studio-headphones-3.webp",
     shortDescription: "Studio headphones for accurate monitoring. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Closed-back design for isolation\n• Accurate frequency response\n• Comfortable for extended sessions\n• Detachable cable\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14892,7 +14892,7 @@ export const products: Product[] = [
     price: 1125.0,
     qty: 10,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-evo-studio-headphones-black.webp",
     shortDescription: "Studio headphones for accurate monitoring. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Closed-back design for isolation\n• Accurate frequency response\n• Comfortable for extended sessions\n• Detachable cable\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14904,7 +14904,7 @@ export const products: Product[] = [
     price: 1125.0,
     qty: 12,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-studio-headphones-white-2.webp",
     shortDescription: "Studio headphones for accurate monitoring. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Closed-back design for isolation\n• Accurate frequency response\n• Comfortable for extended sessions\n• Detachable cable\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14916,7 +14916,7 @@ export const products: Product[] = [
     price: 115.0,
     qty: 43,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/drums/superlux-drum-microphone-clamp.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14928,7 +14928,7 @@ export const products: Product[] = [
     price: 155.0,
     qty: 195,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/drums/superlux-drum-microphone-clamp-2.webp",
     shortDescription: "Percussion instrument for drummers of all skill levels. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction for reliable performance\n• Suitable for practice and performance\n• Durable materials for long life\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14940,7 +14940,7 @@ export const products: Product[] = [
     price: 1055.0,
     qty: 48,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd25-amp.webp",
+    image: "/products/accessories/superlux-shockmount-for-e205-e205u.webp",
     shortDescription: "Mounting hardware for secure installation. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Universal fit\n• Secure attachment\n• Durable metal\n• Easy installation\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -14952,7 +14952,7 @@ export const products: Product[] = [
     price: 1185.0,
     qty: 25,
     skillLevel: "Beginner",
-    image: "/products/pro-audio/takstar-td72.webp",
+    image: "/products/pro-audio/superlux-studio-broadcast-microphone-boom-arm.webp",
     shortDescription: "Microphone capturing clear, accurate sound. Superlux offers professional audio gear at accessible prices. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Cardioid polar pattern for focused capture\n• Wide frequency response\n• Durable construction for stage use\n• Includes clip and carrying case\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
