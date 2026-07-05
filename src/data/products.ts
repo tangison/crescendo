@@ -17880,7 +17880,7 @@ export const products: Product[] = [
     price: 1095.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-drink-holder.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -17892,7 +17892,7 @@ export const products: Product[] = [
     price: 375.0,
     qty: 4,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-bebop-525-wood-tip.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -17904,7 +17904,7 @@ export const products: Product[] = [
     price: 315.0,
     qty: 1,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-classic-7a-nylon-tip.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -17916,7 +17916,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 82,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-classic-big-band-wood-sabu-satcha.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -17928,7 +17928,7 @@ export const products: Product[] = [
     price: 495.0,
     qty: 9,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-chad-smith-30th-anniversary-sig.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -17940,7 +17940,7 @@ export const products: Product[] = [
     price: 305.0,
     qty: 2,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-power-3a-wood.webp",
     shortDescription: "Power supply for equipment operation. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Correct voltage output\n• Reliable operation\n• Long cable\n• Safety-certified\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -17952,7 +17952,7 @@ export const products: Product[] = [
     price: 455.0,
     qty: 26,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-vinnie-colaiuta-sig-stick.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -17964,7 +17964,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 12,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-1a-wood-tip.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -17976,7 +17976,7 @@ export const products: Product[] = [
     price: 430.0,
     qty: 21,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-5a-nylon-tip.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -17988,7 +17988,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 91,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-5a-wood-tip.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18000,7 +18000,7 @@ export const products: Product[] = [
     price: 430.0,
     qty: 163,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-5b-nylon-tip.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18012,7 +18012,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 69,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-5b-wood-tip.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. Ideal for Namibian musicians seeking reliable performance.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18024,7 +18024,7 @@ export const products: Product[] = [
     price: 430.0,
     qty: 44,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-7a-nylon-tip.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18036,7 +18036,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 214,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-7a-wood-tip.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -18048,7 +18048,7 @@ export const products: Product[] = [
     price: 395.0,
     qty: 18,
     skillLevel: "Beginner",
-    image: "/products/drums/vic-firth-sticks.webp",
+    image: "/products/accessories/vater-fusion-wood-tip.webp",
     shortDescription: "Quality accessory for musicians and audio professionals. Vater drumsticks are crafted for balance, durability, and feel. Perfect for beginners and students starting their musical journey. Perfect for Namibian school music programs and church ensembles.\n\nKey Features:\n• Quality construction\n• Reliable performance\n• Essential for musicians\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
