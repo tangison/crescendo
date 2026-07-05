@@ -19128,7 +19128,7 @@ export const products: Product[] = [
     price: 145.0,
     qty: 170,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-instrument-cable-3m-jack-to-jack.webp",
     shortDescription: "Premium cable with reliable signal transmission. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19140,7 +19140,7 @@ export const products: Product[] = [
     price: 245.0,
     qty: 378,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/accessories/warwick-instrument-j-j-cable-6m.webp",
     shortDescription: "Premium cable with reliable signal transmission. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality connectors\n• Shielded for noise reduction\n• Flexible jacket\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19188,7 +19188,7 @@ export const products: Product[] = [
     price: 175.0,
     qty: 200,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/pro-audio/warwick-xlr--xlr-microphone-cable-3m.webp",
     shortDescription: "XLR or instrument cable with reliable signal transmission. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Available in Windhoek with nationwide delivery across Namibia.\n\nKey Features:\n• Quality connectors for reliable signal\n• Shielded to reduce noise\n• Flexible jacket resists kinking\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19200,7 +19200,7 @@ export const products: Product[] = [
     price: 225.0,
     qty: 710,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/pro-audio/warwick-xlr-xlr-microphone-cable-6m.webp",
     shortDescription: "XLR or instrument cable with reliable signal transmission. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. A great fit for the growing Namibian music scene.\n\nKey Features:\n• Quality connectors for reliable signal\n• Shielded to reduce noise\n• Flexible jacket resists kinking\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
@@ -19212,7 +19212,7 @@ export const products: Product[] = [
     price: 305.0,
     qty: 440,
     skillLevel: "Beginner",
-    image: "/products/accessories/hartke-hd15-amp.webp",
+    image: "/products/pro-audio/warwick-xlr-xlr-microphone-cable-9m.webp",
     shortDescription: "XLR or instrument cable with reliable signal transmission. Warwick delivers premium bass gear with German engineering. Perfect for beginners and students starting their musical journey. Trusted by Namibian musicians and music educators.\n\nKey Features:\n• Quality connectors for reliable signal\n• Shielded to reduce noise\n• Flexible jacket resists kinking\n• Various lengths available\n\nIdeal For: beginner players seeking reliable performance.",
   },
   {
