@@ -82,13 +82,13 @@ export default function ComingSoonPage() {
       {/* Small admin icon — fixed to the right side of the screen */}
       <button
         onClick={() => setLoginOpen(true)}
-        className="fixed right-4 top-1/2 -translate-y-1/2 size-10 flex items-center justify-center rounded-full hover:bg-accent transition-colors group"
+        className="fixed right-4 top-1/2 -translate-y-1/2 z-50 size-10 flex items-center justify-center rounded-full hover:bg-accent transition-colors group cursor-pointer"
         aria-label="Site Admin"
         title="Site Admin"
       >
         <CustomIcon
           name="shield"
-          className="size-4 text-muted-foreground group-hover:text-foreground transition-colors"
+          className="size-5 text-muted-foreground/50 group-hover:text-foreground transition-colors"
           alt=""
         />
       </button>

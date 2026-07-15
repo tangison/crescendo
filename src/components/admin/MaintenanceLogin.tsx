@@ -39,7 +39,7 @@ export function MaintenanceLogin({ open, onOpenChange }: MaintenanceLoginProps) 
 
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
-      <DialogContent className="sm:max-w-[360px] rounded-full p-0 overflow-hidden">
+      <DialogContent className="sm:max-w-[360px]">
         <DialogHeader className="p-6 pb-2">
           <DialogTitle className="text-center text-lg font-bold tracking-tight">
             Site Admin
