@@ -1,18 +1,18 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState, lazy, Suspense } from 'react';
 import { usePathname, useRouter } from 'next/navigation';
-import { Header } from '@/components/shared/Header';
-import { Footer } from '@/components/shared/Footer';
+
+// Lazy-load Header/Footer so they don't break SSR of /coming-soon
+const Header = lazy(() => import('@/components/shared/Header').then(m => ({ default: m.Header })));
+const Footer = lazy(() => import('@/components/shared/Footer').then(m => ({ default: m.Footer })));
 
 /**
  * MaintenanceGate — handles maintenance redirect AND site chrome.
  *
- * - On /coming-soon: renders children immediately (no loading state, no Header/Footer)
+ * - On /coming-soon: renders children immediately (no Header/Footer, no loading)
  * - On other pages: if authed, renders Header + children + Footer
  * - On other pages: if NOT authed, redirects to /coming-soon
- *
- * Key: /coming-soon is rendered server-side with no gate delay.
  */
 export function MaintenanceGate({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();
@@ -20,7 +20,6 @@ export function MaintenanceGate({ children }: { children: React.ReactNode }) {
   const [checked, setChecked] = useState(false);
 
   useEffect(() => {
-    // Only check auth on non-coming-soon pages
     if (pathname !== '/coming-soon') {
       const isAuthed = localStorage.getItem('crescendo-auth') === 'true';
       if (!isAuthed) {
@@ -31,7 +30,7 @@ export function MaintenanceGate({ children }: { children: React.ReactNode }) {
     setChecked(true);
   }, [pathname, router]);
 
-  // On coming-soon page, render immediately — no loading state, no chrome
+  // On coming-soon page, render immediately — no chrome, no loading
   if (pathname === '/coming-soon') {
     return <>{children}</>;
   }
@@ -45,12 +44,16 @@ export function MaintenanceGate({ children }: { children: React.ReactNode }) {
     );
   }
 
-  // Authed — render full site
+  // Authed — render full site with lazy-loaded Header/Footer
   return (
     <div className="min-h-screen flex flex-col">
-      <Header />
+      <Suspense fallback={null}>
+        <Header />
+      </Suspense>
       <main className="flex-1">{children}</main>
-      <Footer />
+      <Suspense fallback={null}>
+        <Footer />
+      </Suspense>
     </div>
   );
 }
