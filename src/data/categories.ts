@@ -9,11 +9,11 @@ export interface Category {
 
 export const categories: Category[] = [
   {
-    slug: "accessories",
-    name: "Accessories",
-    description: "Essential gear and add-ons for every musician - from cables and stands to cases and maintenance tools.",
-    productCount: 630,
-    image: "/products/accessories/mic-stand.webp",
+    slug: "strings",
+    name: "Strings & Guitars",
+    description: "Guitars, ukuleles, violins, violas, cellos, and accessories for string players of all kinds.",
+    productCount: 443,
+    image: "/products/guitars/cort-ad810-acoustic.webp",
   },
   {
     slug: "wind",
@@ -21,20 +21,6 @@ export const categories: Category[] = [
     description: "Brass and woodwind instruments - trumpets, saxophones, clarinets, flutes, and more.",
     productCount: 282,
     image: "/products/wind/sonata-flute-silver.webp",
-  },
-  {
-    slug: "guitars",
-    name: "Guitars and Ukuleles",
-    description: "Electric, acoustic, classical, and bass guitars from trusted brands, plus amplifiers and effects.",
-    productCount: 281,
-    image: "/products/guitars/cort-ad810-acoustic.webp",
-  },
-  {
-    slug: "strings",
-    name: "Strings",
-    description: "Violins, violas, cellos, and accessories for classical and contemporary string players.",
-    productCount: 162,
-    image: "/products/strings/category-tile-violin.webp",
   },
   {
     slug: "drums",
@@ -56,5 +42,12 @@ export const categories: Category[] = [
     description: "Digital pianos, arrangers, synths, and MIDI controllers for beginners to professionals.",
     productCount: 50,
     image: "/products/keyboards/roland-ex20.webp",
+  },
+  {
+    slug: "accessories",
+    name: "Accessories",
+    description: "Essential gear and add-ons for every musician - from cables and stands to cases and maintenance tools.",
+    productCount: 630,
+    image: "/products/accessories/mic-stand.webp",
   },
 ];

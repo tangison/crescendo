@@ -40,20 +40,20 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
 
             {/* Sale badge */}
             {isOnSale && (
-              <span className="absolute top-2 left-2 inline-flex items-center px-2 py-0.5 bg-red-600 text-white text-[10px] font-bold rounded-xl">
+              <span className="absolute top-2 left-2 inline-flex items-center px-2 py-0.5 bg-red-600 text-white text-[10px] font-bold rounded-full">
                 Sale
               </span>
             )}
             {/* New badge */}
             {isNew && !isOnSale && (
-              <span className="absolute top-2 left-2 inline-flex items-center px-2 py-0.5 bg-primary text-primary-foreground text-[10px] font-bold rounded-xl">
+              <span className="absolute top-2 left-2 inline-flex items-center px-2 py-0.5 bg-primary text-primary-foreground text-[10px] font-bold rounded-full">
                 New
               </span>
             )}
             {/* Out of stock overlay */}
             {stockStatus.label === 'Out of Stock' && (
               <div className="absolute inset-0 bg-background/70 flex items-center justify-center">
-                <span className="px-3 py-1 bg-destructive text-white text-xs font-semibold rounded-xl">
+                <span className="px-3 py-1 bg-destructive text-white text-xs font-semibold rounded-full">
                   Out of Stock
                 </span>
               </div>
@@ -83,12 +83,12 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
             )}
           </div>
 
-          {/* WhatsApp CTA - low-profile rounded-xl */}
+          {/* WhatsApp CTA - low-profile rounded-full */}
           <a
             href={whatsappUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="mt-2 sm:mt-3 w-full flex items-center justify-center gap-2 h-9 bg-[#25D366] hover:bg-[#20BD5A] text-white text-xs sm:text-sm font-medium transition-colors rounded-xl"
+            className="mt-2 sm:mt-3 w-full flex items-center justify-center gap-2 h-9 bg-[#25D366] hover:bg-[#20BD5A] text-white text-xs sm:text-sm font-medium transition-colors rounded-full"
           >
             <CustomIcon name="message-circle" tone="mono-light" className="size-3.5 sm:size-4" alt="" />
             Enquire

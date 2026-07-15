@@ -43,7 +43,7 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
           <button
             onClick={() => onOpenChange(false)}
             aria-label="Close menu"
-            className="size-9 flex items-center justify-center rounded-xl hover:bg-white/10 transition-colors"
+            className="size-9 flex items-center justify-center rounded-full hover:bg-white/10 transition-colors"
           >
             <CustomIcon name="x" tone="mono-light" className="size-5" alt="" />
           </button>
@@ -55,21 +55,21 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
           <Link
             href="/"
             onClick={() => onOpenChange(false)}
-            className="flex-1 text-center px-3 py-2.5 rounded-xl text-xs font-medium tracking-wide uppercase bg-white/5 hover:bg-white/10 transition-colors"
+            className="flex-1 text-center px-3 py-2.5 rounded-full text-xs font-medium tracking-wide uppercase bg-white/5 hover:bg-white/10 transition-colors"
           >
             Home
           </Link>
           <Link
             href="/shop"
             onClick={() => onOpenChange(false)}
-            className="flex-1 text-center px-3 py-2.5 rounded-xl text-xs font-medium tracking-wide uppercase bg-white/5 hover:bg-white/10 transition-colors"
+            className="flex-1 text-center px-3 py-2.5 rounded-full text-xs font-medium tracking-wide uppercase bg-white/5 hover:bg-white/10 transition-colors"
           >
             Shop All
           </Link>
           <Link
             href="/book-an-artist"
             onClick={() => onOpenChange(false)}
-            className="flex-1 text-center px-3 py-2.5 rounded-xl text-xs font-medium tracking-wide uppercase bg-white/5 hover:bg-white/10 transition-colors"
+            className="flex-1 text-center px-3 py-2.5 rounded-full text-xs font-medium tracking-wide uppercase bg-white/5 hover:bg-white/10 transition-colors"
           >
             Book Artist
           </Link>
@@ -122,7 +122,7 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
             href={waUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center justify-center gap-2 w-full h-12 rounded-xl bg-[#25D366] hover:bg-[#20BD5A] text-white text-sm font-semibold transition-colors"
+            className="flex items-center justify-center gap-2 w-full h-12 rounded-full bg-[#25D366] hover:bg-[#20BD5A] text-white text-sm font-semibold transition-colors"
           >
             <CustomIcon name="message-circle" tone="mono-light" className="size-4" alt="" />
             WhatsApp · {WHATSAPP_DISPLAY}
@@ -130,7 +130,7 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
           <div className="grid grid-cols-2 gap-2">
             <a
               href={`tel:+${WHATSAPP_DISPLAY.replace(/\D/g, '')}`}
-              className="flex items-center justify-center gap-2 h-11 rounded-xl bg-white/5 hover:bg-white/10 text-white text-xs font-medium transition-colors"
+              className="flex items-center justify-center gap-2 h-11 rounded-full bg-white/5 hover:bg-white/10 text-white text-xs font-medium transition-colors"
             >
               <CustomIcon name="phone" tone="mono-light" className="size-4" alt="" />
               Call Us
@@ -138,7 +138,7 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
             <Link
               href="/book-an-artist"
               onClick={() => onOpenChange(false)}
-              className="flex items-center justify-center gap-2 h-11 rounded-xl bg-white/5 hover:bg-white/10 text-white text-xs font-medium transition-colors"
+              className="flex items-center justify-center gap-2 h-11 rounded-full bg-white/5 hover:bg-white/10 text-white text-xs font-medium transition-colors"
             >
               <CustomIcon name="music" tone="mono-light" className="size-4" alt="" />
               Book Artist

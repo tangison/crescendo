@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import { Header } from "@/components/shared/Header";
-import { Footer } from "@/components/shared/Footer";
+import { SiteChrome } from "@/components/shared/SiteChrome";
+import { MaintenanceGate } from "@/components/admin/MaintenanceGate";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -241,11 +241,9 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-background text-foreground`}
       >
-        <div className="min-h-screen flex flex-col">
-          <Header />
-          <main className="flex-1">{children}</main>
-          <Footer />
-        </div>
+        <MaintenanceGate>
+          <SiteChrome>{children}</SiteChrome>
+        </MaintenanceGate>
       </body>
     </html>
   );
