@@ -2,35 +2,39 @@
 
 import { useEffect, useState } from 'react';
 import { usePathname, useRouter } from 'next/navigation';
+import { Header } from '@/components/shared/Header';
+import { Footer } from '@/components/shared/Footer';
 
 /**
- * MaintenanceGate — client-side gate that redirects unauthenticated visitors
- * to /coming-soon. Auth is stored in localStorage.
+ * MaintenanceGate — handles BOTH maintenance redirect AND site chrome rendering.
  *
- * On /coming-soon, the gate renders children directly (so the page shows without
- * the site chrome — Header/Footer are still in the DOM but the coming-soon page
- * is full-screen and covers them).
- *
- * On other pages, if not authed, redirect to /coming-soon.
+ * - On /coming-soon: renders children only (no Header/Footer)
+ * - On other pages: if authed, renders Header + children + Footer
+ * - On other pages: if NOT authed, redirects to /coming-soon
+ * - Shows a loading spinner during the initial auth check
  */
 export function MaintenanceGate({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();
   const router = useRouter();
-  const [checked, setChecked] = useState(false);
+  const [authState, setAuthState] = useState<'checking' | 'authed' | 'unauthed'>('checking');
 
   useEffect(() => {
-    const isAuthed = localStorage.getItem('crescendo-auth') === 'true';
     const isComingSoon = pathname === '/coming-soon';
-
-    if (!isAuthed && !isComingSoon) {
-      router.replace('/coming-soon');
+    if (isComingSoon) {
+      setAuthState('authed'); // always allow coming-soon page
       return;
     }
-    setChecked(true);
+    const isAuthed = localStorage.getItem('crescendo-auth') === 'true';
+    if (isAuthed) {
+      setAuthState('authed');
+    } else {
+      setAuthState('unauthed');
+      router.replace('/coming-soon');
+    }
   }, [pathname, router]);
 
-  // Show nothing during the check to prevent content flash
-  if (!checked) {
+  // Loading state during auth check
+  if (authState === 'checking') {
     return (
       <div className="min-h-screen flex items-center justify-center bg-background">
         <div className="size-8 border-2 border-brand-accent border-t-transparent rounded-full animate-spin" />
@@ -38,11 +42,17 @@ export function MaintenanceGate({ children }: { children: React.ReactNode }) {
     );
   }
 
-  // On coming-soon page, render children directly (no Header/Footer wrapper)
-  // The coming-soon page is full-screen and covers everything
-  if (pathname === '/coming-soon') {
+  // On coming-soon page OR unauthed (about to redirect), render children only
+  if (pathname === '/coming-soon' || authState === 'unauthed') {
     return <>{children}</>;
   }
 
-  return <>{children}</>;
+  // Authed — render full site with Header/Footer
+  return (
+    <div className="min-h-screen flex flex-col">
+      <Header />
+      <main className="flex-1">{children}</main>
+      <Footer />
+    </div>
+  );
 }

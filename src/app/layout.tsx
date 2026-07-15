@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import { SiteChrome } from "@/components/shared/SiteChrome";
 import { MaintenanceGate } from "@/components/admin/MaintenanceGate";
 import "./globals.css";
 
@@ -242,7 +241,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-background text-foreground`}
       >
         <MaintenanceGate>
-          <SiteChrome>{children}</SiteChrome>
+          {children}
         </MaintenanceGate>
       </body>
     </html>
