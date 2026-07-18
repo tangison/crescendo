@@ -4,14 +4,14 @@ import { FeaturedProducts } from '@/components/home/FeaturedProducts';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "Crescendo Namibia: Your Music, Our Passion",
+  title: "Crescendo Namibia — Strive for Excellence",
   description:
-    "Namibia's premier music store in Windhoek. Over 1640 instruments, pro audio, and accessories. Shop guitars, keyboards, drums, and more since 2009. Book artists and music lessons.",
+    "A one-stop retail and entertainment store — providing a wide range of musical instruments, PA systems, stages, lights, audiovisual, and studio solutions. Since 2019.",
   alternates: {
     canonical: "https://www.crescendona.com",
   },
   keywords: [
-    "Crescendo Namibia",
+    "Crescendo Namibia", "Strive for Excellence",
     "music store Namibia",
     "instruments Windhoek",
     "music shop Namibia",
@@ -19,9 +19,9 @@ export const metadata: Metadata = {
     "guitars keyboards drums Namibia",
   ],
   openGraph: {
-    title: "Crescendo Namibia: Your Music, Our Passion",
+    title: "Crescendo Namibia — Strive for Excellence",
     description:
-      "Namibia's premier music store. Over 1640 instruments, pro audio, and accessories since 2009.",
+      "A one-stop retail and entertainment store — musical instruments, PA systems, stages, lights, audiovisual, and studio solutions. Since 2019.",
     url: "https://www.crescendona.com",
     type: "website",
     images: [
@@ -35,8 +35,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Crescendo Namibia: Your Music, Our Passion",
-    description: "Namibia's premier music store. Over 1640 instruments, pro audio, and accessories since 2009.",
+    title: "Crescendo Namibia — Strive for Excellence",
+    description: "A one-stop retail and entertainment store — musical instruments, PA systems, stages, lights, audiovisual, and studio solutions. Since 2019.",
     images: ["/hero/og.webp"],
   },
 };

@@ -34,7 +34,7 @@ export function BookAnArtistPage() {
               transition={{ duration: 0.8, ease: 'easeOut' }}
             >
               <p className="text-brand-accent text-xs sm:text-sm font-semibold tracking-[0.3em] uppercase mb-3">
-                Live Music & Lessons
+                Live Music & Events
               </p>
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black text-white tracking-tight leading-[0.95]">
                 Book an
@@ -42,7 +42,7 @@ export function BookAnArtistPage() {
                 <span className="text-brand-accent">Artist</span>
               </h1>
               <p className="mt-4 text-lg sm:text-xl text-white/70 max-w-lg leading-relaxed">
-                Live music for your events. Professional musicians for lessons.
+                Live music for your events. Professional musicians for any occasion.
               </p>
             </motion.div>
           </div>
@@ -79,7 +79,7 @@ export function BookAnArtistPage() {
                 icon: 'users' as IconName,
                 step: '02',
                 title: 'Connect',
-                description: 'Reach out via WhatsApp to discuss your event or lesson requirements.',
+                description: 'Reach out via WhatsApp to discuss your event requirements.',
               },
               {
                 icon: 'mic' as IconName,

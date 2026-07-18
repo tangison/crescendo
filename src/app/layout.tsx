@@ -28,6 +28,7 @@ export const metadata: Metadata = {
     "Namibia's premier music store in Windhoek. Shop guitars, keyboards, drums, pro audio, wind instruments & accessories. Expert advice for every musician.",
   keywords: [
     "Crescendo Namibia",
+    "Strive for Excellence",
     "music store Namibia",
     "instruments Windhoek",
     "guitars Namibia",
@@ -57,7 +58,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Crescendo Namibia: Your Music, Our Passion",
     description:
-      "Namibia's premier music store in Windhoek. Instruments, pro audio, accessories, and expert advice for every musician.",
+      "A one-stop retail and entertainment store — musical instruments, PA systems, stages, lights, audiovisual, and studio solutions. Since 2019.",
     siteName: "Crescendo Namibia",
     type: "website",
     url: "https://www.crescendona.com",
@@ -118,7 +119,7 @@ export default function RootLayout({
               logo: "https://www.crescendona.com/branding/crescendo-logo.webp",
               image: "https://www.crescendona.com/hero/og.webp",
               description:
-                "Namibia's premier music store in Windhoek. Instruments, pro audio, accessories, and expert advice for every musician since 2009.",
+                "A one-stop retail and entertainment store — providing a wide range of musical instruments, PA systems, stages, lights, audiovisual, and studio solutions. Since 2019.",
               slogan: "Your Music, Our Passion",
               foundingDate: "2009",
               currenciesAccepted: "NAD, USD",
@@ -148,12 +149,7 @@ export default function RootLayout({
                   opens: "08:30",
                   closes: "17:00",
                 },
-                {
-                  "@type": "OpeningHoursSpecification",
-                  dayOfWeek: "Saturday",
-                  opens: "09:00",
-                  closes: "13:00",
-                },
+                
               ],
               priceRange: "N$50 - N$50,000",
               sameAs: [],
@@ -197,7 +193,7 @@ export default function RootLayout({
                   name: "Where is Crescendo Namibia located?",
                   acceptedAnswer: {
                     "@type": "Answer",
-                    text: "Crescendo Namibia is located in Windhoek, Namibia. We are Namibia's premier music store, serving musicians since 2009. Contact us on +264 81 462 3936 for directions and store hours.",
+                    text: "Crescendo Namibia is located in Windhoek, Namibia. We are Namibia's premier music store, serving musicians since 2019. Contact us on +264 81 462 3936 for directions and store hours.",
                   },
                 },
                 {
@@ -218,10 +214,10 @@ export default function RootLayout({
                 },
                 {
                   "@type": "Question",
-                  name: "Can I book a music lesson or artist through Crescendo?",
+                  name: "Can I book an artist through Crescendo?",
                   acceptedAnswer: {
                     "@type": "Answer",
-                    text: "Yes, we offer artist booking services for events, live performances, and music lessons. Visit our Book an Artist page or contact us on +264 81 462 3936 to discuss your requirements.",
+                    text: "Yes, we offer artist booking services for events and live performances. Visit our Book an Artist page or contact us on +264 81 462 3936 to discuss your requirements.",
                   },
                 },
                 {

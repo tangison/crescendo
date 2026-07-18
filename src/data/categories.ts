@@ -1,4 +1,4 @@
-// Auto-generated from crescendo-products-clean.csv
+// Crescendo Namibia — Category definitions
 export interface Category {
   slug: string;
   name: string;
@@ -17,16 +17,16 @@ export const categories: Category[] = [
   },
   {
     slug: "wind",
-    name: "Wind and Brass",
+    name: "Wind & Brass",
     description: "Brass and woodwind instruments - trumpets, saxophones, clarinets, flutes, and more.",
     productCount: 282,
-    image: "/products/wind/sonata-flute-silver.webp",
+    image: "/products/wind/yanagisawa-wo1-sax.webp",
   },
   {
     slug: "drums",
-    name: "Drums and Percussion",
+    name: "Drums & Percussion",
     description: "Acoustic kits, electronic drums, percussion, and all the heads, sticks, and hardware you need.",
-    productCount: 156,
+    productCount: 360,
     image: "/products/drums/roland-td17kv2.webp",
   },
   {
@@ -38,7 +38,7 @@ export const categories: Category[] = [
   },
   {
     slug: "keyboards",
-    name: "Keyboards",
+    name: "Keyboards & Pianos",
     description: "Digital pianos, arrangers, synths, and MIDI controllers for beginners to professionals.",
     productCount: 50,
     image: "/products/keyboards/roland-ex20.webp",
@@ -47,7 +47,7 @@ export const categories: Category[] = [
     slug: "accessories",
     name: "Accessories",
     description: "Essential gear and add-ons for every musician - from cables and stands to cases and maintenance tools.",
-    productCount: 630,
+    productCount: 426,
     image: "/products/accessories/mic-stand.webp",
   },
 ];

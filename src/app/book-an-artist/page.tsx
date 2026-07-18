@@ -2,9 +2,9 @@ import { BookAnArtistPage } from './BookAnArtistClient';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Book an Artist: Live Music and Lessons in Windhoek',
+  title: 'Book an Artist: Live Music for Your Events in Windhoek',
   description:
-    'Book professional musicians for live events or music lessons in Windhoek, Namibia. Live music for weddings, corporate events, and private functions. Experienced artists available.',
+    'Book professional musicians for live events in Windhoek, Namibia. Live music for weddings, corporate events, and private functions. Experienced artists available.',
   alternates: {
     canonical: 'https://www.crescendona.com/book-an-artist',
   },
@@ -12,14 +12,13 @@ export const metadata: Metadata = {
     'book musician Namibia',
     'live music Windhoek',
     'wedding music Namibia',
-    'music lessons Windhoek',
     'corporate event music',
     'Crescendo artists',
   ],
   openGraph: {
     title: 'Book an Artist | Crescendo Namibia',
     description:
-      'Live music for your events. Professional musicians for lessons. Book through Crescendo Namibia.',
+      'Live music for your events. Professional musicians for your events. Book through Crescendo Namibia.',
     url: 'https://www.crescendona.com/book-an-artist',
     type: 'website',
     images: [
@@ -32,7 +31,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Book an Artist | Crescendo Namibia',
-    description: 'Live music for your events. Professional musicians for lessons.',
+    description: 'Live music for your events. Professional musicians for your events.',
     images: ['/products/book-an-artist/book-an-artist-hero.webp'],
   },
 };
@@ -40,8 +39,8 @@ export const metadata: Metadata = {
 const serviceLd = {
   '@context': 'https://schema.org',
   '@type': 'Service',
-  name: 'Book an Artist: Live Music and Lessons',
-  serviceType: 'Live Music Performance & Music Lessons',
+  name: 'Book an Artist: Live Music for Your Events',
+  serviceType: 'Live Music Performance',
   provider: {
     '@type': 'Organization',
     name: 'Crescendo Namibia',
@@ -53,7 +52,7 @@ const serviceLd = {
     name: 'Namibia',
   },
   description:
-    'Book professional musicians for live events (weddings, corporate, private) or music lessons in Windhoek and across Namibia.',
+    'Book professional musicians for live events (weddings, corporate, private)  in Windhoek and across Namibia.',
   offers: {
     '@type': 'Offer',
     availability: 'https://schema.org/InStock',

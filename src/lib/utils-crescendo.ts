@@ -6,7 +6,20 @@ export function formatPrice(price: number): string {
 
 export const WHATSAPP_PHONE = '264814623936'; // +264 81 462 3936
 export const WHATSAPP_DISPLAY = '+264 81 462 3936';
-export const CONTACT_EMAIL = 'info@crescendona.com';
+export const CONTACT_EMAIL = 'hello@crescendona.com';
+export const BUSINESS_NAME = 'Crescendo Namibia';
+export const BUSINESS_TAGLINE = 'Strive for Excellence';
+export const BUSINESS_SINCE = '2019';
+export const BUSINESS_ADDRESS = 'Shop 19, Old Power Station, Southern Industrial, Windhoek, Namibia';
+export const BUSINESS_HOURS = '9am–5pm Weekdays; Saturday Closed';
+export const GOOGLE_MAPS_URL = 'https://www.google.com/maps/place/Old+Power+Station+Shopping+Centre/data=!4m2!3m1!1s0x1c0b1b237bd52cdb:0xdcaa6e3eee81bed5!18m1!1e1';
+
+export const SOCIAL_LINKS = {
+  facebook: 'https://facebook.com/crescendoicc',
+  instagram: 'https://www.instagram.com/crescendo_nam',
+  tiktok: 'https://www.tiktok.com/@crescendonamibia',
+  youtube: 'https://www.youtube.com/@crescendon',
+};
 
 export function getWhatsAppUrl(message: string): string {
   const encoded = encodeURIComponent(message);
@@ -35,11 +48,11 @@ export function getCategoryName(slug: string): string {
   const map: Record<string, string> = {
     accessories: 'Accessories',
     wind: 'Wind & Brass',
-    guitars: 'Guitars & Ukuleles',
-    strings: 'Strings',
+    guitars: 'Strings & Guitars',
+    strings: 'Strings & Guitars',
     drums: 'Drums & Percussion',
     'pro-audio': 'Pro Audio',
-    keyboards: 'Keyboards',
+    keyboards: 'Keyboards & Pianos',
   };
   return map[slug] || slug;
 }
