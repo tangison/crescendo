@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!category) return { title: 'Category Not Found' };
 
   const catProducts = products.filter((p) => p.category === slug);
-  const title = `${category.name} — ${catProducts.length} Products | Crescendo Namibia`;
+  const title = `${category.name} : ${catProducts.length} Products | Crescendo Namibia`;
   const description = `Shop ${category.name.toLowerCase()} at Crescendo Namibia. ${category.description}`;
 
   return {
@@ -79,7 +79,7 @@ export default async function CategoryPage({ params }: PageProps) {
         </nav>
       </div>
 
-      {/* Category banner — minimal */}
+      {/* Category banner : minimal */}
       <section className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 mt-4 mb-8">
         <div className="relative overflow-hidden aspect-[21/9] sm:aspect-[3/1] rounded-2xl">
           <Image
