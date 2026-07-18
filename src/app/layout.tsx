@@ -21,7 +21,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Crescendo Namibia: Your Music, Our Passion",
+    default: "Crescendo Namibia — Strive for Excellence",
     template: "%s | Crescendo Namibia",
   },
   description:
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   openGraph: {
-    title: "Crescendo Namibia: Your Music, Our Passion",
+    title: "Crescendo Namibia — Strive for Excellence",
     description:
       "A one-stop retail and entertainment store — musical instruments, PA systems, stages, lights, audiovisual, and studio solutions. Since 2019.",
     siteName: "Crescendo Namibia",
@@ -74,9 +74,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Crescendo Namibia: Your Music, Our Passion",
+    title: "Crescendo Namibia — Strive for Excellence",
     description:
-      "Namibia's premier music store in Windhoek. Your Music, Our Passion.",
+      "A one-stop retail and entertainment store. Strive for Excellence. Since 2019.",
     images: ["/hero/og.webp"],
   },
   robots: {
@@ -120,8 +120,8 @@ export default function RootLayout({
               image: "https://www.crescendona.com/hero/og.webp",
               description:
                 "A one-stop retail and entertainment store — providing a wide range of musical instruments, PA systems, stages, lights, audiovisual, and studio solutions. Since 2019.",
-              slogan: "Your Music, Our Passion",
-              foundingDate: "2009",
+              slogan: "Strive for Excellence",
+              foundingDate: "2019",
               currenciesAccepted: "NAD, USD",
               paymentAccepted: "Cash, Credit Card, Debit Card, EFT",
               address: {
