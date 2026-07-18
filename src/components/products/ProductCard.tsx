@@ -15,8 +15,6 @@ interface ProductCardProps {
 export function ProductCard({ product, index = 0 }: ProductCardProps) {
   const stockStatus = getStockStatus(product.qty);
   const whatsappUrl = getWhatsAppUrl(getProductWhatsAppMessage(product));
-  const isNew = false; // Could be set based on createdAt field
-  const isOnSale = false; // Could be set based on discount field
 
   return (
     <motion.div
@@ -37,19 +35,6 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
               className="img-product transition-transform duration-500 group-hover:scale-105 p-3"
               sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
             />
-
-            {/* Sale badge */}
-            {isOnSale && (
-              <span className="absolute top-2 left-2 inline-flex items-center px-2 py-0.5 bg-red-600 text-white text-[10px] font-bold rounded-full">
-                Sale
-              </span>
-            )}
-            {/* New badge */}
-            {isNew && !isOnSale && (
-              <span className="absolute top-2 left-2 inline-flex items-center px-2 py-0.5 bg-primary text-primary-foreground text-[10px] font-bold rounded-full">
-                New
-              </span>
-            )}
             {/* Out of stock overlay */}
             {stockStatus.label === 'Out of Stock' && (
               <div className="absolute inset-0 bg-background/70 flex items-center justify-center">
@@ -76,14 +61,9 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
             <p className="text-base sm:text-lg font-mono font-bold text-brand-accent">
               {formatPrice(product.price)}
             </p>
-            {stockStatus.label !== 'Out of Stock' && (
-              <span className="text-[10px] text-muted-foreground">
-                {product.qty} in stock
-              </span>
-            )}
           </div>
 
-          {/* WhatsApp CTA - low-profile rounded-full */}
+          {/* WhatsApp Enquire button */}
           <a
             href={whatsappUrl}
             target="_blank"

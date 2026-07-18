@@ -79,18 +79,10 @@ const faqLd = {
     },
     {
       '@type': 'Question',
-      name: 'Do you offer music lessons?',
+      name: 'How do I book an artist?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Yes. Crescendo Namibia has taught over 500 students since 2009. We offer lessons in guitar, piano, drums, vocals, strings, wind instruments, and music theory from beginner to professional level.',
-      },
-    },
-    {
-      '@type': 'Question',
-      name: 'How do I book an artist or lesson?',
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: 'Simply message us on WhatsApp at +264 81 462 3936 with your event details or lesson interests. Our team will match you with the right artist and provide a quote.',
+        text: 'Simply message us on WhatsApp at +264 81 462 3936 with your event details. Our team will match you with the right artist and provide a quote.',
       },
     },
     {

@@ -4,8 +4,6 @@ import Image from 'next/image';
 import type { Metadata } from 'next';
 import { products } from '@/data/products';
 import { categories } from '@/data/categories';
-import { formatPrice, getCategoryName } from '@/lib/utils-crescendo';
-import { CategoryLandingClient } from './CategoryLandingClient';
 import { CustomIcon } from '@/components/ui/custom-icon';
 
 interface PageProps {
@@ -24,20 +22,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!category) return { title: 'Category Not Found' };
 
   const catProducts = products.filter((p) => p.category === slug);
-  const title = `${category.name}: ${catProducts.length}+ Products at Crescendo Namibia`;
-  const description = `Shop ${category.name.toLowerCase()} at Crescendo Namibia. ${category.description} ${catProducts.length}+ products from top brands. Expert advice, Namibia-wide shipping since 2009.`;
+  const title = `${category.name} — ${catProducts.length} Products | Crescendo Namibia`;
+  const description = `Shop ${category.name.toLowerCase()} at Crescendo Namibia. ${category.description}`;
 
   return {
     title,
     description,
     alternates: { canonical: `${BASE_URL}/category/${slug}` },
-    keywords: [
-      category.name,
-      `buy ${category.name.toLowerCase()} Namibia`,
-      `${category.name} Windhoek`,
-      'Crescendo Namibia',
-      'music store Namibia',
-    ],
+    keywords: [category.name, `buy ${category.name.toLowerCase()} Namibia`, 'Crescendo Namibia'],
     openGraph: {
       title,
       description,
@@ -61,44 +53,6 @@ export default async function CategoryPage({ params }: PageProps) {
 
   const catProducts = products.filter((p) => p.category === slug);
 
-  // Compute stats
-  const brandCounts: Record<string, number> = {};
-  let minPrice = Infinity;
-  let maxPrice = 0;
-  for (const p of catProducts) {
-    brandCounts[p.brand] = (brandCounts[p.brand] || 0) + 1;
-    if (p.price < minPrice) minPrice = p.price;
-    if (p.price > maxPrice) maxPrice = p.price;
-  }
-  const topBrands = Object.entries(brandCounts)
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 8)
-    .map(([name, count]) => ({ name, count }));
-
-  // Featured products: pick diverse, in-stock items
-  const featured = catProducts
-    .filter((p) => p.qty > 0)
-    .sort((a, b) => b.price - a.price)
-    .slice(0, 8);
-
-  // Popular searches: top brands as search suggestions
-  const popularSearches = topBrands.slice(0, 6).map((b) => b.name);
-
-  // JSON-LD: ItemList schema
-  const itemListLd = {
-    '@context': 'https://schema.org',
-    '@type': 'ItemList',
-    name: category.name,
-    description: category.description,
-    numberOfItems: catProducts.length,
-    itemListElement: featured.slice(0, 6).map((p, i) => ({
-      '@type': 'ListItem',
-      position: i + 1,
-      url: `${BASE_URL}/shop/${p.slug}`,
-      name: p.name,
-    })),
-  };
-
   // JSON-LD: Breadcrumb
   const breadcrumbLd = {
     '@context': 'https://schema.org',
@@ -112,123 +66,55 @@ export default async function CategoryPage({ params }: PageProps) {
 
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
 
       {/* Breadcrumb */}
       <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 pt-5">
-        <nav className="flex items-center gap-1.5 text-sm text-muted-foreground overflow-x-auto no-scrollbar">
-          <Link href="/" className="hover:text-foreground transition-colors whitespace-nowrap">Home</Link>
+        <nav className="flex items-center gap-1.5 text-sm text-muted-foreground">
+          <Link href="/" className="hover:text-foreground transition-colors">Home</Link>
           <CustomIcon name="chevron-right" className="size-3.5 flex-shrink-0" alt="" />
-          <Link href="/shop" className="hover:text-foreground transition-colors whitespace-nowrap">Shop</Link>
+          <Link href="/shop" className="hover:text-foreground transition-colors">Shop</Link>
           <CustomIcon name="chevron-right" className="size-3.5 flex-shrink-0" alt="" />
-          <span className="text-foreground font-medium whitespace-nowrap">{category.name}</span>
+          <span className="text-foreground font-medium">{category.name}</span>
         </nav>
       </div>
 
-      {/* Category Hero */}
-      <section className="relative overflow-hidden mt-4">
-        <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="relative overflow-hidden aspect-[21/9] sm:aspect-[3/1]" style={{ borderRadius: '1rem' }}>
-            <Image
-              src={category.image}
-              alt={category.name}
-              fill
-              priority
-              className="object-cover"
-              sizes="100vw"
-            />
-            <div className="absolute inset-0 bg-gradient-to-r from-black/85 via-black/50 to-black/30" />
-            <div className="absolute inset-0 flex items-center">
-              <div className="p-6 sm:p-10 lg:p-14 max-w-2xl">
-                <p className="text-brand-accent text-[11px] font-semibold tracking-[0.3em] uppercase mb-3">
-                  {catProducts.length}+ Products Available
-                </p>
-                <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black text-white tracking-tight leading-[0.95] mb-4">
-                  {category.name}
-                </h1>
-                <p className="text-sm sm:text-base text-white/80 max-w-md leading-relaxed mb-6">
-                  {category.description}
-                </p>
-                <Link
-                  href={`/shop?category=${slug}`}
-                  className="inline-flex items-center gap-2 h-11 px-6 bg-brand-accent hover:bg-brand-accent/90 text-brand-dark text-sm font-semibold transition-colors rounded-full"
-                >
-                  Browse All {category.name}
-                  <CustomIcon name="arrow-right" className="size-4" alt="" />
-                </Link>
-              </div>
+      {/* Category banner — minimal */}
+      <section className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 mt-4 mb-8">
+        <div className="relative overflow-hidden aspect-[21/9] sm:aspect-[3/1] rounded-2xl">
+          <Image
+            src={category.image}
+            alt={category.name}
+            fill
+            priority
+            className="object-cover"
+            sizes="100vw"
+          />
+          <div className="absolute inset-0 bg-gradient-to-r from-black/85 via-black/50 to-black/30" />
+          <div className="absolute inset-0 flex items-center">
+            <div className="p-6 sm:p-10 lg:p-14 max-w-2xl">
+              <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black text-white tracking-tight leading-[0.95] mb-3">
+                {category.name}
+              </h1>
+              <p className="text-sm sm:text-base text-white/80 max-w-md leading-relaxed">
+                {category.description}
+              </p>
+              <p className="text-xs text-white/50 mt-3">{catProducts.length} products available</p>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Category Stats */}
-      <section className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div className="grid grid-cols-3 gap-3 sm:gap-4">
-          <div className="p-4 sm:p-5 rounded-xl bg-card border border-border">
-            <CustomIcon name="package" className="size-5 text-brand-accent mb-2" alt="" />
-            <p className="text-2xl sm:text-3xl font-black font-mono">{catProducts.length}</p>
-            <p className="text-[11px] text-muted-foreground tracking-wide uppercase mt-0.5">Products</p>
-          </div>
-          <div className="p-4 sm:p-5 rounded-xl bg-card border border-border">
-            <CustomIcon name="tag" className="size-5 text-brand-accent mb-2" alt="" />
-            <p className="text-2xl sm:text-3xl font-black font-mono">{Object.keys(brandCounts).length}</p>
-            <p className="text-[11px] text-muted-foreground tracking-wide uppercase mt-0.5">Brands</p>
-          </div>
-          <div className="p-4 sm:p-5 rounded-xl bg-card border border-border">
-            <CustomIcon name="trending-up" className="size-5 text-brand-accent mb-2" alt="" />
-            <p className="text-sm sm:text-base font-black font-mono leading-tight">
-              {formatPrice(minPrice)} - {formatPrice(maxPrice)}
-            </p>
-            <p className="text-[11px] text-muted-foreground tracking-wide uppercase mt-0.5">Price Range</p>
-          </div>
-        </div>
+      {/* CTA to shop with filters */}
+      <section className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 pb-12">
+        <Link
+          href={`/shop?category=${slug}`}
+          className="inline-flex items-center gap-2 h-11 px-6 bg-brand-accent hover:bg-brand-accent/90 text-brand-dark text-sm font-semibold transition-colors rounded-full"
+        >
+          Browse all {catProducts.length} {category.name}
+          <CustomIcon name="arrow-right" className="size-4" alt="" />
+        </Link>
       </section>
-
-      {/* Featured Brands */}
-      {topBrands.length > 0 && (
-        <section className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 pb-8">
-          <div className="flex items-center justify-between mb-4">
-            <h2 className="text-lg sm:text-xl font-bold tracking-tight">Featured Brands</h2>
-            <Link
-              href={`/shop?category=${slug}`}
-              className="text-xs font-medium text-brand-accent hover:underline"
-            >
-              View all →
-            </Link>
-          </div>
-          <div className="flex flex-wrap gap-2">
-            {topBrands.map((brand) => (
-              <Link
-                key={brand.name}
-                href={`/shop?category=${slug}&q=${encodeURIComponent(brand.name)}`}
-                className="px-4 py-2 rounded-full bg-card border border-border text-sm font-medium hover:border-brand-accent hover:text-brand-accent transition-colors"
-              >
-                {brand.name}
-                <span className="ml-2 text-xs text-muted-foreground">{brand.count}</span>
-              </Link>
-            ))}
-          </div>
-        </section>
-      )}
-
-      {/* Featured Products */}
-      {featured.length > 0 && (
-        <section className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 pb-10">
-          <div className="flex items-center justify-between mb-5">
-            <h2 className="text-lg sm:text-xl font-bold tracking-tight">Featured {category.name}</h2>
-            <Link
-              href={`/shop?category=${slug}`}
-              className="text-xs font-medium text-brand-accent hover:underline flex items-center gap-1"
-            >
-              View all {catProducts.length} products
-              <CustomIcon name="arrow-right" className="size-3" alt="" />
-            </Link>
-          </div>
-          <CategoryLandingClient products={featured} popularSearches={popularSearches} categoryName={category.name} categorySlug={slug} />
-        </section>
-      )}
     </>
   );
 }

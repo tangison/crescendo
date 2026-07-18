@@ -196,7 +196,7 @@ export function ProductGrid() {
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             placeholder="Search instruments, brands, categories..."
-            className="w-full h-12 pl-12 pr-12 rounded-xl border border-border bg-card text-sm focus:outline-none focus:ring-2 focus:ring-brand-accent focus:border-transparent transition-all"
+            className="w-full h-12 pl-12 pr-12 rounded-full border border-border bg-card text-sm focus:outline-none focus:ring-2 focus:ring-brand-accent focus:border-transparent transition-all"
             aria-label="Search products"
           />
           {searchQuery && (
@@ -386,52 +386,70 @@ export function ProductGrid() {
 
       {/* Pagination */}
       {totalPages > 1 && (
-        <div className="flex items-center justify-center gap-2 mt-8">
-          <Button
-            variant="outline"
-            size="sm"
-            onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
-            disabled={currentPage === 1}
-          >
-            <CustomIcon name="chevron-left" className="size-4" alt="" />
-            Previous
-          </Button>
+        <div className="flex flex-col items-center gap-3 mt-10 pb-6">
+          <div className="flex items-center gap-2">
+            <Button
+              variant="outline"
+              size="sm"
+              onClick={() => {
+                setCurrentPage((p) => Math.max(1, p - 1));
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+              }}
+              disabled={currentPage === 1}
+              className="rounded-full"
+            >
+              <CustomIcon name="chevron-left" className="size-4" alt="" />
+              <span className="hidden sm:inline">Previous</span>
+            </Button>
 
-          <div className="flex items-center gap-1">
-            {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
-              let page: number;
-              if (totalPages <= 5) {
-                page = i + 1;
-              } else if (currentPage <= 3) {
-                page = i + 1;
-              } else if (currentPage >= totalPages - 2) {
-                page = totalPages - 4 + i;
-              } else {
-                page = currentPage - 2 + i;
-              }
-              return (
-                <Button
-                  key={page}
-                  variant={page === currentPage ? 'default' : 'outline'}
-                  size="sm"
-                  onClick={() => setCurrentPage(page)}
-                  className="w-9 h-9 p-0"
-                >
-                  {page}
-                </Button>
-              );
-            })}
+            <div className="flex items-center gap-1">
+              {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
+                let page: number;
+                if (totalPages <= 5) {
+                  page = i + 1;
+                } else if (currentPage <= 3) {
+                  page = i + 1;
+                } else if (currentPage >= totalPages - 2) {
+                  page = totalPages - 4 + i;
+                } else {
+                  page = currentPage - 2 + i;
+                }
+                return (
+                  <Button
+                    key={page}
+                    variant={page === currentPage ? 'default' : 'outline'}
+                    size="sm"
+                    onClick={() => {
+                      setCurrentPage(page);
+                      window.scrollTo({ top: 0, behavior: 'smooth' });
+                    }}
+                    className="w-9 h-9 p-0 rounded-full"
+                  >
+                    {page}
+                  </Button>
+                );
+              })}
+            </div>
+
+            <Button
+              variant="outline"
+              size="sm"
+              onClick={() => {
+                setCurrentPage((p) => Math.min(totalPages, p + 1));
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+              }}
+              disabled={currentPage === totalPages}
+              className="rounded-full"
+            >
+              <span className="hidden sm:inline">Next</span>
+              <CustomIcon name="chevron-right" className="size-4" alt="" />
+            </Button>
           </div>
 
-          <Button
-            variant="outline"
-            size="sm"
-            onClick={() => setCurrentPage((p) => Math.min(totalPages, p + 1))}
-            disabled={currentPage === totalPages}
-          >
-            Next
-            <CustomIcon name="chevron-right" className="size-4" alt="" />
-          </Button>
+          {/* Clear page indicator */}
+          <p className="text-xs text-muted-foreground">
+            Page {currentPage} of {totalPages} · {filteredProducts.length} products
+          </p>
         </div>
       )}
     </div>

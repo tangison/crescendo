@@ -6,7 +6,7 @@ import { products } from '@/data/products';
 export const metadata: Metadata = {
   title: 'Shop Instruments, Pro Audio & Accessories in Namibia',
   description:
-    'Browse over 1640 instruments, pro audio gear, and accessories at Crescendo Namibia. Guitars, keyboards, drums, wind, strings, and more in Windhoek. Namibia-wide shipping since 2009.',
+    'Browse over 1640 instruments, pro audio gear, and accessories at Crescendo Namibia. Guitars, keyboards, drums, wind, strings, and more in Windhoek. Namibia-wide shipping since 2019.',
   alternates: {
     canonical: 'https://www.crescendona.com/shop',
   },
