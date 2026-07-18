@@ -2,9 +2,9 @@ import { BookAnArtistPage } from './BookAnArtistClient';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Book an Artist: Live Music for Your Events in Windhoek',
+  title: 'Book an Artist: Saxophonist for Events in Windhoek',
   description:
-    'Book professional musicians for live events in Windhoek, Namibia. Live music for weddings, corporate events, and private functions. Experienced artists available.',
+    'Saxophonist available for events, background music and stage performances in Windhoek, Namibia. Book via WhatsApp.',
   alternates: {
     canonical: 'https://www.crescendona.com/book-an-artist',
   },
@@ -40,7 +40,7 @@ const serviceLd = {
   '@context': 'https://schema.org',
   '@type': 'Service',
   name: 'Book an Artist: Live Music for Your Events',
-  serviceType: 'Live Music Performance',
+  serviceType: 'Saxophone Performance',
   provider: {
     '@type': 'Organization',
     name: 'Crescendo Namibia',

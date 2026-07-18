@@ -8,7 +8,7 @@ import { getWhatsAppUrl, WHATSAPP_DISPLAY, CONTACT_EMAIL } from '@/lib/utils-cre
 
 export function BookAnArtistPage() {
   const whatsappUrl = getWhatsAppUrl(
-    'Hi Crescendo! I\'d like to book an artist for an event/lesson. Could you provide more details?'
+    'Hi Crescendo! I\'d like to book an artist for an event. Could you provide more details?'
   );
 
   return (
@@ -42,7 +42,7 @@ export function BookAnArtistPage() {
                 <span className="text-brand-accent">Artist</span>
               </h1>
               <p className="mt-4 text-lg sm:text-xl text-white/70 max-w-lg leading-relaxed">
-                Live music for your events. Professional musicians for any occasion.
+                Saxophonist available for events, background music and stage performances.
               </p>
             </motion.div>
           </div>

@@ -49,10 +49,9 @@ export function getCategoryName(slug: string): string {
   const map: Record<string, string> = {
     accessories: 'Accessories',
     wind: 'Wind & Brass',
-    guitars: 'Guitars & Ukuleles',
-    strings: 'Orchestral Strings',
+    strings: 'Guitars, Ukuleles & Strings',
     drums: 'Drums & Percussion',
-    'pro-audio': 'Pro Audio',
+    'pro-audio': 'Pro Audio & PA Systems',
     keyboards: 'Keyboards & Pianos',
   };
   return map[slug] || slug;
