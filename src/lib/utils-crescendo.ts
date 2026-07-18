@@ -1,12 +1,13 @@
 import type { Product } from '@/data/products';
 
 export function formatPrice(price: number): string {
-  return `N$ ${price.toLocaleString('en-NA', { minimumFractionDigits: 0, maximumFractionDigits: 2 })}`;
+  // Always show 2 decimal places for consistency (N$ 292.60, not N$ 292.6)
+  return `N$ ${price.toLocaleString('en-NA', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`;
 }
 
 export const WHATSAPP_PHONE = '264814623936'; // +264 81 462 3936
 export const WHATSAPP_DISPLAY = '+264 81 462 3936';
-export const CONTACT_EMAIL = 'hello@crescendona.com';
+export const CONTACT_EMAIL = 'info@crescendona.com';
 export const BUSINESS_NAME = 'Crescendo Namibia';
 export const BUSINESS_TAGLINE = 'Strive for Excellence';
 export const BUSINESS_SINCE = '2019';
@@ -48,8 +49,8 @@ export function getCategoryName(slug: string): string {
   const map: Record<string, string> = {
     accessories: 'Accessories',
     wind: 'Wind & Brass',
-    guitars: 'Strings & Guitars',
-    strings: 'Strings & Guitars',
+    guitars: 'Guitars & Ukuleles',
+    strings: 'Orchestral Strings',
     drums: 'Drums & Percussion',
     'pro-audio': 'Pro Audio',
     keyboards: 'Keyboards & Pianos',
