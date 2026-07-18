@@ -69,6 +69,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/node": "26.1.1",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "convex": "^1.42.3",
