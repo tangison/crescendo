@@ -11,6 +11,8 @@ export default function ComingSoonPage() {
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
     if (username === 'tangi' && password === '12345a') {
+      // Set cookie (server-readable by middleware) + localStorage (client-side check)
+      document.cookie = 'crescendo-auth=true; path=/; max-age=86400'; // 24 hours
       localStorage.setItem('crescendo-auth', 'true');
       window.location.href = '/';
     } else {

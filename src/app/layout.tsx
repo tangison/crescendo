@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import { MaintenanceGate } from "@/components/admin/MaintenanceGate";
+import { Header } from "@/components/shared/Header";
+import { Footer } from "@/components/shared/Footer";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -21,7 +22,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Crescendo Namibia — Strive for Excellence",
+    default: "Crescendo Namibia: Strive for Excellence",
     template: "%s | Crescendo Namibia",
   },
   description:
@@ -56,9 +57,9 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   openGraph: {
-    title: "Crescendo Namibia — Strive for Excellence",
+    title: "Crescendo Namibia: Strive for Excellence",
     description:
-      "A one-stop retail and entertainment store — musical instruments, PA systems, stages, lights, audiovisual, and studio solutions. Since 2019.",
+      "A one-stop retail and entertainment store providing musical instruments, PA systems, stages, lights, audiovisual and studio solutions. Since 2019.",
     siteName: "Crescendo Namibia",
     type: "website",
     url: "https://www.crescendona.com",
@@ -74,7 +75,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Crescendo Namibia — Strive for Excellence",
+    title: "Crescendo Namibia: Strive for Excellence",
     description:
       "A one-stop retail and entertainment store. Strive for Excellence. Since 2019.",
     images: ["/hero/og.webp"],
@@ -119,7 +120,7 @@ export default function RootLayout({
               logo: "https://www.crescendona.com/branding/crescendo-logo.webp",
               image: "https://www.crescendona.com/hero/og.webp",
               description:
-                "A one-stop retail and entertainment store — providing a wide range of musical instruments, PA systems, stages, lights, audiovisual, and studio solutions. Since 2019.",
+                "A one-stop retail and entertainment store providing a wide range of musical instruments, PA systems, stages, lights, audiovisual and studio solutions. Since 2019.",
               slogan: "Strive for Excellence",
               foundingDate: "2019",
               currenciesAccepted: "NAD, USD",
@@ -151,7 +152,7 @@ export default function RootLayout({
                 },
                 
               ],
-              priceRange: "N$50 - N$50,000",
+              priceRange: "N$50 - N$100,000",
               sameAs: [],
             }),
           }}
@@ -201,7 +202,7 @@ export default function RootLayout({
                   name: "Does Crescendo Namibia ship nationwide?",
                   acceptedAnswer: {
                     "@type": "Answer",
-                    text: "Yes, we ship to all major towns and cities across Namibia including Windhoek, Swakopmund, Walvis Bay, Oshakati, Rundu, and Katima Mulilo. Shipping costs are calculated at checkout based on destination and order size.",
+                    text: "Yes, we ship to all major towns and cities across Namibia including Windhoek, Swakopmund, Walvis Bay, Oshakati, Rundu, and Katima Mulilo. Contact us on WhatsApp for delivery costs and arrangements.",
                   },
                 },
                 {
@@ -209,7 +210,7 @@ export default function RootLayout({
                   name: "What products does Crescendo Namibia sell?",
                   acceptedAnswer: {
                     "@type": "Answer",
-                    text: "We stock over 1640 products across 7 categories: guitars and ukuleles, keyboards and digital pianos, drums and percussion, pro audio equipment (microphones, PA systems, mixers), wind and brass instruments, string instruments (violins, cellos), and accessories. We also stock music books and offer artist booking services.",
+                    text: "We stock over 1640 products across 6 categories: Guitars Ukuleles and Strings, Wind and Brass, Drums and Percussion, Pro Audio and PA Systems, Keyboards and Pianos, and Accessories. We also offer artist booking services.",
                   },
                 },
                 {
@@ -225,7 +226,7 @@ export default function RootLayout({
                   name: "What payment methods does Crescendo Namibia accept?",
                   acceptedAnswer: {
                     "@type": "Answer",
-                    text: "We accept cash (NAD), credit and debit cards, and electronic funds transfer (EFT). For online orders, you can also order via WhatsApp and pay on delivery or collection.",
+                    text: "We accept cash (NAD), credit and debit cards, and electronic funds transfer (EFT). Enquiries and orders can be placed via WhatsApp.",
                   },
                 },
               ],
@@ -236,9 +237,11 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-background text-foreground`}
       >
-        <MaintenanceGate>
-          {children}
-        </MaintenanceGate>
+        <div className="min-h-screen flex flex-col">
+          <Header />
+          <main className="flex-1">{children}</main>
+          <Footer />
+        </div>
       </body>
     </html>
   );

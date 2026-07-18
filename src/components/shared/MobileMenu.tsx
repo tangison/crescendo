@@ -75,8 +75,8 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
           </Link>
         </div>
 
-        {/* Middle: Visual category cards */}
-        <div className="flex-1 overflow-y-auto px-4 py-3">
+        {/* Middle: Visual category cards — this is the ONLY scrollable area */}
+        <div className="flex-1 overflow-y-auto px-4 py-3 overscroll-contain">
           <p className="px-1 pb-3 text-[10px] font-semibold tracking-[0.25em] uppercase text-white/40">
             Browse Categories
           </p>
@@ -114,12 +114,11 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
               </motion.div>
             ))}
           </div>
+          {/* Bottom padding INSIDE the scroll container so last card is fully visible */}
+          <div className="h-6 flex-shrink-0" />
         </div>
 
-        {/* Spacer to prevent sticky CTA from covering last category */}
-        <div className="h-24 flex-shrink-0" />
-
-        {/* Bottom: CTAs */}
+        {/* Bottom: CTAs — OUTSIDE the scroll container, never moves */}
         <div className="p-4 border-t border-white/10 space-y-2 bg-black/30 safe-area-bottom">
           <a
             href={waUrl}

@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Returns & Refund Policy',
+  title: 'Returns and Refund Policy',
   description: 'Returns and refund policy for Crescendo Namibia.',
 };
 

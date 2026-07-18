@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Terms & Conditions',
+  title: 'Terms and Conditions',
   description: 'Terms and Conditions for Crescendo Namibia.',
 };
 
