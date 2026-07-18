@@ -42,6 +42,8 @@ interface CategoryGroup {
 const RECENT_KEY = 'crescendo-recent-searches';
 const DEBOUNCE_MS = 200;
 
+const POPULAR_SEARCHES = ['Roland', 'Ibanez', 'Shure', 'Yamaha', 'guitar', 'keyboard', 'drum', 'saxophone'];
+
 function getRecentSearchesFromStorage(): string[] {
   if (typeof window === 'undefined') return [];
   try {
@@ -53,12 +55,14 @@ function getRecentSearchesFromStorage(): string[] {
 
 function saveRecentSearch(query: string) {
   if (typeof window === 'undefined') return;
-  const recent = getRecentSearchesFromStorage().filter((s) => s !== query);
-  recent.unshift(query);
-  localStorage.setItem(RECENT_KEY, JSON.stringify(recent.slice(0, 6)));
+  try {
+    const recent = getRecentSearchesFromStorage().filter((s) => s !== query);
+    recent.unshift(query);
+    localStorage.setItem(RECENT_KEY, JSON.stringify(recent.slice(0, 5)));
+  } catch {
+    // ignore
+  }
 }
-
-const POPULAR_SEARCHES = ['Roland', 'Ibanez', 'Shure', 'Yamaha', 'guitar', 'keyboard', 'drum', 'microphone'];
 
 function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) => void }) {
   const router = useRouter();
@@ -74,7 +78,7 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
     setRecentSearches(getRecentSearchesFromStorage());
   }, []);
 
-  // Debounced search - 200ms
+  // Debounced search
   const handleQueryChange = useCallback((value: string) => {
     setQuery(value);
     if (debounceRef.current) clearTimeout(debounceRef.current);
@@ -90,18 +94,19 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
     return () => clearTimeout(t);
   }, []);
 
-  // Compute grouped results
+  // Compute grouped results — GLOBAL search across ALL products
   const groupedResults = useMemo<CategoryGroup[]>(() => {
     const q = debouncedQuery.toLowerCase().trim();
     if (!q) return [];
 
+    // Search across: name, brand, category, SKU (id), category display name
     const matched = products.filter(
       (p) =>
         p.name.toLowerCase().includes(q) ||
         p.brand.toLowerCase().includes(q) ||
         p.category.toLowerCase().includes(q) ||
         getCategoryName(p.category).toLowerCase().includes(q) ||
-        (p.shortDescription || '').toLowerCase().includes(q)
+        p.id.toLowerCase().includes(q)  // SKU search
     );
 
     const groups: Record<string, SearchResult[]> = {};
@@ -118,13 +123,11 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
       });
     }
 
-    // Sort groups by result count (desc), then category name
     return Object.entries(groups)
       .map(([cat, items]) => ({
         category: cat,
         categoryName: getCategoryName(cat),
         count: items.length,
-        // Sort within group by best match (name starts-with first, then includes)
         results: items
           .sort((a, b) => {
             const aName = a.name.toLowerCase();
@@ -145,22 +148,34 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
     [groupedResults]
   );
 
+  // Also find matching categories
+  const matchingCategories = useMemo(() => {
+    const q = debouncedQuery.toLowerCase().trim();
+    if (!q) return [];
+    return categories.filter(
+      (c) =>
+        c.name.toLowerCase().includes(q) ||
+        c.slug.toLowerCase().includes(q) ||
+        c.description.toLowerCase().includes(q)
+    ).slice(0, 3);
+  }, [debouncedQuery]);
+
   const handleSelect = (result: SearchResult) => {
-    saveRecentSearch(result.name);
+    saveRecentSearch(debouncedQuery);
     onOpenChange(false);
     router.push(`/shop/${result.slug}`);
   };
 
-  const handleViewAllInCategory = (cat: string) => {
-    if (query.trim()) saveRecentSearch(query.trim());
+  const handleViewAllResults = () => {
+    saveRecentSearch(debouncedQuery);
     onOpenChange(false);
-    router.push(`/shop?category=${cat}`);
+    router.push(`/shop?q=${encodeURIComponent(debouncedQuery)}`);
   };
 
-  const handleRecentClick = (search: string) => {
-    setQuery(search);
-    setDebouncedQuery(search);
-    setHasSearched(true);
+  const handleViewAllInCategory = (category: string) => {
+    saveRecentSearch(debouncedQuery);
+    onOpenChange(false);
+    router.push(`/shop?category=${category}&q=${encodeURIComponent(debouncedQuery)}`);
   };
 
   const handleClear = () => {
@@ -170,17 +185,17 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
     inputRef.current?.focus();
   };
 
-  const handleViewAllResults = () => {
-    if (query.trim()) saveRecentSearch(query.trim());
-    onOpenChange(false);
-    router.push(`/shop?q=${encodeURIComponent(query.trim())}`);
+  const handleRecentClick = (term: string) => {
+    setQuery(term);
+    setDebouncedQuery(term);
+    setHasSearched(true);
   };
 
   return (
     <>
       <DialogHeader className="sr-only">
         <DialogTitle>Search Products</DialogTitle>
-        <DialogDescription>Search for instruments, gear, and accessories by name, brand, category, or description</DialogDescription>
+        <DialogDescription>Search across the full catalogue by name, brand, category or SKU.</DialogDescription>
       </DialogHeader>
 
       {/* Search input row */}
@@ -191,14 +206,14 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
           type="text"
           value={query}
           onChange={(e) => handleQueryChange(e.target.value)}
-          placeholder="Search instruments, brands, categories…"
+          placeholder="Search all products, brands, SKUs..."
           className="flex-1 h-full bg-transparent text-base sm:text-lg outline-none placeholder:text-muted-foreground/60"
           aria-label="Search products"
         />
         {query && (
           <button
             onClick={handleClear}
-            className="size-8 flex items-center justify-center rounded-lg hover:bg-accent transition-colors"
+            className="size-11 flex items-center justify-center rounded-full hover:bg-accent transition-colors"
             aria-label="Clear search"
           >
             <CustomIcon name="x" className="size-4 text-muted-foreground" alt="" />
@@ -207,7 +222,7 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
       </div>
 
       <ScrollArea className="max-h-[60vh]">
-        {debouncedQuery.trim() && groupedResults.length > 0 ? (
+        {debouncedQuery.trim() && (groupedResults.length > 0 || matchingCategories.length > 0) ? (
           <div className="py-3">
             {/* Result count + view all */}
             <div className="px-5 pb-2 flex items-center justify-between">
@@ -223,7 +238,26 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
               </button>
             </div>
 
-            {/* Grouped results */}
+            {/* Matching categories */}
+            {matchingCategories.length > 0 && (
+              <div className="mb-2 px-5 py-2 bg-secondary/30">
+                <p className="text-[11px] font-bold tracking-[0.2em] uppercase text-foreground mb-1">Categories</p>
+                {matchingCategories.map((cat) => (
+                  <button
+                    key={cat.slug}
+                    onClick={() => {
+                      onOpenChange(false);
+                      router.push(`/category/${cat.slug}`);
+                    }}
+                    className="block w-full text-left text-sm py-1 hover:text-brand-accent transition-colors"
+                  >
+                    {cat.name} <span className="text-muted-foreground">({cat.productCount})</span>
+                  </button>
+                ))}
+              </div>
+            )}
+
+            {/* Grouped product results */}
             {groupedResults.map((group) => (
               <div key={group.category} className="mb-2">
                 <div className="px-5 py-1.5 flex items-center justify-between bg-secondary/40">
@@ -271,12 +305,48 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
             ))}
           </div>
         ) : hasSearched && debouncedQuery.trim() ? (
-          <div className="py-16 text-center px-5">
+          /* Empty state with recovery actions */
+          <div className="py-12 text-center px-5">
             <CustomIcon name="search" className="size-10 mx-auto mb-4 text-muted-foreground/30" alt="" />
-            <p className="text-base font-semibold mb-1">No products found</p>
-            <p className="text-sm text-muted-foreground">
-              No matches for &ldquo;{debouncedQuery}&rdquo;. Try a different keyword.
+            <p className="text-base font-semibold mb-1">No matching products found</p>
+            <p className="text-sm text-muted-foreground mb-6">
+              No matches for &ldquo;{debouncedQuery}&rdquo; across the full catalogue.
             </p>
+            <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
+              <button
+                onClick={handleClear}
+                className="px-5 py-2.5 rounded-full border border-border hover:bg-accent text-sm font-medium transition-colors"
+              >
+                Clear search
+              </button>
+              <button
+                onClick={() => {
+                  onOpenChange(false);
+                  router.push('/shop');
+                }}
+                className="px-5 py-2.5 rounded-full bg-primary text-primary-foreground text-sm font-medium hover:bg-primary/90 transition-colors"
+              >
+                View all products
+              </button>
+            </div>
+            {/* Suggested categories */}
+            <div className="mt-6">
+              <p className="text-xs text-muted-foreground mb-2">Browse by category:</p>
+              <div className="flex flex-wrap gap-2 justify-center">
+                {categories.slice(0, 4).map((cat) => (
+                  <button
+                    key={cat.slug}
+                    onClick={() => {
+                      onOpenChange(false);
+                      router.push(`/category/${cat.slug}`);
+                    }}
+                    className="px-3 py-1.5 rounded-full bg-secondary hover:bg-accent text-xs font-medium transition-colors"
+                  >
+                    {cat.name}
+                  </button>
+                ))}
+              </div>
+            </div>
           </div>
         ) : recentSearches.length > 0 ? (
           <div className="py-4">
@@ -302,7 +372,7 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
                   <button
                     key={term}
                     onClick={() => handleRecentClick(term)}
-                    className="px-3 py-1.5 rounded-xl bg-secondary hover:bg-accent text-xs font-medium transition-colors"
+                    className="px-3 py-1.5 rounded-full bg-secondary hover:bg-accent text-xs font-medium transition-colors"
                   >
                     {term}
                   </button>
@@ -311,40 +381,33 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
             </div>
           </div>
         ) : (
-          <div className="py-16 text-center px-5">
+          <div className="py-12 text-center px-5">
             <CustomIcon name="search" className="size-10 mx-auto mb-4 text-muted-foreground/30" alt="" />
-            <p className="text-base font-semibold mb-1">Search our catalog</p>
-            <p className="text-sm text-muted-foreground">
-              Find instruments, gear, and accessories by name, brand, category, or description
+            <p className="text-base font-semibold mb-1">Search our catalogue</p>
+            <p className="text-sm text-muted-foreground mb-6">
+              Search across all {products.length} products by name, brand, category or SKU.
             </p>
-            <div className="mt-6">
-              <p className="pb-2 text-[11px] font-semibold tracking-[0.2em] uppercase text-muted-foreground">
-                Popular Searches
-              </p>
-              <div className="flex flex-wrap gap-2 justify-center">
-                {POPULAR_SEARCHES.map((term) => (
-                  <button
-                    key={term}
-                    onClick={() => handleRecentClick(term)}
-                    className="px-3 py-1.5 rounded-xl bg-secondary hover:bg-accent text-xs font-medium transition-colors"
-                  >
-                    {term}
-                  </button>
-                ))}
-              </div>
+            <div className="flex flex-wrap gap-2 justify-center">
+              {POPULAR_SEARCHES.map((term) => (
+                <button
+                  key={term}
+                  onClick={() => handleRecentClick(term)}
+                  className="px-3 py-1.5 rounded-full bg-secondary hover:bg-accent text-xs font-medium transition-colors"
+                >
+                  {term}
+                </button>
+              ))}
             </div>
           </div>
         )}
       </ScrollArea>
 
-      {/* Footer hint */}
-      <div className="px-5 py-2.5 border-t border-border bg-secondary/30 flex items-center justify-between text-[10px] text-muted-foreground">
-        <span>
-          <kbd className="px-1.5 py-0.5 rounded border border-border bg-background font-mono text-[9px]">↵</kbd> to select
-        </span>
+      {/* Footer hint — hidden on mobile/touch devices */}
+      <div className="hidden sm:flex px-5 py-2.5 border-t border-border bg-secondary/30 items-center justify-between text-[10px] text-muted-foreground">
         <span>
           <kbd className="px-1.5 py-0.5 rounded border border-border bg-background font-mono text-[9px]">esc</kbd> to close
         </span>
+        <span>Searches all {products.length} products globally</span>
       </div>
     </>
   );
@@ -353,7 +416,10 @@ function SearchDialogContent({ onOpenChange }: { onOpenChange: (open: boolean) =
 export function SearchDialog({ open, onOpenChange }: SearchDialogProps) {
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
-      <DialogContent className="sm:max-w-2xl p-0 gap-0 max-h-[85vh] overflow-hidden">
+      <DialogContent
+        className="sm:max-w-2xl p-0 gap-0 max-h-[85vh] overflow-hidden"
+        showCloseButton={true}
+      >
         {open && <SearchDialogContent onOpenChange={onOpenChange} />}
       </DialogContent>
     </Dialog>

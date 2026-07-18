@@ -155,4 +155,36 @@ export default defineSchema({
     ),
   })
     .index("by_email", ["email"]),
+
+  // ===== ARTISTS =====
+  artists: defineTable({
+    legacyId: v.string(),
+    slug: v.string(),
+    name: v.string(),
+    stageName: v.optional(v.string()),
+    profession: v.string(),
+    artistCategory: v.optional(v.string()),
+    shortBio: v.optional(v.string()),
+    fullBio: v.optional(v.string()),
+    imageUrl: v.optional(v.string()),
+    imageAlt: v.optional(v.string()),
+    genres: v.optional(v.array(v.string())),
+    performanceTypes: v.optional(v.array(v.string())),
+    services: v.optional(v.array(v.string())),
+    socialLinks: v.optional(v.object({
+      facebook: v.optional(v.string()),
+      instagram: v.optional(v.string()),
+      tiktok: v.optional(v.string()),
+      youtube: v.optional(v.string()),
+    })),
+    isFeatured: v.boolean(),
+    isPublished: v.boolean(),
+    needsReview: v.boolean(),
+    displayOrder: v.number(),
+    bookingMessage: v.string(),
+  })
+    .index("by_slug", ["slug"])
+    .index("by_isPublished", ["isPublished"])
+    .index("by_artistCategory", ["artistCategory"])
+    .index("by_displayOrder", ["displayOrder"]),
 });

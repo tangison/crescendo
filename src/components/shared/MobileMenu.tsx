@@ -116,8 +116,11 @@ export function MobileMenu({ open, onOpenChange }: MobileMenuProps) {
           </div>
         </div>
 
+        {/* Spacer to prevent sticky CTA from covering last category */}
+        <div className="h-24 flex-shrink-0" />
+
         {/* Bottom: CTAs */}
-        <div className="p-4 border-t border-white/10 space-y-2 bg-black/30">
+        <div className="p-4 border-t border-white/10 space-y-2 bg-black/30 safe-area-bottom">
           <a
             href={waUrl}
             target="_blank"

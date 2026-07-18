@@ -186,7 +186,8 @@ export function ProductGrid() {
         </p>
       </div>
 
-      {/* Search Bar - clean, centered */}
+      {/* Local filter bar — filters within current category selection.
+          This is NOT the global search (Cmd+K). */}
       <div className="relative mb-4">
         <div className="relative">
           <CustomIcon name="search" className="absolute left-4 top-1/2 -translate-y-1/2 size-5 text-muted-foreground pointer-events-none" alt="" />
@@ -195,15 +196,15 @@ export function ProductGrid() {
             type="text"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            placeholder="Search instruments, brands, categories..."
+            placeholder={selectedCategory ? `Filter within ${getCategoryName(selectedCategory)}...` : 'Filter products...'}
             className="w-full h-12 pl-12 pr-12 rounded-full border border-border bg-card text-sm focus:outline-none focus:ring-2 focus:ring-brand-accent focus:border-transparent transition-all"
-            aria-label="Search products"
+            aria-label="Filter products"
           />
           {searchQuery && (
             <button
               onClick={handleClearSearch}
-              className="absolute right-4 top-1/2 -translate-y-1/2 p-1 rounded-md hover:bg-accent transition-colors"
-              aria-label="Clear search"
+              className="absolute right-4 top-1/2 -translate-y-1/2 size-11 flex items-center justify-center rounded-full hover:bg-accent transition-colors"
+              aria-label="Clear filter"
             >
               <CustomIcon name="x" className="size-4 text-muted-foreground" alt="" />
             </button>
