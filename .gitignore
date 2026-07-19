@@ -72,3 +72,4 @@ server.log
 
 # Catalog folder is duplicates of categorized images — too large for repo
 /public/products/catalog/
+.env.local

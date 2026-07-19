@@ -1,190 +1,206 @@
 /**
- * Convex schema for Crescendo Namibia.
+ * Crescendo Namibia — Convex Schema
+ * Production schema for 6-category catalogue with 1,640 products.
  *
- * This is a SCHEMA PROPOSAL — do not deploy until a Convex project is connected.
- * When ready: `npx convex dev` will use this file to create tables.
- *
- * 6 public categories:
- *   accessories, wind, strings (guitars+strings merged),
- *   drums, pro-audio, keyboards
+ * Deployment: dev:academic-wombat-389 (development)
+ * URL: https://academic-wombat-389.convex.cloud
  */
 
 import { defineSchema, defineTable } from "convex/server";
 import { v } from "convex/values";
 
 export default defineSchema({
-  // ===== PRODUCTS =====
-  products: defineTable({
-    // Stable identifiers (from source CSV — never change)
-    legacyId: v.string(),           // Original CSV 'code' field
-    sku: v.string(),                // Same as legacyId for now
-    slug: v.string(),               // URL slug
-
-    // Name management
-    legacyName: v.string(),         // Original imported name (never modify)
-    displayName: v.string(),        // Cleaned name for website display
-    brand: v.string(),
-    model: v.optional(v.string()),  // Extracted model number (future)
-
-    // Category management
-    legacyCategory: v.string(),     // Original CSV category
-    publicCategory: v.string(),     // Corrected public category slug
-    subcategory: v.optional(v.string()),
-    productType: v.optional(v.string()), // instrument, amplifier, case, bag, etc.
-
-    // Content (empty until verified — never AI-generated)
-    shortDescription: v.optional(v.string()),
-    description: v.optional(v.string()),
-    specifications: v.optional(v.array(v.object({
-      label: v.string(),
-      value: v.string(),
-    }))),
-
-    // Pricing
-    priceNAD: v.number(),
-    stockQuantity: v.number(),
-
-    // Images
-    imageUrls: v.optional(v.array(v.string())),
-    primaryImageUrl: v.string(),
-
-    // Status
-    status: v.union(
-      v.literal("draft"),
-      v.literal("active"),
-      v.literal("out_of_stock"),
-      v.literal("discontinued"),
-      v.literal("archived"),
-    ),
-    isPublished: v.boolean(),
-    isFeatured: v.boolean(),
-    isVerified: v.boolean(),
-    needsReview: v.boolean(),
-    reviewNotes: v.optional(v.string()),
-
-    // Research tracking (for Tavily enrichment workflow)
-    researchStatus: v.union(
-      v.literal("not_started"),
-      v.literal("searching"),
-      v.literal("matched"),
-      v.literal("ambiguous"),
-      v.literal("not_found"),
-      v.literal("needs_human_review"),
-      v.literal("verified"),
-      v.literal("rejected"),
-    ),
-    researchConfidence: v.optional(v.union(
-      v.literal("high"),
-      v.literal("medium"),
-      v.literal("low"),
-    )),
-    sourceUrls: v.optional(v.array(v.string())),
-    officialSourceUrl: v.optional(v.string()),
-    researchedAt: v.optional(v.number()),
-    researchNotes: v.optional(v.string()),
-    descriptionVerified: v.boolean(),
-    verifiedBy: v.optional(v.string()),
-    verifiedAt: v.optional(v.number()),
-
-    // Metadata
-    source: v.string(),             // "csv_import", "manual", etc.
-    priceVerifiedAt: v.optional(v.number()),
-    contentVerifiedAt: v.optional(v.number()),
-    skillLevel: v.optional(v.string()),
-  })
-    .index("by_slug", ["slug"])
-    .index("by_publicCategory", ["publicCategory"])
-    .index("by_status", ["status"])
-    .index("by_needsReview", ["needsReview"])
-    .index("by_sku", ["sku"]),
-
-  // ===== CATEGORIES =====
+  // ===== CATEGORIES (6 public categories) =====
   categories: defineTable({
-    name: v.string(),
     slug: v.string(),
+    name: v.string(),
     description: v.string(),
-    heroImageUrl: v.string(),
-    thumbnailImageUrl: v.string(),
-    altText: v.string(),
-    order: v.number(),
-    isVisible: v.boolean(),
-    subcategories: v.optional(v.array(v.string())),
+    image: v.string(),
+    productCount: v.number(),
+    displayOrder: v.number(),
+    isPublished: v.boolean(),
+    createdAt: v.number(),
+    updatedAt: v.number(),
   })
     .index("by_slug", ["slug"])
-    .index("by_order", ["order"]),
+    .index("by_display_order", ["displayOrder"])
+    .index("by_published_and_order", ["isPublished", "displayOrder"]),
 
-  // ===== PAGES (legal, about, book-an-artist, etc.) =====
-  pages: defineTable({
-    slug: v.string(),
-    title: v.string(),
-    content: v.string(),
-    seoTitle: v.optional(v.string()),
-    seoDescription: v.optional(v.string()),
+  // ===== PRODUCTS (1,640 source records) =====
+  products: defineTable({
+    // Stable identifiers
+    sourceKey: v.string(),           // Unique migration key (legacyRowId or compound)
+    legacyRowId: v.string(),         // Source row identifier (row_N)
+    sku: v.string(),                 // Original SKU (may be duplicated)
+    skuNormalized: v.string(),       // Lowercase SKU for search
+    isDuplicateSku: v.boolean(),     // Flag for 29 duplicate SKUs
+
+    // Product identity
+    name: v.string(),                // Display name (same as legacy for now)
+    legacyName: v.string(),          // Original imported name (never modified)
+    nameNormalized: v.string(),      // Lowercase for search
+    slug: v.string(),                // URL slug
+    brand: v.string(),
+    brandNormalized: v.string(),     // Lowercase for search
+    categorySlug: v.string(),        // Public category slug
+    productType: v.optional(v.string()), // instrument, amplifier, case, etc.
+
+    // Pricing (integers only — no floating point)
+    priceCents: v.number(),          // Price in cents (N$292.60 = 29260)
+    currency: v.string(),            // Always "NAD"
+    quantity: v.number(),            // Stock quantity (non-negative integer)
+
+    // Content
+    skillLevel: v.optional(v.string()),
+    image: v.string(),               // Image URL/path
+    imageStatus: v.optional(v.string()), // "verified", "unverified", "placeholder"
+    shortDescription: v.optional(v.string()), // Empty until verified
+    descriptionStatus: v.optional(v.string()), // "empty", "draft", "verified"
+
+    // State
     isPublished: v.boolean(),
-  })
-    .index("by_slug", ["slug"]),
+    needsReview: v.boolean(),
+    reviewReasons: v.optional(v.array(v.string())),
+    source: v.string(),              // "csv_import"
+    sourceRowNumber: v.number(),     // Original CSV row number
+    dataVersion: v.string(),         // Migration version
 
-  // ===== SITE SETTINGS =====
-  siteSettings: defineTable({
-    businessName: v.string(),
-    foundingYear: v.number(),
-    tagline: v.string(),
-    email: v.string(),
-    telephone: v.string(),
-    whatsapp: v.string(),
-    address: v.string(),
-    openingHours: v.string(),
-    socialLinks: v.object({
-      facebook: v.optional(v.string()),
-      instagram: v.optional(v.string()),
-      tiktok: v.optional(v.string()),
-      youtube: v.optional(v.string()),
+    // Search text (normalized combination for text search)
+    searchText: v.string(),
+
+    // Timestamps
+    createdAt: v.number(),
+    updatedAt: v.number(),
+  })
+    .index("by_source_key", ["sourceKey"])
+    .index("by_legacy_row_id", ["legacyRowId"])
+    .index("by_slug", ["slug"])
+    .index("by_sku_normalized", ["skuNormalized"])
+    .index("by_category_and_published", ["categorySlug", "isPublished"])
+    .index("by_brand_and_published", ["brandNormalized", "isPublished"])
+    .index("by_review_status", ["needsReview"])
+    .index("by_published_and_updated", ["isPublished", "updatedAt"])
+    // Text search index
+    .searchIndex("search_products", {
+      searchField: "searchText",
+      filterFields: ["categorySlug", "isPublished"],
     }),
-    nationwideDeliveryStatement: v.string(),
-    footerContent: v.optional(v.string()),
-    maintenanceMode: v.boolean(),
-  }),
-
-  // ===== USERS =====
-  users: defineTable({
-    name: v.string(),
-    email: v.string(),
-    role: v.union(
-      v.literal("owner"),
-      v.literal("editor"),
-    ),
-  })
-    .index("by_email", ["email"]),
 
   // ===== ARTISTS =====
   artists: defineTable({
-    legacyId: v.string(),
     slug: v.string(),
     name: v.string(),
-    stageName: v.optional(v.string()),
     profession: v.string(),
     artistCategory: v.optional(v.string()),
     shortBio: v.optional(v.string()),
     fullBio: v.optional(v.string()),
-    imageUrl: v.optional(v.string()),
-    imageAlt: v.optional(v.string()),
+    image: v.optional(v.string()),
     genres: v.optional(v.array(v.string())),
     performanceTypes: v.optional(v.array(v.string())),
-    services: v.optional(v.array(v.string())),
+    location: v.optional(v.string()),
+    rateNote: v.optional(v.string()),
+    availabilityNote: v.optional(v.string()),
     socialLinks: v.optional(v.object({
       facebook: v.optional(v.string()),
       instagram: v.optional(v.string()),
       tiktok: v.optional(v.string()),
       youtube: v.optional(v.string()),
     })),
-    isFeatured: v.boolean(),
+    bookingMessage: v.string(),
     isPublished: v.boolean(),
     needsReview: v.boolean(),
+    reviewReasons: v.optional(v.array(v.string())),
     displayOrder: v.number(),
-    bookingMessage: v.string(),
+    createdAt: v.number(),
+    updatedAt: v.number(),
   })
     .index("by_slug", ["slug"])
-    .index("by_isPublished", ["isPublished"])
-    .index("by_artistCategory", ["artistCategory"])
-    .index("by_displayOrder", ["displayOrder"]),
+    .index("by_published_and_order", ["isPublished", "displayOrder"])
+    .index("by_category_and_published", ["artistCategory", "isPublished"]),
+
+  // ===== PAGES (book-an-artist, about, etc.) =====
+  pages: defineTable({
+    slug: v.string(),
+    title: v.string(),
+    seoTitle: v.optional(v.string()),
+    seoDescription: v.optional(v.string()),
+    body: v.string(),
+    status: v.string(),             // "draft", "published"
+    isPublished: v.boolean(),
+    updatedAt: v.number(),
+    updatedBy: v.optional(v.string()),
+  })
+    .index("by_slug", ["slug"])
+    .index("by_status", ["status"]),
+
+  // ===== SITE SETTINGS =====
+  siteSettings: defineTable({
+    key: v.string(),
+    value: v.string(),
+    group: v.string(),              // "business", "social", "seo", "maintenance"
+    description: v.optional(v.string()),
+    isPublic: v.boolean(),
+    updatedAt: v.number(),
+    updatedBy: v.optional(v.string()),
+  })
+    .index("by_key", ["key"]),
+
+  // ===== LEGAL PAGES =====
+  legalPages: defineTable({
+    slug: v.string(),
+    title: v.string(),
+    content: v.string(),
+    version: v.string(),
+    effectiveDate: v.number(),
+    isPublished: v.boolean(),
+    updatedAt: v.number(),
+    updatedBy: v.optional(v.string()),
+  })
+    .index("by_slug", ["slug"]),
+
+  // ===== MIGRATION RUNS =====
+  migrationRuns: defineTable({
+    migrationKey: v.string(),
+    sourceChecksum: v.string(),
+    status: v.string(),             // "running", "completed", "failed"
+    totalSourceRecords: v.number(),
+    importedRecords: v.number(),
+    quarantinedRecords: v.number(),
+    failedRecords: v.number(),
+    startedAt: v.number(),
+    completedAt: v.optional(v.number()),
+    lastCheckpoint: v.optional(v.string()),
+    errorSummary: v.optional(v.string()),
+  })
+    .index("by_migration_key", ["migrationKey"]),
+
+  // ===== IMPORT ISSUES =====
+  importIssues: defineTable({
+    migrationKey: v.string(),
+    sourceKey: v.string(),
+    issueType: v.string(),          // "duplicate_sku", "missing_image", "category_mismatch"
+    severity: v.string(),           // "low", "medium", "high"
+    message: v.string(),
+    sourceData: v.string(),         // JSON string of the source row
+    status: v.string(),             // "open", "resolved", "ignored"
+    createdAt: v.number(),
+    resolvedAt: v.optional(v.number()),
+  })
+    .index("by_migration", ["migrationKey"])
+    .index("by_status", ["status"])
+    .index("by_source_key", ["sourceKey"]),
+
+  // ===== AUDIT LOG =====
+  auditLog: defineTable({
+    actorId: v.string(),
+    action: v.string(),             // "create", "update", "delete", "publish"
+    tableName: v.string(),
+    documentId: v.optional(v.string()),
+    before: v.optional(v.string()), // JSON string
+    after: v.optional(v.string()),  // JSON string
+    createdAt: v.number(),
+  })
+    .index("by_created_at", ["createdAt"])
+    .index("by_table_and_document", ["tableName", "documentId"])
+    .index("by_actor", ["actorId"]),
 });
