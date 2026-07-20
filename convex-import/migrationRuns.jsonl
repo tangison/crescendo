@@ -1,1 +1,1 @@
-{"migrationKey": "crescendo-products-v1-2026-07", "sourceChecksum": "fba97e68f4c01638", "status": "prepared", "totalSourceRecords": 1640, "importedRecords": 1640, "quarantinedRecords": 29, "failedRecords": 0, "startedAt": 0, "completedAt": null, "lastCheckpoint": null, "errorSummary": null}
+{"migrationKey": "crescendo-products-v1-2026-07", "sourceChecksum": "fba97e68f4c01638", "status": "prepared", "totalSourceRecords": 1640, "importedRecords": 1640, "quarantinedRecords": 29, "failedRecords": 0, "startedAt": 0}

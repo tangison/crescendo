@@ -1,13 +1,13 @@
-{"key": "businessName", "value": "Crescendo Namibia", "group": "business", "description": "Business name", "isPublic": true, "updatedAt": 0, "updatedBy": null}
-{"key": "tagline", "value": "Strive for Excellence", "group": "business", "description": "Business tagline", "isPublic": true, "updatedAt": 0, "updatedBy": null}
-{"key": "foundingYear", "value": "2019", "group": "business", "description": "Year established", "isPublic": true, "updatedAt": 0, "updatedBy": null}
-{"key": "email", "value": "info@crescendona.com", "group": "business", "description": "Contact email", "isPublic": true, "updatedAt": 0, "updatedBy": null}
-{"key": "whatsapp", "value": "+264 81 462 3936", "group": "business", "description": "WhatsApp number", "isPublic": true, "updatedAt": 0, "updatedBy": null}
-{"key": "telephone", "value": "+264 81 462 3936", "group": "business", "description": "Telephone number", "isPublic": true, "updatedAt": 0, "updatedBy": null}
-{"key": "address", "value": "Shop 19, Old Power Station, Southern Industrial Area, Windhoek", "group": "business", "description": "Physical address", "isPublic": true, "updatedAt": 0, "updatedBy": null}
-{"key": "openingHours", "value": "9am-5pm Weekdays; Saturday Closed", "group": "business", "description": "Opening hours", "isPublic": true, "updatedAt": 0, "updatedBy": null}
-{"key": "social_facebook", "value": "https://facebook.com/crescendoicc", "group": "social", "description": "Facebook URL", "isPublic": true, "updatedAt": 0, "updatedBy": null}
-{"key": "social_instagram", "value": "https://www.instagram.com/crescendo_nam", "group": "social", "description": "Instagram URL", "isPublic": true, "updatedAt": 0, "updatedBy": null}
-{"key": "social_tiktok", "value": "https://www.tiktok.com/@crescendonamibia", "group": "social", "description": "TikTok URL", "isPublic": true, "updatedAt": 0, "updatedBy": null}
-{"key": "social_youtube", "value": "https://www.youtube.com/@crescendon", "group": "social", "description": "YouTube URL", "isPublic": true, "updatedAt": 0, "updatedBy": null}
-{"key": "maintenanceMode", "value": "true", "group": "maintenance", "description": "Maintenance mode enabled", "isPublic": false, "updatedAt": 0, "updatedBy": null}
+{"key": "businessName", "value": "Crescendo Namibia", "group": "business", "description": "Business name", "isPublic": true, "updatedAt": 0}
+{"key": "tagline", "value": "Strive for Excellence", "group": "business", "description": "Business tagline", "isPublic": true, "updatedAt": 0}
+{"key": "foundingYear", "value": "2019", "group": "business", "description": "Year established", "isPublic": true, "updatedAt": 0}
+{"key": "email", "value": "info@crescendona.com", "group": "business", "description": "Contact email", "isPublic": true, "updatedAt": 0}
+{"key": "whatsapp", "value": "+264 81 462 3936", "group": "business", "description": "WhatsApp number", "isPublic": true, "updatedAt": 0}
+{"key": "telephone", "value": "+264 81 462 3936", "group": "business", "description": "Telephone number", "isPublic": true, "updatedAt": 0}
+{"key": "address", "value": "Shop 19, Old Power Station, Southern Industrial Area, Windhoek", "group": "business", "description": "Physical address", "isPublic": true, "updatedAt": 0}
+{"key": "openingHours", "value": "9am-5pm Weekdays; Saturday Closed", "group": "business", "description": "Opening hours", "isPublic": true, "updatedAt": 0}
+{"key": "social_facebook", "value": "https://facebook.com/crescendoicc", "group": "social", "description": "Facebook URL", "isPublic": true, "updatedAt": 0}
+{"key": "social_instagram", "value": "https://www.instagram.com/crescendo_nam", "group": "social", "description": "Instagram URL", "isPublic": true, "updatedAt": 0}
+{"key": "social_tiktok", "value": "https://www.tiktok.com/@crescendonamibia", "group": "social", "description": "TikTok URL", "isPublic": true, "updatedAt": 0}
+{"key": "social_youtube", "value": "https://www.youtube.com/@crescendon", "group": "social", "description": "YouTube URL", "isPublic": true, "updatedAt": 0}
+{"key": "maintenanceMode", "value": "true", "group": "maintenance", "description": "Maintenance mode enabled", "isPublic": false, "updatedAt": 0}
