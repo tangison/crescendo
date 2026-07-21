@@ -6,7 +6,7 @@ import { products } from '@/data/products';
 export const metadata: Metadata = {
   title: 'Shop Instruments, Pro Audio & Accessories in Namibia',
   description:
-    'Browse over 1640 instruments, pro audio gear, and accessories at Crescendo Namibia. Guitars, keyboards, drums, wind, strings, and more in Windhoek. Namibia-wide shipping since 2019.',
+    'Browse over 1611 instruments, pro audio gear, and accessories at Crescendo Namibia. Guitars, keyboards, drums, wind, strings, and more in Windhoek. Namibia-wide shipping since 2019.',
   alternates: {
     canonical: 'https://www.crescendona.com/shop',
   },
@@ -22,14 +22,14 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Shop | Crescendo Namibia',
     description:
-      'Browse our full collection of 1640+ instruments, pro audio gear, and accessories in Windhoek, Namibia.',
+      'Browse our full collection of 1611+ instruments, pro audio gear, and accessories in Windhoek, Namibia.',
     url: 'https://www.crescendona.com/shop',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Shop | Crescendo Namibia',
-    description: 'Browse 1640+ instruments, pro audio gear, and accessories in Windhoek, Namibia.',
+    description: 'Browse 1611+ instruments, pro audio gear, and accessories in Windhoek, Namibia.',
   },
 };
 

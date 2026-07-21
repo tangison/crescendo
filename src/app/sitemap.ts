@@ -11,7 +11,7 @@ const BASE_URL = 'https://www.crescendona.com';
  * Includes:
  *   - Static pages (home, shop, book-an-artist)
  *   - Category landing pages (6)
- *   - All product pages (1640)
+ *   - All product pages (1611)
  *   - Legal pages
  */
 export default function sitemap(): MetadataRoute.Sitemap {

@@ -68,7 +68,7 @@ export function CartDrawer({ open, onOpenChange }: CartDrawerProps) {
             </motion.div>
             <p className="text-base font-semibold mb-1">Your enquiry list is empty</p>
             <p className="text-sm text-muted-foreground mb-6 max-w-xs">
-              Browse our catalog of 1640+ instruments and gear, then add items to enquire about via WhatsApp.
+              Browse our catalog of 1611+ instruments and gear, then add items to enquire about via WhatsApp.
             </p>
             <Button asChild variant="default" size="lg">
               <Link href="/shop" onClick={() => onOpenChange(false)}>
