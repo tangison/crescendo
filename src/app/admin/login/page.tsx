@@ -6,17 +6,39 @@ import { useRouter } from 'next/navigation';
 export default function AdminLoginPage() {
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
+  const [loading, setLoading] = useState(false);
   const router = useRouter();
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (password === 'crescendo-admin-2026') {
-      sessionStorage.setItem('crescendo-admin', 'true');
-      router.push('/admin');
-    } else {
-      setError('Invalid password');
-      setPassword('');
+    setLoading(true);
+    setError('');
+
+    try {
+      // Fetch the current password from Convex
+      const res = await fetch('https://academic-wombat-389.convex.cloud/api/query', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          path: 'admin.js:adminGetPassword',
+          args: {},
+          format: 'json',
+        }),
+      });
+      const json = await res.json();
+      const adminPassword = json.value || 'crescendo-admin-2026';
+
+      if (password === adminPassword) {
+        sessionStorage.setItem('crescendo-admin', 'true');
+        router.push('/admin');
+      } else {
+        setError('Invalid password');
+        setPassword('');
+      }
+    } catch {
+      setError('Connection error. Please try again.');
     }
+    setLoading(false);
   };
 
   return (
@@ -43,7 +65,8 @@ export default function AdminLoginPage() {
               onChange={(e) => setPassword(e.target.value)}
               autoFocus
               required
-              className="w-full px-4 py-3 rounded-full bg-white/5 border border-white/10 text-white text-sm focus:outline-none focus:ring-2 focus:ring-brand-accent focus:border-transparent transition-all"
+              disabled={loading}
+              className="w-full px-4 py-3 rounded-full bg-white/5 border border-white/10 text-white text-sm focus:outline-none focus:ring-2 focus:ring-brand-accent focus:border-transparent transition-all disabled:opacity-50"
               placeholder="Enter admin password"
             />
           </div>
@@ -52,9 +75,10 @@ export default function AdminLoginPage() {
           )}
           <button
             type="submit"
-            className="w-full px-4 py-3 rounded-full bg-brand-accent hover:bg-brand-accent/90 text-brand-dark text-sm font-semibold transition-colors"
+            disabled={loading}
+            className="w-full px-4 py-3 rounded-full bg-brand-accent hover:bg-brand-accent/90 text-brand-dark text-sm font-semibold transition-colors disabled:opacity-50"
           >
-            Sign In
+            {loading ? 'Signing in...' : 'Sign In'}
           </button>
         </form>
 

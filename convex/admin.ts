@@ -262,3 +262,87 @@ export const adminUpdateLegalPage = mutation({
     return { success: true };
   },
 });
+
+// ===== PASSWORD MANAGEMENT =====
+// Stored in siteSettings table with group "auth"
+// Password is stored as plaintext (acceptable for this use case - shared admin password)
+
+export const adminGetPassword = query({
+  args: {},
+  handler: async (ctx) => {
+    const setting = await ctx.db
+      .query("siteSettings")
+      .withIndex("by_key", (q) => q.eq("key", "adminPassword"))
+      .first();
+    return setting?.value || "crescendo-admin-2026";
+  },
+});
+
+export const adminUpdatePassword = mutation({
+  args: {
+    currentPassword: v.string(),
+    newPassword: v.string(),
+  },
+  handler: async (ctx, args) => {
+    // Verify current password
+    const setting = await ctx.db
+      .query("siteSettings")
+      .withIndex("by_key", (q) => q.eq("key", "adminPassword"))
+      .first();
+    const current = setting?.value || "crescendo-admin-2026";
+    if (args.currentPassword !== current) {
+      throw new Error("Current password is incorrect");
+    }
+    if (args.newPassword.length < 8) {
+      throw new Error("New password must be at least 8 characters");
+    }
+    const now = Date.now();
+    if (setting) {
+      await ctx.db.patch(setting._id, { value: args.newPassword, updatedAt: now });
+    } else {
+      await ctx.db.insert("siteSettings", {
+        key: "adminPassword",
+        value: args.newPassword,
+        group: "auth",
+        description: "Admin dashboard password",
+        isPublic: false,
+        updatedAt: now,
+      });
+    }
+    return { success: true };
+  },
+});
+
+export const adminResetPassword = mutation({
+  args: {
+    resetKey: v.string(),
+    newPassword: v.string(),
+  },
+  handler: async (ctx, args) => {
+    // Super admin reset using a secret key
+    if (args.resetKey !== "crescendo-super-admin-reset") {
+      throw new Error("Invalid reset key");
+    }
+    if (args.newPassword.length < 8) {
+      throw new Error("New password must be at least 8 characters");
+    }
+    const setting = await ctx.db
+      .query("siteSettings")
+      .withIndex("by_key", (q) => q.eq("key", "adminPassword"))
+      .first();
+    const now = Date.now();
+    if (setting) {
+      await ctx.db.patch(setting._id, { value: args.newPassword, updatedAt: now });
+    } else {
+      await ctx.db.insert("siteSettings", {
+        key: "adminPassword",
+        value: args.newPassword,
+        group: "auth",
+        description: "Admin dashboard password",
+        isPublic: false,
+        updatedAt: now,
+      });
+    }
+    return { success: true };
+  },
+});

@@ -270,9 +270,15 @@ export function Footer() {
       <div className="border-t border-white/10">
         <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8 py-5">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-3">
-            <p className="text-xs text-white/40 text-center sm:text-left">
-              © {new Date().getFullYear()} {BUSINESS_NAME}. All rights reserved.
-            </p>
+            <div className="flex flex-col sm:flex-row items-center gap-2">
+              <p className="text-xs text-white/40 text-center sm:text-left">
+                © {new Date().getFullYear()} {BUSINESS_NAME}. All rights reserved.
+              </p>
+              <span className="hidden sm:inline text-white/20">·</span>
+              <a href="https://studio.tangison.com" target="_blank" rel="noopener noreferrer" className="text-xs text-white/30 hover:text-white/60 transition-colors">
+                Made by Tangison Studio
+              </a>
+            </div>
             <div className="flex items-center gap-4 text-xs text-white/40">
               <Link href="/legal/terms" className="hover:text-white/70 transition-colors">Terms</Link>
               <Link href="/legal/privacy" className="hover:text-white/70 transition-colors">Privacy</Link>
