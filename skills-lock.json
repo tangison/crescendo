@@ -1,11 +1,77 @@
 {
   "version": 1,
   "skills": {
+    "design-taste-frontend": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/taste-skill/SKILL.md",
+      "computedHash": "6d838b246d0e35d0b53f4f23f98ba7a1dd561937e64f7d0c7553b0928e376c3e"
+    },
     "hallmark": {
       "source": "nutlope/hallmark",
       "sourceType": "github",
       "skillPath": "skills/hallmark/SKILL.md",
       "computedHash": "8a8ecafd613f09e701330b5aa4a591ac539abb2605596df4a2394f03628d1d76"
+    },
+    "impeccable": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/impeccable/SKILL.md",
+      "computedHash": "acb7b8c15f55bc4709724fe25688582e270f698789da2077616d1b86dbeb6e5d"
+    },
+    "ponytail": {
+      "source": "dietrichgebert/ponytail",
+      "sourceType": "github",
+      "skillPath": "skills/ponytail/SKILL.md",
+      "computedHash": "210fa0831f649ce9f8a305f7b7c8cf2a0dd09ac4dd53067109941b96e7811d4e"
+    },
+    "tangison-documents": {
+      "source": "tangison/webman",
+      "sourceType": "github",
+      "skillPath": "skills/tangison-documents/SKILL.md",
+      "computedHash": "ba2dd194e1ceae18bd35c871099d5b357dc93a2dbb68a95cbb8d7591dd1a1ea8"
+    },
+    "tangison-magazine": {
+      "source": "tangison/webman",
+      "sourceType": "github",
+      "skillPath": "skills/tangison-magazine/SKILL.md",
+      "computedHash": "90c4f24722cc1337e61c64a9e23cf1a4fa2d453161b470f68c4240dee80451b9"
+    },
+    "tangison-web-audit": {
+      "source": "tangison/webman",
+      "sourceType": "github",
+      "skillPath": "skills/tangison-web-audit/SKILL.md",
+      "computedHash": "447545adf5588b37d588a2976cc66170e6b9ec931953484049a92a75c88a0b74"
+    },
+    "tangison-web-content": {
+      "source": "tangison/webman",
+      "sourceType": "github",
+      "skillPath": "skills/tangison-web-content/SKILL.md",
+      "computedHash": "0ea77c5c4bd73bd11888ae0f583b6464a35b95973635770a3cb97141a4d783f8"
+    },
+    "tangison-web-create": {
+      "source": "tangison/webman",
+      "sourceType": "github",
+      "skillPath": "skills/tangison-web-create/SKILL.md",
+      "computedHash": "550fecea54d100dfdb95b5efd12aba96a607a086bd02ab908d9b8218a2179aa0"
+    },
+    "tangison-web-deploy": {
+      "source": "tangison/webman",
+      "sourceType": "github",
+      "skillPath": "skills/tangison-web-deploy/SKILL.md",
+      "computedHash": "ea14e37621ef7205832f629914c34cca24f862c0985ccdc684d2c14537f88861"
+    },
+    "tangison-web-loop": {
+      "source": "tangison/webman",
+      "sourceType": "github",
+      "skillPath": "skills/tangison-web-loop/SKILL.md",
+      "computedHash": "d030acb45f695362e944a985324bdf9d80741a65ba3295f501ce3ce896164a0e"
+    },
+    "tangison-web-plan": {
+      "source": "tangison/webman",
+      "sourceType": "github",
+      "skillPath": "skills/tangison-web-plan/SKILL.md",
+      "computedHash": "497091489820bfb26d375ffca1dad390c58c66597b0d5b9411ff6e771f640aa2"
     }
   }
 }

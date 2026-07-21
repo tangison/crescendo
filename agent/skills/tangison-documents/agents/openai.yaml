@@ -1,0 +1,13 @@
+interface:
+  display_name: Tangison Documents
+  short_description: Create intentional premium branded PDFs
+  default_prompt: Use $tangison-documents to create a premium print-ready business
+    document with intentional editorial layout, verified logos, watermarking, and
+    visual QA.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

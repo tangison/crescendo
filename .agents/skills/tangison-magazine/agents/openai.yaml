@@ -1,0 +1,12 @@
+interface:
+  display_name: Tangison Magazine
+  short_description: Design editorial profiles and page-image sets
+  default_prompt: Use $tangison-magazine to interview me, plan an intentional editorial
+    document, and produce exact page artwork or a print-ready PDF.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

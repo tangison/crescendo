@@ -33,6 +33,7 @@ const ALLOWED_PATHS = [
   '/google-',  // Google verification files
   '/robots.txt',
   '/sitemap.xml',
+  '/admin/',  // Admin dashboard always accessible
 ];
 
 export function middleware(request: NextRequest) {
