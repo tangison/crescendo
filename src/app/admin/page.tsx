@@ -1,65 +1,47 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useQuery } from 'convex/react';
+import { api } from '@/convex/_generated/api';
 
 export default function AdminOverviewPage() {
-  const [stats, setStats] = useState<{ products: number; categories: Record<string, number>; artists: number } | null>(null);
-
-  useEffect(() => {
-    const fetchData = async () => {
-      const [countRes, catRes, artistRes] = await Promise.all([
-        fetch('https://academic-wombat-389.convex.cloud/api/query', {
-          method: 'POST', headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ path: 'queries.js:getProductCount', args: {}, format: 'json' }),
-        }),
-        fetch('https://academic-wombat-389.convex.cloud/api/query', {
-          method: 'POST', headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ path: 'queries.js:getCategoryCounts', args: {}, format: 'json' }),
-        }),
-        fetch('https://academic-wombat-389.convex.cloud/api/query', {
-          method: 'POST', headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ path: 'admin.js:adminGetArtists', args: {}, format: 'json' }),
-        }),
-      ]);
-      const [count, cats, artists] = await Promise.all([countRes.json(), catRes.json(), artistRes.json()]);
-      setStats({
-        products: count.value,
-        categories: cats.value,
-        artists: artists.value?.length || 0,
-      });
-    };
-    fetchData();
-  }, []);
+  const productCount = useQuery(api.queries.getProductCount, {});
+  const categoryCounts = useQuery(api.queries.getCategoryCounts, {});
+  const artists = useQuery(api.admin.adminGetArtists, {});
 
   return (
     <div>
       <h1 className="text-xl font-bold tracking-tight mb-6">Overview</h1>
-
-      {stats ? (
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-8">
-          <div className="bg-card border border-border rounded-2xl p-5">
-            <p className="text-3xl font-black font-mono">{stats.products}</p>
-            <p className="text-xs text-muted-foreground uppercase tracking-wide mt-1">Products</p>
-          </div>
-          <div className="bg-card border border-border rounded-2xl p-5">
-            <p className="text-3xl font-black font-mono">{Object.keys(stats.categories).length}</p>
-            <p className="text-xs text-muted-foreground uppercase tracking-wide mt-1">Categories</p>
-          </div>
-          <div className="bg-card border border-border rounded-2xl p-5">
-            <p className="text-3xl font-black font-mono">{stats.artists}</p>
-            <p className="text-xs text-muted-foreground uppercase tracking-wide mt-1">Artists</p>
-          </div>
-          <div className="bg-card border border-border rounded-2xl p-5">
-            <p className="text-3xl font-black font-mono text-brand-accent">Live</p>
-            <p className="text-xs text-muted-foreground uppercase tracking-wide mt-1">Status</p>
-          </div>
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-8">
+        <div className="bg-card border border-border rounded-2xl p-5">
+          <p className="text-3xl font-black font-mono">{productCount ?? '...'}</p>
+          <p className="text-xs text-muted-foreground uppercase tracking-wide mt-1">Products</p>
         </div>
-      ) : (
-        <div className="text-center py-12">
-          <div className="size-8 border-2 border-brand-accent border-t-transparent rounded-full animate-spin mx-auto" />
+        <div className="bg-card border border-border rounded-2xl p-5">
+          <p className="text-3xl font-black font-mono">{categoryCounts ? Object.keys(categoryCounts).length : '...'}</p>
+          <p className="text-xs text-muted-foreground uppercase tracking-wide mt-1">Categories</p>
+        </div>
+        <div className="bg-card border border-border rounded-2xl p-5">
+          <p className="text-3xl font-black font-mono">{artists ? artists.length : '...'}</p>
+          <p className="text-xs text-muted-foreground uppercase tracking-wide mt-1">Artists</p>
+        </div>
+        <div className="bg-card border border-border rounded-2xl p-5">
+          <p className="text-3xl font-black font-mono text-brand-accent">Live</p>
+          <p className="text-xs text-muted-foreground uppercase tracking-wide mt-1">Status</p>
+        </div>
+      </div>
+      {categoryCounts && (
+        <div className="bg-card border border-border rounded-2xl p-5 mb-8">
+          <h2 className="text-sm font-bold mb-3">Products by Category</h2>
+          <div className="space-y-2">
+            {Object.entries(categoryCounts).map(([cat, count]) => (
+              <div key={cat} className="flex items-center justify-between text-sm">
+                <span className="text-muted-foreground capitalize">{cat.replace('-', ' ')}</span>
+                <span className="font-mono font-medium">{count as number}</span>
+              </div>
+            ))}
+          </div>
         </div>
       )}
-
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         <a href="/admin/products" className="bg-card border border-border rounded-2xl p-5 hover:border-brand-accent transition-colors">
           <h3 className="font-bold mb-1">Manage Products</h3>

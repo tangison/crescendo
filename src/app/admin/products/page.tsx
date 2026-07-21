@@ -1,7 +1,8 @@
 'use client';
 
-import { useState, useEffect } from 'react';
-import Link from 'next/link';
+import { useState } from 'react';
+import { useQuery, useMutation } from 'convex/react';
+import { api } from '@/convex/_generated/api';
 
 interface Product {
   _id: string;
@@ -16,66 +17,26 @@ interface Product {
   image: string;
 }
 
-interface ProductListResponse {
-  products: Product[];
-  total: number;
-  page: number;
-  pageSize: number;
-}
-
 export default function AdminProductsPage() {
-  const [data, setData] = useState<ProductListResponse | null>(null);
-  const [loading, setLoading] = useState(true);
   const [page, setPage] = useState(1);
   const [search, setSearch] = useState('');
   const [category, setCategory] = useState('');
   const [editingProduct, setEditingProduct] = useState<Product | null>(null);
 
-  const fetchData = async () => {
-    setLoading(true);
-    const params = new URLSearchParams({
-      page: String(page),
-      pageSize: '24',
-    });
-    if (search) params.set('searchQuery', search);
-    if (category) params.set('categorySlug', category);
+  const data = useQuery(api.admin.adminGetProducts, {
+    page,
+    pageSize: 24,
+    searchQuery: search || undefined,
+    categorySlug: category || undefined,
+  });
 
-    const res = await fetch(`https://academic-wombat-389.convex.cloud/api/query`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        path: 'admin.js:adminGetProducts',
-        args: Object.fromEntries(params),
-        format: 'json',
-      }),
-    });
-    const json = await res.json();
-    setData(json.value);
-    setLoading(false);
-  };
-
-  useEffect(() => {
-    const timeout = setTimeout(fetchData, 300);
-    return () => clearTimeout(timeout);
-  }, [page, search, category]);
+  const updateProduct = useMutation(api.admin.adminUpdateProduct);
 
   const formatPrice = (cents: number) => `N$ ${(cents / 100).toFixed(2)}`;
 
   const handleSave = async (product: Product, updates: Record<string, unknown>) => {
-    const res = await fetch(`https://academic-wombat-389.convex.cloud/api/mutation`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        path: 'admin.js:adminUpdateProduct',
-        args: { id: product._id, ...updates },
-        format: 'json',
-      }),
-    });
-    const json = await res.json();
-    if (json.status === 'success') {
-      setEditingProduct(null);
-      fetchData();
-    }
+    await updateProduct({ id: product._id, ...updates });
+    setEditingProduct(null);
   };
 
   const categories = [
@@ -93,11 +54,10 @@ export default function AdminProductsPage() {
       <div className="flex items-center justify-between mb-6">
         <div>
           <h1 className="text-xl font-bold tracking-tight">Products</h1>
-          <p className="text-sm text-muted-foreground">{data?.total ?? 0} total products</p>
+          <p className="text-sm text-muted-foreground">{data?.total ?? '...'} total products</p>
         </div>
       </div>
 
-      {/* Filters */}
       <div className="flex flex-col sm:flex-row gap-3 mb-6">
         <input
           type="text"
@@ -111,16 +71,18 @@ export default function AdminProductsPage() {
           onChange={(e) => { setCategory(e.target.value); setPage(1); }}
           className="px-4 py-2 rounded-full border border-border bg-card text-sm focus:outline-none focus:ring-2 focus:ring-brand-accent"
         >
-          {categories.map(c => (
-            <option key={c.slug} value={c.slug}>{c.name}</option>
-          ))}
+          {categories.map(c => <option key={c.slug} value={c.slug}>{c.name}</option>)}
         </select>
       </div>
 
-      {/* Product table */}
-      {loading ? (
+      {data === undefined ? (
         <div className="text-center py-12">
           <div className="size-8 border-2 border-brand-accent border-t-transparent rounded-full animate-spin mx-auto" />
+          <p className="text-sm text-muted-foreground mt-3">Loading products...</p>
+        </div>
+      ) : data.products.length === 0 ? (
+        <div className="text-center py-12 text-muted-foreground">
+          No products found.
         </div>
       ) : (
         <>
@@ -139,7 +101,7 @@ export default function AdminProductsPage() {
                   </tr>
                 </thead>
                 <tbody>
-                  {data?.products.map(p => (
+                  {data.products.map((p: Product) => (
                     <tr key={p._id} className="border-b border-border/50 hover:bg-accent/30 transition-colors">
                       <td className="px-4 py-3">
                         <div className="flex items-center gap-3">
@@ -164,12 +126,7 @@ export default function AdminProductsPage() {
                         )}
                       </td>
                       <td className="px-4 py-3">
-                        <button
-                          onClick={() => setEditingProduct(p)}
-                          className="text-xs text-brand-accent hover:underline"
-                        >
-                          Edit
-                        </button>
+                        <button onClick={() => setEditingProduct(p)} className="text-xs text-brand-accent hover:underline">Edit</button>
                       </td>
                     </tr>
                   ))}
@@ -178,52 +135,24 @@ export default function AdminProductsPage() {
             </div>
           </div>
 
-          {/* Pagination */}
-          {data && data.total > data.pageSize && (
+          {data.total > data.pageSize && (
             <div className="flex items-center justify-center gap-2 mt-6">
-              <button
-                onClick={() => setPage(p => Math.max(1, p - 1))}
-                disabled={page === 1}
-                className="px-4 py-2 rounded-full border border-border text-sm font-medium disabled:opacity-40 hover:bg-accent transition-colors"
-              >
-                Previous
-              </button>
-              <span className="text-sm text-muted-foreground">
-                Page {page} of {Math.ceil(data.total / data.pageSize)}
-              </span>
-              <button
-                onClick={() => setPage(p => p + 1)}
-                disabled={page >= Math.ceil(data.total / data.pageSize)}
-                className="px-4 py-2 rounded-full border border-border text-sm font-medium disabled:opacity-40 hover:bg-accent transition-colors"
-              >
-                Next
-              </button>
+              <button onClick={() => setPage(p => Math.max(1, p - 1))} disabled={page === 1} className="px-4 py-2 rounded-full border border-border text-sm font-medium disabled:opacity-40 hover:bg-accent transition-colors">Previous</button>
+              <span className="text-sm text-muted-foreground">Page {page} of {Math.ceil(data.total / data.pageSize)}</span>
+              <button onClick={() => setPage(p => p + 1)} disabled={page >= Math.ceil(data.total / data.pageSize)} className="px-4 py-2 rounded-full border border-border text-sm font-medium disabled:opacity-40 hover:bg-accent transition-colors">Next</button>
             </div>
           )}
         </>
       )}
 
-      {/* Edit modal */}
       {editingProduct && (
-        <EditProductModal
-          product={editingProduct}
-          onClose={() => setEditingProduct(null)}
-          onSave={handleSave}
-        />
+        <EditProductModal product={editingProduct} onClose={() => setEditingProduct(null)} onSave={handleSave} />
       )}
     </div>
   );
 }
 
-function EditProductModal({
-  product,
-  onClose,
-  onSave,
-}: {
-  product: Product;
-  onClose: () => void;
-  onSave: (product: Product, updates: Record<string, unknown>) => void;
-}) {
+function EditProductModal({ product, onClose, onSave }: { product: Product; onClose: () => void; onSave: (p: Product, u: Record<string, unknown>) => void }) {
   const [name, setName] = useState(product.name);
   const [brand, setBrand] = useState(product.brand);
   const [price, setPrice] = useState((product.priceCents / 100).toFixed(2));
@@ -236,23 +165,17 @@ function EditProductModal({
   const handleSave = async () => {
     setSaving(true);
     await onSave(product, {
-      name,
-      brand,
+      name, brand,
       priceCents: Math.round(parseFloat(price) * 100),
       quantity: parseInt(qty) || 0,
-      image,
-      isPublished,
-      needsReview,
+      image, isPublished, needsReview,
     });
     setSaving(false);
   };
 
   return (
     <div className="fixed inset-0 z-50 bg-black/50 flex items-center justify-center p-4" onClick={onClose}>
-      <div
-        className="bg-background rounded-2xl border border-border shadow-xl w-full max-w-lg max-h-[90vh] overflow-y-auto"
-        onClick={e => e.stopPropagation()}
-      >
+      <div className="bg-background rounded-2xl border border-border shadow-xl w-full max-w-lg max-h-[90vh] overflow-y-auto" onClick={e => e.stopPropagation()}>
         <div className="p-6">
           <div className="flex items-center justify-between mb-6">
             <h2 className="text-lg font-bold">Edit Product</h2>
@@ -260,7 +183,6 @@ function EditProductModal({
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M18 6L6 18M6 6l12 12"/></svg>
             </button>
           </div>
-
           <div className="space-y-4">
             <div>
               <label className="text-xs font-medium text-muted-foreground block mb-1">Name</label>
@@ -295,11 +217,8 @@ function EditProductModal({
               </label>
             </div>
           </div>
-
           <div className="flex gap-3 mt-6">
-            <button onClick={onClose} className="flex-1 px-4 py-2 rounded-full border border-border text-sm font-medium hover:bg-accent transition-colors">
-              Cancel
-            </button>
+            <button onClick={onClose} className="flex-1 px-4 py-2 rounded-full border border-border text-sm font-medium hover:bg-accent transition-colors">Cancel</button>
             <button onClick={handleSave} disabled={saving} className="flex-1 px-4 py-2 rounded-full bg-brand-accent text-brand-dark text-sm font-semibold hover:bg-brand-accent/90 transition-colors disabled:opacity-50">
               {saving ? 'Saving...' : 'Save Changes'}
             </button>
