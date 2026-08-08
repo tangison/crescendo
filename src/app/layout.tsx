@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { Header } from "@/components/shared/Header";
 import { Footer } from "@/components/shared/Footer";
+import { UnderConstructionBanner } from "@/components/shared/UnderConstructionBanner";
+import { UnderConstructionPopup } from "@/components/shared/UnderConstructionPopup";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -238,9 +240,11 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-background text-foreground`}
       >
         <div className="min-h-screen flex flex-col">
+          <UnderConstructionBanner />
           <Header />
           <main className="flex-1">{children}</main>
           <Footer />
+          <UnderConstructionPopup />
         </div>
       </body>
     </html>
