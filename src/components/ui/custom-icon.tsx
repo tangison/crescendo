@@ -47,6 +47,31 @@ import {
   type LucideIcon,
 } from 'lucide-react';
 
+/**
+ * Collins-style two-line menu icon.
+ * Two horizontal lines with a wider top line, creating an editorial,
+ * minimal feel inspired by Collins' navigation design.
+ */
+function MenuTwoLine({ width = 24, height = 24, strokeWidth = 2, className = '', ...props }: React.SVGProps<SVGSVGElement> & { width?: number; height?: number; strokeWidth?: number }) {
+  return (
+    <svg
+      width={width}
+      height={height}
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth={strokeWidth}
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className={className}
+      {...props}
+    >
+      <line x1="3" y1="7" x2="21" y2="7" />
+      <line x1="3" y1="17" x2="14" y2="17" />
+    </svg>
+  );
+}
+
 export type IconName =
   | 'arrow-right'
   | 'chevron-right'
@@ -68,6 +93,7 @@ export type IconName =
   | 'search'
   | 'sliders'
   | 'menu'
+  | 'menu-2line'
   | 'x'
   | 'plus'
   | 'minus'
@@ -90,7 +116,7 @@ interface CustomIconProps {
   tone?: IconTone;
 }
 
-const ICONS: Record<IconName, LucideIcon> = {
+const ICONS: Record<string, LucideIcon> = {
   'arrow-right': ArrowRight,
   'chevron-right': ChevronRight,
   'chevron-left': ChevronLeft,
@@ -118,6 +144,9 @@ const ICONS: Record<IconName, LucideIcon> = {
   'trending-up': TrendingUp,
 };
 
+/** Custom (non-Lucide) icon names that use hand-rolled SVGs. */
+const CUSTOM_ICON_NAMES = new Set(['menu-2line']);
+
 const TONE_CLASS: Record<IconTone, string> = {
   default: '',
   // For use on light/colored buttons where dark icon is needed
@@ -137,6 +166,25 @@ export function CustomIcon({
   strokeWidth = 2,
   tone = 'default',
 }: CustomIconProps) {
+  const toneClass = TONE_CLASS[tone];
+  const isDecorative = !alt;
+  const baseClass = `pointer-events-none select-none inline-block shrink-0 ${toneClass} ${className}`;
+
+  // Custom hand-rolled SVG icons
+  if (name === 'menu-2line') {
+    return (
+      <MenuTwoLine
+        width={width}
+        height={height}
+        strokeWidth={strokeWidth}
+        className={baseClass}
+        aria-hidden={isDecorative ? true : undefined}
+        role={isDecorative ? undefined : 'img'}
+        aria-label={isDecorative ? undefined : alt}
+      />
+    );
+  }
+
   const Icon = ICONS[name];
   if (!Icon) {
     if (process.env.NODE_ENV !== 'production') {
@@ -145,15 +193,12 @@ export function CustomIcon({
     return null;
   }
 
-  const toneClass = TONE_CLASS[tone];
-  const isDecorative = !alt;
-
   return (
     <Icon
       width={width}
       height={height}
       strokeWidth={strokeWidth}
-      className={`pointer-events-none select-none inline-block shrink-0 ${toneClass} ${className}`}
+      className={baseClass}
       aria-hidden={isDecorative ? true : undefined}
       role={isDecorative ? undefined : 'img'}
       aria-label={isDecorative ? undefined : alt}

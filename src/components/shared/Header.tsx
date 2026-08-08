@@ -92,7 +92,7 @@ export function Header() {
                 aria-label="Open menu"
                 className="size-10 md:hidden"
               >
-                <CustomIcon name="menu" className="size-5" alt="" />
+                <CustomIcon name="menu-2line" className="size-5" alt="" />
               </Button>
 
               {/* Desktop: Home + Shop dropdown */}
