@@ -51,7 +51,7 @@ export function getCategoryName(slug: string): string {
     wind: 'Wind & Brass',
     strings: 'Guitars, Ukuleles & Strings',
     drums: 'Drums & Percussion',
-    'pro-audio': 'Pro Audio & PA Systems',
+    'pro-audio': 'Pro Audio',
     keyboards: 'Keyboards & Pianos',
   };
   return map[slug] || slug;

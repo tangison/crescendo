@@ -212,7 +212,7 @@ export default function RootLayout({
                   name: "What products does Crescendo Namibia sell?",
                   acceptedAnswer: {
                     "@type": "Answer",
-                    text: "We stock over 1600 products across 6 categories: Guitars Ukuleles and Strings, Wind and Brass, Drums and Percussion, Pro Audio and PA Systems, Keyboards and Pianos, and Accessories. We also offer artist booking services.",
+                    text: "We stock over 1600 products across 6 categories: Guitars Ukuleles and Strings, Wind and Brass, Drums and Percussion, Pro Audio, Keyboards and Pianos, and Accessories. We also offer artist booking services.",
                   },
                 },
                 {

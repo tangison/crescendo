@@ -45,7 +45,7 @@ export default function AdminProductsPage() {
     { slug: 'wind', name: 'Wind & Brass' },
     { slug: 'strings', name: 'Guitars, Ukuleles & Strings' },
     { slug: 'drums', name: 'Drums & Percussion' },
-    { slug: 'pro-audio', name: 'Pro Audio & PA Systems' },
+    { slug: 'pro-audio', name: 'Pro Audio' },
     { slug: 'keyboards', name: 'Keyboards & Pianos' },
   ];
 

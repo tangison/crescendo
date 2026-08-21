@@ -1,6 +1,6 @@
 // Crescendo Namibia — 6 public categories
 // Guitars & Ukuleles merged with Orchestral Strings into "Guitars, Ukuleles & Strings"
-// Pro Audio renamed to "Pro Audio & PA Systems"
+// Pro Audio — PA Systems removed per client 2026-07-21 (pro audio includes everything)
 // Keyboards renamed to "Keyboards & Pianos"
 export interface Category {
   slug: string;
@@ -47,11 +47,11 @@ export const categories: Category[] = [
   },
   {
     slug: "pro-audio",
-    name: "Pro Audio & PA Systems",
-    description: "Microphones, PA systems, speakers, mixers, interfaces, and studio equipment.",
+    name: "Pro Audio",
+    description: "Microphones, speakers, mixers, interfaces, and studio equipment.",
     productCount: 79,
     image: "/products/pro-audio/shure-sm58.webp",
-    subcategories: ["Microphones", "PA Systems", "Speakers", "Mixers", "Audio Interfaces", "Studio Equipment"],
+    subcategories: ["Microphones", "Speakers", "Mixers", "Audio Interfaces", "Studio Equipment"],
   },
   {
     slug: "keyboards",

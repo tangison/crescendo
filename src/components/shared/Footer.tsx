@@ -274,10 +274,6 @@ export function Footer() {
               <p className="text-xs text-white/40 text-center sm:text-left">
                 © {new Date().getFullYear()} {BUSINESS_NAME}. All rights reserved.
               </p>
-              <span className="hidden sm:inline text-white/20">·</span>
-              <a href="https://studio.tangison.com" target="_blank" rel="noopener noreferrer" className="text-xs text-white/30 hover:text-white/60 transition-colors">
-                Made by Tangison Studio
-              </a>
             </div>
             <div className="flex items-center gap-4 text-xs text-white/40">
               <Link href="/legal/terms" className="hover:text-white/70 transition-colors">Terms</Link>
