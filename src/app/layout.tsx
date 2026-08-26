@@ -51,7 +51,7 @@ export const metadata: Metadata = {
       { url: "/branding/crescendo-logo.webp", type: "image/webp" },
       { url: "/favicon.ico", sizes: "any" },
     ],
-    apple: "/branding/crescendo-logo.webp",
+    apple: "/apple-icon.png",
   },
   manifest: "/manifest.webmanifest",
   metadataBase: new URL("https://www.crescendona.com"),
