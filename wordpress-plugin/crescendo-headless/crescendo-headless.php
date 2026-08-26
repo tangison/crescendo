@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Crescendo Headless
  * Description: Landing page, branded login, price-editing UX, taxonomy/meta and CORS for the Next.js storefront.
- * Version: 2.2.0
+ * Version: 2.2.3
  * Author: Tangison Studio
  */
 
@@ -45,6 +45,7 @@ add_action('init', function () {
         'sku'            => ['type' => 'string',  'default' => ''],
         'category_slug'  => ['type' => 'string',  'default' => ''],
         'image_url'      => ['type' => 'string',  'default' => ''],
+        'image_url_vercel' => ['type' => 'string', 'default' => ''],
         'brand'          => ['type' => 'string',  'default' => ''],
         'is_published'   => ['type' => 'boolean', 'default' => true],
         'stock_status'   => ['type' => 'string',  'default' => 'instock'],
@@ -95,8 +96,10 @@ function crescendo_meta_snapshot($post_id) {
         'sku'           => (string) get_post_meta($post_id, 'sku', true),
         'category_slug' => (string) get_post_meta($post_id, 'category_slug', true),
         'image_url'     => (string) get_post_meta($post_id, 'image_url', true),
+        'image_url_vercel' => (string) get_post_meta($post_id, 'image_url_vercel', true),
         'brand'         => (string) get_post_meta($post_id, 'brand', true),
         'stock_status'  => (string) get_post_meta($post_id, 'stock_status', true) ?: 'instock',
+        'is_published'  => (bool) get_post_meta($post_id, 'is_published', true),
     ];
 }
 
@@ -110,14 +113,18 @@ add_action('rest_api_init', function () {
                 return new WP_Error('rest_forbidden', 'Cannot edit product data.', ['status' => 403]);
             }
             $map = [
-                'price_cents'   => 'intval',
-                'currency'      => 'sanitize_text_field',
-                'sku'           => 'sanitize_text_field',
-                'category_slug' => 'sanitize_key',
-                'image_url'     => 'esc_url_raw',
-                'brand'         => 'sanitize_text_field',
-                'stock_status'  => 'sanitize_key',
+                'price_cents'      => 'intval',
+                'currency'         => 'sanitize_text_field',
+                'sku'              => 'sanitize_text_field',
+                'category_slug'    => 'sanitize_key',
+                'image_url'        => 'esc_url_raw',
+                'image_url_vercel' => 'esc_url_raw',
+                'brand'            => 'sanitize_text_field',
+                'stock_status'     => 'sanitize_key',
             ];
+            if (isset($value['is_published'])) {
+                update_post_meta($post->ID, 'is_published', $value['is_published'] ? '1' : '0');
+            }
             foreach ($map as $key => $sanitizer) {
                 if (isset($value[$key])) {
                     update_post_meta($post->ID, $key, call_user_func($sanitizer, $value[$key]));
@@ -713,6 +720,99 @@ add_action('admin_init', function () {
     }
     update_option($flag, 1, false);
 });
+
+/* One file per upload: no intermediate sizes, no scaled copies.
+ * Keeps InfinityFree's 30k inode budget under control. */
+add_filter('intermediate_image_sizes_advanced', function ($sizes) {
+    return [];
+});
+add_filter('big_image_size_threshold', function () {
+    return false;
+});
+
+
+/* -------------------------------------------------------------------------
+ * 9. Bulk price editor (Products → Bulk Price Editor)
+ * ---------------------------------------------------------------------- */
+add_action('admin_menu', function () {
+    add_submenu_page('edit.php?post_type=product', 'Bulk Price Editor', 'Bulk Price Editor', 'edit_posts', 'crescendo-bulk-price', 'crescendo_bulk_price_page');
+});
+
+function crescendo_bulk_price_page() {
+    $updated = 0; $errors = 0; $err_msgs = [];
+    if (isset($_POST['crescendo_bulk_save']) && check_admin_referer('crescendo_bulk_price_save', 'crescendo_bulk_price_nonce')) {
+        if (current_user_can('edit_posts') && isset($_POST['crescendo_price_new']) && is_array($_POST['crescendo_price_new'])) {
+            foreach (wp_unslash($_POST['crescendo_price_new']) as $pid => $raw) { // phpcs:ignore WordPress.Security.ValidatedSanitizedInput -- sanitized below
+                $raw  = trim((string) $raw);
+                $pid  = intval($pid);
+                if ('' === $raw || $pid <= 0 || get_post_type($pid) !== 'product') continue;
+                if (!current_user_can('edit_post', $pid)) continue;
+                $old   = (int) get_post_meta($pid, 'price_cents', true);
+                $parse = crescendo_parse_price(sanitize_text_field($raw));
+                if ($parse[0]) {
+                    $cents = (int) round($parse[1] * 100);
+                    if ($cents !== $old) { update_post_meta($pid, 'price_cents', $cents); $updated++; }
+                } else { $errors++; $err_msgs[] = get_the_title($pid) . ': ' . $parse[2]; }
+            }
+        }
+        if ($updated) echo '<div class="notice notice-success"><p>Bulk update: <strong>' . intval($updated) . '</strong> prices updated' . ($errors ? ', ' . intval($errors) . ' invalid skipped' : '') . '.</p></div>';
+        elseif ($errors) echo '<div class="notice notice-error"><p>No changes saved. ' . intval($errors) . ' invalid entries: ' . esc_html(implode(' · ', array_slice($err_msgs, 0, 3))) . '</p></div>';
+        else echo '<div class="notice notice-info"><p>No price changes detected.</p></div>';
+    }
+
+    $paged = isset($_GET['paged']) ? max(1, intval($_GET['paged'])) : 1;
+    $cat   = isset($_GET['crescendo_cat']) ? sanitize_key($_GET['crescendo_cat']) : '';
+    $s     = isset($_GET['s']) ? sanitize_text_field($_GET['s']) : '';
+    $args  = ['post_type'=>'product', 'post_status'=>'any', 'posts_per_page'=>50, 'paged'=>$paged, 'orderby'=>'title', 'order'=>'ASC'];
+    if ($cat) { $args['tax_query'] = [['taxonomy'=>'product_category', 'field'=>'slug', 'terms'=>$cat]]; }
+    if ($s)   { $args['s'] = $s; }
+    $q = new WP_Query($args);
+    $cats = get_terms(['taxonomy'=>'product_category', 'hide_empty'=>false]);
+    ?>
+    <div class="wrap">
+        <h1>Bulk Price Editor</h1>
+        <p>Type new prices in Namibian dollars (accepts <code>16,375</code>, <code>N$360.00</code>, <code>595</code>). Blank rows are ignored. Prices save as cents for the storefront.</p>
+        <form method="get">
+            <input type="hidden" name="post_type" value="product">
+            <input type="hidden" name="page" value="crescendo-bulk-price">
+            <select name="crescendo_cat"><option value="">All categories</option>
+                <?php foreach ((array) $cats as $t) printf('<option value="%s"%s>%s</option>', esc_attr($t->slug), selected($cat, $t->slug, false), esc_html($t->name)); ?>
+            </select>
+            <input type="search" name="s" value="<?php echo esc_attr($s); ?>" placeholder="Search products…">
+            <button class="button">Filter</button>
+        </form>
+        <form method="post">
+            <?php wp_nonce_field('crescendo_bulk_price_save', 'crescendo_bulk_price_nonce'); ?>
+            <table class="widefat striped" style="margin-top:12px;">
+                <thead><tr><th style="width:46%">Product</th><th>Current price</th><th style="width:24%">New price (N$)</th></tr></thead>
+                <tbody>
+                <?php while ($q->have_posts()): $q->the_post();
+                    $pid   = get_the_ID();
+                    $cents = (int) get_post_meta($pid, 'price_cents', true);
+                    $cur   = $cents > 0 ? number_format($cents / 100, 2, '.', '') : '';
+                    $thumb = (string) get_post_meta($pid, 'image_url', true);
+                ?>
+                <tr>
+                    <td><?php if ($thumb) printf('<img src="%s" style="width:32px;height:32px;object-fit:contain;vertical-align:middle;margin-right:8px;" alt="">', esc_url($thumb)); ?>
+                        <a href="<?php echo esc_url(get_edit_post_link($pid)); ?>"><?php echo esc_html(get_the_title()); ?></a>
+                        <?php if (!$cur) echo '<em style="color:#a7aaad;">— no price yet</em>'; ?></td>
+                    <td><strong style="color:#0e7490;"><?php echo $cur ? 'N$ ' . esc_html(number_format($cents / 100, 2)) : '—'; ?></strong></td>
+                    <td><input type="text" name="crescendo_price_new[<?php echo intval($pid); ?>]" value="<?php echo esc_attr($cur); ?>" class="regular-text" inputmode="decimal"></td>
+                </tr>
+                <?php endwhile; ?>
+                </tbody>
+            </table>
+            <p><button class="button button-primary button-hero" name="crescendo_bulk_save" value="1">Save changed prices</button></p>
+        </form>
+        <div class="tablenav"><div class="tablenav-pages">
+        <?php
+        echo paginate_links(['total' => $q->max_num_pages, 'current' => $paged, 'add_args' => array_filter(['crescendo_cat'=>$cat, 's'=>$s])]);
+        ?>
+        </div></div>
+    </div>
+    <?php
+    wp_reset_postdata();
+}
 
 /* Cap revisions for products so the 50 MB database does not bloat. */
 add_filter('wp_revisions_to_keep', function ($num, $post) {
