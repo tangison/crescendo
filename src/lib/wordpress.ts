@@ -31,6 +31,7 @@ type WpRestProduct = {
   content?: { rendered?: string };
   excerpt?: { rendered?: string };
   meta?: Record<string, unknown> | null;
+  crescendo?: Record<string, unknown> | null;
 };
 
 /** Typed error so callers can branch on status (e.g. 401 = rotate app password). */
@@ -88,7 +89,7 @@ async function wpFetch<T>(path: string, init?: RequestInit): Promise<T> {
 }
 
 export function mapWpProduct(p: WpRestProduct): WpProduct {
-  const meta = p.meta || {};
+  const meta = p.crescendo ?? p.meta ?? {};
   const cents = Number(meta.price_cents ?? 0);
   return {
     id: p.id,

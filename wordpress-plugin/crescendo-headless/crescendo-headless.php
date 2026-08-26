@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Crescendo Headless
  * Description: Landing page, branded login, price-editing UX, taxonomy/meta and CORS for the Next.js storefront.
- * Version: 2.1.5
+ * Version: 2.2.0
  * Author: Tangison Studio
  */
 
@@ -19,6 +19,8 @@ define('CRESCENDO_BRAND_DARK', '#0d92a3');
 
 /* -------------------------------------------------------------------------
  * 1. Product taxonomy + meta (visible in REST + GraphQL)
+ *    Priority 100: must run AFTER CPT UI registers the 'product' type,
+ *    otherwise register_post_meta('product', ...) silently fails.
  * ---------------------------------------------------------------------- */
 add_action('init', function () {
     register_taxonomy('product_category', ['product'], [
@@ -47,8 +49,9 @@ add_action('init', function () {
         'is_published'   => ['type' => 'boolean', 'default' => true],
         'stock_status'   => ['type' => 'string',  'default' => 'instock'],
     ];
+    $probe = [];
     foreach ($meta as $key => $args) {
-        register_post_meta('product', $key, [
+        $reg = register_post_meta('product', $key, [
             'type'            => $args['type'],
             'single'          => true,
             'show_in_rest'    => true,
@@ -58,7 +61,76 @@ add_action('init', function () {
             },
             'default'         => $args['default'],
         ]);
+        if (!$reg) {
+            // Capture WHY (register_meta surfaces a WP_Error where the
+            // register_post_meta wrapper hides it).
+            $direct = register_meta('post', $key, array_merge($args, [
+                'object_subtype'  => 'product',
+                'single'          => true,
+                'show_in_rest'    => true,
+                'show_in_graphql' => true,
+                'auth_callback'   => function () {
+                    return current_user_can('edit_posts');
+                },
+            ]));
+            $probe[$key] = is_wp_error($direct) ? $direct->get_error_message() : ($direct ? 'retry-ok' : 'silent-false');
+        }
     }
+    if ($probe) {
+        update_option('crescendo_meta_probe', ['at' => time(), 'fails' => $probe], false);
+    } else {
+        delete_option('crescendo_meta_probe');
+    }
+}, 100);
+
+/* -------------------------------------------------------------------------
+ * 1b. Dedicated `crescendo` REST + GraphQL field (immune to meta-API quirks)
+ * ---------------------------------------------------------------------- */
+function crescendo_meta_snapshot($post_id) {
+    $cents = (int) get_post_meta($post_id, 'price_cents', true);
+    return [
+        'price_cents'   => $cents,
+        'price'         => round($cents / 100, 2),
+        'currency'      => (string) get_post_meta($post_id, 'currency', true) ?: 'NAD',
+        'sku'           => (string) get_post_meta($post_id, 'sku', true),
+        'category_slug' => (string) get_post_meta($post_id, 'category_slug', true),
+        'image_url'     => (string) get_post_meta($post_id, 'image_url', true),
+        'brand'         => (string) get_post_meta($post_id, 'brand', true),
+        'stock_status'  => (string) get_post_meta($post_id, 'stock_status', true) ?: 'instock',
+    ];
+}
+
+add_action('rest_api_init', function () {
+    register_rest_field('product', 'crescendo', [
+        'get_callback' => function ($post) {
+            return crescendo_meta_snapshot($post['id']);
+        },
+        'update_callback' => function ($value, $post) {
+            if (!current_user_can('edit_post', $post->ID)) {
+                return new WP_Error('rest_forbidden', 'Cannot edit product data.', ['status' => 403]);
+            }
+            $map = [
+                'price_cents'   => 'intval',
+                'currency'      => 'sanitize_text_field',
+                'sku'           => 'sanitize_text_field',
+                'category_slug' => 'sanitize_key',
+                'image_url'     => 'esc_url_raw',
+                'brand'         => 'sanitize_text_field',
+                'stock_status'  => 'sanitize_key',
+            ];
+            foreach ($map as $key => $sanitizer) {
+                if (isset($value[$key])) {
+                    update_post_meta($post->ID, $key, call_user_func($sanitizer, $value[$key]));
+                }
+            }
+            return true;
+        },
+        'schema' => [
+            'description' => 'Crescendo catalogue fields',
+            'type'        => 'object',
+            'context'     => ['view', 'edit'],
+        ],
+    ]);
 });
 
 /* -------------------------------------------------------------------------
