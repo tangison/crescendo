@@ -24,7 +24,7 @@ export default function ReturnsPage() {
 
         <section>
           <h2 className="text-lg font-bold text-foreground mb-2">3. Return Process</h2>
-          <p>Contact us at info@crescendona.com or +264 81 462 3936 to initiate a return. We will arrange collection or you can return items to our store at Shop 19, Old Power Station, Southern Industrial, Windhoek.</p>
+          <p>Contact us at hello@crescendona.com or +264 81 462 3936 to initiate a return. We will arrange collection or you can return items to our store at Shop 19, Old Power Station, Southern Industrial, Windhoek.</p>
         </section>
 
         <section>

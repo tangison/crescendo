@@ -138,7 +138,7 @@ export function UnderConstructionPopup() {
                 WhatsApp Us
               </button>
             </a>
-            <a href="mailto:info@crescendona.com" className="flex-1">
+            <a href="mailto:hello@crescendona.com" className="flex-1">
               <button className="w-full px-4 py-2.5 rounded-xl border border-border text-foreground text-sm font-medium hover:bg-accent transition-colors">
                 Email Us
               </button>
@@ -149,7 +149,7 @@ export function UnderConstructionPopup() {
         {/* Footer note */}
         <div className="px-6 sm:px-8 py-3.5 bg-muted/50 border-t border-border">
           <p className="text-[11px] text-muted-foreground text-center">
-            +264 81 462 3936 &middot; info@crescendona.com
+            +264 81 462 3936 &middot; hello@crescendona.com
           </p>
         </div>
       </div>

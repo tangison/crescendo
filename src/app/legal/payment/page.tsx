@@ -29,7 +29,7 @@ export default function PaymentPage() {
 
         <section>
           <h2 className="text-lg font-bold text-foreground mb-2">4. EFT Details</h2>
-          <p>For EFT payments, use the following details and email proof of payment to info@crescendona.com: Bank: [Bank Name], Account: [Account Number], Branch: [Branch Code]. Contact us for current banking details.</p>
+          <p>For EFT payments, use the following details and email proof of payment to hello@crescendona.com: Bank: [Bank Name], Account: [Account Number], Branch: [Branch Code]. Contact us for current banking details.</p>
         </section>
 
         <section>

@@ -261,7 +261,7 @@ function crescendo_render_landing() {
     <div class="foot">
       <div class="tagline">Strive for Excellence</div>
       Shop 19, Old Power Station, Southern Industrial, Windhoek<br>
-      &copy; ' . esc_html($year) . ' <a href="' . esc_url(CRESCENDO_SUPPORT_URL) . '" target="_blank" rel="noopener">Tangison Studio</a> &middot; <a href="mailto:info@crescendona.com">info@crescendona.com</a>
+      &copy; ' . esc_html($year) . ' <a href="' . esc_url(CRESCENDO_SUPPORT_URL) . '" target="_blank" rel="noopener">Tangison Studio</a> &middot; <a href="mailto:hello@crescendona.com">hello@crescendona.com</a>
     </div>
   </main>
 </body>

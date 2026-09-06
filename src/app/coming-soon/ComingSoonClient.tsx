@@ -63,7 +63,7 @@ export default function ComingSoonClient() {
               WhatsApp
             </button>
           </a>
-          <a href="mailto:info@crescendona.com" className="w-full sm:w-auto">
+          <a href="mailto:hello@crescendona.com" className="w-full sm:w-auto">
             <button className="w-full px-6 py-3 rounded-full border border-border bg-background hover:bg-accent text-sm font-medium transition-colors">
               Email
             </button>
@@ -71,7 +71,7 @@ export default function ComingSoonClient() {
         </div>
 
         <p className="text-xs text-muted-foreground mt-6">
-          +264 81 462 3936 · info@crescendona.com
+          +264 81 462 3936 · hello@crescendona.com
         </p>
       </div>
 

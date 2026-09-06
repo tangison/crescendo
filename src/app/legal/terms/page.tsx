@@ -59,7 +59,7 @@ export default function TermsPage() {
 
         <section>
           <h2 className="text-lg font-bold text-foreground mb-2">10. Contact</h2>
-          <p>For questions about these Terms, contact us at info@crescendona.com or +264 81 462 3936.</p>
+          <p>For questions about these Terms, contact us at hello@crescendona.com or +264 81 462 3936.</p>
         </section>
       </div>
     </div>

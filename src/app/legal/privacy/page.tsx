@@ -39,7 +39,7 @@ export default function PrivacyPage() {
 
         <section>
           <h2 className="text-lg font-bold text-foreground mb-2">6. Your Rights</h2>
-          <p>You may request access to, correction of, or deletion of your personal information by contacting us at info@crescendona.com.</p>
+          <p>You may request access to, correction of, or deletion of your personal information by contacting us at hello@crescendona.com.</p>
         </section>
 
         <section>
@@ -49,7 +49,7 @@ export default function PrivacyPage() {
 
         <section>
           <h2 className="text-lg font-bold text-foreground mb-2">8. Contact</h2>
-          <p>For privacy questions, contact us at info@crescendona.com or +264 81 462 3936.</p>
+          <p>For privacy questions, contact us at hello@crescendona.com or +264 81 462 3936.</p>
         </section>
       </div>
     </div>

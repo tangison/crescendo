@@ -29,7 +29,7 @@ export default function WarrantyPage() {
 
         <section>
           <h2 className="text-lg font-bold text-foreground mb-2">4. How to Make a Warranty Claim</h2>
-          <p>Contact us at info@crescendona.com or +264 81 462 3936 with your proof of purchase and a description of the issue. We will guide you through the claim process.</p>
+          <p>Contact us at hello@crescendona.com or +264 81 462 3936 with your proof of purchase and a description of the issue. We will guide you through the claim process.</p>
         </section>
 
         <section>

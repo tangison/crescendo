@@ -1,7 +1,7 @@
 {"key": "businessName", "value": "Crescendo Namibia", "group": "business", "description": "Business name", "isPublic": true, "updatedAt": 0}
 {"key": "tagline", "value": "Strive for Excellence", "group": "business", "description": "Business tagline", "isPublic": true, "updatedAt": 0}
 {"key": "foundingYear", "value": "2019", "group": "business", "description": "Year established", "isPublic": true, "updatedAt": 0}
-{"key": "email", "value": "info@crescendona.com", "group": "business", "description": "Contact email", "isPublic": true, "updatedAt": 0}
+{"key": "email", "value": "hello@crescendona.com", "group": "business", "description": "Contact email", "isPublic": true, "updatedAt": 0}
 {"key": "whatsapp", "value": "+264 81 462 3936", "group": "business", "description": "WhatsApp number", "isPublic": true, "updatedAt": 0}
 {"key": "telephone", "value": "+264 81 462 3936", "group": "business", "description": "Telephone number", "isPublic": true, "updatedAt": 0}
 {"key": "address", "value": "Shop 19, Old Power Station, Southern Industrial Area, Windhoek", "group": "business", "description": "Physical address", "isPublic": true, "updatedAt": 0}
